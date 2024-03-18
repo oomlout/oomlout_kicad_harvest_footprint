@@ -1,0 +1,6 @@
+project_id: oomlout_kicad_harvest_footprint
+project_name: Oomlout Kicad Harvest Footprint
+project_repo: https://github.com/oomlout/oomlout_kicad_harvest_footprint
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
