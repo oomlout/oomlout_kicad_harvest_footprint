@@ -1,0 +1,241 @@
+(footprint "L_Sunlord_MWSA1205S-2R2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Sunlord, MWSA1205S-2R2, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en")
+	(tags "Inductor mwsa")
+	(property "Reference" "REF**"
+		(at 0 -7.3 0)
+		(layer "F.SilkS")
+		(uuid "9037abe3-36bb-455a-b63c-ba7d8a456705")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Sunlord_MWSA1205S-2R2"
+		(at 0 7.3 0)
+		(layer "F.Fab")
+		(uuid "ad7f2be0-99ee-4cd5-9240-65d16985dd27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a503d28-5eba-482e-bf83-73a229d1cfb8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7612b19d-e4a0-41e2-8ca4-6fbe19f34773")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5ff690e-0521-4b92-88af-742267dec111")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.985 -6.56)
+		(end -6.985 -3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40e5f77a-8546-40ec-b1bd-f895ab238bda")
+	)
+	(fp_line
+		(start -6.985 -6.56)
+		(end 6.985 -6.56)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27c432e7-e3e4-47b6-a8ab-d0ac5a84774b")
+	)
+	(fp_line
+		(start -6.985 6.56)
+		(end -6.985 3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5ba0dc83-c9fb-434d-bc20-021100f46e17")
+	)
+	(fp_line
+		(start -6.985 6.56)
+		(end 6.985 6.56)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a741e076-13a6-42d9-ac05-d5a56628fe69")
+	)
+	(fp_line
+		(start 6.985 -6.56)
+		(end 6.985 -3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2c1ca00-64fe-4547-afac-8caced739b1f")
+	)
+	(fp_line
+		(start 6.985 6.56)
+		(end 6.985 3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6613063c-f409-4beb-9fac-111194839644")
+	)
+	(fp_line
+		(start -7.5 -6.55)
+		(end -7.5 6.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3114058a-415c-4e47-bae8-7ba86811d0be")
+	)
+	(fp_line
+		(start -7.5 6.55)
+		(end 7.5 6.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1153b1d2-ccdf-4453-9d5c-ed1daf755fe8")
+	)
+	(fp_line
+		(start 7.5 -6.55)
+		(end -7.5 -6.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "03f13971-9050-40eb-8b79-b599e654dc56")
+	)
+	(fp_line
+		(start 7.5 6.55)
+		(end 7.5 -6.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d1319a1-4c10-418a-b4c3-73190f1f6d77")
+	)
+	(fp_line
+		(start -6.725 -6.3)
+		(end -6.725 6.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ad84d5b-cd32-4504-ba65-0d464d2dd1d8")
+	)
+	(fp_line
+		(start -6.725 6.3)
+		(end 6.725 6.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "295a8626-5693-4757-bb40-2c805190c737")
+	)
+	(fp_line
+		(start 6.725 -6.3)
+		(end -6.725 -6.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e224b1d-76eb-450b-947b-798f549f3d3d")
+	)
+	(fp_line
+		(start 6.725 6.3)
+		(end 6.725 -6.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1594c485-a282-4946-8336-8e52affe6981")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "427adb93-13bc-4f82-b305-a499a6e730e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -5.625 0)
+		(size 3.25 5.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "48c7e2ea-aa77-4dc3-86bc-c19b2871ffe5")
+	)
+	(pad "2" smd rect
+		(at 5.625 0)
+		(size 3.25 5.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1a0ad437-c5e8-4a1e-b917-6ef7bb03b99d")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_MWSA1205S-2R2.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

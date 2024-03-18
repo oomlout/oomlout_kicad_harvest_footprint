@@ -1,0 +1,241 @@
+(footprint "L_Changjiang_FNR3012S"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Changjiang, FNR3012S, 3.0x3.0x1.2mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf")
+	(tags "Inductor wirewound power shielded")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "1d2bc2f6-a91a-4a2e-9196-7d05349c2daa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Changjiang_FNR3012S"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "0fe93c71-e101-42a8-9b1a-de366e4da89a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80f64ab1-679a-4660-8caa-a9a3bcfcc178")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04215368-e2e5-401a-b931-ac248d94d41e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6ea2165-a3f1-4fe3-8f06-8c7c6b67960c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.76 -1.76)
+		(end -1.76 -1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "862f5777-a112-44f7-8cf2-5531c122661b")
+	)
+	(fp_line
+		(start -1.76 -1.76)
+		(end 1.76 -1.76)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a289006e-b695-45ef-86f3-830ab8f84762")
+	)
+	(fp_line
+		(start -1.76 1.76)
+		(end -1.76 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5614aec-16be-4efc-8fe2-b4b4f51395b9")
+	)
+	(fp_line
+		(start -1.76 1.76)
+		(end 1.76 1.76)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e171ca3c-2906-434d-b1a8-0f906807fb37")
+	)
+	(fp_line
+		(start 1.76 -1.76)
+		(end 1.76 -1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68ed6853-db4a-418d-ba29-f8380c86e8e1")
+	)
+	(fp_line
+		(start 1.76 1.76)
+		(end 1.76 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36acd3db-9e5e-4c72-8d4d-5702209295d0")
+	)
+	(fp_line
+		(start -1.8 -1.75)
+		(end -1.8 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "31370f46-478b-44a2-83a5-1815a6a3184e")
+	)
+	(fp_line
+		(start -1.8 1.75)
+		(end 1.8 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "48cbbfbb-679b-4c3f-adc1-4362f9253b65")
+	)
+	(fp_line
+		(start 1.8 -1.75)
+		(end -1.8 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c1e3534-a77d-4212-a669-b6c306d4b1f2")
+	)
+	(fp_line
+		(start 1.8 1.75)
+		(end 1.8 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8143afd4-7207-4620-a933-4b205d42a089")
+	)
+	(fp_line
+		(start -1.5 -1.5)
+		(end -1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0c12bf3-aa27-4e91-97c1-8602f5ca19d1")
+	)
+	(fp_line
+		(start -1.5 1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dba46280-9cd8-4697-b24a-ea8eb9b4e23c")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end -1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99c0995e-3999-4efd-ae56-eedc62dd2cd8")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "076fa3cb-2ba8-4492-848d-5d5571851fd5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a437e19f-4a46-4fb5-b785-50d505b0084f")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.15 0)
+		(size 0.8 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "013dbc3b-9735-424b-82bc-9024b2e13257")
+	)
+	(pad "2" smd rect
+		(at 1.15 0)
+		(size 0.8 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "78abc550-84b2-4972-ac16-3e606613de90")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Changjiang_FNR3012S.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

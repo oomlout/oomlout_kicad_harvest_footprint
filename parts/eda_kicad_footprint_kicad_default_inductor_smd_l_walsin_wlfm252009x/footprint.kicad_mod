@@ -1,0 +1,241 @@
+(footprint "L_Walsin_WLFM252009x"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Walsin, WLFM252009x, 2.5x2.0x0.9mm, http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf")
+	(tags "Inductor ferrite multilayer power")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(uuid "cdac80c4-c714-4f34-88a5-a99c4bcddf78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Walsin_WLFM252009x"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "8e5b931e-8610-4e57-8f52-20037f708822")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be259e3d-a0cc-4ae4-bf79-e354d5daac75")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5d7308f-89c1-4d2b-b02e-f944d288701e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eee30435-3cae-48c3-a86f-9a59d457ed6d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.51 -1.26)
+		(end -1.51 -1.135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f3e7346-5c5e-4cb9-beb6-b928143c7d70")
+	)
+	(fp_line
+		(start -1.51 -1.26)
+		(end 1.51 -1.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ae2cffc-58d2-42c5-86b1-fe5cbfb01310")
+	)
+	(fp_line
+		(start -1.51 1.26)
+		(end -1.51 1.135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58d53572-5eee-4943-a06d-23acabf80c79")
+	)
+	(fp_line
+		(start -1.51 1.26)
+		(end 1.51 1.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a1b9423b-afc2-4206-ab69-9ac1177bba61")
+	)
+	(fp_line
+		(start 1.51 -1.26)
+		(end 1.51 -1.135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "914c1058-a7f4-4c62-80f3-5d53096d1365")
+	)
+	(fp_line
+		(start 1.51 1.26)
+		(end 1.51 1.135)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5ea358a1-9ca2-4fb8-807e-ba8ac4f31790")
+	)
+	(fp_line
+		(start -2.12 -1.25)
+		(end -2.12 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "90813b3e-cb49-43aa-854d-4ec8f0287be5")
+	)
+	(fp_line
+		(start -2.12 1.25)
+		(end 2.12 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75a36a8d-87b0-4899-892f-0e39c7cad1ae")
+	)
+	(fp_line
+		(start 2.12 -1.25)
+		(end -2.12 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4de1c1ef-7ef2-438b-be44-e90db3d2e6ce")
+	)
+	(fp_line
+		(start 2.12 1.25)
+		(end 2.12 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9283c8f-1f1b-42b5-aec7-9e1642195566")
+	)
+	(fp_line
+		(start -1.25 -1)
+		(end -1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "180e9ad7-9b0a-4c96-b3d8-62a2263f8af7")
+	)
+	(fp_line
+		(start -1.25 1)
+		(end 1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d3639d4-5bf3-4861-92df-a9bcd7fe6284")
+	)
+	(fp_line
+		(start 1.25 -1)
+		(end -1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6e14c3c0-4471-477c-8c4d-1df2e6350b68")
+	)
+	(fp_line
+		(start 1.25 1)
+		(end 1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c4a04a0c-fcd6-4671-97bc-93f4d4c9a3fc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1e0a4905-2adb-4a88-841e-c2ddbc49f7f1")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.275 0)
+		(size 1.2 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e1194ab0-eddc-49cf-a552-14600908b2d0")
+	)
+	(pad "2" smd rect
+		(at 1.275 0)
+		(size 1.2 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "56d4a26c-f02e-45ab-9ad3-0c2b53c464ae")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Walsin_WLFM252009x.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

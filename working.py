@@ -1,120 +1,166 @@
-import oom_kicad
-import oom_markdown
 import os
 import copy
-import scad
+import time
+import pyautogui
+import glob
+import yaml
 
-#process
-#  locations set in working_parts.ods 
-#  export to working_parts.csv
-#  put components on the right side of the board
-#  run this script
+from kiutils.footprint import Footprint
 
-def main(**kwargs):
-    #place_parts(**kwargs)
-    #make_readme(**kwargs)
-    scad.make_scad(**kwargs)
+def main_kiutils(**kwargs):
+    filters = kwargs.get("filters", [""])
     
+    #get the list of footprints
+    folder_footprints_8 = "C:/Program Files/KiCad/8.0/share/kicad/footprints"
+
+    list_footprint = []
+    #get a list of all .kicad_mod files in the folder recursively using glob
+    for file in glob.glob(folder_footprints_8 + "/**/*.kicad_mod", recursive=True):
+        list_footprint.append(file)
+
+    #go through each footprint
+    for filter in filters:        
+        for footprint in list_footprint:
+            #open the footprint in kicad
+            print(f"Opening {footprint}")
+            if filter in footprint:
+                harvest_footprint_kiutils(footprint)
+
+def delay(seconds):
+    #if seconds is greater than five print the number of dots were waiting for, then print a dot for each second we wait
+    if seconds > 5:
+        for i in range(seconds):
+            print(f">", end="")
+        print()
+        for i in range(seconds):
+            print(".", end="")
+            time.sleep(1)
+        print()
+    else:
+        #print a dot for each second
+        for i in range(seconds):
+            print(".", end="")
+            time.sleep(1)
+        print()
+
+def harvest_footprint_kiutils(file_footprint):
+
+
+
+    print(f"Harvesting {file_footprint}")
+    #open the footprint in kicad
+    #load the footprint with kiutils
+    footprint = Footprint().from_file(file_footprint)
+    
+    #get library name it is the name of the .pretty folder
+    library_name = os.path.basename(os.path.dirname(file_footprint))    
+    library_name = sanitize(library_name.replace(".pretty", ""))
+
+    footprint_name = os.path.basename(file_footprint)
+    footprint_name = sanitize(footprint_name.replace(".kicad_mod", ""))
+
+    #get the footprint name
+    part_details = {}
+    part_details["description"] = "eda" 
+    part_details["classification"] = "kicad_footprint"
+    part_details["type"] = "kicad_default"
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = library_name
+    part_details["description_extra"] = footprint_name
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""
+    
+    param_order = ["description", "classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number", "short_name"]
+
+    footprint_id = ""
+    for param in param_order:
+        footprint_id += part_details[param] + "_"
+    footprint_id = sanitize(footprint_id)   
+
+    part_details["footprint_id"] = footprint_id
+
+    directory = f"parts/{footprint_id}"
+    os.makedirs(directory, exist_ok=True)
     
 
-def make_readme(**kwargs):
-    os.system("generate_resolution.bat")
-    oom_markdown.generate_readme_project(**kwargs)
-    #oom_markdown.generate_readme_teardown(**kwargs)
-    
-def make_scad(**kwargs):
-    import opsc
-    import oobb 
-    import oobb_base
-
-    kwargs["save_type"] = "none"
-    #kwargs["save_type"] = "all"
-    kwargs["size"] = "oobb"
-    kwargs["type"] = "oomlout_bolt_tool_funnel"
-    kwargs["width"] = 3
-    kwargs["height"] = 5
-    kwargs["thickness"] = 6
-     # default sets
-    width = kwargs.get("width", 3)
-    height = kwargs.get("height", 5)
-    thickness = kwargs.get("thickness", 3)
-    size = kwargs.get("size", "oobb")
-    pos = kwargs.get("pos", [0, 0, 0])
-    # extra sets
-    holes = kwargs.get("holes", True)
-    both_holes = kwargs.get("both_holes", True)    
-    kwargs["pos"] = pos
-    
-        # get the default thing
-    thing = oobb_base.get_default_thing(**kwargs)
-    th = thing["components"]
-    kwargs.pop("size","")
-
-    th.append(oobb_base.get_comment("plate main","p"))
-    # add plate
-    p3 = copy.deepcopy(kwargs)
-    p3["type"] = "p"   
-    p3["shape"] = f"{size}_plate"
-    p3["width"] = width
-    p3["height"] = height  
-    p3["depth"] = thickness
-    p3["pos"] = pos
-    #p3["m"] = ""  
-    oobb_base.append_full(thing,**p3)      
-    #th.append(oobb_base.oobb_easy(**p3))
-    
-    # add holes
-    if holes:
-        th.append(oobb_base.get_comment("holes main","n"))
-        p3 = copy.deepcopy(kwargs)
-        p3["type"] = "n"
-        p3["shape"] = f"{size}_holes"
-        p3["width"] = width
-        p3["height"] = height
-        p3["pos"] = pos
-        p3["both_holes"] = both_holes
-        #p3["m"] = ""
-        oobb_base.append_full(thing,**p3)      
-        #th.extend(oobb_base.oobb_easy(**p3))   
         
-        
-        save_type = kwargs.get("save_type", "all")
-        overwrite = True
-        modes = ["3dpr", "laser", "true"]
-        for mode in modes:
-            depth = thing.get(
-                "depth_mm", thing.get("thickness_mm", 3))
-            height = thing.get("height_mm", 100)
-            layers = depth / 3
-            tilediff = height + 10
-            start = 1.5
-            if layers != 1:
-                start = 1.5 - (layers / 2)*3
-            if "bunting" in thing:
-                start = 0.5
-            opsc.opsc_make_object(f'scad_output/{thing["id"]}/{mode}.scad', thing["components"], mode=mode, save_type=save_type, overwrite=overwrite, layers=layers, tilediff=tilediff, start=start)
-            
- 
-
-
-#take component positions from working_parts.csv and place them in working.kicad_pcb
-def place_parts(**kwargs):
-    board_file = "kicad/current_version/working/working.kicad_pcb"
-    parts_file = "working_parts.csv"
-    #load csv file
-    import csv
-    with open(parts_file, 'r') as f:
-        reader = csv.DictReader(f)
-        parts = [row for row in reader]
-
-
+    #copy the footprint kicad_mod file to footprint.kicad_mod
+    os.system(f'copy "{file_footprint}" "{directory}/footprint.kicad_mod"')
     
-    oom_kicad.kicad_set_components(board_file=board_file, parts=parts, corel_pos=True, **kwargs)
+    #make a version of footprint, go through each value and convert it to a string
+    footprint_copy = copy.deepcopy(footprint)
+    for key in footprint_copy.__dict__:
+        if type(footprint_copy.__dict__[key]) is not str:
+            footprint_copy.__dict__[key] = str(footprint_copy.__dict__[key])
+    
+    part_details["footprint_string"] = footprint_copy.__dict__
 
+    #dump part_details to yaml file to working.yaml
+    with open(f"{directory}/working.yaml", "w") as file:
+        yaml.dump(part_details, file)
 
+    pass
+    
 
+def lauch_footprint_browser():
+    print("Launching footprint browser")
+    location  = [330,268]
+    pyautogui.click(location)
+    delay(15)
+    #maximize current window
+    pyautogui.hotkey('win', 'up')
+    delay(2)
+    
 
+def launch_kicad():
+    print("Launching KiCad")
+    app_kicad_8 = "C:/Program Files/KiCad/8.0/bin/kicad.exe"
+    # launch kicad use quotes because filename conatins spaces do not wait for it to finish
+    os.system(f'start "" "{app_kicad_8}"')
+    delay(10)
+    #maximize window
+    pyautogui.hotkey('win', 'up')
+    delay(2)
 
+def sanitize(string):
+    
+    replace_list = []
+    replace_list.append([" ", "_"])
+    replace_list.append(["-", "_"])
+    replace_list.append([".", "_"])
+    replace_list.append(["(", "_"])
+    replace_list.append([")", "_"])
+    replace_list.append(["[", "_"])
+    replace_list.append(["]", "_"])
+    replace_list.append(["{", "_"])
+    replace_list.append(["}", "_"])
+
+    for replace in replace_list:
+        string = string.replace(replace[0], replace[1])
+
+    #replace any non number or letter with an underscore
+    for char in string:
+        if not char.isalnum():
+            string = string.replace(char, "_")
+
+    #remove douible and triple underscore
+    string = string.replace("___", "_")
+    string = string.replace("__", "_")
+    string = string.replace("__", "_")
+
+    #remove trrailing underscore
+    if string[-1] == "_":
+        string = string[:-1]
+
+    #make lower
+    string = string.lower()
+    
+    return string
 
 if __name__ == '__main__':
-    main()
+    kwargs = {}
+    filter = [""]
+    kwargs["filters"] = filter
+    main_kiutils(**kwargs)

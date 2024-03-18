@@ -1,0 +1,106 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: fuse_schurter_umt250
+description_main: fuse
+footprint_id: eda_kicad_footprint_kicad_default_fuse_fuse_schurter_umt250
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)
+  entryName: Fuse_Schurter_UMT250
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-3.05, Y=-1.61, angle=None, unlocked=False),
+    end=Position(X=3.05, Y=-1.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.05, Y=1.61, angle=None, unlocked=False),
+    end=Position(X=3.05, Y=1.61, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-5.7, Y=-2.13, angle=None, unlocked=False), end=Position(X=5.7,
+    Y=-2.13, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-5.7,
+    Y=2.13, angle=None, unlocked=False), end=Position(X=-5.7, Y=-2.13, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.7, Y=-2.13,
+    angle=None, unlocked=False), end=Position(X=5.7, Y=2.13, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.7, Y=2.13, angle=None, unlocked=False),
+    end=Position(X=-5.7, Y=2.13, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-5.45, Y=0.715, angle=None, unlocked=False), end=Position(X=-5.45,
+    Y=-0.715, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-5.05,
+    Y=-1.5, angle=None, unlocked=False), end=Position(X=5.05, Y=-1.5, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-5.05, Y=-0.715,
+    angle=None, unlocked=False), end=Position(X=-5.45, Y=-0.715, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-5.05, Y=0.715, angle=None,
+    unlocked=False), end=Position(X=-5.45, Y=0.715, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-5.05, Y=1.5, angle=None, unlocked=False),
+    end=Position(X=-5.05, Y=-1.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.05, Y=-1.5, angle=None, unlocked=False), end=Position(X=5.05,
+    Y=1.5, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.05,
+    Y=-0.715, angle=None, unlocked=False), end=Position(X=5.45, Y=-0.715, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.05, Y=0.715,
+    angle=None, unlocked=False), end=Position(X=5.45, Y=0.715, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.05, Y=1.5, angle=None, unlocked=False),
+    end=Position(X=-5.05, Y=1.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.45, Y=-0.715, angle=None, unlocked=False), end=Position(X=5.45,
+    Y=0.715, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=0, angle=0, unlocked=False), layer=''F.Fab'',
+    hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-4.25,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=3.75, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.125, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''smd'', shape=''roundrect'', position=Position(X=4.25,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=3.75, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.125, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Fuse_Schurter_UMT250'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Schurter fuse smd
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

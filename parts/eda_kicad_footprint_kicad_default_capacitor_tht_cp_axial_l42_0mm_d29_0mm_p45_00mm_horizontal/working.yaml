@@ -1,0 +1,151 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: cp_axial_l42_0mm_d29_0mm_p45_00mm_horizontal
+description_main: capacitor_tht
+footprint_id: eda_kicad_footprint_kicad_default_capacitor_tht_cp_axial_l42_0mm_d29_0mm_p45_00mm_horizontal
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: CP, Axial series, Axial, Horizontal, pin pitch=45mm, , length*diameter=42*29.0mm^2,
+    Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf
+  entryName: CP_Axial_L42.0mm_D29.0mm_P45.00mm_Horizontal
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.72, Y=-2.6, angle=None, unlocked=False),
+    end=Position(X=1.08, Y=-2.6, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.18, Y=-3.5, angle=None, unlocked=False), end=Position(X=0.18,
+    Y=-1.7, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.38,
+    Y=-14.62, angle=None, unlocked=False), end=Position(X=1.38, Y=14.62, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.38, Y=-14.62,
+    angle=None, unlocked=False), end=Position(X=3.18, Y=-14.62, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.38, Y=14.62, angle=None,
+    unlocked=False), end=Position(X=3.18, Y=14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.18, Y=-14.62, angle=None, unlocked=False),
+    end=Position(X=4.08, Y=-13.72, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.18, Y=14.62, angle=None, unlocked=False),
+    end=Position(X=4.08, Y=13.72, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.08, Y=-13.72, angle=None, unlocked=False),
+    end=Position(X=4.98, Y=-14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.08, Y=13.72, angle=None, unlocked=False),
+    end=Position(X=4.98, Y=14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.98, Y=-14.62, angle=None, unlocked=False),
+    end=Position(X=43.62, Y=-14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.98, Y=14.62, angle=None, unlocked=False),
+    end=Position(X=43.62, Y=14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=43.62, Y=-14.62, angle=None, unlocked=False),
+    end=Position(X=43.62, Y=14.62, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.45, Y=-14.75, angle=None, unlocked=False),
+    end=Position(X=-1.45, Y=14.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.45, Y=14.75, angle=None, unlocked=False),
+    end=Position(X=46.45, Y=14.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=46.45, Y=-14.75, angle=None, unlocked=False),
+    end=Position(X=-1.45, Y=-14.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=46.45, Y=14.75, angle=None, unlocked=False),
+    end=Position(X=46.45, Y=-14.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0, Y=0, angle=None, unlocked=False), end=Position(X=1.5,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.5,
+    Y=-14.5, angle=None, unlocked=False), end=Position(X=1.5, Y=14.5, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.5, Y=-14.5,
+    angle=None, unlocked=False), end=Position(X=3.18, Y=-14.5, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.5, Y=14.5, angle=None, unlocked=False),
+    end=Position(X=3.18, Y=14.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.18, Y=-14.5, angle=None, unlocked=False), end=Position(X=4.08,
+    Y=-13.6, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.18,
+    Y=14.5, angle=None, unlocked=False), end=Position(X=4.08, Y=13.6, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.2, Y=0, angle=None,
+    unlocked=False), end=Position(X=5, Y=0, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.08, Y=-13.6, angle=None, unlocked=False),
+    end=Position(X=4.98, Y=-14.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=4.08, Y=13.6, angle=None, unlocked=False), end=Position(X=4.98,
+    Y=14.5, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.1,
+    Y=-0.9, angle=None, unlocked=False), end=Position(X=4.1, Y=0.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.98, Y=-14.5, angle=None,
+    unlocked=False), end=Position(X=43.5, Y=-14.5, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.98, Y=14.5, angle=None, unlocked=False),
+    end=Position(X=43.5, Y=14.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=43.5, Y=-14.5, angle=None, unlocked=False), end=Position(X=43.5,
+    Y=14.5, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=45,
+    Y=0, angle=None, unlocked=False), end=Position(X=43.5, Y=0, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=22.5,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L42.0mm_D29.0mm_P45.00mm_Horizontal.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4, Y=2.4, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''oval'',
+    position=Position(X=45, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4,
+    Y=2.4, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''CP_Axial_L42.0mm_D29.0mm_P45.00mm_Horizontal'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: CP Axial series Axial Horizontal pin pitch 45mm  length 42mm diameter 29.0mm
+    Electrolytic Capacitor
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

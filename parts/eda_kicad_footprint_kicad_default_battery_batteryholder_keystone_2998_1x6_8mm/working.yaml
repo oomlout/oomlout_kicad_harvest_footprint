@@ -1,0 +1,133 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: batteryholder_keystone_2998_1x6_8mm
+description_main: battery
+footprint_id: eda_kicad_footprint_kicad_default_battery_batteryholder_keystone_2998_1x6_8mm
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: www.keyelco.com/product-pdf.cfm?p=763
+  entryName: BatteryHolder_Keystone_2998_1x6.8mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-3.7, Y=-3.5, angle=None, unlocked=False),
+    end=Position(X=-3.7, Y=2.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2, Y=4.5, angle=None, unlocked=False), end=Position(X=-3.7,
+    Y=2.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2,
+    Y=4.5, angle=None, unlocked=False), end=Position(X=2, Y=4.5, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2, Y=4.5, angle=None, unlocked=False),
+    end=Position(X=3.7, Y=2.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.7, Y=-3.5, angle=None, unlocked=False), end=Position(X=3.7,
+    Y=2.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=-3.705648,
+    Y=-3.490673, angle=None, unlocked=False), mid=Position(X=-3.055452, Y=-3.863197,
+    angle=None, unlocked=False), end=Position(X=-2.4, Y=-3.5, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=2.391383, Y=-3.495415, angle=None,
+    unlocked=False), mid=Position(X=-0.00488, Y=-2.900002, angle=None, unlocked=False),
+    end=Position(X=-2.4, Y=-3.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=2.392627, Y=-3.493972, angle=None, unlocked=False), mid=Position(X=3.046477,
+    Y=-3.866382, angle=None, unlocked=False), end=Position(X=3.703723, Y=-3.5, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=0, angle=None,
+    unlocked=False), end=Position(X=3.4, Y=0, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-5.9, Y=-5.1, angle=None,
+    unlocked=False), end=Position(X=-5.9, Y=4.8, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-5.9, Y=4.8, angle=None, unlocked=False),
+    end=Position(X=5.9, Y=4.8, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.9, Y=-5.1, angle=None, unlocked=False), end=Position(X=-5.9,
+    Y=-5.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.9,
+    Y=4.8, angle=None, unlocked=False), end=Position(X=5.9, Y=-5.1, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-3.6, Y=-3.4, angle=None,
+    unlocked=False), end=Position(X=-3.6, Y=2.4, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.6, Y=2.45, angle=None, unlocked=False),
+    end=Position(X=-1.95, Y=4.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.95, Y=4.4, angle=None, unlocked=False), end=Position(X=1.95,
+    Y=4.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.95,
+    Y=4.4, angle=None, unlocked=False), end=Position(X=3.6, Y=2.45, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=3.6, Y=2.45, angle=None, unlocked=False),
+    end=Position(X=3.6, Y=-3.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=-3.607938, Y=-3.401745, angle=None, unlocked=False), mid=Position(X=-3.059953,
+    Y=-3.774071, angle=None, unlocked=False), end=Position(X=-2.5, Y=-3.42, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=2.464098, Y=-3.410669,
+    angle=None, unlocked=False), mid=Position(X=-0.020388, Y=-2.794584, angle=None,
+    unlocked=False), end=Position(X=-2.5, Y=-3.43, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=2.4959, Y=-3.432087, angle=None, unlocked=False),
+    mid=Position(X=3.045544, Y=-3.771756, angle=None, unlocked=False), end=Position(X=3.6,
+    Y=-3.44, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0.1, Y=4, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=0.7,
+    width=0.7, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2998_1x6.8mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=-4.7,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.78, Y=5.08,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=4.7,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.78, Y=5.08,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3.96, Y=3.96,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''BatteryHolder_Keystone_2998_1x6.8mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Keystone type 2998 battery holder
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

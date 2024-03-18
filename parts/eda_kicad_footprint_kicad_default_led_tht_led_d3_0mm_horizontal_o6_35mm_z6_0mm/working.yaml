@@ -1,0 +1,167 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: led_d3_0mm_horizontal_o6_35mm_z6_0mm
+description_main: led_tht
+footprint_id: eda_kicad_footprint_kicad_default_led_tht_led_d3_0mm_horizontal_o6_35mm_z6_0mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter
+    3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED
+    center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter
+    3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED
+    center 6.0mm, 2 pins
+  entryName: LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.29, Y=6.29, angle=None, unlocked=False),
+    end=Position(X=-0.29, Y=10.15, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.29, Y=6.29, angle=None, unlocked=False),
+    end=Position(X=2.83, Y=6.29, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=1.08, angle=None, unlocked=False), end=Position(X=0,
+    Y=1.08, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0,
+    Y=1.08, angle=None, unlocked=False), end=Position(X=0, Y=6.29, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0, Y=6.29, angle=None, unlocked=False),
+    end=Position(X=0, Y=1.08, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=6.29, angle=None, unlocked=False), end=Position(X=0,
+    Y=6.29, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.54,
+    Y=1.08, angle=None, unlocked=False), end=Position(X=2.54, Y=1.08, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.54, Y=1.08,
+    angle=None, unlocked=False), end=Position(X=2.54, Y=6.29, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.54, Y=6.29, angle=None,
+    unlocked=False), end=Position(X=2.54, Y=1.08, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.54, Y=6.29, angle=None, unlocked=False),
+    end=Position(X=2.54, Y=6.29, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.83, Y=6.29, angle=None, unlocked=False), end=Position(X=2.83,
+    Y=10.15, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.83,
+    Y=6.29, angle=None, unlocked=False), end=Position(X=3.23, Y=6.29, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.83, Y=7.41,
+    angle=None, unlocked=False), end=Position(X=2.83, Y=6.29, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=3.23, Y=6.29, angle=None,
+    unlocked=False), end=Position(X=3.23, Y=7.41, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.23, Y=7.41, angle=None, unlocked=False),
+    end=Position(X=2.83, Y=7.41, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=2.83, Y=10.15, angle=None, unlocked=False), mid=Position(X=1.27,
+    Y=11.71, angle=None, unlocked=False), end=Position(X=-0.29, Y=10.15, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.25, Y=-1.25,
+    angle=None, unlocked=False), end=Position(X=-1.25, Y=12, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.25, Y=12, angle=None, unlocked=False),
+    end=Position(X=3.75, Y=12, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.75, Y=-1.25, angle=None, unlocked=False), end=Position(X=-1.25,
+    Y=-1.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.75,
+    Y=12, angle=None, unlocked=False), end=Position(X=3.75, Y=-1.25, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.23, Y=6.35, angle=None,
+    unlocked=False), end=Position(X=-0.23, Y=10.15, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.23, Y=6.35, angle=None, unlocked=False),
+    end=Position(X=2.77, Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=0, angle=None, unlocked=False), end=Position(X=0,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0,
+    Y=0, angle=None, unlocked=False), end=Position(X=0, Y=6.35, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0, Y=6.35, angle=None, unlocked=False),
+    end=Position(X=0, Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=6.35, angle=None, unlocked=False), end=Position(X=0,
+    Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.54,
+    Y=0, angle=None, unlocked=False), end=Position(X=2.54, Y=0, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.54, Y=0, angle=None, unlocked=False),
+    end=Position(X=2.54, Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.54, Y=6.35, angle=None, unlocked=False), end=Position(X=2.54,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.54,
+    Y=6.35, angle=None, unlocked=False), end=Position(X=2.54, Y=6.35, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.77, Y=6.35,
+    angle=None, unlocked=False), end=Position(X=2.77, Y=10.15, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.77, Y=6.35, angle=None,
+    unlocked=False), end=Position(X=3.17, Y=6.35, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.77, Y=7.35, angle=None, unlocked=False),
+    end=Position(X=2.77, Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.17, Y=6.35, angle=None, unlocked=False), end=Position(X=3.17,
+    Y=7.35, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.17,
+    Y=7.35, angle=None, unlocked=False), end=Position(X=2.77, Y=7.35, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=2.77, Y=10.15,
+    angle=None, unlocked=False), mid=Position(X=1.27, Y=11.65, angle=None, unlocked=False),
+    end=Position(X=-0.23, Y=10.15, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.8, Y=1.8, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=2.54, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.8,
+    Y=1.8, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position
+    of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+    diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position
+    of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

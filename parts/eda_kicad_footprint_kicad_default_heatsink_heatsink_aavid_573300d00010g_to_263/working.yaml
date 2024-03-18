@@ -1,0 +1,133 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: heatsink_aavid_573300d00010g_to_263
+description_main: heatsink
+footprint_id: eda_kicad_footprint_kicad_default_heatsink_heatsink_aavid_573300d00010g_to_263
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.shopaavid.com/Product/573300D00000G
+  entryName: Heatsink_AAVID_573300D00010G_TO-263
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-13.3, Y=-6.5, angle=None, unlocked=False),
+    end=Position(X=13.3, Y=-6.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-13.3, Y=6.5, angle=None, unlocked=False), end=Position(X=-13.3,
+    Y=-6.5, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.15,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-13.3,
+    Y=6.5, angle=None, unlocked=False), end=Position(X=13.3, Y=6.5, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.15, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=13.3, Y=-6.5, angle=None,
+    unlocked=False), end=Position(X=13.3, Y=6.5, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-8.15, Y=-7.1, angle=None, unlocked=False),
+    end=Position(X=8.15, Y=-7.1, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-8.15, Y=7.1, angle=None, unlocked=False),
+    end=Position(X=-8.15, Y=-7.1, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-8.15, Y=7.1, angle=None, unlocked=False),
+    end=Position(X=8.15, Y=7.1, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.15, Y=7.1, angle=None, unlocked=False),
+    end=Position(X=8.15, Y=-7.1, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.5, Y=-7.2, angle=None, unlocked=False),
+    end=Position(X=-13.5, Y=7.2, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-13.5, Y=7.2, angle=None, unlocked=False), end=Position(X=13.5,
+    Y=7.2, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=13.5,
+    Y=-7.2, angle=None, unlocked=False), end=Position(X=-13.5, Y=-7.2, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=13.5, Y=7.2,
+    angle=None, unlocked=False), end=Position(X=13.5, Y=-7.2, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-13.08, Y=-6.35, angle=None,
+    unlocked=False), end=Position(X=13.08, Y=-6.35, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.08, Y=6.35, angle=None, unlocked=False),
+    end=Position(X=-13.08, Y=-6.35, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.08, Y=6.35, angle=None, unlocked=False),
+    end=Position(X=13.08, Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-7.5, Y=6.35, angle=None, unlocked=False), end=Position(X=-7.5,
+    Y=-6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.15,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-6.35,
+    Y=6.35, angle=None, unlocked=False), end=Position(X=-6.35, Y=-6.35, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.15, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.35, Y=6.35,
+    angle=None, unlocked=False), end=Position(X=6.35, Y=-6.35, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.15, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=7.5, Y=6.35, angle=None, unlocked=False),
+    end=Position(X=7.5, Y=-6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=13.08, Y=-6.35, angle=None, unlocked=False), end=Position(X=13.08,
+    Y=6.35, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.15,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''Drain Pad'', position=Position(X=-1.32, Y=-1.94, angle=0, unlocked=False),
+    layer=''Dwgs.User'', hide=False, effects=Effects(font=Font(face=None, height=1,
+    width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None), FpText(type=''user'', text=''Recommended'',
+    position=Position(X=0.24, Y=-4.84, angle=0, unlocked=False), layer=''Dwgs.User'',
+    hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None),
+    FpText(type=''user'', text=''Heat Spreader'', position=Position(X=0.32, Y=-3.39,
+    angle=0, unlocked=False), layer=''Dwgs.User'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0.75, Y=0.07, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_573300D00010G_TO-263.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=-6.92,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.85, Y=13.7,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=6.92,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.85, Y=13.7,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Heatsink_AAVID_573300D00010G_TO-263'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Heatsink AAVID TO-263 D2 Pak
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

@@ -1,0 +1,165 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: choke_schaffner_rn114_04_22_5x21_5mm
+description_main: inductor_tht
+footprint_id: eda_kicad_footprint_kicad_default_inductor_tht_choke_schaffner_rn114_04_22_5x21_5mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Current-compensated Chokes, Schaffner, RN114-04, 22.5mmx21.5mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+  entryName: Choke_Schaffner_RN114-04-22.5x21.5mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-1.7, Y=-1.44, angle=None, unlocked=False),
+    end=Position(X=-1.7, Y=1.56, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.7, Y=-1.44, angle=None, unlocked=False), end=Position(X=-1.45,
+    Y=-1.44, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.32,
+    Y=-1.1, angle=None, unlocked=False), end=Position(X=7.8, Y=-4.04, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.32, Y=13.6,
+    angle=None, unlocked=False), end=Position(X=-1.32, Y=-1.1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=7.8, Y=16.54, angle=None,
+    unlocked=False), end=Position(X=-1.32, Y=13.6, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=12.3, Y=-4.04, angle=None, unlocked=False),
+    end=Position(X=21.42, Y=-1.1, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=21.42, Y=-1.1, angle=None, unlocked=False),
+    end=Position(X=21.42, Y=13.6, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=21.42, Y=13.6, angle=None, unlocked=False),
+    end=Position(X=12.3, Y=16.54, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=7.8, Y=-4.04, angle=None, unlocked=False),
+    mid=Position(X=10.061443, Y=-4.63982, angle=None, unlocked=False), end=Position(X=12.31982,
+    Y=-4.028557, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=12.3,
+    Y=16.54, angle=None, unlocked=False), mid=Position(X=10.038557, Y=17.13982, angle=None,
+    unlocked=False), end=Position(X=7.78018, Y=16.528557, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.45, Y=-1.19, angle=None,
+    unlocked=False), end=Position(X=7.8, Y=-4.17, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.45, Y=13.69, angle=None, unlocked=False),
+    end=Position(X=-1.45, Y=-1.19, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=7.8, Y=16.67, angle=None, unlocked=False),
+    end=Position(X=-1.45, Y=13.69, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=12.3, Y=-4.17, angle=None, unlocked=False),
+    end=Position(X=21.55, Y=-1.19, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=21.55, Y=-1.19, angle=None, unlocked=False),
+    end=Position(X=21.55, Y=13.69, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=21.55, Y=13.69, angle=None, unlocked=False),
+    end=Position(X=12.3, Y=16.67, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=7.8, Y=-4.17, angle=None, unlocked=False),
+    mid=Position(X=10.061443, Y=-4.76982, angle=None, unlocked=False), end=Position(X=12.31982,
+    Y=-4.158557, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=12.3,
+    Y=16.67, angle=None, unlocked=False), mid=Position(X=10.038557, Y=17.26982, angle=None,
+    unlocked=False), end=Position(X=7.78018, Y=16.658557, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.2, Y=-1, angle=None, unlocked=False),
+    end=Position(X=7.8, Y=-3.9, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.2, Y=-0.5, angle=None, unlocked=False), end=Position(X=-1.2,
+    Y=-1, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.2,
+    Y=0.5, angle=None, unlocked=False), end=Position(X=-0.7, Y=0, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.2, Y=13.5, angle=None,
+    unlocked=False), end=Position(X=-1.2, Y=0.5, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.7, Y=0, angle=None, unlocked=False),
+    end=Position(X=-1.2, Y=-0.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=7.8, Y=16.4, angle=None, unlocked=False), end=Position(X=-1.2,
+    Y=13.5, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=12.3,
+    Y=-3.9, angle=None, unlocked=False), end=Position(X=21.3, Y=-1, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=21.3, Y=-1, angle=None, unlocked=False),
+    end=Position(X=21.3, Y=13.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=21.3, Y=13.5, angle=None, unlocked=False), end=Position(X=12.3,
+    Y=16.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=7.8,
+    Y=-3.9, angle=None, unlocked=False), mid=Position(X=10.051443, Y=-4.502499, angle=None,
+    unlocked=False), end=Position(X=12.302499, Y=-3.898557, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=12.3, Y=16.4, angle=None, unlocked=False),
+    mid=Position(X=10.048557, Y=17.002499, angle=None, unlocked=False), end=Position(X=7.797501,
+    Y=16.398557, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=10.05, Y=6.25, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN114-04-22.5x21.5mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=2, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=20.1, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2,
+    Y=2, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=12.5, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=2, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''4'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=20.1, Y=12.5, angle=None, unlocked=False), locked=False, size=Position(X=2,
+    Y=2, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Choke_Schaffner_RN114-04-22.5x21.5mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: chokes schaffner tht
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

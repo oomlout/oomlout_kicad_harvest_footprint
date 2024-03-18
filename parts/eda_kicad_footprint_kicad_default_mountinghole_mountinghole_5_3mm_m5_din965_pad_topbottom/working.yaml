@@ -1,0 +1,74 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: mountinghole_5_3mm_m5_din965_pad_topbottom
+description_main: mountinghole
+footprint_id: eda_kicad_footprint_kicad_default_mountinghole_mountinghole_5_3mm_m5_din965_pad_topbottom
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Mounting Hole 5.3mm, M5, DIN965
+  entryName: MountingHole_5.3mm_M5_DIN965_Pad_TopBottom
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpCircle(center=Position(X=0, Y=0, angle=None, unlocked=False),
+    end=Position(X=4.6, Y=0, angle=None, unlocked=False), layer=''Cmts.User'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=0, Y=0, angle=None, unlocked=False),
+    end=Position(X=4.85, Y=0, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=5.7, Y=5.7, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=5.3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''1'', type=''connect'', shape=''circle'',
+    position=Position(X=0, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=9.2,
+    Y=9.2, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''1'', type=''connect'', shape=''circle'',
+    position=Position(X=0, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=9.2,
+    Y=9.2, angle=None, unlocked=False), drill=None, layers=[''B.Cu'', ''B.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''MountingHole_5.3mm_M5_DIN965_Pad_TopBottom'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: mounting hole 5.3mm m5 din965
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

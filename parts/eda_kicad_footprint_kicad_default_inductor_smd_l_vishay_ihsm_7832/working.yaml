@@ -1,0 +1,108 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: l_vishay_ihsm_7832
+description_main: inductor_smd
+footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_vishay_ihsm_7832
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf,
+    19.8mmx8.1mm
+  entryName: L_Vishay_IHSM-7832
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-10.77, Y=-4.165, angle=None, unlocked=False),
+    end=Position(X=0, Y=-4.165, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-10.77, Y=-4, angle=None, unlocked=False), end=Position(X=-10.77,
+    Y=-4.165, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-10.77,
+    Y=4, angle=None, unlocked=False), end=Position(X=-10.77, Y=4.165, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-10.77, Y=4.165,
+    angle=None, unlocked=False), end=Position(X=0, Y=4.165, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=10.77, Y=-4.165, angle=None,
+    unlocked=False), end=Position(X=0, Y=-4.165, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=10.77, Y=-4, angle=None, unlocked=False),
+    end=Position(X=10.77, Y=-4.165, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=10.77, Y=4, angle=None, unlocked=False),
+    end=Position(X=10.77, Y=4.165, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=10.77, Y=4.165, angle=None, unlocked=False),
+    end=Position(X=0, Y=4.165, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-13.65, Y=-4.4, angle=None, unlocked=False), end=Position(X=-13.65,
+    Y=4.4, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-13.65,
+    Y=4.4, angle=None, unlocked=False), end=Position(X=13.65, Y=4.4, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=13.65, Y=-4.4, angle=None,
+    unlocked=False), end=Position(X=-13.65, Y=-4.4, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=13.65, Y=4.4, angle=None, unlocked=False),
+    end=Position(X=13.65, Y=-4.4, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-10.67, Y=-4.065, angle=None, unlocked=False),
+    end=Position(X=-10.67, Y=4.065, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-10.67, Y=4.065, angle=None, unlocked=False),
+    end=Position(X=10.67, Y=4.065, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=10.67, Y=-4.065, angle=None, unlocked=False), end=Position(X=-10.67,
+    Y=-4.065, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=10.67,
+    Y=4.065, angle=None, unlocked=False), end=Position(X=10.67, Y=-4.065, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'',
+    position=Position(X=0, Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False,
+    effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15, bold=False,
+    italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-7832.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=-10.031,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=6.6, Y=7.4, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''smd'', shape=''rect'', position=Position(X=10.031, Y=0,
+    angle=None, unlocked=False), locked=False, size=Position(X=6.6, Y=7.4, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''L_Vishay_IHSM-7832'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: inductor vishay icsm smd
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

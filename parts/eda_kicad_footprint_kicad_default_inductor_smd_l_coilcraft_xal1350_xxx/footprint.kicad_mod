@@ -1,0 +1,241 @@
+(footprint "L_Coilcraft_XAL1350-XXX"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Coilcraft, XAL1350-XXX, 13.2x14.2x5.0mm, https://www.coilcraft.com/getmedia/dc536f86-3a3b-454f-950e-8e153260e61c/xal1350.pdf")
+	(tags "Inductor xal")
+	(property "Reference" "REF**"
+		(at 0 -8.1 0)
+		(layer "F.SilkS")
+		(uuid "01cff588-12d6-46c9-bfd5-0aae68cc1e33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Coilcraft_XAL1350-XXX"
+		(at 0 8.1 0)
+		(layer "F.Fab")
+		(uuid "26d96179-29cf-4364-9912-3be15867d5d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "861c5896-d61e-4021-845c-66cff7eb7db2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dca238ae-586c-4db9-b102-ffdaf71c4d5b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56d73607-15ea-471c-9a33-fe03e15fb97f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.86 -7.36)
+		(end -6.86 -6.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d5bb66c-73af-4b23-b241-58e7071773c4")
+	)
+	(fp_line
+		(start -6.86 -7.36)
+		(end 6.86 -7.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "425fcf28-f722-43a2-a86a-20fa9997f60b")
+	)
+	(fp_line
+		(start -6.86 7.36)
+		(end -6.86 6.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54c2b3db-f274-48fc-bde1-ee61b60c281d")
+	)
+	(fp_line
+		(start -6.86 7.36)
+		(end 6.86 7.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6043fd43-f411-475a-b917-cb72d46e11d4")
+	)
+	(fp_line
+		(start 6.86 -7.36)
+		(end 6.86 -6.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7beede29-085c-47d7-b7b6-0345f39ba2d6")
+	)
+	(fp_line
+		(start 6.86 7.36)
+		(end 6.86 6.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85ceca8d-6503-4aff-a08b-ca87726ee7df")
+	)
+	(fp_line
+		(start -6.85 -7.35)
+		(end -6.85 7.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "31889f4f-fe5c-4ae7-8c48-87bb6a374ebc")
+	)
+	(fp_line
+		(start -6.85 7.35)
+		(end 6.85 7.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29d2e512-287e-4a5a-878b-dbdf628ebbae")
+	)
+	(fp_line
+		(start 6.85 -7.35)
+		(end -6.85 -7.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "359f53a8-fd9d-4353-90d9-998b9470fb1a")
+	)
+	(fp_line
+		(start 6.85 7.35)
+		(end 6.85 -7.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e728aaa7-eecc-414c-8181-5706c00b74d5")
+	)
+	(fp_line
+		(start -6.6 -7.1)
+		(end -6.6 7.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4416a4a9-f741-4203-b8c7-2bee204f37ba")
+	)
+	(fp_line
+		(start -6.6 7.1)
+		(end 6.6 7.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ce080388-9df2-4c13-b28a-29fb204f22e4")
+	)
+	(fp_line
+		(start 6.6 -7.1)
+		(end -6.6 -7.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c2153df-3cae-4665-8c9f-43212ff5f1f2")
+	)
+	(fp_line
+		(start 6.6 7.1)
+		(end 6.6 -7.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c52a3dfb-b6ca-4c90-bd71-9edbe3304836")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ac65e4b3-b258-40df-94fe-b3a4599d0e6a")
+		(effects
+			(font
+				(size 0.993333 0.993333)
+				(thickness 0.149)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.3 0)
+		(size 2.98 12)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "07f3a190-9340-499f-965c-22db632b6bef")
+	)
+	(pad "2" smd rect
+		(at 4.3 0)
+		(size 2.98 12)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "67206661-7bbf-4719-b647-2750f0d1f4e3")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL1350-XXX.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

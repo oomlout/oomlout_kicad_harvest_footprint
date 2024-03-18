@@ -1,0 +1,75 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: solderwirepad_1x01_smd_1x2mm
+description_main: connector_wire
+footprint_id: eda_kicad_footprint_kicad_default_connector_wire_solderwirepad_1x01_smd_1x2mm
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Wire Pad, Square, SMD Pad,  1mm x 2mm,
+  entryName: SolderWirePad_1x01_SMD_1x2mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.63, Y=-1.27, angle=None, unlocked=False),
+    end=Position(X=-0.63, Y=1.27, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.63, Y=1.27, angle=None, unlocked=False),
+    end=Position(X=0.63, Y=1.27, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.63, Y=-1.27, angle=None, unlocked=False), end=Position(X=-0.63,
+    Y=-1.27, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.63,
+    Y=1.27, angle=None, unlocked=False), end=Position(X=0.63, Y=-1.27, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.63, Y=-1.27,
+    angle=None, unlocked=False), end=Position(X=0.63, Y=-1.27, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.63, Y=1.27, angle=None,
+    unlocked=False), end=Position(X=-0.63, Y=-1.27, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.63, Y=-1.27, angle=None, unlocked=False),
+    end=Position(X=0.63, Y=1.27, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.63, Y=1.27, angle=None, unlocked=False), end=Position(X=-0.63,
+    Y=1.27, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=0, angle=0, unlocked=False), layer=''F.Fab'',
+    hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1, Y=2, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''SolderWirePad_1x01_SMD_1x2mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: 'MesurementPoint Square SMDPad 1mmx2mm '
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

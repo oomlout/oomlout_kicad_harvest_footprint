@@ -1,0 +1,102 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: led_sideemitter_rectangular_w4_5mm_h1_6mm
+description_main: led_tht
+footprint_id: eda_kicad_footprint_kicad_default_led_tht_led_sideemitter_rectangular_w4_5mm_h1_6mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: LED_SideEmitter_Rectangular, Rectangular, SideEmitter,  Rectangular
+    size 4.5x1.6mm^2, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf
+  entryName: LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=1.08, Y=-0.861, angle=None, unlocked=False),
+    end=Position(X=1.811, Y=-0.861, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.08, Y=0.861, angle=None, unlocked=False),
+    end=Position(X=1.811, Y=0.861, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.27, Y=-0.861, angle=None, unlocked=False),
+    end=Position(X=3.58, Y=-0.861, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.27, Y=0.861, angle=None, unlocked=False),
+    end=Position(X=3.58, Y=0.861, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.58, Y=-0.861, angle=None, unlocked=False),
+    end=Position(X=3.58, Y=-0.555, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.58, Y=0.555, angle=None, unlocked=False),
+    end=Position(X=3.58, Y=0.861, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.3, Y=-1.15, angle=None, unlocked=False),
+    end=Position(X=-1.3, Y=1.15, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.3, Y=1.15, angle=None, unlocked=False), end=Position(X=3.85,
+    Y=1.15, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.85,
+    Y=-1.15, angle=None, unlocked=False), end=Position(X=-1.3, Y=-1.15, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.85, Y=1.15,
+    angle=None, unlocked=False), end=Position(X=3.85, Y=-1.15, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.98, Y=-0.8, angle=None,
+    unlocked=False), end=Position(X=-0.98, Y=0.8, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.98, Y=0.8, angle=None, unlocked=False),
+    end=Position(X=3.52, Y=0.8, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.52, Y=-0.8, angle=None, unlocked=False), end=Position(X=-0.98,
+    Y=-0.8, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.52,
+    Y=0.8, angle=None, unlocked=False), end=Position(X=3.52, Y=-0.8, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.8, Y=1.8, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=2.54, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.8,
+    Y=1.8, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.9,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''LED_SideEmitter_Rectangular_W4.5mm_H1.6mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^2
+    2 pins
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

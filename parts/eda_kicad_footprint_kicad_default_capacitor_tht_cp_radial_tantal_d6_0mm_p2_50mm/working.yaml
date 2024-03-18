@@ -1,0 +1,87 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: cp_radial_tantal_d6_0mm_p2_50mm
+description_main: capacitor_tht
+footprint_id: eda_kicad_footprint_kicad_default_capacitor_tht_cp_radial_tantal_d6_0mm_p2_50mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=6.0mm,
+    Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+  entryName: CP_Radial_Tantal_D6.0mm_P2.50mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2.089749, Y=-1.755, angle=None, unlocked=False),
+    end=Position(X=-1.489749, Y=-1.755, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.789749, Y=-2.055, angle=None, unlocked=False),
+    end=Position(X=-1.789749, Y=-1.455, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpCircle(center=Position(X=1.25, Y=0, angle=None, unlocked=False),
+    end=Position(X=4.37, Y=0, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=1.25, Y=0, angle=None, unlocked=False),
+    end=Position(X=4.5, Y=0, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.314656, Y=-1.3075, angle=None, unlocked=False),
+    end=Position(X=-0.714656, Y=-1.3075, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.014656, Y=-1.6075, angle=None, unlocked=False),
+    end=Position(X=-1.014656, Y=-1.0075, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpCircle(center=Position(X=1.25, Y=0, angle=None, unlocked=False),
+    end=Position(X=4.25, Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=1.25,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D6.0mm_P2.50mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.6, Y=1.6, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.8, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=2.5, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.6,
+    Y=1.6, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.8,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''CP_Radial_Tantal_D6.0mm_P2.50mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 6.0mm Tantal Electrolytic
+    Capacitor
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

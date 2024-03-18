@@ -1,0 +1,131 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: l_toroid_horizontal_d40_0mm_p48_26mm
+description_main: inductor_tht
+footprint_id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d40_0mm_p48_26mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: L_Toroid, Horizontal series, Radial, pin pitch=48.26mm, , diameter=40mm
+  entryName: L_Toroid_Horizontal_D40.0mm_P48.26mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpArc(start=Position(X=4.087126, Y=-1.76, angle=None, unlocked=False),
+    mid=Position(X=24.13, Y=-20.12, angle=None, unlocked=False), end=Position(X=44.172874,
+    Y=-1.76, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=44.172874,
+    Y=1.76, angle=None, unlocked=False), mid=Position(X=24.13, Y=20.12, angle=None,
+    unlocked=False), end=Position(X=4.087126, Y=1.76, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpCircle(center=Position(X=24.13, Y=0, angle=None,
+    unlocked=False), end=Position(X=30.676667, Y=0, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.75, Y=-20.25, angle=None,
+    unlocked=False), end=Position(X=-1.75, Y=20.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.75, Y=20.25, angle=None, unlocked=False),
+    end=Position(X=50.01, Y=20.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=50.01, Y=-20.25, angle=None, unlocked=False),
+    end=Position(X=-1.75, Y=-20.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=50.01, Y=20.25, angle=None, unlocked=False),
+    end=Position(X=50.01, Y=-20.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.4124, Y=0.001827, angle=None, unlocked=False),
+    end=Position(X=17.67976, Y=-1.727643, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=7.052992, Y=-9.856954, angle=None, unlocked=False),
+    end=Position(X=19.407677, Y=-4.721229, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=7.054819, Y=9.860118, angle=None, unlocked=False),
+    end=Position(X=17.680081, Y=1.728838, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=14.269091, Y=-17.074724, angle=None, unlocked=False),
+    end=Position(X=22.400863, Y=-6.449839, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=14.272255, Y=17.076551, angle=None, unlocked=False),
+    end=Position(X=19.408552, Y=4.722104, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=24.12726, Y=-19.7176, angle=None, unlocked=False),
+    end=Position(X=25.857344, Y=-6.45032, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=24.130913, Y=19.7176, angle=None, unlocked=False),
+    end=Position(X=22.402059, Y=6.45016, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=33.986163, Y=-17.077465, angle=None, unlocked=False),
+    end=Position(X=28.851011, Y=-4.722542, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=33.989327, Y=17.075638, angle=None, unlocked=False),
+    end=Position(X=25.858539, Y=6.45, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=41.204268, Y=-9.8617, angle=None, unlocked=False),
+    end=Position(X=30.579759, Y=-1.729435, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=41.206095, Y=9.858536, angle=None, unlocked=False),
+    end=Position(X=28.851886, Y=4.721667, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=43.8476, Y=-0.003654, angle=None, unlocked=False),
+    end=Position(X=30.5804, Y=1.727045, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=43.8476, Y=0, angle=None, unlocked=False),
+    end=Position(X=30.58008, Y=1.72824, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpCircle(center=Position(X=24.13, Y=0, angle=None, unlocked=False),
+    end=Position(X=30.796667, Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=24.13, Y=0, angle=None, unlocked=False),
+    end=Position(X=44.13, Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=24.13,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.5, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=48.26, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3,
+    Y=3, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.5,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''L_Toroid_Horizontal_D40.0mm_P48.26mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

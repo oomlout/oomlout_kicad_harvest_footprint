@@ -1,0 +1,158 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: jack_6_35mm_neutrik_nrj4hh_1_horizontal
+description_main: connector_audio
+footprint_id: eda_kicad_footprint_kicad_default_connector_audio_jack_6_35mm_neutrik_nrj4hh_1_horizontal
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose,
+    sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hh-1
+  entryName: Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-7.47, Y=-2.21, angle=None, unlocked=False),
+    end=Position(X=17.07, Y=-2.21, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.47, Y=13.78, angle=None, unlocked=False),
+    end=Position(X=-7.47, Y=-2.21, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.47, Y=13.78, angle=None, unlocked=False),
+    end=Position(X=17.07, Y=13.78, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=17.07, Y=-2.21, angle=None, unlocked=False),
+    end=Position(X=17.07, Y=13.78, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=25.97, Y=1.61, angle=None, unlocked=False),
+    end=Position(X=17.07, Y=1.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=25.97, Y=12.85, angle=None, unlocked=False),
+    end=Position(X=17.07, Y=12.85, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=25.97, Y=12.85, angle=None, unlocked=False),
+    end=Position(X=25.97, Y=1.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=16.95, Y=-2.09, angle=None, unlocked=False),
+    end=Position(X=16.95, Y=13.66, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.85, Y=14.16, angle=None, unlocked=False),
+    end=Position(X=-7.85, Y=-2.59, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.85, Y=14.16, angle=None, unlocked=False),
+    end=Position(X=26.35, Y=14.16, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=26.35, Y=-2.59, angle=None, unlocked=False),
+    end=Position(X=-7.85, Y=-2.59, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=26.35, Y=14.16, angle=None, unlocked=False),
+    end=Position(X=26.35, Y=-2.59, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.35, Y=-2.09, angle=None, unlocked=False),
+    end=Position(X=16.95, Y=-2.09, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-7.35, Y=13.66, angle=None, unlocked=False), end=Position(X=-7.35,
+    Y=-2.09, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=16.95,
+    Y=-2.09, angle=None, unlocked=False), end=Position(X=16.95, Y=13.66, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=16.95, Y=12.73,
+    angle=None, unlocked=False), end=Position(X=25.85, Y=12.73, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=16.95, Y=13.66, angle=None,
+    unlocked=False), end=Position(X=-7.35, Y=13.66, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=25.85, Y=1.73, angle=None, unlocked=False),
+    end=Position(X=16.95, Y=1.73, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=25.85, Y=12.73, angle=None, unlocked=False), end=Position(X=25.85,
+    Y=1.73, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=6.35, Y=5.715, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=3.15,
+    Y=2.13, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number='''', type=''np_thru_hole'', shape=''circle'',
+    position=Position(X=9.5, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2,
+    Y=2, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=2,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=9.5,
+    Y=11.43, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=2, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=2, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''G'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=12.7, Y=11.43, angle=None, unlocked=False), locked=False,
+    size=Position(X=3, Y=3, angle=None, unlocked=False), drill=DrillDefinition(oval=False,
+    diameter=1.5, width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None,
+    removeUnusedLayers=True, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''S'', type=''thru_hole'', shape=''circle'', position=Position(X=12.7,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.5, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''T'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=0, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3,
+    Y=3, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.5,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''TN'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=11.43, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.5, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: neutrik jack slim
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

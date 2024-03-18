@@ -1,0 +1,132 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: te_t4041037041_000_m8_04_socket_straight
+description_main: connector_te_connectivity
+footprint_id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_t4041037041_000_m8_04_socket_straight
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Shielded M8 socket 4 ways connector panel, straight and rear mount
+    (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FT404103010X000%7FA%7Fpdf%7FEnglish%7FENG_CD_T404103010X000_A.pdf%7FT4041037041-000)
+  entryName: TE_T4041037041-000_M8_04_Socket_Straight
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpArc(start=Position(X=-5.408655, Y=-2.303412, angle=None, unlocked=False),
+    mid=Position(X=1.701834, Y=-7.141472, angle=None, unlocked=False), end=Position(X=8.81,
+    Y=-2.3, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''default'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=-2.496063,
+    Y=-6.163748, angle=None, unlocked=False), mid=Position(X=-2.055909, Y=-6.421389,
+    angle=None, unlocked=False), end=Position(X=-1.6, Y=-6.649999, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''default'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=8.808655, Y=3.303413, angle=None,
+    unlocked=False), mid=Position(X=1.698166, Y=8.141472, angle=None, unlocked=False),
+    end=Position(X=-5.41, Y=3.3, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''default'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=-5.84, Y=-2.23, angle=None, unlocked=False), mid=Position(X=1.7,
+    Y=-7.521096, angle=None, unlocked=False), end=Position(X=9.24, Y=-2.23, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''default'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=-5.84, Y=3.23,
+    angle=None, unlocked=False), mid=Position(X=-7.569436, Y=0.5, angle=None, unlocked=False),
+    end=Position(X=-5.84, Y=-2.23, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''default'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=9.24, Y=-2.23, angle=None, unlocked=False),
+    mid=Position(X=10.969437, Y=0.5, angle=None, unlocked=False), end=Position(X=9.24,
+    Y=3.23, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''default'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=9.24,
+    Y=3.23, angle=None, unlocked=False), mid=Position(X=1.7, Y=8.524521, angle=None,
+    unlocked=False), end=Position(X=-5.84, Y=3.23, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.9, Y=-1.6, angle=None, unlocked=False),
+    end=Position(X=-0.430944, Y=-1.120431, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.430944, Y=-1.120431, angle=None, unlocked=False),
+    end=Position(X=-0.328723, Y=-1.783417, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.328723, Y=-1.783417, angle=None, unlocked=False),
+    end=Position(X=-0.9, Y=-1.6, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpCircle(center=Position(X=1.7, Y=0.5, angle=None, unlocked=False), end=Position(X=9.2,
+    Y=0.5, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''default'', color=None), fill=''none'', locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=1.75, Y=0.5, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_T4041037041-000_M8_04_Socket_Straight.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=17.8, unlocked=False), locked=False, size=Position(X=1.74, Y=1.74,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''thru_hole'', shape=''circle'', position=Position(X=0.625,
+    Y=1.95, angle=180, unlocked=False), locked=False, size=Position(X=1.74, Y=1.74,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=3.4,
+    Y=0, angle=180, unlocked=False), locked=False, size=Position(X=1.74, Y=1.74, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''4'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=2.775, Y=1.95, angle=180, unlocked=False), locked=False, size=Position(X=1.74,
+    Y=1.74, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''SH'', type=''thru_hole'', shape=''circle'', position=Position(X=-4.55,
+    Y=0.5, angle=180, unlocked=False), locked=False, size=Position(X=5, Y=5, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''SH'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=7.95, Y=0.5, angle=180, unlocked=False), locked=False, size=Position(X=5,
+    Y=5, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=3,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''TE_T4041037041-000_M8_04_Socket_Straight'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: four-pin M8
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

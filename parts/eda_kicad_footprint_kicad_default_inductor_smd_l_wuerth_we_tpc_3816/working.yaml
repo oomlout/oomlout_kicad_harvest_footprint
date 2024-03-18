@@ -1,0 +1,118 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: l_wuerth_we_tpc_3816
+description_main: inductor_smd
+footprint_id: eda_kicad_footprint_kicad_default_inductor_smd_l_wuerth_we_tpc_3816
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
+  entryName: L_Wuerth_WE-TPC-3816
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2.01, Y=0.37, angle=None, unlocked=False),
+    end=Position(X=-2.01, Y=-0.37, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.01, Y=-0.37, angle=None, unlocked=False),
+    end=Position(X=2.01, Y=0.37, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.4, Y=-2.4, angle=None, unlocked=False), end=Position(X=2.4,
+    Y=-2.4, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.4,
+    Y=2.4, angle=None, unlocked=False), end=Position(X=-2.4, Y=-2.4, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.4, Y=-2.4, angle=None, unlocked=False),
+    end=Position(X=2.4, Y=2.4, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.4, Y=2.4, angle=None, unlocked=False), end=Position(X=-2.4,
+    Y=2.4, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.9,
+    Y=-1.9, angle=None, unlocked=False), end=Position(X=1.9, Y=-1.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.9, Y=1.9, angle=None, unlocked=False),
+    end=Position(X=-1.9, Y=-1.9, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.9, Y=-1.9, angle=None, unlocked=False), end=Position(X=1.9,
+    Y=1.9, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.9,
+    Y=1.9, angle=None, unlocked=False), end=Position(X=-1.9, Y=1.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-TPC-3816.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''custom'', position=Position(X=0,
+    Y=-1.75, angle=None, unlocked=False), locked=False, size=Position(X=0.7, Y=0.7,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=2, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=2.15,
+    Y=1.2, angle=None, unlocked=False), Position(X=1.177922, Y=1.2, angle=None, unlocked=False),
+    Position(X=1.064578, Y=1.003895, angle=None, unlocked=False), Position(X=0.918917,
+    Y=0.830439, angle=None, unlocked=False), Position(X=0.745359, Y=0.684899, angle=None,
+    unlocked=False), Position(X=0.549174, Y=0.571693, angle=None, unlocked=False),
+    Position(X=0.336318, Y=0.494257, angle=None, unlocked=False), Position(X=0.113252,
+    Y=0.454942, angle=None, unlocked=False), Position(X=-0.113252, Y=0.454942, angle=None,
+    unlocked=False), Position(X=-0.336318, Y=0.494257, angle=None, unlocked=False),
+    Position(X=-0.549174, Y=0.571693, angle=None, unlocked=False), Position(X=-0.745359,
+    Y=0.684899, angle=None, unlocked=False), Position(X=-0.918917, Y=0.830439, angle=None,
+    unlocked=False), Position(X=-1.064578, Y=1.003895, angle=None, unlocked=False),
+    Position(X=-1.177922, Y=1.2, angle=None, unlocked=False), Position(X=-2.15, Y=1.2,
+    angle=None, unlocked=False), Position(X=-2.15, Y=-0.4, angle=None, unlocked=False),
+    Position(X=2.15, Y=-0.4, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)]), Pad(number=''2'', type=''smd'', shape=''custom'',
+    position=Position(X=0, Y=1.75, angle=None, unlocked=False), locked=False, size=Position(X=0.7,
+    Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=2, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=-1.064578,
+    Y=-1.003895, angle=None, unlocked=False), Position(X=-0.918917, Y=-0.830439, angle=None,
+    unlocked=False), Position(X=-0.745359, Y=-0.684899, angle=None, unlocked=False),
+    Position(X=-0.549174, Y=-0.571693, angle=None, unlocked=False), Position(X=-0.336318,
+    Y=-0.494257, angle=None, unlocked=False), Position(X=-0.113252, Y=-0.454942, angle=None,
+    unlocked=False), Position(X=0.113252, Y=-0.454942, angle=None, unlocked=False),
+    Position(X=0.336318, Y=-0.494257, angle=None, unlocked=False), Position(X=0.549174,
+    Y=-0.571693, angle=None, unlocked=False), Position(X=0.745359, Y=-0.684899, angle=None,
+    unlocked=False), Position(X=0.918917, Y=-0.830439, angle=None, unlocked=False),
+    Position(X=1.064578, Y=-1.003895, angle=None, unlocked=False), Position(X=1.177922,
+    Y=-1.2, angle=None, unlocked=False), Position(X=2.15, Y=-1.2, angle=None, unlocked=False),
+    Position(X=2.15, Y=0.4, angle=None, unlocked=False), Position(X=-2.15, Y=0.4,
+    angle=None, unlocked=False), Position(X=-2.15, Y=-1.2, angle=None, unlocked=False),
+    Position(X=-1.177922, Y=-1.2, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''L_Wuerth_WE-TPC-3816'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: wurth wuerth smd inductor
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

@@ -1,0 +1,168 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: wuerth_wr_wtb_64800511622_1x05_p1_50mm_vertical
+description_main: connector_wuerth
+footprint_id: eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800511622_1x05_p1_50mm_vertical
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Wuerth WR-WTB series connector, 64800511622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf),
+    generated with kicad-footprint-generator
+  entryName: Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-1.91, Y=-1.71, angle=None, unlocked=False),
+    end=Position(X=-1.91, Y=-0.46, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.61, Y=-1.41, angle=None, unlocked=False),
+    end=Position(X=-1.61, Y=2.31, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.61, Y=-0.35, angle=None, unlocked=False),
+    end=Position(X=-1.41, Y=-0.35, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.61, Y=2.31, angle=None, unlocked=False),
+    end=Position(X=7.61, Y=2.31, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.41, Y=-1.21, angle=None, unlocked=False), end=Position(X=7.41,
+    Y=-1.21, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.41,
+    Y=-0.35, angle=None, unlocked=False), end=Position(X=-1.41, Y=-1.21, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.41, Y=-0.35,
+    angle=None, unlocked=False), end=Position(X=-1.41, Y=0.35, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.41, Y=0.35, angle=None,
+    unlocked=False), end=Position(X=-1.61, Y=0.35, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.41, Y=0.35, angle=None, unlocked=False),
+    end=Position(X=-1.41, Y=2.11, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.41, Y=2.11, angle=None, unlocked=False),
+    end=Position(X=7.41, Y=2.11, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.66, Y=-1.71, angle=None, unlocked=False), end=Position(X=-1.91,
+    Y=-1.71, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.41,
+    Y=-1.21, angle=None, unlocked=False), end=Position(X=7.41, Y=-0.35, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.41, Y=-0.35,
+    angle=None, unlocked=False), end=Position(X=7.41, Y=0.35, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=7.41, Y=-0.35, angle=None,
+    unlocked=False), end=Position(X=7.61, Y=-0.35, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=7.41, Y=0.35, angle=None, unlocked=False),
+    end=Position(X=7.61, Y=0.35, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=7.41, Y=2.11, angle=None, unlocked=False), end=Position(X=7.41,
+    Y=0.35, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.61,
+    Y=-1.41, angle=None, unlocked=False), end=Position(X=-1.61, Y=-1.41, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.61, Y=2.31,
+    angle=None, unlocked=False), end=Position(X=7.61, Y=-1.41, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2, Y=-1.8, angle=None, unlocked=False),
+    end=Position(X=-2, Y=2.7, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2, Y=2.7, angle=None, unlocked=False), end=Position(X=8,
+    Y=2.7, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=8,
+    Y=-1.8, angle=None, unlocked=False), end=Position(X=-2, Y=-1.8, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=8, Y=2.7, angle=None, unlocked=False),
+    end=Position(X=8, Y=-1.8, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.5, Y=-1.3, angle=None, unlocked=False), end=Position(X=-1.5,
+    Y=2.2, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.5,
+    Y=2.2, angle=None, unlocked=False), end=Position(X=7.5, Y=2.2, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1, Y=-1.3, angle=None, unlocked=False),
+    end=Position(X=0, Y=-0.3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=-0.3, angle=None, unlocked=False), end=Position(X=1,
+    Y=-1.3, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.5,
+    Y=-1.3, angle=None, unlocked=False), end=Position(X=-1.5, Y=-1.3, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.5, Y=2.2, angle=None,
+    unlocked=False), end=Position(X=7.5, Y=-1.3, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=3,
+    Y=1.5, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''roundrect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.17, Y=1.87,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.87,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=0.213675, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''thru_hole'', shape=''oval'', position=Position(X=1.5,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.17, Y=1.87,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.87,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''oval'', position=Position(X=3, Y=0,
+    angle=None, unlocked=False), locked=False, size=Position(X=1.17, Y=1.87, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.87, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''4'', type=''thru_hole'', shape=''oval'', position=Position(X=4.5,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.17, Y=1.87,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.87,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''5'', type=''thru_hole'', shape=''oval'', position=Position(X=6, Y=0,
+    angle=None, unlocked=False), locked=False, size=Position(X=1.17, Y=1.87, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.87, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: connector Wuerth WR-WTB vertical
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

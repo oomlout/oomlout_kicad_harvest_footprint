@@ -1,0 +1,201 @@
+(footprint "L_Cenker_CKCS252010"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, Cenker, CKCS252010, 2.5x2.0x1.05mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf")
+	(tags "Inductor ckcs")
+	(property "Reference" "REF**"
+		(at 0 -2.25 0)
+		(layer "F.SilkS")
+		(uuid "b0776c2f-276b-493d-b4eb-71cf2219e71d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Cenker_CKCS252010"
+		(at 0 2.25 0)
+		(layer "F.Fab")
+		(uuid "c850ddb1-01bb-49af-88b5-86a918186d18")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1ea72e2-15b1-4baf-baed-4020fdeb025d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "987e993a-2023-43d7-9f1d-b8cc4940e0f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3856666-203b-4741-a585-006cb7b1de8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.51 -1.51)
+		(end 1.51 -1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5e997a0-c228-454e-b340-85235720aba8")
+	)
+	(fp_line
+		(start -1.51 1.51)
+		(end 1.51 1.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9639ba2f-8921-4285-995a-6904ad9c6c38")
+	)
+	(fp_line
+		(start -1.85 -1.5)
+		(end -1.85 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4cb2389d-d6ee-4343-83f9-14a3763d574d")
+	)
+	(fp_line
+		(start -1.85 1.5)
+		(end 1.85 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "de795e17-8b4c-49dc-83a8-ad1e4d5ee441")
+	)
+	(fp_line
+		(start 1.85 -1.5)
+		(end -1.85 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e615cd0-428c-4f12-8f44-22721663cf70")
+	)
+	(fp_line
+		(start 1.85 1.5)
+		(end 1.85 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "95e10404-feae-45f0-8602-af75f09b9273")
+	)
+	(fp_line
+		(start -1.25 -1)
+		(end -1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cf21e7f1-7cd6-42d1-8860-3b0acba2226a")
+	)
+	(fp_line
+		(start -1.25 1)
+		(end 1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "28cf6cba-35d3-4f11-8946-c1c771362a08")
+	)
+	(fp_line
+		(start 1.25 -1)
+		(end -1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1c9672db-ebe2-4e8b-8ef1-d79e4670ed61")
+	)
+	(fp_line
+		(start 1.25 1)
+		(end 1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82749ced-b031-4613-a07b-a8d58e9f3a1b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "c7aa43b4-2e80-400f-aa2c-19862f844c34")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.9 0)
+		(size 1.4 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8dfc4420-422e-4429-83b0-40aa7bae4d79")
+	)
+	(pad "2" smd rect
+		(at 0.9 0)
+		(size 1.4 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d1335eea-3fde-4536-8954-ab9f934f9e53")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Cenker_CKCS252010.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

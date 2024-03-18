@@ -1,0 +1,182 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: sw_push_1p1t_no_led_e_switch_tl1250
+description_main: button_switch_tht
+footprint_id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf
+  entryName: SW_Push_1P1T_NO_LED_E-Switch_TL1250
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-4.4, Y=-1.3, angle=None, unlocked=False),
+    end=Position(X=-4.4, Y=0.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.4, Y=5.8, angle=None, unlocked=False), end=Position(X=-4.4,
+    Y=4.4, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0,
+    Y=-2.05, angle=None, unlocked=False), end=Position(X=6.2, Y=-2.05, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=0, Y=-1.3, angle=None,
+    unlocked=False), end=Position(X=-4.4, Y=-1.3, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0, Y=-1.3, angle=None, unlocked=False),
+    end=Position(X=0, Y=-2.05, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=5.8, angle=None, unlocked=False), end=Position(X=-4.4,
+    Y=5.8, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0,
+    Y=6.55, angle=None, unlocked=False), end=Position(X=0, Y=5.8, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=6.2, Y=-2.05, angle=None,
+    unlocked=False), end=Position(X=6.2, Y=6.55, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=6.2, Y=6.55, angle=None, unlocked=False),
+    end=Position(X=0, Y=6.55, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-10.95, Y=6.65, angle=None, unlocked=False), end=Position(X=-10.95,
+    Y=-2.15, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.3,
+    Y=-2.15, angle=None, unlocked=False), end=Position(X=-10.95, Y=-2.15, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.3, Y=-2.15,
+    angle=None, unlocked=False), end=Position(X=6.3, Y=6.65, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=6.3, Y=6.65, angle=None, unlocked=False),
+    end=Position(X=-10.95, Y=6.65, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-10.7, Y=-0.25, angle=None, unlocked=False),
+    end=Position(X=-10.7, Y=4.75, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-10.7, Y=4.75, angle=None, unlocked=False), end=Position(X=-7.2,
+    Y=4.75, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-7.2,
+    Y=-1.75, angle=None, unlocked=False), end=Position(X=-7.2, Y=-0.25, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-7.2, Y=-0.25,
+    angle=None, unlocked=False), end=Position(X=-10.7, Y=-0.25, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-7.2, Y=4.75, angle=None,
+    unlocked=False), end=Position(X=-7.2, Y=6.25, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-7.2, Y=6.25, angle=None, unlocked=False),
+    end=Position(X=-4.9, Y=6.25, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.9, Y=-1.75, angle=None, unlocked=False), end=Position(X=-7.2,
+    Y=-1.75, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-4.9,
+    Y=0.25, angle=None, unlocked=False), end=Position(X=-4.25, Y=0.25, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-4.9, Y=4.25,
+    angle=None, unlocked=False), end=Position(X=-4.25, Y=4.25, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-4.9, Y=6.25, angle=None,
+    unlocked=False), end=Position(X=-4.9, Y=-1.75, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-4.25, Y=-1.15, angle=None, unlocked=False),
+    end=Position(X=-4.25, Y=5.65, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.25, Y=5.65, angle=None, unlocked=False), end=Position(X=0.15,
+    Y=5.65, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.15,
+    Y=-1.9, angle=None, unlocked=False), end=Position(X=0.15, Y=-1.15, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.15, Y=-1.15,
+    angle=None, unlocked=False), end=Position(X=-4.25, Y=-1.15, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.15, Y=5.65, angle=None,
+    unlocked=False), end=Position(X=0.15, Y=6.4, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.15, Y=6.4, angle=None, unlocked=False),
+    end=Position(X=6.05, Y=6.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=6.05, Y=-1.9, angle=None, unlocked=False), end=Position(X=0.15,
+    Y=-1.9, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.05,
+    Y=6.4, angle=None, unlocked=False), end=Position(X=6.05, Y=-1.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=2.5,
+    Y=3.25, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_1P1T_NO_LED_E-Switch_TL1250.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''1'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=5, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.7,
+    Y=1.7, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=4.5, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''thru_hole'', shape=''circle'', position=Position(X=5,
+    Y=4.5, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=2.5,
+    Y=-0.9, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''4'', type=''thru_hole'', shape=''circle'', position=Position(X=2.5,
+    Y=5.4, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''SW_Push_1P1T_NO_LED_E-Switch_TL1250'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: led push switch right angle
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

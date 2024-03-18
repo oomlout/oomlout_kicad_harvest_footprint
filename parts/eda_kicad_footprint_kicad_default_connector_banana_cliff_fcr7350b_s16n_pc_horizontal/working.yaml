@@ -1,0 +1,131 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: banana_cliff_fcr7350b_s16n_pc_horizontal
+description_main: connector
+footprint_id: eda_kicad_footprint_kicad_default_connector_banana_cliff_fcr7350b_s16n_pc_horizontal
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Cliff single 4mm shrouded banana panel socket, through-hole, horizontal,
+    black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+  entryName: Banana_Cliff_FCR7350B_S16N-PC_Horizontal
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-13.6, Y=-6.1, angle=None, unlocked=False),
+    end=Position(X=-13.6, Y=6.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-13.6, Y=6.1, angle=None, unlocked=False), end=Position(X=-7,
+    Y=6.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-7,
+    Y=-6.1, angle=None, unlocked=False), end=Position(X=-13.6, Y=-6.1, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-5.7, Y=6.1,
+    angle=None, unlocked=False), end=Position(X=3.2, Y=6.1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=3.2, Y=-6.1, angle=None, unlocked=False),
+    end=Position(X=-5.7, Y=-6.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=4.4, Y=6.1, angle=None, unlocked=False), end=Position(X=5.6,
+    Y=6.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.6,
+    Y=-6.1, angle=None, unlocked=False), end=Position(X=4.4, Y=-6.1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.6, Y=6.1, angle=None, unlocked=False),
+    end=Position(X=5.6, Y=-6.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpRect(start=Position(X=6, Y=6.5, angle=None, unlocked=False), end=Position(X=-28,
+    Y=-6.5, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), fill=''none'', locked=False, tstamp=None), FpLine(start=Position(X=-27.5,
+    Y=0, angle=None, unlocked=False), end=Position(X=-21, Y=0, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-21, Y=0, angle=None, unlocked=False),
+    end=Position(X=-22, Y=-1, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-21, Y=0, angle=None, unlocked=False), end=Position(X=-22,
+    Y=1, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpRect(start=Position(X=-27.5,
+    Y=-2, angle=None, unlocked=False), end=Position(X=-7.5, Y=2, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpRect(start=Position(X=-13.5, Y=-6,
+    angle=None, unlocked=False), end=Position(X=5.5, Y=6, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpRect(start=Position(X=-13.5, Y=-5.5,
+    angle=None, unlocked=False), end=Position(X=-27.5, Y=5.5, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'',
+    position=Position(X=0, Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False,
+    effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15, bold=False,
+    italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector.3dshapes/Banana_Cliff_FCR7350B_S16N-PC_Horizontal.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=-6.36,
+    Y=-5.08, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None,
+    offset=None), layers=[''F&B.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=-6.36,
+    Y=5.08, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None,
+    offset=None), layers=[''F&B.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=3.8,
+    Y=-5.08, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None,
+    offset=None), layers=[''F&B.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=3.8,
+    Y=5.08, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None,
+    offset=None), layers=[''F&B.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''1'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3.5, Y=3.5, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=2.2, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Banana_Cliff_FCR7350B_S16N-PC_Horizontal'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: cliff 4mm socket jack banana black
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

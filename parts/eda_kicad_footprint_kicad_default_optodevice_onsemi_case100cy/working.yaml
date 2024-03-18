@@ -1,0 +1,113 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: onsemi_case100cy
+description_main: optodevice
+footprint_id: eda_kicad_footprint_kicad_default_optodevice_onsemi_case100cy
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: OnSemi CASE 100CY, light-direction upwards, see http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF
+  entryName: OnSemi_CASE100CY
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-1.7, Y=1.4, angle=None, unlocked=False),
+    end=Position(X=-1.7, Y=-1.67, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.7, Y=1.4, angle=None, unlocked=False),
+    end=Position(X=1.7, Y=-1.4, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-1.61, Y=-2.23, angle=None,
+    unlocked=False), Position(X=-1.89, Y=-2.23, angle=None, unlocked=False), Position(X=-1.61,
+    Y=-2.51, angle=None, unlocked=False), Position(X=-1.61, Y=-2.23, angle=None, unlocked=False)],
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''solid'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.85, Y=-3.08, angle=None,
+    unlocked=False), end=Position(X=-1.85, Y=3.08, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.85, Y=-3.08, angle=None, unlocked=False),
+    end=Position(X=1.85, Y=-3.08, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.85, Y=3.08, angle=None, unlocked=False),
+    end=Position(X=-1.85, Y=3.08, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.85, Y=3.08, angle=None, unlocked=False),
+    end=Position(X=1.85, Y=-3.08, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.6, Y=-0.8, angle=None, unlocked=False),
+    end=Position(X=-1.1, Y=-1.3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.6, Y=1.3, angle=None, unlocked=False), end=Position(X=-1.6,
+    Y=-0.8, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.1,
+    Y=-1.3, angle=None, unlocked=False), end=Position(X=1.6, Y=-1.3, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.6, Y=-1.3, angle=None, unlocked=False),
+    end=Position(X=1.6, Y=1.3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.6, Y=1.3, angle=None, unlocked=False), end=Position(X=-1.6,
+    Y=1.3, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=0.2, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=0.75,
+    width=0.75, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/OptoDevice.3dshapes/OnSemi_CASE100CY.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-0.9,
+    Y=-2, angle=None, unlocked=False), locked=False, size=Position(X=0.79, Y=1.66,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=-0.9, Y=2, angle=None, unlocked=False), locked=False, size=Position(X=0.79,
+    Y=1.66, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''3'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.9, Y=2, angle=None, unlocked=False), locked=False, size=Position(X=0.79,
+    Y=1.66, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''4'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.9, Y=-2, angle=None, unlocked=False), locked=False, size=Position(X=0.79,
+    Y=1.66, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''OnSemi_CASE100CY'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: refective opto couple photo coupler
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

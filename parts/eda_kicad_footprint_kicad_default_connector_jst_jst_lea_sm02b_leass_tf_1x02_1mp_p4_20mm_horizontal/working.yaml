@@ -1,0 +1,163 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: jst_lea_sm02b_leass_tf_1x02_1mp_p4_20mm_horizontal
+description_main: connector_jst
+footprint_id: eda_kicad_footprint_kicad_default_connector_jst_jst_lea_sm02b_leass_tf_1x02_1mp_p4_20mm_horizontal
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: JST LEA series connector, SM02B-LEASS-TF (http://www.jst-mfg.com/product/pdf/eng/eLEA.pdf),
+    generated with kicad-footprint-generator
+  entryName: JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-4.16, Y=-1.385, angle=None, unlocked=False),
+    end=Position(X=-2.885, Y=-1.385, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-4.16, Y=1.215, angle=None, unlocked=False),
+    end=Position(X=-4.16, Y=-1.385, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.99, Y=3.535, angle=None, unlocked=False),
+    end=Position(X=-2.74, Y=3.535, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.885, Y=-1.385, angle=None, unlocked=False),
+    end=Position(X=-2.885, Y=-3.225, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.74, Y=3.135, angle=None, unlocked=False),
+    end=Position(X=2.74, Y=3.135, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.74, Y=3.535, angle=None, unlocked=False),
+    end=Position(X=-2.74, Y=3.135, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.74, Y=3.135, angle=None, unlocked=False),
+    end=Position(X=2.74, Y=3.535, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.74, Y=3.535, angle=None, unlocked=False),
+    end=Position(X=2.99, Y=3.535, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.16, Y=-1.385, angle=None, unlocked=False),
+    end=Position(X=2.885, Y=-1.385, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.16, Y=1.215, angle=None, unlocked=False),
+    end=Position(X=4.16, Y=-1.385, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-4.6, Y=-3.72, angle=None, unlocked=False),
+    end=Position(X=-4.6, Y=3.92, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.6, Y=3.92, angle=None, unlocked=False), end=Position(X=4.6,
+    Y=3.92, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.6,
+    Y=-3.72, angle=None, unlocked=False), end=Position(X=-4.6, Y=-3.72, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.6, Y=3.92,
+    angle=None, unlocked=False), end=Position(X=4.6, Y=-3.72, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-4.05, Y=-1.275, angle=None,
+    unlocked=False), end=Position(X=-4.05, Y=3.425, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-4.05, Y=-1.275, angle=None, unlocked=False),
+    end=Position(X=-2.55, Y=-1.275, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-4.05, Y=3.425, angle=None, unlocked=False),
+    end=Position(X=-2.85, Y=3.425, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.85, Y=3.025, angle=None, unlocked=False), end=Position(X=2.85,
+    Y=3.025, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.85,
+    Y=3.425, angle=None, unlocked=False), end=Position(X=-2.85, Y=3.025, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.55, Y=-2.875,
+    angle=None, unlocked=False), end=Position(X=2.55, Y=-2.875, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.55, Y=-1.275, angle=None,
+    unlocked=False), end=Position(X=-2.55, Y=-2.875, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.35, Y=-4.073553, angle=None,
+    unlocked=False), end=Position(X=-2.1, Y=-3.72, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.1, Y=-3.72, angle=None, unlocked=False),
+    end=Position(X=-1.85, Y=-4.073553, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.85, Y=-4.073553, angle=None, unlocked=False),
+    end=Position(X=-2.35, Y=-4.073553, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.55, Y=-2.875, angle=None, unlocked=False),
+    end=Position(X=2.55, Y=-1.275, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.55, Y=-1.275, angle=None, unlocked=False), end=Position(X=4.05,
+    Y=-1.275, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.85,
+    Y=3.025, angle=None, unlocked=False), end=Position(X=2.85, Y=3.425, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.85, Y=3.425,
+    angle=None, unlocked=False), end=Position(X=4.05, Y=3.425, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.05, Y=-1.275, angle=None,
+    unlocked=False), end=Position(X=4.05, Y=3.425, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-2.1,
+    Y=-2.325, angle=None, unlocked=False), locked=False, size=Position(X=1.05, Y=1.8,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.238095,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=2.1, Y=-2.325, angle=None, unlocked=False), locked=False,
+    size=Position(X=1.05, Y=1.8, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.238095, chamferRatio=None, chamfer=[], net=None, tstamp=None,
+    pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None,
+    solderPasteMarginRatio=None, clearance=None, zoneConnect=None, thermalWidth=None,
+    thermalGap=None, customPadOptions=None, customPadPrimitives=[]), Pad(number=''MP'',
+    type=''smd'', shape=''roundrect'', position=Position(X=-3.675, Y=2.35, angle=None,
+    unlocked=False), locked=False, size=Position(X=0.85, Y=1.75, angle=None, unlocked=False),
+    drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''MP'', type=''smd'', shape=''roundrect'', position=Position(X=3.675,
+    Y=2.35, angle=None, unlocked=False), locked=False, size=Position(X=0.85, Y=1.75,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: connector JST LEA horizontal
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

@@ -1,0 +1,99 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: cp_eia_3528_15_avx_h
+description_main: capacitor_tantalum_smd
+footprint_id: eda_kicad_footprint_kicad_default_capacitor_tantalum_smd_cp_eia_3528_15_avx_h
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: 'Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body
+    size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf),
+    generated with kicad-footprint-generator'
+  entryName: CP_EIA-3528-15_AVX-H
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2.46, Y=-1.51, angle=None, unlocked=False),
+    end=Position(X=-2.46, Y=1.51, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.46, Y=1.51, angle=None, unlocked=False),
+    end=Position(X=1.75, Y=1.51, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.75, Y=-1.51, angle=None, unlocked=False), end=Position(X=-2.46,
+    Y=-1.51, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.45,
+    Y=-1.65, angle=None, unlocked=False), end=Position(X=2.45, Y=-1.65, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.45, Y=1.65,
+    angle=None, unlocked=False), end=Position(X=-2.45, Y=-1.65, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.45, Y=-1.65, angle=None,
+    unlocked=False), end=Position(X=2.45, Y=1.65, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.45, Y=1.65, angle=None, unlocked=False),
+    end=Position(X=-2.45, Y=1.65, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.75, Y=-0.7, angle=None, unlocked=False),
+    end=Position(X=-1.75, Y=1.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.75, Y=1.4, angle=None, unlocked=False), end=Position(X=1.75,
+    Y=1.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.05,
+    Y=-1.4, angle=None, unlocked=False), end=Position(X=-1.75, Y=-0.7, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.75, Y=-1.4,
+    angle=None, unlocked=False), end=Position(X=-1.05, Y=-1.4, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.75, Y=1.4, angle=None, unlocked=False),
+    end=Position(X=1.75, Y=-1.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0, Y=0, angle=0,
+    unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=0.88, width=0.88, thickness=0.13, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3528-15_AVX-H.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-1.5375,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.325, Y=2.35,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.188679,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=1.5375, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.325,
+    Y=2.35, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.188679,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''CP_EIA-3528-15_AVX-H'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: capacitor tantalum
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

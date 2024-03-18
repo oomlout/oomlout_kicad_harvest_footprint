@@ -1,0 +1,106 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: solderwire_2sqmm_1x01_d2mm_od3_9mm_relief
+description_main: connector_wire
+footprint_id: eda_kicad_footprint_kicad_default_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm_relief
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: "Soldered wire connection with feed through strain relief, for a single\
+    \ 2 mm\xC2\xB2 wire, reinforced insulation, conductor diameter 2mm, outer diameter\
+    \ 3.9mm, size source Multi-Contact FLEXI-xV 2.0 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf),\
+    \ bend radius 3 times outer diameter, generated with kicad-footprint-generator"
+  entryName: SolderWire-2sqmm_1x01_D2mm_OD3.9mm_Relief
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2.06, Y=2.21, angle=None, unlocked=False),
+    end=Position(X=-2.06, Y=21.34, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.06, Y=2.21, angle=None, unlocked=False),
+    end=Position(X=2.06, Y=21.34, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.7, Y=20.7, angle=None, unlocked=False),
+    end=Position(X=-2.7, Y=26.1, angle=None, unlocked=False), layer=''B.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.7, Y=26.1, angle=None, unlocked=False), end=Position(X=2.7,
+    Y=26.1, angle=None, unlocked=False), layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.7,
+    Y=20.7, angle=None, unlocked=False), end=Position(X=-2.7, Y=20.7, angle=None,
+    unlocked=False), layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.7, Y=26.1,
+    angle=None, unlocked=False), end=Position(X=2.7, Y=20.7, angle=None, unlocked=False),
+    layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.7, Y=-2.45, angle=None,
+    unlocked=False), end=Position(X=-2.7, Y=26.1, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.7, Y=26.1, angle=None, unlocked=False),
+    end=Position(X=2.7, Y=26.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.7, Y=-2.45, angle=None, unlocked=False), end=Position(X=-2.7,
+    Y=-2.45, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.7,
+    Y=26.1, angle=None, unlocked=False), end=Position(X=2.7, Y=-2.45, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.95, Y=0, angle=None,
+    unlocked=False), end=Position(X=-1.95, Y=23.4, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.95, Y=0, angle=None, unlocked=False),
+    end=Position(X=1.95, Y=23.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpCircle(center=Position(X=0, Y=0, angle=None, unlocked=False), end=Position(X=1.95,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), fill=''none'', locked=False, tstamp=None), FpCircle(center=Position(X=0,
+    Y=23.4, angle=None, unlocked=False), end=Position(X=1.95, Y=23.4, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), fill=''none'', locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=11.7, angle=90, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-2sqmm_1x01_D2mm_OD3.9mm_Relief.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=23.4, angle=None, unlocked=False), locked=False, size=Position(X=4.4, Y=4.4,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=4.4, width=None,
+    offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''1'', type=''thru_hole'', shape=''roundrect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3.9, Y=3.9, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=2.5, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=0.064103, chamferRatio=None, chamfer=[], net=None, tstamp=None,
+    pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None,
+    solderPasteMarginRatio=None, clearance=None, zoneConnect=None, thermalWidth=None,
+    thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''SolderWire-2sqmm_1x01_D2mm_OD3.9mm_Relief'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: connector wire 2sqmm strain-relief
+  tedit: 65f83759
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

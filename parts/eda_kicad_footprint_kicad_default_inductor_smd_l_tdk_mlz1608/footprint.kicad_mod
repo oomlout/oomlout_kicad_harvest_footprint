@@ -1,0 +1,201 @@
+(footprint "L_TDK_MLZ1608"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Inductor, TDK, MLZ1608, 1.6x0.8x0.8mm,  \"https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz1608_en.pdf\"")
+	(tags "Inductor MLZ")
+	(property "Reference" "REF**"
+		(at 0 -1.4 0)
+		(layer "F.SilkS")
+		(uuid "d0df0259-fdf9-4da4-9139-b431452cab2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_TDK_MLZ1608"
+		(at 0 1.4 0)
+		(layer "F.Fab")
+		(uuid "be11e8d8-33d7-4c01-8401-a8f389a1618a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e53d463-a3a8-441e-8d11-1ef09fa16130")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a4e6243-f473-4fa0-89b9-66f336abd857")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d65eced4-1023-416e-b557-b15d1d317db5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.06 -0.66)
+		(end 1.06 -0.66)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "196a364c-a191-43c0-af5e-65c75d4b921d")
+	)
+	(fp_line
+		(start -1.06 0.66)
+		(end 1.06 0.66)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "220b6565-25b3-4861-9504-b97edc70b00d")
+	)
+	(fp_line
+		(start -1.05 -0.65)
+		(end -1.05 0.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8a06ff6c-a6d0-45b0-bf40-ddd955280afa")
+	)
+	(fp_line
+		(start -1.05 0.65)
+		(end 1.05 0.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e569d126-b1d0-433c-a09b-cd466dfef9e0")
+	)
+	(fp_line
+		(start 1.05 -0.65)
+		(end -1.05 -0.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d161d2a2-aaa3-4b35-b6b8-d9baea5c1a1e")
+	)
+	(fp_line
+		(start 1.05 0.65)
+		(end 1.05 -0.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d2894756-7830-4f3d-a0f1-51985936be89")
+	)
+	(fp_line
+		(start -0.8 -0.4)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fa64acee-9944-467c-aede-e8d0f1c44343")
+	)
+	(fp_line
+		(start -0.8 0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26caf6f8-5a0d-448e-9b4a-c48a15bea3bc")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8acae884-3762-4ae3-bf19-332c135ffb32")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e590c163-38dc-4b79-a3ea-4d17da4f29c5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "552ec1fb-ba84-4a74-bae7-0ed66019b3d3")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.4 0)
+		(size 0.6 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "de686053-f55e-490f-9c7c-b03efc945fac")
+	)
+	(pad "2" smd rect
+		(at 0.4 0)
+		(size 0.6 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "10f775a5-1c1f-48f9-82ce-c775536a52ad")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_MLZ1608.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
