@@ -11,6 +11,11 @@ def main(**kwargs):
     filters = kwargs.get("filters", [""])
     overwrite = kwargs.get("overwrite", False)
 
+    global typ
+    typ = "surface"
+    #typ = "desktop"
+    set_mouse_positions(typ)
+
     #launch kicad window
     if True:
         launch_kicad()
@@ -50,12 +55,33 @@ def delay(seconds):
             time.sleep(1)
         print()
 
-
+typ = "desktop"
 position_filter_box = [65,114]
 position_first_result = [92,185]
+position_footprint_browser = [330,268]
 position_menu_file = [18,33]
 position_menu_view = [87,33]
 position_menu_3d_view = [87,33]
+
+
+def set_mouse_positions(typ):
+    global position_filter_box, position_first_result, position_menu_file, position_menu_view, position_menu_3d_view, position_footprint_browser
+
+    if typ == "desktop":
+        position_filter_box = [65,114]
+        position_first_result = [92,185]
+        position_footprint_browser = [330,268]
+        position_menu_file = [18,33]
+        position_menu_view = [87,33]
+        position_menu_3d_view = [87,33]
+    elif typ == "surface":
+        position_filter_box = [53,115]
+        position_first_result = [110,157]
+        position_footprint_browser = [315,204]
+        position_menu_file = [18,33]
+        position_menu_view = [87,33]
+        position_menu_3d_view = [87,33]
+
 
 def harvest_footprint_image(footprint, overwrite):
 
@@ -116,8 +142,9 @@ def export_3d_view(footprint, folder_full, overwrite):
         pyautogui.typewrite("3")
         delay(5)
         #maximize window
-        pyautogui.hotkey('win', 'up')
-        delay(2)
+        if typ == "desktop":
+            pyautogui.hotkey('win', 'up')
+            delay(2)
 
         views = ["top", "bottom", "iso"]
 
@@ -269,12 +296,13 @@ def export_view_as_png(footprint, folder_full, overwrite):
 
 def lauch_footprint_browser():
     print("Launching footprint browser")
-    location  = [330,268]
-    pyautogui.click(location)
+    location  = position_footprint_browser
+    pyautogui.click(location, duration=1)
     delay(15)
     #maximize current window
-    pyautogui.hotkey('win', 'up')
-    delay(2)
+    if typ == "desktop":
+        pyautogui.hotkey('win', 'up')
+        delay(2)
     
 
 def launch_kicad():
@@ -284,8 +312,9 @@ def launch_kicad():
     os.system(f'start "" "{app_kicad_8}"')
     delay(10)
     #maximize window
-    pyautogui.hotkey('win', 'up')
-    delay(2)
+    if typ == "desktop":
+        pyautogui.hotkey('win', 'up')
+        delay(2)
 
 def sanitize(string):
     
