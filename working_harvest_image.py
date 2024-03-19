@@ -28,15 +28,30 @@ def main(**kwargs):
     for dir in os.listdir(folder_footprints):
         list_footprint.append(dir)
 
+    count = 1
+
     #go through each footprint
     for filter in filters:        
         for footprint in list_footprint:
             #open the footprint in kicad
             print(f"Opening {footprint}")
             if filter in footprint:
-                harvest_footprint_image(footprint, overwrite)
+                return_value = harvest_footprint_image(footprint, overwrite)
+                count += return_value
+                print(f"Harvested {count} footprints")
+
+            if count % 20 == 0:
+                print("restaring kicad")    
+                close_kicad()
+                launch_kicad()
+                lauch_footprint_browser()
+                count = 1
     
-  
+def close_kicad():
+    print("Closing KiCad")
+    #kill all processes connected to kicad
+    os.system("taskkill /f /im kicad.exe")
+    delay(10)
 
 def delay(seconds):
     #if seconds is greater than five print the number of dots were waiting for, then print a dot for each second we wait
@@ -85,7 +100,7 @@ def set_mouse_positions(typ):
 
 def harvest_footprint_image(footprint, overwrite):
 
-
+    return_value = 0
 
     print(f"Harvesting {footprint}")
 
@@ -108,10 +123,13 @@ def harvest_footprint_image(footprint, overwrite):
         #click on the filter box
         pyautogui.click(position_filter_box)
         delay(1)
+        pyautogui.click(position_filter_box)
+        delay(1)
 
         #select all
         pyautogui.hotkey('ctrl', 'a')
         delay(1)
+
         #delete
         pyautogui.press('delete')
         delay(1)
@@ -129,6 +147,9 @@ def harvest_footprint_image(footprint, overwrite):
         export_kicad_mod(footprint, folder_full, overwrite)
         export_view_as_png(footprint, folder_full, overwrite)
         export_3d_view(footprint, folder_full, overwrite)
+
+        return_value = 1
+    return return_value
 
 def export_3d_view(footprint, folder_full, overwrite):
     print(f"Exporting 3d view {footprint}")
@@ -187,11 +208,12 @@ def export_3d_view(footprint, folder_full, overwrite):
                         delay(1)
 
                 #export
+                delay(2)
                 pyautogui.click(position_menu_file)
-                delay(1)
+                delay(2)
                 #down one
                 pyautogui.typewrite(["down"])
-                delay(1)
+                delay(2)
                 #send enter
                 pyautogui.typewrite(["enter"])
                 delay(5)
@@ -219,7 +241,7 @@ def export_3d_view(footprint, folder_full, overwrite):
         delay(1)
         #send enter
         pyautogui.typewrite(["enter"])
-        delay(5)
+        delay(10)
 
             
 
