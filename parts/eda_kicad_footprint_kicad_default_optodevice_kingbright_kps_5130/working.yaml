@@ -122,7 +122,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: KPS-5130 photodiode RGB sensor
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

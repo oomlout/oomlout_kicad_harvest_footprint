@@ -96,7 +96,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 5.3mm diameter
     2.2mm Vishay IM-1
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

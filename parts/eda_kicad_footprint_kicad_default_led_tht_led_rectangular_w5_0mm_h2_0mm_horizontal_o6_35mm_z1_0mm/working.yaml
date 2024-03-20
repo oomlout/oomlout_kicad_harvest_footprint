@@ -134,7 +134,7 @@ footprint_string:
   tags: LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED
     center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm
     2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

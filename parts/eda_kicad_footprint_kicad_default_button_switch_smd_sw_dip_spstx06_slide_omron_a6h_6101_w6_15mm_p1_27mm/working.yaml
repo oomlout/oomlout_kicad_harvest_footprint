@@ -331,7 +331,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD DIP Switch SPST Slide 6.15mm 242mil
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

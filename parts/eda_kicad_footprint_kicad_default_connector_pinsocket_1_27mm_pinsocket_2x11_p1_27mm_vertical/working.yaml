@@ -256,7 +256,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole socket strip THT 2x11 1.27mm double row
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

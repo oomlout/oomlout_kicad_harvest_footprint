@@ -71,7 +71,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 5.08mm  length 24mm diameter
     7.5mm Fastron MESC
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

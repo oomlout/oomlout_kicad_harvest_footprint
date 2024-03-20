@@ -451,7 +451,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted socket strip SMD 2x12 1.00mm double row
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

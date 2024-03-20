@@ -122,7 +122,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter
     5.33mm
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

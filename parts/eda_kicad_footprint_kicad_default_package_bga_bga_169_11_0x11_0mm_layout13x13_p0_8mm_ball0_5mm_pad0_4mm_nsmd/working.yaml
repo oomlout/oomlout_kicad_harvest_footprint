@@ -1260,7 +1260,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera UBGA U169 BGA-169
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

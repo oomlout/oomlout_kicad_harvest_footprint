@@ -294,7 +294,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 15-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting
     holes distance 25mm
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

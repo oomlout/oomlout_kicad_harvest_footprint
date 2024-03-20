@@ -203,7 +203,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CR2032 BR2032 BatteryHolder Battery
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

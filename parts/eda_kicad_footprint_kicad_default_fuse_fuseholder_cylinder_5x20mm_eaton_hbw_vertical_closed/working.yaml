@@ -88,7 +88,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: fuse holder vertical 5x20mm
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

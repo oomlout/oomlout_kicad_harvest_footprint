@@ -174,7 +174,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 7Segment LED LTS6760 LTS6780
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

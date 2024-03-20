@@ -111,7 +111,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB PLCC-6 CLP6C-FBK
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -102,7 +102,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB NeoPixel Nano PLCC-4 2020
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

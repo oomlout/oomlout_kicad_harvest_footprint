@@ -222,7 +222,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Double digit seven segment green LED display
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -116,7 +116,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Vishay KBL rectifier diode bridge
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

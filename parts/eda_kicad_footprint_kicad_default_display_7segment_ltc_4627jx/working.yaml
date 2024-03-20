@@ -191,7 +191,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 4 digit 7 segment LED
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

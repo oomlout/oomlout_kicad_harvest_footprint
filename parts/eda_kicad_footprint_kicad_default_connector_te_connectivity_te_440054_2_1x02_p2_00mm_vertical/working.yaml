@@ -111,7 +111,7 @@ footprint_string:
   solderPasteRatio: None
   tags: connector header hdr horizontal vertical shrouded fully-shrounded 440054-2
     2-440054-2 4-440054-2 6-440054-2 2-440054-6 4-440054-6 6-440054-6
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

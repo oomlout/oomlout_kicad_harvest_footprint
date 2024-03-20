@@ -160,7 +160,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: single digit 7 segemnt red/green LED
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

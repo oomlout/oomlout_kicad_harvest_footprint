@@ -205,7 +205,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Choke Coupled Double Inductor SMD Wuerth WE-DD TypM TypS
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

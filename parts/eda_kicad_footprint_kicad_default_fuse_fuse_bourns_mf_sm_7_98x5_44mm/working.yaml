@@ -87,7 +87,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: bourns ptc resettable fuse polyfuse MF-SM MF-SMHT
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

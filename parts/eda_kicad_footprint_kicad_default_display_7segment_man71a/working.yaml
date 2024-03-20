@@ -191,7 +191,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: One digit 7 segment red LED with right dot
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -50,60 +50,65 @@ def harvest_footprint_kiutils(file_footprint):
     print(f"Harvesting {file_footprint}")
     #open the footprint in kicad
     #load the footprint with kiutils
-    footprint = Footprint().from_file(file_footprint)
-    
-    #get library name it is the name of the .pretty folder
-    library_name = os.path.basename(os.path.dirname(file_footprint))    
-    library_name = sanitize(library_name.replace(".pretty", ""))
-
-    footprint_name = os.path.basename(file_footprint)
-    footprint_name = sanitize(footprint_name.replace(".kicad_mod", ""))
-
-    #get the footprint name
-    part_details = {}
-    part_details["description"] = "eda" 
-    part_details["classification"] = "kicad_footprint"
-    part_details["type"] = "kicad_default"
-    part_details["size"] = ""
-    part_details["color"] = ""
-    part_details["description_main"] = library_name
-    part_details["description_extra"] = footprint_name
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
-    part_details["short_name"] = ""
-    
-    param_order = ["description", "classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number", "short_name"]
-
-    footprint_id = ""
-    for param in param_order:
-        footprint_id += part_details[param] + "_"
-    footprint_id = sanitize(footprint_id)   
-
-    part_details["footprint_id"] = footprint_id
-    part_details["id"] = footprint_id
-
-    directory = f"parts/{footprint_id}"
-    os.makedirs(directory, exist_ok=True)
-    
-
+    try: 
+        footprint = Footprint().from_file(file_footprint)
         
-    #copy the footprint kicad_mod file to footprint.kicad_mod
-    os.system(f'copy "{file_footprint}" "{directory}/footprint.kicad_mod"')
-    
-    #make a version of footprint, go through each value and convert it to a string
-    footprint_copy = copy.deepcopy(footprint)
-    for key in footprint_copy.__dict__:
-        if type(footprint_copy.__dict__[key]) is not str:
-            footprint_copy.__dict__[key] = str(footprint_copy.__dict__[key])
-    
-    part_details["footprint_string"] = footprint_copy.__dict__
+        
+        #get library name it is the name of the .pretty folder
+        library_name = os.path.basename(os.path.dirname(file_footprint))    
+        library_name = sanitize(library_name.replace(".pretty", ""))
 
-    #dump part_details to yaml file to working.yaml
-    with open(f"{directory}/working.yaml", "w") as file:
-        yaml.dump(part_details, file)
+        footprint_name = os.path.basename(file_footprint)
+        footprint_name = sanitize(footprint_name.replace(".kicad_mod", ""))
 
-    pass
-    
+        #get the footprint name
+        part_details = {}
+        part_details["description"] = "eda" 
+        part_details["classification"] = "kicad_footprint"
+        part_details["type"] = "kicad_default"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = library_name
+        part_details["description_extra"] = footprint_name
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        
+        param_order = ["description", "classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number", "short_name"]
+
+        footprint_id = ""
+        for param in param_order:
+            footprint_id += part_details[param] + "_"
+        footprint_id = sanitize(footprint_id)   
+
+        part_details["footprint_id"] = footprint_id
+        part_details["id"] = footprint_id
+
+        directory = f"parts/{footprint_id}"
+        os.makedirs(directory, exist_ok=True)
+        
+
+            
+        #copy the footprint kicad_mod file to footprint.kicad_mod
+        os.system(f'copy "{file_footprint}" "{directory}/footprint.kicad_mod"')
+        
+        #make a version of footprint, go through each value and convert it to a string
+        footprint_copy = copy.deepcopy(footprint)
+        for key in footprint_copy.__dict__:
+            if type(footprint_copy.__dict__[key]) is not str:
+                footprint_copy.__dict__[key] = str(footprint_copy.__dict__[key])
+        
+        part_details["footprint_string"] = footprint_copy.__dict__
+
+        #dump part_details to yaml file to working.yaml
+        with open(f"{directory}/working.yaml", "w") as file:
+            yaml.dump(part_details, file)
+
+        pass
+    except Exception as e:
+        print(f"Error loading {file_footprint}")
+        print(e)
+        return    
 
 def lauch_footprint_browser():
     print("Launching footprint browser")

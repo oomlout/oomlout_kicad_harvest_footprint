@@ -146,7 +146,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector wire 0.15sqmm
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

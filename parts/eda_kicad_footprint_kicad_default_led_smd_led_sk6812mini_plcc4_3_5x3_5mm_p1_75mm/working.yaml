@@ -103,7 +103,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB NeoPixel Mini PLCC-4 3535
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

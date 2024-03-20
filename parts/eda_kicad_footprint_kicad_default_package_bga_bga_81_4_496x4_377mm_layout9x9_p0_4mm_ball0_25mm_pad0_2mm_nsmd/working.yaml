@@ -647,7 +647,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera VBGA V81 BGA-81
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

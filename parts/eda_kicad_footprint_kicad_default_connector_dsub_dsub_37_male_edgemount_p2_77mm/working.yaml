@@ -840,7 +840,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 37-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting
     holes distance 63.5mm
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

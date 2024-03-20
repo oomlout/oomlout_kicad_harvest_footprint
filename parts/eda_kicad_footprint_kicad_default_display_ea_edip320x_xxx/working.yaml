@@ -470,7 +470,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LCD display 320x340 RS-232 I2C or SPI
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

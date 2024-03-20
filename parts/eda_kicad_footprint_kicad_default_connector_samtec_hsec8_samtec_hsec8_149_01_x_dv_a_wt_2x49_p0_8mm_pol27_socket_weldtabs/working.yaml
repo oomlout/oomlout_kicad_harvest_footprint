@@ -855,7 +855,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: conn samtec card-edge socket high-speed
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

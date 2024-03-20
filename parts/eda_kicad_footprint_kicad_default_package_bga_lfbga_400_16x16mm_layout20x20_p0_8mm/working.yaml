@@ -2875,7 +2875,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 400 0.8 400-ball FBGA
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

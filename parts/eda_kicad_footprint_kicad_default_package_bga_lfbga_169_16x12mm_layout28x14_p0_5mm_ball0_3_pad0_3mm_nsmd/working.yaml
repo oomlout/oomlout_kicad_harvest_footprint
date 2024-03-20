@@ -1269,7 +1269,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: eMMC Flash LFBGA169
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

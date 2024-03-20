@@ -350,7 +350,7 @@ footprint_string:
   tags: 25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm
     pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 47.1mm mounting-hole-offset
     47.1mm
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

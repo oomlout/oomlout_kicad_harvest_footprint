@@ -242,7 +242,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ethernet 8p8c transformer poe rj45
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

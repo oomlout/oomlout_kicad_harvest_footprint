@@ -89,7 +89,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: inductor TDK VLP smd VLP8040
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -4445,7 +4445,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 624 0.8
-  tedit: 65facd8d
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

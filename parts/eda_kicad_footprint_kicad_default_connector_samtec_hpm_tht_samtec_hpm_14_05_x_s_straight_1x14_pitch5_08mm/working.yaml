@@ -192,7 +192,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Through hole Samtec HPM power header series 3.81mm post length THT 1x14 5.08mm
     single row
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None
