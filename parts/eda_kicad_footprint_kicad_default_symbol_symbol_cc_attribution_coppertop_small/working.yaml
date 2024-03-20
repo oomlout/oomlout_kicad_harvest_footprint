@@ -1,0 +1,59 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_cc_attribution_coppertop_small
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_cc_attribution_coppertop_small
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Creative Commons symbol, CC-BY, copper layer, 5mm
+  entryName: Symbol_CC-Attribution_CopperTop_Small
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpRect(start=Position(X=-0.8, Y=0.2, angle=None, unlocked=False),
+    end=Position(X=0.8, Y=0.4, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0, type=''solid'', color=None), fill=''solid'', locked=False,
+    tstamp=None), FpRect(start=Position(X=-0.6, Y=-0.8, angle=None, unlocked=False),
+    end=Position(X=0.6, Y=0.2, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.4, type=''solid'', color=None), fill=''solid'', locked=False,
+    tstamp=None), FpRect(start=Position(X=-0.45, Y=0, angle=None, unlocked=False),
+    end=Position(X=0.45, Y=1.85, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0, type=''solid'', color=None), fill=''solid'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=0, Y=-1.59, angle=None, unlocked=False),
+    end=Position(X=0.3, Y=-1.59, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.2, type=''solid'', color=None), fill=''solid'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=0.00064, Y=0, angle=None, unlocked=False),
+    end=Position(X=2.50064, Y=0, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.4, type=''default'', color=None), fill=''none'', locked=False,
+    tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_CC-Attribution_CopperTop_Small'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: None
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_cc_attribution_coppertop_small
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

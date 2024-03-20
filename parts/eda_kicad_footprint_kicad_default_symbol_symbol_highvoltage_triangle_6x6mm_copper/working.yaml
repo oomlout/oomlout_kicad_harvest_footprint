@@ -1,0 +1,78 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_highvoltage_triangle_6x6mm_copper
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_highvoltage_triangle_6x6mm_copper
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: High voltage symbol, in triangle, 6x6mm, copper layer
+  entryName: Symbol_HighVoltage_Triangle_6x6mm_Copper
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-3, Y=2.6, angle=None, unlocked=False),
+    end=Position(X=0, Y=-2.6, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.4, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.456839, Y=2.564632, angle=None, unlocked=False), end=Position(X=-2.723161,
+    Y=2.155368, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.28,
+    Y=0.03, angle=None, unlocked=False), end=Position(X=-0.08, Y=0.21, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2, type=''default'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.26, Y=1.36,
+    angle=None, unlocked=False), end=Position(X=0.21, Y=1.46, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.1016, type=''default'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.135, Y=0.295, angle=None,
+    unlocked=False), end=Position(X=0.115, Y=0.465, angle=None, unlocked=False), layer=''F.Cu'',
+    width=None, stroke=Stroke(width=0.2, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.125, Y=-2.14, angle=None, unlocked=False),
+    end=Position(X=0.125, Y=-2.14, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.2, type=''default'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0, Y=-2.6, angle=None, unlocked=False), end=Position(X=3,
+    Y=2.6, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.4,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.466839,
+    Y=2.564632, angle=None, unlocked=False), end=Position(X=2.733161, Y=2.155368,
+    angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3,
+    Y=2.6, angle=None, unlocked=False), end=Position(X=-3, Y=2.6, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.4, type=''solid'', color=None),
+    locked=False, tstamp=None), FpPoly(layer=''F.Cu'', coordinates=[Position(X=-0.321167,
+    Y=0.284, angle=None, unlocked=False), Position(X=0.5255, Y=-0.171083, angle=None,
+    unlocked=False), Position(X=0.04925, Y=1.564583, angle=None, unlocked=False),
+    Position(X=0.292667, Y=1.416417, angle=None, unlocked=False), Position(X=-0.14125,
+    Y=2.062, angle=None, unlocked=False), Position(X=-0.3, Y=1.3, angle=None, unlocked=False),
+    Position(X=-0.130667, Y=1.532834, angle=None, unlocked=False), Position(X=0.070417,
+    Y=0.273417, angle=None, unlocked=False), Position(X=-0.7445, Y=0.707334, angle=None,
+    unlocked=False), Position(X=-0.215334, Y=-1.165916, angle=None, unlocked=False),
+    Position(X=0.30325, Y=-1.165916, angle=None, unlocked=False)], width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), fill=''solid'', locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_HighVoltage_Triangle_6x6mm_Copper'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: warning graphic
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_highvoltage_triangle_6x6mm_copper
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

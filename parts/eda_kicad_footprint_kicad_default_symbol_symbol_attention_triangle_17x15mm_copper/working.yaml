@@ -1,0 +1,76 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_attention_triangle_17x15mm_copper
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_attention_triangle_17x15mm_copper
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Symbol, attention, 17x15mm, copper layer
+  entryName: Symbol_Attention_Triangle_17x15mm_Copper
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-8, Y=6.93, angle=None, unlocked=False),
+    end=Position(X=0, Y=-6.93, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.8, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-7.136839, Y=6.704632, angle=None, unlocked=False), end=Position(X=-7.403161,
+    Y=6.295368, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.27,
+    Y=-6.08, angle=None, unlocked=False), end=Position(X=0.25, Y=-6.08, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2, type=''default'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=7.096839, Y=6.684632,
+    angle=None, unlocked=False), end=Position(X=7.363161, Y=6.275368, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2, type=''default'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=8, Y=6.93, angle=None,
+    unlocked=False), end=Position(X=-8, Y=6.93, angle=None, unlocked=False), layer=''F.Cu'',
+    width=None, stroke=Stroke(width=0.8, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8, Y=6.93, angle=None, unlocked=False),
+    end=Position(X=0, Y=-6.93, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.8, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=8, Y=6.93, angle=None, unlocked=False), end=Position(X=7.55,
+    Y=6.15, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2,
+    type=''default'', color=None), locked=False, tstamp=None), FpCircle(center=Position(X=0,
+    Y=-3, angle=None, unlocked=False), end=Position(X=0.8, Y=-3, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=3,
+    angle=None, unlocked=False), end=Position(X=0.4, Y=3, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=5,
+    angle=None, unlocked=False), end=Position(X=0.8, Y=5, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None), FpPoly(layer=''F.Cu'', coordinates=[Position(X=-0.4,
+    Y=3, angle=None, unlocked=False), Position(X=0.4, Y=3, angle=None, unlocked=False),
+    Position(X=0.8, Y=-3, angle=None, unlocked=False), Position(X=-0.8, Y=-3, angle=None,
+    unlocked=False)], width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_Attention_Triangle_17x15mm_Copper'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: warning graphic
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_attention_triangle_17x15mm_copper
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

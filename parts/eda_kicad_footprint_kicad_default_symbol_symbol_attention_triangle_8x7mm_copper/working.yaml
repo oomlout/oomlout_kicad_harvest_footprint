@@ -1,0 +1,73 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_attention_triangle_8x7mm_copper
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_attention_triangle_8x7mm_copper
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Symbol, Attention, 8x7mm, copper layer
+  entryName: Symbol_Attention_Triangle_8x7mm_Copper
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-4, Y=3.46, angle=None, unlocked=False),
+    end=Position(X=0, Y=-3.46, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-3.51, Y=3.44, angle=None, unlocked=False), end=Position(X=-3.776322,
+    Y=3.030736, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.15,
+    Y=-3.04, angle=None, unlocked=False), end=Position(X=0.16, Y=-3.04, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.2, type=''default'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=0, Y=-3.46, angle=None,
+    unlocked=False), end=Position(X=4, Y=3.46, angle=None, unlocked=False), layer=''F.Cu'',
+    width=None, stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.51, Y=3.44, angle=None, unlocked=False),
+    end=Position(X=3.776322, Y=3.030736, angle=None, unlocked=False), layer=''F.Cu'',
+    width=None, stroke=Stroke(width=0.2, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4, Y=3.46, angle=None, unlocked=False),
+    end=Position(X=-4, Y=3.46, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False, tstamp=None),
+    FpCircle(center=Position(X=0, Y=-1.5, angle=None, unlocked=False), end=Position(X=0.45,
+    Y=-1.5, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0,
+    type=''solid'', color=None), fill=''solid'', locked=False, tstamp=None), FpCircle(center=Position(X=0,
+    Y=1.5, angle=None, unlocked=False), end=Position(X=0.25, Y=1.5, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=2.5,
+    angle=None, unlocked=False), end=Position(X=0.4, Y=2.5, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0, type=''solid'', color=None),
+    fill=''solid'', locked=False, tstamp=None), FpPoly(layer=''F.Cu'', coordinates=[Position(X=-0.25,
+    Y=1.5, angle=None, unlocked=False), Position(X=0.25, Y=1.5, angle=None, unlocked=False),
+    Position(X=0.45, Y=-1.5, angle=None, unlocked=False), Position(X=-0.45, Y=-1.5,
+    angle=None, unlocked=False)], width=None, stroke=Stroke(width=0, type=''solid'',
+    color=None), fill=''solid'', locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_Attention_Triangle_8x7mm_Copper'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: warning graphic
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_attention_triangle_8x7mm_copper
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

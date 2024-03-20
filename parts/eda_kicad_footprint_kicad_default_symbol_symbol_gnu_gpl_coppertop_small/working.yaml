@@ -1,0 +1,186 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_gnu_gpl_coppertop_small
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_gnu_gpl_coppertop_small
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Symbol, GNU-GPL, Copper Top, Small,
+  entryName: Symbol_GNU-GPL_CopperTop_Small
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-4.064, Y=-3.048, angle=None, unlocked=False),
+    end=Position(X=4.064, Y=-3.048, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.064, Y=2.54, angle=None, unlocked=False), end=Position(X=-4.064,
+    Y=-3.048, angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.381,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.40106,
+    Y=-1.50114, angle=None, unlocked=False), end=Position(X=-3.29946, Y=-1.09982,
+    angle=None, unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.381,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.29946,
+    Y=-1.09982, angle=None, unlocked=False), end=Position(X=-2.99974, Y=-0.8001, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.2004, Y=-1.89992,
+    angle=None, unlocked=False), end=Position(X=-3.40106, Y=-1.50114, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.99974, Y=-0.8001,
+    angle=None, unlocked=False), end=Position(X=-2.49936, Y=-0.59944, angle=None,
+    unlocked=False), layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.99974, Y=0.89916,
+    angle=None, unlocked=False), end=Position(X=-2.99974, Y=1.19888, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.99974, Y=1.19888, angle=None,
+    unlocked=False), end=Position(X=-2.90068, Y=1.6002, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.90068, Y=1.6002, angle=None,
+    unlocked=False), end=Position(X=-2.60096, Y=1.80086, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.79908, Y=-2.10058, angle=None,
+    unlocked=False), end=Position(X=-3.2004, Y=-1.89992, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.79908, Y=0.59944, angle=None,
+    unlocked=False), end=Position(X=-2.99974, Y=0.89916, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.60096, Y=0.50038, angle=None,
+    unlocked=False), end=Position(X=-2.79908, Y=0.59944, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.60096, Y=1.80086, angle=None,
+    unlocked=False), end=Position(X=-2.30124, Y=1.89992, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.49936, Y=-0.59944, angle=None,
+    unlocked=False), end=Position(X=-1.80086, Y=-0.8001, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.30124, Y=-2.19964, angle=None,
+    unlocked=False), end=Position(X=-2.79908, Y=-2.10058, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.30124, Y=0.39878, angle=None,
+    unlocked=False), end=Position(X=-2.60096, Y=0.50038, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.30124, Y=1.89992, angle=None,
+    unlocked=False), end=Position(X=-1.99898, Y=1.89992, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.99898, Y=-2.10058, angle=None,
+    unlocked=False), end=Position(X=-2.30124, Y=-2.19964, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.99898, Y=1.89992, angle=None,
+    unlocked=False), end=Position(X=-1.50114, Y=1.80086, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.80086, Y=-1.30048, angle=None,
+    unlocked=False), end=Position(X=-2.30124, Y=-1.30048, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.80086, Y=-0.8001, angle=None,
+    unlocked=False), end=Position(X=-1.80086, Y=-1.30048, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.80086, Y=0.39878, angle=None,
+    unlocked=False), end=Position(X=-2.30124, Y=0.39878, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.6002, Y=0.50038, angle=None,
+    unlocked=False), end=Position(X=-1.80086, Y=0.39878, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.50114, Y=1.30048, angle=None,
+    unlocked=False), end=Position(X=-1.99898, Y=1.30048, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.50114, Y=1.80086, angle=None,
+    unlocked=False), end=Position(X=-1.50114, Y=1.30048, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.8001, Y=-2.19964, angle=None,
+    unlocked=False), end=Position(X=0.70104, Y=-0.70104, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.8001, Y=-0.70104, angle=None,
+    unlocked=False), end=Position(X=-0.8001, Y=-2.19964, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.39878, Y=0.39878, angle=None,
+    unlocked=False), end=Position(X=0.50038, Y=0.39878, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.39878, Y=1.89992, angle=None,
+    unlocked=False), end=Position(X=-0.39878, Y=0.39878, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.50038, Y=0.39878, angle=None,
+    unlocked=False), end=Position(X=0.70104, Y=0.39878, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.50038, Y=1.19888, angle=None,
+    unlocked=False), end=Position(X=-0.39878, Y=1.19888, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.70104, Y=-0.70104, angle=None,
+    unlocked=False), end=Position(X=0.70104, Y=-2.19964, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.70104, Y=0.39878, angle=None,
+    unlocked=False), end=Position(X=0.89916, Y=0.50038, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.8001, Y=1.09982, angle=None,
+    unlocked=False), end=Position(X=0.50038, Y=1.19888, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.89916, Y=0.50038, angle=None,
+    unlocked=False), end=Position(X=1.00076, Y=0.70104, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.00076, Y=0.70104, angle=None,
+    unlocked=False), end=Position(X=1.00076, Y=0.89916, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.00076, Y=0.89916, angle=None,
+    unlocked=False), end=Position(X=0.8001, Y=1.09982, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.80086, Y=-2.19964, angle=None,
+    unlocked=False), end=Position(X=1.80086, Y=-0.89916, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.80086, Y=-0.89916, angle=None,
+    unlocked=False), end=Position(X=2.10058, Y=-0.70104, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.10058, Y=-0.70104, angle=None,
+    unlocked=False), end=Position(X=2.4003, Y=-0.70104, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.10058, Y=0.29972, angle=None,
+    unlocked=False), end=Position(X=2.10058, Y=1.89992, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.10058, Y=1.89992, angle=None,
+    unlocked=False), end=Position(X=3.29946, Y=1.89992, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.4003, Y=-0.70104, angle=None,
+    unlocked=False), end=Position(X=2.79908, Y=-0.70104, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.79908, Y=-0.70104, angle=None,
+    unlocked=False), end=Position(X=3.0988, Y=-0.8001, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=3.0988, Y=-0.8001, angle=None,
+    unlocked=False), end=Position(X=3.29946, Y=-0.89916, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=3.29946, Y=-0.89916, angle=None,
+    unlocked=False), end=Position(X=3.29946, Y=-2.19964, angle=None, unlocked=False),
+    layer=''F.Cu'', width=None, stroke=Stroke(width=0.381, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.064, Y=-3.048, angle=None,
+    unlocked=False), end=Position(X=4.064, Y=2.54, angle=None, unlocked=False), layer=''F.Cu'',
+    width=None, stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.064, Y=2.54, angle=None, unlocked=False),
+    end=Position(X=-4.064, Y=2.54, angle=None, unlocked=False), layer=''F.Cu'', width=None,
+    stroke=Stroke(width=0.381, type=''solid'', color=None), locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_GNU-GPL_CopperTop_Small'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Symbol, GNU-GPL, Copper Top, Small,
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_gnu_gpl_coppertop_small
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

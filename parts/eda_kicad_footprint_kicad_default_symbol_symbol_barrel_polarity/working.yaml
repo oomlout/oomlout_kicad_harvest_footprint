@@ -1,0 +1,62 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: symbol_barrel_polarity
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_symbol_barrel_polarity
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Barrel connector polarity indicator
+  entryName: Symbol_Barrel_Polarity
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2, Y=0.075, angle=None, unlocked=False),
+    end=Position(X=-1.1, Y=0.075, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0, Y=0.075, angle=None, unlocked=False),
+    end=Position(X=2, Y=0.075, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=0.75, Y=0.75, angle=None, unlocked=False), mid=Position(X=-1.007627,
+    Y=0.128033, angle=None, unlocked=False), end=Position(X=0.675, Y=-0.675, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.15, type=''solid'',
+    color=None), locked=False, tstamp=None), FpCircle(center=Position(X=-3, Y=0.075,
+    angle=None, unlocked=False), end=Position(X=-3, Y=1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.15, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=0.075,
+    angle=None, unlocked=False), end=Position(X=0, Y=0.25, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.5, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpCircle(center=Position(X=3, Y=0.075,
+    angle=None, unlocked=False), end=Position(X=3, Y=1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.15, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Symbol_Barrel_Polarity'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: barrel polarity
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_symbol_barrel_polarity
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

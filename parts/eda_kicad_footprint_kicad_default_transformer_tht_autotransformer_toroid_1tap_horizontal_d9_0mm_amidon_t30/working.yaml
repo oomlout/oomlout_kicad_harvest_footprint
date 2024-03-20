@@ -1,0 +1,138 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: autotransformer_toroid_1tap_horizontal_d9_0mm_amidon_t30
+description_main: transformer_tht
+footprint_id: eda_kicad_footprint_kicad_default_transformer_tht_autotransformer_toroid_1tap_horizontal_d9_0mm_amidon_t30
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon
+    T30,
+  entryName: Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpCircle(center=Position(X=6.5, Y=0, angle=None, unlocked=False),
+    end=Position(X=7.6, Y=0.8, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpCircle(center=Position(X=6.5, Y=0, angle=None, unlocked=False),
+    end=Position(X=9.8, Y=3.2, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''none'', locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.75, Y=-4.75, angle=None, unlocked=False),
+    end=Position(X=-1.75, Y=8.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.75, Y=-4.75, angle=None, unlocked=False),
+    end=Position(X=14.75, Y=-4.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=14.75, Y=8.25, angle=None, unlocked=False),
+    end=Position(X=-1.75, Y=8.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=14.75, Y=8.25, angle=None, unlocked=False),
+    end=Position(X=14.75, Y=-4.75, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=2.2, Y=0, angle=None, unlocked=False), end=Position(X=4.9,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.7,
+    Y=2, angle=None, unlocked=False), end=Position(X=5.3, Y=1.1, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.2, Y=3.7, angle=None, unlocked=False),
+    end=Position(X=6.2, Y=1.5, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=4.9, Y=0, angle=None, unlocked=False), end=Position(X=2.7,
+    Y=2, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.3,
+    Y=1.1, angle=None, unlocked=False), end=Position(X=4.2, Y=3.7, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=6.2, Y=1.5, angle=None, unlocked=False),
+    end=Position(X=6.7, Y=4.3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=6.7, Y=4.3, angle=None, unlocked=False), end=Position(X=7,
+    Y=1.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=7,
+    Y=1.4, angle=None, unlocked=False), end=Position(X=8.8, Y=3.6, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=7.8, Y=0.9, angle=None, unlocked=False),
+    end=Position(X=10.3, Y=2, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=8, Y=-0.1, angle=None, unlocked=False), end=Position(X=10.9,
+    Y=-0.1, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=8.8,
+    Y=3.6, angle=None, unlocked=False), end=Position(X=7.8, Y=0.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=10.3, Y=2, angle=None, unlocked=False),
+    end=Position(X=8, Y=-0.1, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpCircle(center=Position(X=6.5, Y=0, angle=None, unlocked=False), end=Position(X=8,
+    Y=0, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), fill=''none'', locked=False, tstamp=None), FpCircle(center=Position(X=6.5,
+    Y=0, angle=None, unlocked=False), end=Position(X=11, Y=0, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'',
+    position=Position(X=6.5, Y=-2.75, angle=0, unlocked=False), layer=''F.Fab'', hide=False,
+    effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15, bold=False,
+    italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None),
+    FpText(type=''user'', text=''End'', position=Position(X=14.7, Y=-2.9, angle=0,
+    unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''Start'', position=Position(X=-2.1, Y=-2.9, angle=0, unlocked=False), layer=''F.Fab'',
+    hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=6.5, Y=6.5, angle=None, unlocked=False), locked=False, size=Position(X=3,
+    Y=3, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=13,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3, Y=3, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.2, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: 'Autotransformer Toroid horizontal laying 1 Tap Diameter 9mm Amidon T30 '
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_transformer_tht_autotransformer_toroid_1tap_horizontal_d9_0mm_amidon_t30
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

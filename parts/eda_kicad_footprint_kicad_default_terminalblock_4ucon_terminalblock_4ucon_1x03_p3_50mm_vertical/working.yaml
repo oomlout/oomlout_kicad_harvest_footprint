@@ -1,0 +1,231 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: terminalblock_4ucon_1x03_p3_50mm_vertical
+description_main: terminalblock_4ucon
+footprint_id: eda_kicad_footprint_kicad_default_terminalblock_4ucon_terminalblock_4ucon_1x03_p3_50mm_vertical
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Terminal Block 4Ucon ItemNo. 10694, vertical (cable from top), 3 pins,
+    pitch 3.5mm, size 11.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see
+    http://www.4uconnector.com/online/object/4udrawing/10694.pdf, script-generated
+    with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+  entryName: TerminalBlock_4Ucon_1x03_P3.50mm_Vertical
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-2.55, Y=2.66, angle=None, unlocked=False),
+    end=Position(X=-2.55, Y=4.9, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.55, Y=4.9, angle=None, unlocked=False), end=Position(X=-0.55,
+    Y=4.9, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.31,
+    Y=-3.76, angle=None, unlocked=False), end=Position(X=-2.31, Y=4.66, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.31, Y=-3.76,
+    angle=None, unlocked=False), end=Position(X=9.31, Y=-3.76, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.31, Y=1.101, angle=None,
+    unlocked=False), end=Position(X=-1.54, Y=1.101, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-2.31, Y=4.66, angle=None, unlocked=False),
+    end=Position(X=9.31, Y=4.66, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.4, Y=-3, angle=None, unlocked=False), end=Position(X=-1.4,
+    Y=-1.54, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.4,
+    Y=-3, angle=None, unlocked=False), end=Position(X=1.4, Y=-3, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.4, Y=-3, angle=None, unlocked=False),
+    end=Position(X=1.4, Y=-1.54, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.54, Y=1.101, angle=None, unlocked=False), end=Position(X=2.367,
+    Y=1.101, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.1,
+    Y=-3, angle=None, unlocked=False), end=Position(X=2.1, Y=-0.689, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.1, Y=-3, angle=None, unlocked=False),
+    end=Position(X=4.9, Y=-3, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=2.1, Y=0.689, angle=None, unlocked=False), end=Position(X=2.1,
+    Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.1,
+    Y=0.75, angle=None, unlocked=False), end=Position(X=2.101, Y=0.75, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.634, Y=1.101,
+    angle=None, unlocked=False), end=Position(X=5.867, Y=1.101, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.9, Y=-3, angle=None, unlocked=False),
+    end=Position(X=4.9, Y=-0.689, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=4.9, Y=0.689, angle=None, unlocked=False),
+    end=Position(X=4.9, Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=4.9, Y=0.75, angle=None, unlocked=False), end=Position(X=4.9,
+    Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.6,
+    Y=-3, angle=None, unlocked=False), end=Position(X=5.6, Y=-0.689, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.6, Y=-3, angle=None, unlocked=False),
+    end=Position(X=8.4, Y=-3, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.6, Y=0.689, angle=None, unlocked=False), end=Position(X=5.6,
+    Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.6,
+    Y=0.75, angle=None, unlocked=False), end=Position(X=5.601, Y=0.75, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=8.134, Y=1.101,
+    angle=None, unlocked=False), end=Position(X=9.31, Y=1.101, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=8.4, Y=-3, angle=None, unlocked=False),
+    end=Position(X=8.4, Y=-0.689, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.4, Y=0.689, angle=None, unlocked=False),
+    end=Position(X=8.4, Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=8.4, Y=0.75, angle=None, unlocked=False), end=Position(X=8.4,
+    Y=0.75, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=9.31,
+    Y=-3.76, angle=None, unlocked=False), end=Position(X=9.31, Y=4.66, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=-0.99789, Y=-1.529434,
+    angle=None, unlocked=False), mid=Position(X=-0.000785, Y=-2.600382, angle=None,
+    unlocked=False), end=Position(X=0.998, Y=-1.531, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=2.560085, Y=-1.257767, angle=None,
+    unlocked=False), mid=Position(X=3.499876, Y=-2.600282, angle=None, unlocked=False),
+    end=Position(X=4.44, Y=-1.258, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=6.060085, Y=-1.257767, angle=None, unlocked=False),
+    mid=Position(X=6.999876, Y=-2.600282, angle=None, unlocked=False), end=Position(X=7.94,
+    Y=-1.258, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.75,
+    Y=-4.2, angle=None, unlocked=False), end=Position(X=-2.75, Y=5.11, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.75, Y=5.11,
+    angle=None, unlocked=False), end=Position(X=9.75, Y=5.11, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=9.75, Y=-4.2, angle=None,
+    unlocked=False), end=Position(X=-2.75, Y=-4.2, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=9.75, Y=5.11, angle=None, unlocked=False),
+    end=Position(X=9.75, Y=-4.2, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-2.25, Y=-3.7, angle=None, unlocked=False), end=Position(X=9.25,
+    Y=-3.7, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-2.25,
+    Y=1.1, angle=None, unlocked=False), end=Position(X=9.25, Y=1.1, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-2.25, Y=2.6, angle=None,
+    unlocked=False), end=Position(X=-2.25, Y=-3.7, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.4, Y=-3, angle=None, unlocked=False),
+    end=Position(X=-1.4, Y=0.75, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1.4, Y=0.75, angle=None, unlocked=False), end=Position(X=1.4,
+    Y=0.75, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.25,
+    Y=4.6, angle=None, unlocked=False), end=Position(X=-2.25, Y=2.6, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.4, Y=-3, angle=None, unlocked=False),
+    end=Position(X=-1.4, Y=-3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=1.4, Y=0.75, angle=None, unlocked=False), end=Position(X=1.4,
+    Y=-3, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=2.1,
+    Y=-3, angle=None, unlocked=False), end=Position(X=2.1, Y=0.75, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=2.1, Y=0.75, angle=None, unlocked=False),
+    end=Position(X=4.9, Y=0.75, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=4.9, Y=-3, angle=None, unlocked=False), end=Position(X=2.1,
+    Y=-3, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.9,
+    Y=0.75, angle=None, unlocked=False), end=Position(X=4.9, Y=-3, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.6, Y=-3, angle=None, unlocked=False),
+    end=Position(X=5.6, Y=0.75, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.6, Y=0.75, angle=None, unlocked=False), end=Position(X=8.4,
+    Y=0.75, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=8.4,
+    Y=-3, angle=None, unlocked=False), end=Position(X=5.6, Y=-3, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=8.4, Y=0.75, angle=None, unlocked=False),
+    end=Position(X=8.4, Y=-3, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=9.25, Y=-3.7, angle=None, unlocked=False), end=Position(X=9.25,
+    Y=4.6, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=9.25,
+    Y=4.6, angle=None, unlocked=False), end=Position(X=-0.25, Y=4.6, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpCircle(center=Position(X=0, Y=-1.6, angle=None,
+    unlocked=False), end=Position(X=1, Y=-1.6, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpCircle(center=Position(X=3.5, Y=-1.6, angle=None,
+    unlocked=False), end=Position(X=4.5, Y=-1.6, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpCircle(center=Position(X=7, Y=-1.6, angle=None,
+    unlocked=False), end=Position(X=8, Y=-1.6, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=3.5,
+    Y=3.45, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x03_P3.50mm_Vertical.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.6, Y=2.6, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=3.5, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.6,
+    Y=2.6, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=7,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.6, Y=2.6, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''TerminalBlock_4Ucon_1x03_P3.50mm_Vertical'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: THT Terminal Block 4Ucon ItemNo. 10694 vertical pitch 3.5mm size 11.5x8.3mm^2
+    drill 1.3mm pad 2.6mm
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_terminalblock_4ucon_terminalblock_4ucon_1x03_p3_50mm_vertical
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default
