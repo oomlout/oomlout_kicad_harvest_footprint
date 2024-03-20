@@ -49,13 +49,16 @@ def main(**kwargs):
                 count = 1
 
             if count % 2 == 0:
-                #commit the changes using os.system
-                print(f"Committing {count} footprints")
-                os.system("git add .")
-                os.system(f"git commit -m 'harvested {count} footprints'")
-                os.system("git push")
+                #commit the changes using os.system in one call
 
-    
+                git_commit()
+
+def git_commit():
+    print("Committing changes")
+    os.system("git add .")
+    os.system("git commit -m \"Harvesting footprints\"")
+    os.system("git push")
+
 def close_kicad():
     print("Closing KiCad")
     #kill all processes connected to kicad
@@ -445,4 +448,5 @@ if __name__ == '__main__':
     kwargs = {}
     filter = [""]
     kwargs["filters"] = filter
-    main(**kwargs)
+    #main(**kwargs)
+    git_commit()
