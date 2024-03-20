@@ -12,8 +12,8 @@ def main(**kwargs):
     overwrite = kwargs.get("overwrite", False)
 
     global typ
-    #typ = "surface"
-    typ = "desktop"
+    typ = "surface"
+    #typ = "desktop"
     set_mouse_positions(typ)
 
     #launch kicad window
@@ -84,6 +84,14 @@ position_menu_3d_view = [87,33]
 
 
 def oom_click(location, wait=1, duration=0.5):
+    #if surface check and scale the location
+    location = copy.deepcopy(location)
+    if typ == "surface":
+        screen_width, screen_height = pyautogui.size()
+        location[0] = int(location[0] / (0.67))
+        location[1] = int(location[1] / (0.67))
+
+
     #click on the location
     print(f"Clicking {location}")
     #move mouse first
@@ -99,13 +107,17 @@ def oom_click(location, wait=1, duration=0.5):
 def oom_double_click(location, wait=1, duration=0.5):
     #click on the location
     print(f"Double Clicking {location}")
+    location = copy.deepcopy(location)
+    if typ == "surface":
+        location[0] = int(location[0] / (0.67))
+        location[1] = int(location[1] / (0.67))
     pyautogui.doubleClick(location[0], location[1], duration=duration)
     if wait > 2:
         delay(wait)
     else:
         time.sleep(wait)
 
-def oom_hotkey(key1, key2, wait=1):
+def oom_hotkey(key1, key2, wait=2):
     #click on the location
     print(f"Hotkey {key1} {key2}")
     pyautogui.hotkey(key1, key2)
@@ -123,10 +135,10 @@ def oom_press(key, wait=1):
     else:
         time.sleep(wait)
 
-def oom_typewriter(string, wait=1):
+def oom_typewriter(string, wait=2):
     #type the string
     print(f"Typing {string}")
-    pyautogui.typewrite(string)
+    pyautogui.typewrite(string, interval=0.2)
     if wait > 1:
         delay(wait)
     else:
@@ -144,7 +156,7 @@ def set_mouse_positions(typ):
         position_menu_3d_view = [87,33]
     elif typ == "surface":
         position_filter_box = [53,115]
-        position_first_result = [110,157]
+        position_first_result = [110,187]
         position_footprint_browser = [315,204]
         position_menu_file = [18,33]
         position_menu_view = [87,33]
@@ -174,9 +186,7 @@ def harvest_footprint_image(footprint, overwrite):
 
 
         #click on the filter box
-        oom_click(position_filter_box)
-        
-        oom_click(position_filter_box)
+        oom_click(position_filter_box, wait=5)
         
 
         #select all
@@ -363,7 +373,10 @@ def export_view_as_png(footprint, folder_full, overwrite):
 def lauch_footprint_browser():
     print("Launching footprint browser")
     location  = position_footprint_browser
-    oom_click(location, duration=1, wait=20)
+    w = 20
+    if typ == "surface":
+        w = 40
+    oom_click(location, duration=1, wait=w)
     
     #maximize current window
     if typ == "desktop":
