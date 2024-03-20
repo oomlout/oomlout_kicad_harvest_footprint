@@ -40,18 +40,19 @@ def main(**kwargs):
                 count += return_value
                 print(f"Harvested {count} footprints")
 
+            if count % 100 == 0:
+                #commit the changes using os.system in one call
+                git_commit()
+                count += 1
+
             #reopen kicad every 20
             if count % 20 == 0:
                 print("restaring kicad")    
                 close_kicad()
                 launch_kicad()
                 lauch_footprint_browser()
-                count = 1
+                count += 1
 
-            if count % 2 == 0:
-                #commit the changes using os.system in one call
-
-                git_commit()
 
 def git_commit():
     print("Committing changes")
