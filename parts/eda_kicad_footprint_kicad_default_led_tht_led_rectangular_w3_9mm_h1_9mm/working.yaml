@@ -87,13 +87,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED_Rectangular Rectangular  Rectangular size 3.9x1.9mm^2 2 pins
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_tht_led_rectangular_w3_9mm_h1_9mm
 manufacturer: ''
 part_number: ''
 short_name: ''

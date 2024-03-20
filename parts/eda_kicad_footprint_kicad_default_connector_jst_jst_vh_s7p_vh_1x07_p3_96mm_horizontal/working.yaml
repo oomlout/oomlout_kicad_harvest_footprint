@@ -440,7 +440,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST VH top entry
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

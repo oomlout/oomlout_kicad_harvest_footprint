@@ -212,13 +212,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Fuseholder 5x20mm horizontal closed
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_schurter_fup_0031_2510_horizontal_closed
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -71,13 +71,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 2.54mm  length 7mm diameter
     3.3mm Fastron MICC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l7_0mm_d3_3mm_p2_54mm_vertical_fastron_micc
 manufacturer: ''
 part_number: ''
 short_name: ''

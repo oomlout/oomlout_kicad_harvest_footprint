@@ -119,13 +119,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD SMT crystal oscillator
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_seikoepson_sg8002ja_4pin_14_0x8_7mm
 manufacturer: ''
 part_number: ''
 short_name: ''

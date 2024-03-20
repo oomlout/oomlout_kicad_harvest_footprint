@@ -108,13 +108,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mounting hole 2.5mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mountinghole_mountinghole_2_5mm_pad_via
 manufacturer: ''
 part_number: ''
 short_name: ''

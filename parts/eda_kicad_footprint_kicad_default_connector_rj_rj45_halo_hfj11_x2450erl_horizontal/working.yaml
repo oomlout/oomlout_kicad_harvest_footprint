@@ -198,13 +198,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 10/100 Ethernet RJ45 Tab-Down
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj45_halo_hfj11_x2450erl_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

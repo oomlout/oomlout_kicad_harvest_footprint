@@ -586,13 +586,14 @@ footprint_string:
   solderPasteMargin: '0.025'
   solderPasteRatio: None
   tags: BGA 73 0.5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_st_ufbga_73_5x5mm_layout9x9_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

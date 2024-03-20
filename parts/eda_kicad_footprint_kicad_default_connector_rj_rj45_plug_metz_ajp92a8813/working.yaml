@@ -183,13 +183,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: AJP92A8813 8P8C RJ45 ethernet plug
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj45_plug_metz_ajp92a8813
 manufacturer: ''
 part_number: ''
 short_name: ''

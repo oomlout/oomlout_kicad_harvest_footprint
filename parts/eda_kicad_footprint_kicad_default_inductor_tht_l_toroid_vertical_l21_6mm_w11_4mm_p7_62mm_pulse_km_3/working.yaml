@@ -132,13 +132,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 7.62mm  length 21.59mm width 11.43mm
     Pulse KM-3
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_vertical_l21_6mm_w11_4mm_p7_62mm_pulse_km_3
 manufacturer: ''
 part_number: ''
 short_name: ''

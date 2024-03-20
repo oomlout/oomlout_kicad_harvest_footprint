@@ -2875,13 +2875,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 400 0.8 400-ball FBGA
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_lfbga_400_16x16mm_layout20x20_p0_8mm
 manufacturer: ''
 part_number: ''
 short_name: ''

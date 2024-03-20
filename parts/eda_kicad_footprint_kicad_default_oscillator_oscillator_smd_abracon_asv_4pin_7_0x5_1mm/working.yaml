@@ -139,13 +139,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD SMT crystal oscillator
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
 manufacturer: ''
 part_number: ''
 short_name: ''

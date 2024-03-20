@@ -212,13 +212,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Pololu Breakout
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_module_pololu_breakout_16_15_2x20_3mm
 manufacturer: ''
 part_number: ''
 short_name: ''

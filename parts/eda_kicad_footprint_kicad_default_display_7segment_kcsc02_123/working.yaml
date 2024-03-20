@@ -134,13 +134,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Single digit 7 segement super bright yellow LED
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_kcsc02_123
 manufacturer: ''
 part_number: ''
 short_name: ''

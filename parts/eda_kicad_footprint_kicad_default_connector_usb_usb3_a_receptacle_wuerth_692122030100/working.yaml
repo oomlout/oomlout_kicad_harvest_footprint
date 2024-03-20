@@ -255,13 +255,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: "USB 3.0 type A right angle W\xC3\xBCrth"
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb3_a_receptacle_wuerth_692122030100
 manufacturer: ''
 part_number: ''
 short_name: ''

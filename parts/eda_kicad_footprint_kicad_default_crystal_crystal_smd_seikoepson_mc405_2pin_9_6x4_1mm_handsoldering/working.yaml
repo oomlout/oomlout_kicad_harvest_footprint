@@ -83,13 +83,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD SMT crystal hand-soldering
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_crystal_crystal_smd_seikoepson_mc405_2pin_9_6x4_1mm_handsoldering
 manufacturer: ''
 part_number: ''
 short_name: ''

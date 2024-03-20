@@ -108,13 +108,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: common mode filter triple choke
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_commonmode_vac_t60405_s6123_x240
 manufacturer: ''
 part_number: ''
 short_name: ''

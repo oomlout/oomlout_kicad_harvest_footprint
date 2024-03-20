@@ -128,13 +128,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Green 5381 Series LED
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_tht_led_vcclite_5381h5_6_35x6_35mm
 manufacturer: ''
 part_number: ''
 short_name: ''

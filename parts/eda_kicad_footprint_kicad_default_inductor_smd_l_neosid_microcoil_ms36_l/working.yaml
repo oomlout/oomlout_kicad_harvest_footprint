@@ -98,13 +98,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_smd_l_neosid_microcoil_ms36_l
 manufacturer: ''
 part_number: ''
 short_name: ''

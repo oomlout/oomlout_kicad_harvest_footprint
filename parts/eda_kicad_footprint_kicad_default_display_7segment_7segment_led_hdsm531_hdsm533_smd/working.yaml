@@ -158,13 +158,14 @@ footprint_string:
   solderPasteMargin: '-0.2'
   solderPasteRatio: None
   tags: 7segment LED HDSM531 HDSM533
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_7segment_led_hdsm531_hdsm533_smd
 manufacturer: ''
 part_number: ''
 short_name: ''

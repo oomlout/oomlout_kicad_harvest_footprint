@@ -374,7 +374,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole angled pin header THT 2x06 1.00mm double row
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

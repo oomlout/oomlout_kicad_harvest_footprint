@@ -1257,13 +1257,14 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: BGA 169 0.5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_st_tfbga_169_7x7mm_layout13x13_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

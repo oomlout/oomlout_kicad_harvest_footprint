@@ -112,13 +112,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACDC-Converter TRACO TMLM 05
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_traco_tmlm_05_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

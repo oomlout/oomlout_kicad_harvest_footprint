@@ -108,13 +108,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACDC-Converter 5W THT Hi-Link board mount module
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_hi_link_hlk_5mxx
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -111,13 +111,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB PLCC-6 CLP6C-FBK
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_smd_led_rgb_cree_plcc_6_6x5mm_p2_1mm
 manufacturer: ''
 part_number: ''
 short_name: ''

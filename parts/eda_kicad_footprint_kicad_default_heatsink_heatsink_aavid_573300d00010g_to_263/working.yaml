@@ -119,13 +119,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Heatsink AAVID TO-263 D2 Pak
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_heatsink_heatsink_aavid_573300d00010g_to_263
 manufacturer: ''
 part_number: ''
 short_name: ''

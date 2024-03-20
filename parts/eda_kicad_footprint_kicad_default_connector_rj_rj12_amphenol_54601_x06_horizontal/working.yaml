@@ -171,13 +171,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ12 connector
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj12_amphenol_54601_x06_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

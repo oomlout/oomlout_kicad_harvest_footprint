@@ -107,13 +107,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SSOP4 APV21 AQY22
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_optodevice_panasonic_apv_aqy_ssop_4_4_45x2_65mm_p1_27mm
 manufacturer: ''
 part_number: ''
 short_name: ''

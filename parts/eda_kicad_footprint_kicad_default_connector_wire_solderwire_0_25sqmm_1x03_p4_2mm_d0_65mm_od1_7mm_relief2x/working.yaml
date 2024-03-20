@@ -319,13 +319,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector wire 0.25sqmm double-strain-relief
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_wire_solderwire_0_25sqmm_1x03_p4_2mm_d0_65mm_od1_7mm_relief2x
 manufacturer: ''
 part_number: ''
 short_name: ''

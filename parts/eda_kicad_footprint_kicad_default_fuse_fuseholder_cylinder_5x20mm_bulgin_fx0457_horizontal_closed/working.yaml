@@ -108,13 +108,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'Fuseholder 5x20 closed horizontal Bulgin FX0457 Sicherungshalter '
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_bulgin_fx0457_horizontal_closed
 manufacturer: ''
 part_number: ''
 short_name: ''

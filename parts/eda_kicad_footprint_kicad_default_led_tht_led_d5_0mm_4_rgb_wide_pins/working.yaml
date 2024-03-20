@@ -107,13 +107,14 @@ footprint_string:
   solderPasteRatio: None
   tags: LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB
     RGBLED
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_tht_led_d5_0mm_4_rgb_wide_pins
 manufacturer: ''
 part_number: ''
 short_name: ''

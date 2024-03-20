@@ -120,13 +120,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: muRata MEJ1D DCDC-Converter
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_murata_mej1dxxxxsc_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

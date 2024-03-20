@@ -195,7 +195,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector side-entry ATA PATA IDE 5.25 inch floppy drive power
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

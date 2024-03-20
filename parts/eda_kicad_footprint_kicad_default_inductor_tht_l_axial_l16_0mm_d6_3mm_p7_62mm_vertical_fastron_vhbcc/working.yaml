@@ -73,13 +73,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 16mm diameter
     6.3mm Fastron VHBCC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l16_0mm_d6_3mm_p7_62mm_vertical_fastron_vhbcc
 manufacturer: ''
 part_number: ''
 short_name: ''

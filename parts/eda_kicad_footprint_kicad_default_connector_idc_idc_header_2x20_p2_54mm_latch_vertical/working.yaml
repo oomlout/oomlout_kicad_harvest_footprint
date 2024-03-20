@@ -447,7 +447,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole vertical IDC header THT 2x20 2.54mm double row
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

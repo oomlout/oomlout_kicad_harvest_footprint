@@ -119,13 +119,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACDC-Converter TRACO TMLM 10 and TMLM 20
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_traco_tmlm_10_20_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -466,13 +466,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TFT-graphical display 800x480 16-bit colours with capacitive touch panel
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_ea_ediptft70_atc
 manufacturer: ''
 part_number: ''
 short_name: ''

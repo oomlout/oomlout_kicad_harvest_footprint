@@ -133,13 +133,14 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: BGA 8 0.4
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_fujitsu_wlp_15_2_28x3_092mm_layout3x5_p0_4mm
 manufacturer: ''
 part_number: ''
 short_name: ''

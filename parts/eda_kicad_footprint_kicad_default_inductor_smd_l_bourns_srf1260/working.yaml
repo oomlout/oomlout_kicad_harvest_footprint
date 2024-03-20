@@ -163,13 +163,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Bourns_SRF1260
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_smd_l_bourns_srf1260
 manufacturer: ''
 part_number: ''
 short_name: ''

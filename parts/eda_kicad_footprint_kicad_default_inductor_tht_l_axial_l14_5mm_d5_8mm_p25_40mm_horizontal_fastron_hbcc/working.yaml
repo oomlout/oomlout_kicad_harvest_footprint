@@ -96,13 +96,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 25.4mm  length 14.5mm diameter
     5.8mm Fastron HBCC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
 manufacturer: ''
 part_number: ''
 short_name: ''

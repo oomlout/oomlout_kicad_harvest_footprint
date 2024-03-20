@@ -298,7 +298,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ESP8266
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -330,6 +330,7 @@ footprint_string:
     unlocked=False), Position(X=-9.525, Y=13.97, angle=None, unlocked=False), Position(X=-9.525,
     Y=11.43, angle=None, unlocked=False), Position(X=9.525, Y=11.43, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_module_olimex_mod_wifi_esp8266_dev
 manufacturer: ''
 part_number: ''
 short_name: ''

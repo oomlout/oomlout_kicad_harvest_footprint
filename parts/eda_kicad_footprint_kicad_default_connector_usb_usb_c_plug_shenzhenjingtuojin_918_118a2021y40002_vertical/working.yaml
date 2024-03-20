@@ -211,13 +211,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: type-c usb2
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_plug_shenzhenjingtuojin_918_118a2021y40002_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

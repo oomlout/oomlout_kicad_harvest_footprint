@@ -615,13 +615,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 77 1.27 LTC Dwg 05-08-1964 Rev. B
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_analog_bga_77_9_0x15_0mm_layout7x11_p1_27mm_ball0_63mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -75,13 +75,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 27.18mm  diameter 40.64mm Vishay IHB-4
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_radial_d40_6mm_p27_18mm_vishay_ihb_4
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -167,13 +167,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Stocko RFK MKS 16xx
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

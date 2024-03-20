@@ -356,13 +356,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LCD-016N002L 16 x 2 Character LCD
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_lcd_016n002l
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -109,13 +109,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: module pcb
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_module_texas_eus_r_pdss_t5_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

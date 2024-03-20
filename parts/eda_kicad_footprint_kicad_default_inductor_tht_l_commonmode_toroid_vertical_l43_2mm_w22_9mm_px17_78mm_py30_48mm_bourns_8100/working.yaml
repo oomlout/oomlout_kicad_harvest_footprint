@@ -143,13 +143,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length
     43.18mm width 22.86mm Bourns 8100
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_commonmode_toroid_vertical_l43_2mm_w22_9mm_px17_78mm_py30_48mm_bourns_8100
 manufacturer: ''
 part_number: ''
 short_name: ''

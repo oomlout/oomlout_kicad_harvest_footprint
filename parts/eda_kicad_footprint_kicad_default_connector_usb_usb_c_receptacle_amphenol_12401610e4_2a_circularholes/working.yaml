@@ -290,13 +290,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_amphenol_12401610e4_2a_circularholes
 manufacturer: ''
 part_number: ''
 short_name: ''

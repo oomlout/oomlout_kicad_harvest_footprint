@@ -46,13 +46,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mounting hole 3.2mm m3 iso7380
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
 manufacturer: ''
 part_number: ''
 short_name: ''

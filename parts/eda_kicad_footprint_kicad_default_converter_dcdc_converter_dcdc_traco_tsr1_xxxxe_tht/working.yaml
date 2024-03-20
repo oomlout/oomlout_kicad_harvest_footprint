@@ -103,13 +103,14 @@ footprint_string:
   solderPasteRatio: None
   tags: DCDC-Converter SWITCHING-REGULATOR STEP-DOWN TRACO TSR1E 2.54MM THT SIP-3
     1A
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_traco_tsr1_xxxxe_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

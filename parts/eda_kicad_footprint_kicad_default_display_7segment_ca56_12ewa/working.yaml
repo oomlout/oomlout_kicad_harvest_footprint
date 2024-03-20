@@ -175,13 +175,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 4 digit 7 segment green LED
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_ca56_12ewa
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -218,13 +218,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB USB_B USB_micro USB_OTG
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_micro_b_amphenol_10103594_0001lf_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

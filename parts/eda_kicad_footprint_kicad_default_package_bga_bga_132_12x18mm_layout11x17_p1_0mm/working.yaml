@@ -997,13 +997,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA-132
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_132_12x18mm_layout11x17_p1_0mm
 manufacturer: ''
 part_number: ''
 short_name: ''

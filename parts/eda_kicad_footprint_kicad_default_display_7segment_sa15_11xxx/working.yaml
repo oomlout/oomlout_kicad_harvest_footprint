@@ -159,13 +159,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SA15-11xxx single digit 7 segment display 38.1mm 1.5inch
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_sa15_11xxx
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -199,13 +199,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole pin header THT 1x16 2.00mm single row
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_1x16_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

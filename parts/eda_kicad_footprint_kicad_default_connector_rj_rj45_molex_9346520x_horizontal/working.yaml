@@ -246,7 +246,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ45 Magjack
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -299,6 +299,7 @@ footprint_string:
     Position(X=11.428285, Y=5.308445, angle=None, unlocked=False), Position(X=11.1,
     Y=5, angle=None, unlocked=False), Position(X=12.55, Y=5, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj45_molex_9346520x_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -97,13 +97,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 35mm  length 26.67mm diameter
     12.07mm Vishay IHA-103
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l26_7mm_d12_1mm_p35_00mm_horizontal_vishay_iha_103
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -211,13 +211,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LCD 4x10 character 3.3V VDD I2C or SPI
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_ea_dogs104x_a
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -277,7 +277,7 @@ footprint_string:
   tags: 15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm
     pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset
     25mm
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

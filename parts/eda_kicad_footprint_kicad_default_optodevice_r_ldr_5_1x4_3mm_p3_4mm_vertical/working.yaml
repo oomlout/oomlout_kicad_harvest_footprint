@@ -121,13 +121,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Resistor LDR5.1x3.4mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_optodevice_r_ldr_5_1x4_3mm_p3_4mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

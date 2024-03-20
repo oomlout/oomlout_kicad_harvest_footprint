@@ -250,13 +250,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 12 0.5 R-XBGA-N12
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_texas_dsbga_12_1_36x1_86mm_layout3x4_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

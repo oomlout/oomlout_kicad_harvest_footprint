@@ -73,13 +73,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14mm diameter
     4.5mm Fastron LACC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l14_0mm_d4_5mm_p5_08mm_vertical_fastron_lacc
 manufacturer: ''
 part_number: ''
 short_name: ''

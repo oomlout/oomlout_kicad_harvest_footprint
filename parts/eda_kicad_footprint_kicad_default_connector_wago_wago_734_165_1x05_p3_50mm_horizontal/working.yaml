@@ -134,13 +134,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Wago  top entry
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_wago_wago_734_165_1x05_p3_50mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

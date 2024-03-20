@@ -46,13 +46,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mounting hole 2.7mm no annular m2.5 iso14580
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mountinghole_mountinghole_2_7mm_m2_5_iso14580
 manufacturer: ''
 part_number: ''
 short_name: ''

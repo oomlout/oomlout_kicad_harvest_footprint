@@ -216,13 +216,14 @@ footprint_string:
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060
     USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_gct_usb4105_xx_a_16p_topmnt_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

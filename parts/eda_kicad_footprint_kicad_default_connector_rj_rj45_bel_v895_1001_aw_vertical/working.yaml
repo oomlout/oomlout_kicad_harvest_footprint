@@ -225,13 +225,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ45 Magjack
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj45_bel_v895_1001_aw_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

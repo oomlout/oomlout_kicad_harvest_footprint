@@ -120,13 +120,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DFN NoLead
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_optodevice_renesas_dfn_6_1_5x1_6mm_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

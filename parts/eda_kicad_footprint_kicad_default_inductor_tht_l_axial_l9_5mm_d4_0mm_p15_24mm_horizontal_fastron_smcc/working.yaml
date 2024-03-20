@@ -97,13 +97,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter
     4mm Fastron SMCC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l9_5mm_d4_0mm_p15_24mm_horizontal_fastron_smcc
 manufacturer: ''
 part_number: ''
 short_name: ''

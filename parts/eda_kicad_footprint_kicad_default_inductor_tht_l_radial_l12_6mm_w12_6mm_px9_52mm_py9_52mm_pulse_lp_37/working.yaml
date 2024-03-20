@@ -87,13 +87,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 9.52*9.52mm^2  length 12.57mm width
     12.57mm Pulse LP-37
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_radial_l12_6mm_w12_6mm_px9_52mm_py9_52mm_pulse_lp_37
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -128,13 +128,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C receptacle power-only charging-only 6P 6C right angled
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_gct_usb4125_xx_x_6p_topmnt_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -119,13 +119,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 9.00mm  diameter 5.08mm Diameter6-5mm
     Amidon-T20
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d5_1mm_p9_00mm_diameter6_5mm_amidon_t20
 manufacturer: ''
 part_number: ''
 short_name: ''

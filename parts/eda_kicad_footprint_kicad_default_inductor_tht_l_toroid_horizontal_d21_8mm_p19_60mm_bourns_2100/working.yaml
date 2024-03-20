@@ -119,13 +119,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 19.60mm  diameter 21.8mm Bourns
     2100
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d21_8mm_p19_60mm_bourns_2100
 manufacturer: ''
 part_number: ''
 short_name: ''

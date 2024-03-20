@@ -106,13 +106,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DIN rail adapter universal three M3 clearance holes
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mountingequipment_dinrailadapter_3xm3_phoenixcontact_1201578
 manufacturer: ''
 part_number: ''
 short_name: ''

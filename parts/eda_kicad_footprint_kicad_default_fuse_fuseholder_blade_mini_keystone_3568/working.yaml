@@ -110,13 +110,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: car blade fuse mini
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuseholder_blade_mini_keystone_3568
 manufacturer: ''
 part_number: ''
 short_name: ''

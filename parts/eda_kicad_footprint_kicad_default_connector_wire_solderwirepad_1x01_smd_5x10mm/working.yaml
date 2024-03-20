@@ -50,13 +50,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'MesurementPoint Square SMDPad 5mmx10mm '
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_wire_solderwirepad_1x01_smd_5x10mm
 manufacturer: ''
 part_number: ''
 short_name: ''

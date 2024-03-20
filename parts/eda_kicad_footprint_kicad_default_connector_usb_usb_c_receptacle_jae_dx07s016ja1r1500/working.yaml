@@ -245,13 +245,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD USB 2.0
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_jae_dx07s016ja1r1500
 manufacturer: ''
 part_number: ''
 short_name: ''

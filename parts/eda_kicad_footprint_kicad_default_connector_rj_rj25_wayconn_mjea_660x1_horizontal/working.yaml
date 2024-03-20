@@ -159,13 +159,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ12 RJ18 RJ25 jack connector 6P6C
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_rj_rj25_wayconn_mjea_660x1_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

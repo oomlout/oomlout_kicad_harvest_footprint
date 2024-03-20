@@ -106,13 +106,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED Avago PLCC-6 ASMT-YTB7-0AA02
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_smd_led_avago_plcc6_3x2_8mm
 manufacturer: ''
 part_number: ''
 short_name: ''

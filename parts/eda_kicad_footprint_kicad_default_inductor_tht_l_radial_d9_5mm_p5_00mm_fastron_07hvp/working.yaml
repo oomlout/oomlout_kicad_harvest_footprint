@@ -60,13 +60,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 5.00mm  diameter 9.5mm Fastron 07HVP
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_radial_d9_5mm_p5_00mm_fastron_07hvp
 manufacturer: ''
 part_number: ''
 short_name: ''

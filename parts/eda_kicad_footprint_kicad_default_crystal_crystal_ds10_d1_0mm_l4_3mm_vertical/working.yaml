@@ -63,13 +63,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: '[''DS10'']'
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_crystal_crystal_ds10_d1_0mm_l4_3mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -146,13 +146,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Wuerth WR-WTB vertical
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_wuerth_wuerth_wr_wtb_64800411622_1x04_p1_50mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

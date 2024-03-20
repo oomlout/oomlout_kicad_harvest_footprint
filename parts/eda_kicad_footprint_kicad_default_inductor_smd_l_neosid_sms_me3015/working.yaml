@@ -77,13 +77,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Neosid Power Inductor SMS-ME3015 Fixed inductor SMD magnetically shielded
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_smd_l_neosid_sms_me3015
 manufacturer: ''
 part_number: ''
 short_name: ''

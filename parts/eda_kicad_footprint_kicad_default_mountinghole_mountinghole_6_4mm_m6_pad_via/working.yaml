@@ -109,13 +109,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mounting hole 6.4mm m6
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mountinghole_mountinghole_6_4mm_m6_pad_via
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -451,13 +451,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 54 0.8
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_alliance_tfbga_54_8x8mm_layout9x9_p0_8mm
 manufacturer: ''
 part_number: ''
 short_name: ''

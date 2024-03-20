@@ -9142,13 +9142,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA-1295
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_1295_37_5x37_5mm_layout36x36_p1_0mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -120,13 +120,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: recom power ac dc rac01xxgb rac01-05sgb rac01-12sgb
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_recom_rac01_xxsgb_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

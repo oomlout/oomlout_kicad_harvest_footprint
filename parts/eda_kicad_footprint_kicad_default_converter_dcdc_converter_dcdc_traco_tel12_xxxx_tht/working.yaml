@@ -114,13 +114,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: traco dcdc tht 12w
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_traco_tel12_xxxx_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

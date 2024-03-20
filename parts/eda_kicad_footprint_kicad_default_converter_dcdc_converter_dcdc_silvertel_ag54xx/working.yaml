@@ -179,7 +179,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter Silvertel Ag5405 Ag5412 Ag5424 single output POE
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -197,6 +197,7 @@ footprint_string:
     Y=1.7, angle=None, unlocked=False), Position(X=13.8, Y=1.7, angle=None, unlocked=False),
     Position(X=13.8, Y=-12.4, angle=None, unlocked=False), Position(X=42.1, Y=-12.4,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag54xx
 manufacturer: ''
 part_number: ''
 short_name: ''

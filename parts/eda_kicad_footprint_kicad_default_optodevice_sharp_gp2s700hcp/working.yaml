@@ -100,7 +100,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: refective opto couple photo coupler
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -123,6 +123,7 @@ footprint_string:
     Position(X=1.05, Y=1.75, angle=None, unlocked=False), Position(X=-1.05, Y=1.75,
     angle=None, unlocked=False), Position(X=-1.05, Y=0.65, angle=None, unlocked=False),
     Position(X=-2.25, Y=0.65, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_optodevice_sharp_gp2s700hcp
 manufacturer: ''
 part_number: ''
 short_name: ''

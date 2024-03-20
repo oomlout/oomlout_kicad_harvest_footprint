@@ -122,7 +122,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: recom power ac dc
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -139,6 +139,7 @@ footprint_string:
     Y=35.56, angle=None, unlocked=False), Position(X=5.08, Y=35.56, angle=None, unlocked=False),
     Position(X=5.08, Y=25.4, angle=None, unlocked=False), Position(X=-5.08, Y=25.4,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_recom_rac04_xxsgx_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

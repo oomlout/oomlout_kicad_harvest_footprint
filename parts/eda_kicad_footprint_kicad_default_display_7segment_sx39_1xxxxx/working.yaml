@@ -158,13 +158,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_sx39_1xxxxx
 manufacturer: ''
 part_number: ''
 short_name: ''

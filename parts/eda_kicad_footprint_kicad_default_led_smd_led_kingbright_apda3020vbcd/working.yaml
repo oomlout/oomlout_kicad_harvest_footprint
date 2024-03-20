@@ -157,13 +157,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'LED APDA3020VBC/D Kingbright '
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_smd_led_kingbright_apda3020vbcd
 manufacturer: ''
 part_number: ''
 short_name: ''

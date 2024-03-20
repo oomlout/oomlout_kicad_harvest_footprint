@@ -202,7 +202,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST J2100 horizontal
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

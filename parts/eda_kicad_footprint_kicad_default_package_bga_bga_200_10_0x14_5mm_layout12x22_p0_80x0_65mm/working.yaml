@@ -1474,13 +1474,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 200 0.8x0.65
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
 manufacturer: ''
 part_number: ''
 short_name: ''

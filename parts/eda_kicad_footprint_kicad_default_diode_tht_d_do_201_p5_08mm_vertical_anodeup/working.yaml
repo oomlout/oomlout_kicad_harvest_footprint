@@ -82,13 +82,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter
     5.21mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_diode_tht_d_do_201_p5_08mm_vertical_anodeup
 manufacturer: ''
 part_number: ''
 short_name: ''

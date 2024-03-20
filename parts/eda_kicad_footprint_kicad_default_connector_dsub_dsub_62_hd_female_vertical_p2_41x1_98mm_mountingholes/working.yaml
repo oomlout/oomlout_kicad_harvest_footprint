@@ -663,7 +663,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 62-pin D-Sub connector straight vertical THT female pitch 2.41x1.98mm mounting
     holes distance 63.5mm
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

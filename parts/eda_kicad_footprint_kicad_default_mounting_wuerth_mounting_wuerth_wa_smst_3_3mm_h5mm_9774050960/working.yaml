@@ -248,13 +248,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Mounting 3.3mm 9774050960
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smst_3_3mm_h5mm_9774050960
 manufacturer: ''
 part_number: ''
 short_name: ''

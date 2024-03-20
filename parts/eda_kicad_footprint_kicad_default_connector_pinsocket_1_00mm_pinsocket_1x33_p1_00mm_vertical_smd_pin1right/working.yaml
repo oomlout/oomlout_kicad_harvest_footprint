@@ -684,13 +684,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted socket strip SMD 1x33 1.00mm single row style2 pin1 right
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinsocket_1_00mm_pinsocket_1x33_p1_00mm_vertical_smd_pin1right
 manufacturer: ''
 part_number: ''
 short_name: ''

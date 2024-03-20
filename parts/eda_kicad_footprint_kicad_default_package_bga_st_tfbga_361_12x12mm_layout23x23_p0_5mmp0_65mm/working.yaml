@@ -2601,13 +2601,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 361 0.5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_st_tfbga_361_12x12mm_layout23x23_p0_5mmp0_65mm
 manufacturer: ''
 part_number: ''
 short_name: ''

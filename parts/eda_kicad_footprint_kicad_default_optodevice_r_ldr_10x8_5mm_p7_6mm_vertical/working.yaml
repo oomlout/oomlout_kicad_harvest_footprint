@@ -121,13 +121,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Resistor LDR10.8.5mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_optodevice_r_ldr_10x8_5mm_p7_6mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

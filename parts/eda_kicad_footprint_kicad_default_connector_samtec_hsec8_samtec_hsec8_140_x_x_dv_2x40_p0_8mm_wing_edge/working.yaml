@@ -746,13 +746,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: conn samtec card-edge high-speed
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_140_x_x_dv_2x40_p0_8mm_wing_edge
 manufacturer: ''
 part_number: ''
 short_name: ''

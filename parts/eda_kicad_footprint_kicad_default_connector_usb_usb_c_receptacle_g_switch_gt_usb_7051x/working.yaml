@@ -335,7 +335,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -363,6 +363,7 @@ footprint_string:
     Y=2.5, angle=None, unlocked=False), Position(X=-0.8, Y=2.5, angle=None, unlocked=False),
     Position(X=-0.8, Y=1.8, angle=None, unlocked=False), Position(X=0.8, Y=1.8, angle=None,
     unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_g_switch_gt_usb_7051x
 manufacturer: ''
 part_number: ''
 short_name: ''

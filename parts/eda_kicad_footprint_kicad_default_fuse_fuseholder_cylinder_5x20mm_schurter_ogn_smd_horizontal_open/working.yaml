@@ -88,13 +88,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Fuseholder horizontal open 5x20 Schurter 0031.8221
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuseholder_cylinder_5x20mm_schurter_ogn_smd_horizontal_open
 manufacturer: ''
 part_number: ''
 short_name: ''

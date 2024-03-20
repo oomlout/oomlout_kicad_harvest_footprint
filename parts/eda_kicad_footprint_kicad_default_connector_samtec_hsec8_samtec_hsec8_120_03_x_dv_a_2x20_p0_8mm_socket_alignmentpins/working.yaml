@@ -428,13 +428,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: conn samtec card-edge socket high-speed
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_samtec_hsec8_samtec_hsec8_120_03_x_dv_a_2x20_p0_8mm_socket_alignmentpins
 manufacturer: ''
 part_number: ''
 short_name: ''

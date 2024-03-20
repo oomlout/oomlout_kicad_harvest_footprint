@@ -96,7 +96,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: battery CR-1220 coin cell vertical
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

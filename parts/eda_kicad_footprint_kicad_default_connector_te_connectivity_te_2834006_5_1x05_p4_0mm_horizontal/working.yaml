@@ -307,13 +307,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: wire connector
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_2834006_5_1x05_p4_0mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

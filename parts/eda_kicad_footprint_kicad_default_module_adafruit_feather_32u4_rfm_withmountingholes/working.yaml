@@ -405,13 +405,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Adafruit Feather 32u4 RFM
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_module_adafruit_feather_32u4_rfm_withmountingholes
 manufacturer: ''
 part_number: ''
 short_name: ''

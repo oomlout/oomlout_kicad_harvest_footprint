@@ -634,13 +634,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: raspberry pi zero through hole
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_module_raspberry_pi_zero_socketed_tht_facedown_mountingholes
 manufacturer: ''
 part_number: ''
 short_name: ''

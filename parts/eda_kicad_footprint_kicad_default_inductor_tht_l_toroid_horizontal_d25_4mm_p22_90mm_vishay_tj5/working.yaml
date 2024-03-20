@@ -119,13 +119,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay
     TJ5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d25_4mm_p22_90mm_vishay_tj5
 manufacturer: ''
 part_number: ''
 short_name: ''

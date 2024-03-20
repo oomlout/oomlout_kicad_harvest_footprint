@@ -1980,13 +1980,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 272 0.5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_mapbga_9x9mm_layout17x17_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

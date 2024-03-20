@@ -318,13 +318,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB 3.0 type A right angle stacked dual
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb3_a_molex_48406_0001_horizontal_stacked
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -178,13 +178,14 @@ footprint_string:
   solderPasteRatio: None
   tags: connector header hdr horizontal right-angle shrouded fully-shrounded 440055-2
     2-440055-2 4-440055-2 6-440055-2 8-440055-2
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_te_connectivity_te_440055_2_1x02_p2_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

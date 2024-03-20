@@ -72,13 +72,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 26.67mm diameter
     13.97mm Vishay IHA-104
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l26_7mm_d14_0mm_p7_62mm_vertical_vishay_iha_104
 manufacturer: ''
 part_number: ''
 short_name: ''

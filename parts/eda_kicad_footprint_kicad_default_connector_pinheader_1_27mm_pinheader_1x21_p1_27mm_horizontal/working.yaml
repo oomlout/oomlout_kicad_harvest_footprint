@@ -904,13 +904,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole angled pin header THT 1x21 1.27mm single row
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinheader_1_27mm_pinheader_1x21_p1_27mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

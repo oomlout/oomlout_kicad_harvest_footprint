@@ -117,13 +117,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB APFA3010 KINGBRIGHT 3x1.5mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_smd_led_kingbright_apfa3010_3x1_5mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

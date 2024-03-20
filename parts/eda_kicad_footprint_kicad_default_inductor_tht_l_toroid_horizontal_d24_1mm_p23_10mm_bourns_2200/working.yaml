@@ -119,13 +119,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 23.10mm  diameter 24.1mm Bourns
     2200
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d24_1mm_p23_10mm_bourns_2200
 manufacturer: ''
 part_number: ''
 short_name: ''

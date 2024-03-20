@@ -412,13 +412,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TFT graphical display 480x272 16-bit colour with LED backlight
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_ea_ediptft43_atc
 manufacturer: ''
 part_number: ''
 short_name: ''

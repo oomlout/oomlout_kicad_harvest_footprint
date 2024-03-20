@@ -1075,13 +1075,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera BGA-144 M144 MBGA
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_144_7_0x7_0mm_layout13x13_p0_5mm_ball0_3mm_pad0_25mm_nsmd
 manufacturer: ''
 part_number: ''
 short_name: ''

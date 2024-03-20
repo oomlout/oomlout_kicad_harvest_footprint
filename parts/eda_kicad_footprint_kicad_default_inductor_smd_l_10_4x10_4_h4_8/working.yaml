@@ -99,13 +99,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Choke SMD
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_smd_l_10_4x10_4_h4_8
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -75,13 +75,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 19.05mm  diameter 27.9mm Vishay IHB-3
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_radial_d27_9mm_p19_05mm_vishay_ihb_3
 manufacturer: ''
 part_number: ''
 short_name: ''

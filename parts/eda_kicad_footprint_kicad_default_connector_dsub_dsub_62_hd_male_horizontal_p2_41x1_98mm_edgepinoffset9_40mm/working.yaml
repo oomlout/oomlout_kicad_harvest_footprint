@@ -1147,7 +1147,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm
     pin-PCB-offset 9.4mm
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

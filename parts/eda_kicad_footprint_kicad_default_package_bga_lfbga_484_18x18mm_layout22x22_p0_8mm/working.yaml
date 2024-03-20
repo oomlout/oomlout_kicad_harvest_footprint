@@ -3463,13 +3463,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 484 0.8 484-ball LFBGA
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_lfbga_484_18x18mm_layout22x22_p0_8mm
 manufacturer: ''
 part_number: ''
 short_name: ''

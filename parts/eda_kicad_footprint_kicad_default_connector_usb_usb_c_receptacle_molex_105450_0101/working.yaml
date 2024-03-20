@@ -279,7 +279,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C USB3 receptacle SMD
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -297,6 +297,7 @@ footprint_string:
     Y=4.325, angle=None, unlocked=False), Position(X=-3.5, Y=4.325, angle=None, unlocked=False),
     Position(X=-3.5, Y=-1.305, angle=None, unlocked=False), Position(X=3.5, Y=-1.305,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_c_receptacle_molex_105450_0101
 manufacturer: ''
 part_number: ''
 short_name: ''

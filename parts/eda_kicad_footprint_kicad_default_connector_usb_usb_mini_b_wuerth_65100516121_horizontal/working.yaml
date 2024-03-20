@@ -201,13 +201,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Mini USB 2.0 Type B
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_usb_usb_mini_b_wuerth_65100516121_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

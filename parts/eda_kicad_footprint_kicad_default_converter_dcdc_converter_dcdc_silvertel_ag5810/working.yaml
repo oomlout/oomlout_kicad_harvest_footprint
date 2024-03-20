@@ -1376,7 +1376,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter Silvertel Ag5810 single output POE
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -1401,6 +1401,7 @@ footprint_string:
     angle=None, unlocked=False), Position(X=56.475, Y=-9.85, angle=None, unlocked=False),
     Position(X=59.475, Y=-9.875, angle=None, unlocked=False)])], filledPolygons=[],
     fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_silvertel_ag5810
 manufacturer: ''
 part_number: ''
 short_name: ''

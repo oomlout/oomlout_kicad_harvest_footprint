@@ -111,13 +111,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACDC-Converter 2W THT
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_acdc_converter_acdc_meanwell_irm_02_xx_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -2342,13 +2342,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 324 0.8 GateMate FPGA
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_324_15_0x15_0mm_layout18x18_p0_8mm_ball0_45mm_pad0_4mm_nsmd
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -177,13 +177,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Vishay CNY70 refective photo coupler
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_optodevice_vishay_cny70
 manufacturer: ''
 part_number: ''
 short_name: ''

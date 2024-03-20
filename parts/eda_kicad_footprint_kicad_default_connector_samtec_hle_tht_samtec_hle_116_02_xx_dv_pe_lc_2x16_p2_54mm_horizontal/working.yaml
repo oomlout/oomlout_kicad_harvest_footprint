@@ -606,13 +606,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Samtec HLE top entry
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_lc_2x16_p2_54mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

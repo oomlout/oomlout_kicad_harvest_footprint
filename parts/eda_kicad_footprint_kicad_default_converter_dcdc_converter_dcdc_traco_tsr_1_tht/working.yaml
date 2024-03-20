@@ -100,13 +100,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter TRACO TSR-1
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_traco_tsr_1_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

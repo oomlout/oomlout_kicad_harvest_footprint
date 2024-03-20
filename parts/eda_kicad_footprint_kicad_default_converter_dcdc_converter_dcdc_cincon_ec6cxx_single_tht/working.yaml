@@ -149,13 +149,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter CINCON EC6Cxx single output
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_cincon_ec6cxx_single_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -83,13 +83,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: diode handsolder
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_diode_smd_d_0805_2012metric_pad1_15x1_40mm_handsolder
 manufacturer: ''
 part_number: ''
 short_name: ''

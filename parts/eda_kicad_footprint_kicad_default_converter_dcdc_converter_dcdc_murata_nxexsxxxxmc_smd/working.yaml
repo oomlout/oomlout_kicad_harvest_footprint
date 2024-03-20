@@ -137,7 +137,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Isolated 1W or 2W Single Output SM DC/DC Converters
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -154,6 +154,7 @@ footprint_string:
     Y=-1.92, angle=None, unlocked=False), Position(X=6.1, Y=-1.92, angle=None, unlocked=False),
     Position(X=6.1, Y=1.93, angle=None, unlocked=False), Position(X=-6.1, Y=1.93,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_converter_dcdc_converter_dcdc_murata_nxexsxxxxmc_smd
 manufacturer: ''
 part_number: ''
 short_name: ''

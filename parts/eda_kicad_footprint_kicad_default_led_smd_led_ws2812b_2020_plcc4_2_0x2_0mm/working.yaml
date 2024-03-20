@@ -102,13 +102,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB NeoPixel Nano PLCC-4 2020
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
 manufacturer: ''
 part_number: ''
 short_name: ''

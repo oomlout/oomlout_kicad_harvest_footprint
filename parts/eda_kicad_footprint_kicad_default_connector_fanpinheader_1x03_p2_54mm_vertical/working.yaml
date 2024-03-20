@@ -109,7 +109,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: pin header 3-pin CPU fan
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

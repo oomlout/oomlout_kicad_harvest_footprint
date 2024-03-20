@@ -205,13 +205,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Dubble digit green 7 segment LED display
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_display_7segment_da04_11cgkwa
 manufacturer: ''
 part_number: ''
 short_name: ''

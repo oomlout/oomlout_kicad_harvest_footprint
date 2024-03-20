@@ -248,13 +248,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Mounting M2 9774030243
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smsi_m2_h3mm_9774030243
 manufacturer: ''
 part_number: ''
 short_name: ''

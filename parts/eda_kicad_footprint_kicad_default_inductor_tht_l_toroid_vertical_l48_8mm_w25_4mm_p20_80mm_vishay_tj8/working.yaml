@@ -115,13 +115,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 20.80mm  length 48.8mm width 25.4mm
     Vishay TJ8
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_vertical_l48_8mm_w25_4mm_p20_80mm_vishay_tj8
 manufacturer: ''
 part_number: ''
 short_name: ''

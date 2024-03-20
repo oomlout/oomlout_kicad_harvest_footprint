@@ -140,13 +140,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length
     21mm width 10mm muRATA 5100
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -1537,13 +1537,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 209 0.8
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -356,13 +356,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Mounting 4.5mm 9774040982
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_mounting_wuerth_mounting_wuerth_wa_smst_4_5mm_h4mm_9774040982
 manufacturer: ''
 part_number: ''
 short_name: ''

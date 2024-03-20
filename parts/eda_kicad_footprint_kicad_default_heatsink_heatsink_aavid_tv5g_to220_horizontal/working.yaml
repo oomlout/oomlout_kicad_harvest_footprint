@@ -315,13 +315,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'Heatsink TV5G TO-220 Horizontal '
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_heatsink_heatsink_aavid_tv5g_to220_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

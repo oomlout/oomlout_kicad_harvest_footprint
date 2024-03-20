@@ -119,13 +119,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 17.00mm  diameter 11.176mm Diameter12-5mm
     Amidon-T44
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_horizontal_d11_2mm_p17_00mm_diameter12_5mm_amidon_t44
 manufacturer: ''
 part_number: ''
 short_name: ''

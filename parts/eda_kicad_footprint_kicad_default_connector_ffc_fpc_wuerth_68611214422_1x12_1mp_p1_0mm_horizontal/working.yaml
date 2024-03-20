@@ -278,7 +278,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm
     height SMT
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

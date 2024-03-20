@@ -125,13 +125,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector wire 0.15sqmm
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_wire_solderwire_0_15sqmm_1x04_p4mm_d0_5mm_od1_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -2552,13 +2552,14 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: BGA 354 0.8
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_st_lfbga_354_16x16mm_layout19x19_p0_8mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -84,13 +84,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 0ZRE BelFuse radial PTC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuse_belfuse_0zre0055ff_l14_0mm_w4_1mm
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -149,13 +149,14 @@ footprint_string:
   solderPasteRatio: None
   tags: LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position
     of LED center 2.0mm 2 pins
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_led_tht_led_d3_0mm_horizontal_o3_81mm_z2_0mm
 manufacturer: ''
 part_number: ''
 short_name: ''

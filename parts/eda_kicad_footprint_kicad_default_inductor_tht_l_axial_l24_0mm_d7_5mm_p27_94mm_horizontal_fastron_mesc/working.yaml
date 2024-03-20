@@ -96,13 +96,14 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 27.94mm  length 24mm diameter
     7.5mm Fastron MESC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_axial_l24_0mm_d7_5mm_p27_94mm_horizontal_fastron_mesc
 manufacturer: ''
 part_number: ''
 short_name: ''

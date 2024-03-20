@@ -2918,13 +2918,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: FMC HPC
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

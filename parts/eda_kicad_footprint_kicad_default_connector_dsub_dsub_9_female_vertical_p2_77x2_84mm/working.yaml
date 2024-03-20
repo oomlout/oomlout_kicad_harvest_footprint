@@ -232,7 +232,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting
     holes distance 25mm
-  tedit: 65facd8d
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None

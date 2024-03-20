@@ -2315,13 +2315,14 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: BGA 320 0.5
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_st_tfbga_320_11x11mm_layout21x21_p0_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

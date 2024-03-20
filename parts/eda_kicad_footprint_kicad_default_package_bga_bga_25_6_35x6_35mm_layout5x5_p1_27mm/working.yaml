@@ -251,13 +251,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA-25 uModule
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_bga_25_6_35x6_35mm_layout5x5_p1_27mm
 manufacturer: ''
 part_number: ''
 short_name: ''

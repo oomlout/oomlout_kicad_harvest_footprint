@@ -144,13 +144,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SI570 SI571 Programmable oscillator Standard
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_oscillator_oscillator_smd_si570_si571_handsoldering
 manufacturer: ''
 part_number: ''
 short_name: ''

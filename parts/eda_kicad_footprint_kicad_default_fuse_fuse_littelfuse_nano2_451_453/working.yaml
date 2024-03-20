@@ -78,13 +78,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Fuse Nano2
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_fuse_fuse_littelfuse_nano2_451_453
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -121,13 +121,14 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 13.50mm  length 31.8mm width 15.9mm
     Bourns 5700
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_inductor_tht_l_toroid_vertical_l31_8mm_w15_9mm_p13_50mm_bourns_5700
 manufacturer: ''
 part_number: ''
 short_name: ''

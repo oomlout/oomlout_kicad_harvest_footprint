@@ -809,13 +809,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted pin header SMD 2x20 2.00mm double row
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinheader_2_00mm_pinheader_2x20_p2_00mm_vertical_smd
 manufacturer: ''
 part_number: ''
 short_name: ''

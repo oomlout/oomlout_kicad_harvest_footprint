@@ -421,13 +421,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole socket strip THT 2x22 1.27mm double row
-  tedit: 65f83759
+  tedit: 65fae197
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinsocket_1_27mm_pinsocket_2x22_p1_27mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''
