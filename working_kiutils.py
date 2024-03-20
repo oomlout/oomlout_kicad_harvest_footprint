@@ -80,6 +80,7 @@ def harvest_footprint_kiutils(file_footprint):
     footprint_id = sanitize(footprint_id)   
 
     part_details["footprint_id"] = footprint_id
+    part_details["id"] = footprint_id
 
     directory = f"parts/{footprint_id}"
     os.makedirs(directory, exist_ok=True)

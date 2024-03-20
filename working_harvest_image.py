@@ -12,8 +12,8 @@ def main(**kwargs):
     overwrite = kwargs.get("overwrite", False)
 
     global typ
-    typ = "surface"
-    #typ = "desktop"
+    #typ = "surface"
+    typ = "desktop"
     set_mouse_positions(typ)
 
     #launch kicad window
@@ -65,10 +65,14 @@ def delay(seconds):
         print()
     else:
         #print a dot for each second
-        for i in range(seconds):
-            print(".", end="")
-            time.sleep(1)
-        print()
+        if seconds >= 1:
+            for i in range(seconds):
+                print(".", end="")
+                time.sleep(1)
+            print()
+        else:
+            time.sleep(seconds)
+        
 
 typ = "desktop"
 position_filter_box = [65,114]
@@ -78,6 +82,55 @@ position_menu_file = [18,33]
 position_menu_view = [87,33]
 position_menu_3d_view = [87,33]
 
+
+def oom_click(location, wait=1, duration=0.5):
+    #click on the location
+    print(f"Clicking {location}")
+    #move mouse first
+    pyautogui.moveTo(location[0], location[1], duration=duration)
+    #then click
+    delay(0.5)
+    pyautogui.click(location[0], location[1])
+    if wait > 2:
+        delay(wait)
+    else:
+        time.sleep(wait)
+
+def oom_double_click(location, wait=1, duration=0.5):
+    #click on the location
+    print(f"Double Clicking {location}")
+    pyautogui.doubleClick(location[0], location[1], duration=duration)
+    if wait > 2:
+        delay(wait)
+    else:
+        time.sleep(wait)
+
+def oom_hotkey(key1, key2, wait=1):
+    #click on the location
+    print(f"Hotkey {key1} {key2}")
+    pyautogui.hotkey(key1, key2)
+    if wait > 2:
+        delay(wait)
+    else:
+        time.sleep(wait)
+
+def oom_press(key, wait=1):
+    #click on the location
+    print(f"Pressing {key}")
+    pyautogui.press(key)
+    if wait > 2:
+        delay(wait)
+    else:
+        time.sleep(wait)
+
+def oom_typewriter(string, wait=1):
+    #type the string
+    print(f"Typing {string}")
+    pyautogui.typewrite(string)
+    if wait > 1:
+        delay(wait)
+    else:
+        time.sleep(wait)
 
 def set_mouse_positions(typ):
     global position_filter_box, position_first_result, position_menu_file, position_menu_view, position_menu_3d_view, position_footprint_browser
@@ -121,27 +174,26 @@ def harvest_footprint_image(footprint, overwrite):
 
 
         #click on the filter box
-        pyautogui.click(position_filter_box)
-        delay(1)
-        pyautogui.click(position_filter_box)
-        delay(1)
+        oom_click(position_filter_box)
+        
+        oom_click(position_filter_box)
+        
 
         #select all
-        pyautogui.hotkey('ctrl', 'a')
-        delay(1)
+        oom_hotkey('ctrl', 'a')
+        
 
         #delete
-        pyautogui.press('delete')
-        delay(1)
+        oom_press('delete')
+        
 
         footprint_name = details["footprint_string"]["entryName"]
         #type the footprint name
-        pyautogui.typewrite(footprint_name)
-        delay(1)
+        oom_typewriter(footprint_name)
+        
 
         #doubnle click on first result
-        pyautogui.doubleClick(position_first_result)
-        delay(5)
+        oom_double_click(position_first_result, 5)
 
 
         export_kicad_mod(footprint, folder_full, overwrite)
@@ -157,15 +209,15 @@ def export_3d_view(footprint, folder_full, overwrite):
     test_file = f"{folder_full}image_3d_iso.png"
     if not os.path.exists(test_file) or overwrite:
         #export
-        pyautogui.click(position_menu_view)
-        delay(1)
+        oom_click(position_menu_view)
+        
         #send 3
-        pyautogui.typewrite("3")
-        delay(5)
+        oom_typewriter("3", 5)
         #maximize window
         if typ == "desktop":
-            pyautogui.hotkey('win', 'up')
-            delay(2)
+            pass
+            #oom_hotkey('win', 'up')
+            
 
         views = ["top", "bottom", "iso"]
 
@@ -174,74 +226,70 @@ def export_3d_view(footprint, folder_full, overwrite):
             if not os.path.exists(test_file) or overwrite:
                 if view == "top":
                     #send z
-                    pyautogui.typewrite("z")
-                    delay(2)
+                    oom_typewriter("z")
+                    
                 elif view == "bottom":
                     #send shift z
-                    pyautogui.hotkey('Z')
-                    delay(2)
+                    oom_typewriter('Z')
+                    
                 elif view == "iso":
                     #send i
-                    pyautogui.typewrite("z")
-                    delay(2)
+                    oom_typewriter("z")
+                    
                     #rot x
                     times = 3
                     for i in range(times):
-                        pyautogui.click(position_menu_3d_view)
-                        delay(1)
+                        oom_click(position_menu_3d_view)
+                        
                         #down 6 times
-                        pyautogui.typewrite(["down", "down", "down", "down", "down", "down"])
-                        delay(1)
+                        oom_typewriter(["down", "down", "down", "down", "down", "down"])
+                        
                         #enter
-                        pyautogui.typewrite(["enter"])
-                        delay(1)
+                        oom_typewriter(["enter"])
+                        
                     #rot z
                     times = 2
                     for i in range(times):
-                        pyautogui.click(position_menu_3d_view)
-                        delay(1)
+                        oom_click(position_menu_3d_view)
+                        
                         #down 11 times
-                        pyautogui.typewrite(["down", "down", "down", "down", "down", "down", "down", "down", "down", "down", "down"])
-                        delay(1)
+                        oom_typewriter(["down", "down", "down", "down", "down", "down", "down", "down", "down", "down", "down"])
+                        
                         #enter
-                        pyautogui.typewrite(["enter"])
-                        delay(1)
+                        oom_typewriter(["enter"])
+                        
 
                 #export
-                delay(2)
-                pyautogui.click(position_menu_file)
-                delay(2)
+                
+                oom_click(position_menu_file)
+                
                 #down one
-                pyautogui.typewrite(["down"])
-                delay(2)
+                oom_typewriter(["down"])
+                
                 #send enter
-                pyautogui.typewrite(["enter"])
-                delay(5)
+                oom_typewriter(["enter"] , wait=5)
                 #send folder full
-                pyautogui.typewrite(folder_full)
-                delay(1)
+                oom_typewriter(folder_full)
+                
                 #send image_3d_{view}.png
-                pyautogui.typewrite(f"image_3d_{view}.png")
-                delay(1)
+                oom_typewriter(f"image_3d_{view}.png")
+                
                 #send enter
-                pyautogui.typewrite(["enter"])
-                delay(2)
+                oom_typewriter(["enter"])
+                
                 #send y
-                pyautogui.typewrite("y")
-                delay(5)
+                oom_typewriter("y", wait=5)
                 #send enter
-                pyautogui.typewrite(["enter"])
-                delay(5)
+                oom_typewriter(["enter"], wait=5)
         #clsoe 3d viewer
         #click file
-        pyautogui.click(position_menu_file)
-        delay(1)
+        oom_click(position_menu_file)
+        
         #send up
-        pyautogui.typewrite(["up"])
-        delay(1)
+        oom_typewriter(["up"])
+        
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(10)
+        oom_typewriter(["enter"], wait=10)
 
             
 
@@ -253,29 +301,27 @@ def export_kicad_mod(footprint, folder_full, overwrite):
     test_file = f"{folder_full}footprint_export.kicad_mod"
     if not os.path.exists(test_file) or overwrite:
         #export
-        pyautogui.click(position_menu_file)
-        delay(1)
+        oom_click(position_menu_file)
+        
         #send e
-        pyautogui.typewrite("e")
-        delay(1)
+        oom_typewriter("e")
+        
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(5)
+        oom_typewriter(["enter"],5)
+        
         #send folder full
-        pyautogui.typewrite(folder_full)
-        delay(1)
+        oom_typewriter(folder_full)
+        
         #send footprint_export.kicad_mod
-        pyautogui.typewrite("footprint_export.kicad_mod")
-        delay(1)
+        oom_typewriter("footprint_export.kicad_mod")
+        
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(2)
+        oom_typewriter(["enter"])
+        
         #send y
-        pyautogui.typewrite("y")
-        delay(5)
+        oom_typewriter("y",5)
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(5)
+        oom_typewriter(["enter"], wait=5)
 
 def export_view_as_png(footprint, folder_full, overwrite):
     test_file = f"{folder_full}footprint_outline.png"
@@ -283,32 +329,30 @@ def export_view_as_png(footprint, folder_full, overwrite):
         print(f"Exporting view as png {footprint}")
         print(f"Exporting {footprint}")
         #export
-        pyautogui.click(position_menu_file)
-        delay(1)
+        oom_click(position_menu_file)
+        
         #send e
-        pyautogui.typewrite("e")
-        delay(1)
+        oom_typewriter("e")
+        
         #send down
-        pyautogui.typewrite(["down"])
-        delay(1)
+        oom_typewriter(["down"])
+        
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(5)
+        oom_typewriter(["enter"], wait=5)
+        
         #send folder full
-        pyautogui.typewrite(folder_full)
-        delay(1)
+        oom_typewriter(folder_full)
+        
         #send footprint_export.kicad_mod
-        pyautogui.typewrite("footprint_outline.png")
-        delay(1)
+        oom_typewriter("footprint_outline.png")
+        
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(2)
+        oom_typewriter(["enter"])
+        
         #send y
-        pyautogui.typewrite("y")
-        delay(5)
+        oom_typewriter("y",wait=5)
         #send enter
-        pyautogui.typewrite(["enter"])
-        delay(5)
+        oom_typewriter(["enter"], wait=5)
 
 
 
@@ -319,12 +363,13 @@ def export_view_as_png(footprint, folder_full, overwrite):
 def lauch_footprint_browser():
     print("Launching footprint browser")
     location  = position_footprint_browser
-    pyautogui.click(location, duration=1)
-    delay(15)
+    oom_click(location, duration=1, wait=20)
+    
     #maximize current window
     if typ == "desktop":
-        pyautogui.hotkey('win', 'up')
-        delay(2)
+        pass
+        #oom_hotkey('win', 'up')
+        
     
 
 def launch_kicad():
@@ -335,8 +380,9 @@ def launch_kicad():
     delay(10)
     #maximize window
     if typ == "desktop":
-        pyautogui.hotkey('win', 'up')
-        delay(2)
+        pass
+        #oom_hotkey('win', 'up')
+        
 
 def sanitize(string):
     
