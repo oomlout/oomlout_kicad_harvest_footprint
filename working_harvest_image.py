@@ -40,12 +40,21 @@ def main(**kwargs):
                 count += return_value
                 print(f"Harvested {count} footprints")
 
+            #reopen kicad every 20
             if count % 20 == 0:
                 print("restaring kicad")    
                 close_kicad()
                 launch_kicad()
                 lauch_footprint_browser()
                 count = 1
+
+            if count % 2 == 0:
+                #commit the changes using os.system
+                print(f"Committing {count} footprints")
+                os.system("git add .")
+                os.system(f"git commit -m 'harvested {count} footprints'")
+                os.system("git push")
+
     
 def close_kicad():
     print("Closing KiCad")
@@ -138,7 +147,7 @@ def oom_press(key, wait=1):
 def oom_typewriter(string, wait=2):
     #type the string
     print(f"Typing {string}")
-    pyautogui.typewrite(string, interval=0.2)
+    pyautogui.typewrite(string, interval=0.05)
     if wait > 1:
         delay(wait)
     else:
@@ -150,7 +159,7 @@ def set_mouse_positions(typ):
     if typ == "desktop":
         position_filter_box = [65,114]
         position_first_result = [92,185]
-        position_footprint_browser = [330,268]
+        position_footprint_bro_harvest_fwser = [330,268]
         position_menu_file = [18,33]
         position_menu_view = [87,33]
         position_menu_3d_view = [87,33]
