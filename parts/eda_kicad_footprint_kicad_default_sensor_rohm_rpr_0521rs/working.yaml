@@ -1,0 +1,152 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: rohm_rpr_0521rs
+description_main: sensor
+footprint_id: eda_kicad_footprint_kicad_default_sensor_rohm_rpr_0521rs
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Digital Proximity and Ambient Light Sensor, 2.36 x 3.94 x 1.35mm, LGA-8
+    (https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-e.pdf)
+  entryName: Rohm_RPR-0521RS
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-1.18, Y=-2.075, angle=None, unlocked=False),
+    end=Position(X=1.18, Y=-2.075, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.18, Y=2.075, angle=None, unlocked=False),
+    end=Position(X=1.18, Y=2.075, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''default'', color=None), locked=False,
+    tstamp=None), FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-1.4, Y=-1.45,
+    angle=None, unlocked=False), Position(X=-1.73, Y=-1.21, angle=None, unlocked=False),
+    Position(X=-1.73, Y=-1.69, angle=None, unlocked=False), Position(X=-1.4, Y=-1.45,
+    angle=None, unlocked=False)], width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), fill=''solid'', locked=False, tstamp=None), FpRect(start=Position(X=0.835,
+    Y=0.785, angle=None, unlocked=False), end=Position(X=-0.835, Y=1.655, angle=None,
+    unlocked=False), layer=''Cmts.User'', width=None, stroke=Stroke(width=0.05, type=''default'',
+    color=None), fill=''none'', locked=False, tstamp=None), FpCircle(center=Position(X=0,
+    Y=-1.13, angle=None, unlocked=False), end=Position(X=0, Y=-0.58, angle=None, unlocked=False),
+    layer=''Cmts.User'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpRect(start=Position(X=-1.43, Y=2.22,
+    angle=None, unlocked=False), end=Position(X=1.43, Y=-2.22, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    fill=''none'', locked=False, tstamp=None), FpLine(start=Position(X=-1.18, Y=-1.38,
+    angle=None, unlocked=False), end=Position(X=-0.59, Y=-1.97, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1.18, Y=0.82, angle=None,
+    unlocked=False), end=Position(X=1.18, Y=0.82, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.18, Y=1.97, angle=None, unlocked=False),
+    end=Position(X=-1.18, Y=-1.38, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.59, Y=-1.97, angle=None, unlocked=False), end=Position(X=1.18,
+    Y=-1.97, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.18,
+    Y=-1.97, angle=None, unlocked=False), end=Position(X=1.18, Y=1.97, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=1.18, Y=1.97,
+    angle=None, unlocked=False), end=Position(X=-1.18, Y=1.97, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''DET'', position=Position(X=0,
+    Y=-1.13, angle=0, unlocked=False), layer=''Cmts.User'', hide=False, effects=Effects(font=Font(face=None,
+    height=0.2, width=0.2, thickness=0.05, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''EMITTER'', position=Position(X=0, Y=1.25, angle=0, unlocked=False), layer=''Cmts.User'',
+    hide=False, effects=Effects(font=Font(face=None, height=0.2, width=0.2, thickness=0.05,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None),
+    FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0, Y=-0.575,
+    angle=90, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=0.5, width=0.5, thickness=0.1, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Sensor.3dshapes/Rohm_RPR-0521RS.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-0.775,
+    Y=-1.455, angle=270, unlocked=False), locked=False, size=Position(X=0.72, Y=0.7,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=-0.775, Y=-0.485, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''3'', type=''smd'', shape=''roundrect'',
+    position=Position(X=-0.775, Y=0.485, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''4'', type=''smd'', shape=''roundrect'',
+    position=Position(X=-0.775, Y=1.455, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''5'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.775, Y=1.455, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''6'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.775, Y=0.485, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''7'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.775, Y=-0.485, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''8'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.775, Y=-1.455, angle=270, unlocked=False), locked=False,
+    size=Position(X=0.72, Y=0.7, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Paste'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Rohm_RPR-0521RS'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: DFN Sensor optical IR
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_sensor_rohm_rpr_0521rs
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

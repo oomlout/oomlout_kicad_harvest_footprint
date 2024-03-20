@@ -1,0 +1,283 @@
+(footprint "TO-126-2_Horizontal_TabUp"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
+	(tags "TO-126-2 Horizontal RM 5.08mm")
+	(property "Reference" "REF**"
+		(at 2.54 16.12 0)
+		(layer "F.SilkS")
+		(uuid "9c405e04-cac0-4a8d-b8ec-05d088cde0c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TO-126-2_Horizontal_TabUp"
+		(at 2.54 -1.9 0)
+		(layer "F.Fab")
+		(uuid "1cc80800-0ba4-4e38-a935-002b178c6aa9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36f285c9-5ea4-4f17-965e-a9b5c708b3e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c096c45-6f86-474b-b1c7-7382a5223388")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e400e33-fd19-47e2-8709-329fb17e2741")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.58 3.88)
+		(end -1.58 15.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0a6163c-8254-4047-9ba2-7c274a0016b2")
+	)
+	(fp_line
+		(start -1.58 3.88)
+		(end 6.66 3.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "315bb36d-37a7-4169-87e2-7ef549680f47")
+	)
+	(fp_line
+		(start -1.58 15.12)
+		(end 6.66 15.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc8e0bbf-1620-4609-b45d-1144b22e2b56")
+	)
+	(fp_line
+		(start 0 1.05)
+		(end 0 3.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb0a04c7-27b0-495e-a764-bac495739d2d")
+	)
+	(fp_line
+		(start 5.08 1.066)
+		(end 5.08 3.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7bc2583d-8e5b-4168-bc22-714de64c6a7b")
+	)
+	(fp_line
+		(start 6.66 3.88)
+		(end 6.66 15.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c29a7b26-3c0f-4cc1-b021-ff6ee017fdbc")
+	)
+	(fp_line
+		(start -1.71 -1.15)
+		(end -1.71 15.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d4e542d3-e2ec-4ba4-9e12-c62de48afefb")
+	)
+	(fp_line
+		(start -1.71 15.25)
+		(end 6.79 15.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0b33c4f0-6d02-4778-acc5-9f2858241208")
+	)
+	(fp_line
+		(start 6.79 -1.15)
+		(end -1.71 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f5144897-c468-4777-8e64-e365fea5647f")
+	)
+	(fp_line
+		(start 6.79 15.25)
+		(end 6.79 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7fe75898-7400-4614-91e7-e1de660041ec")
+	)
+	(fp_line
+		(start -1.46 4)
+		(end -1.46 15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d44d6b2b-a434-49b3-8831-31ce1d367a7d")
+	)
+	(fp_line
+		(start -1.46 15)
+		(end 6.54 15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf27f114-f7f6-4b2c-bc04-c567a9a2d66f")
+	)
+	(fp_line
+		(start 0 4)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4a924f1-133c-4f37-8ca3-0a98759371bc")
+	)
+	(fp_line
+		(start 5.08 4)
+		(end 5.08 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4728ec2c-11d8-4221-9872-56ae99b5f9f0")
+	)
+	(fp_line
+		(start 6.54 4)
+		(end -1.46 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66e6a54d-b882-4b88-81c4-09a90e59167a")
+	)
+	(fp_line
+		(start 6.54 15)
+		(end 6.54 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e1ed853e-fe59-4a77-a1b4-c335a3fc8064")
+	)
+	(fp_circle
+		(center 2.54 11.1)
+		(end 4.14 11.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "f27e570b-b705-40bc-97ac-dabb22a6b671")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 16.12 0)
+		(layer "F.Fab")
+		(uuid "9713c396-affe-46d4-9d9c-cd3b39d6f9a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at 2.54 11.1)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "309b2b78-652e-495b-8217-9081a563635b")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b5a8d554-e517-426b-9836-6cbc84dacc26")
+	)
+	(pad "2" thru_hole oval
+		(at 5.08 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "58966621-0e91-457a-be95-0c7bf0e7be08")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-126-2_Horizontal_TabUp.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,181 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: pulse_w3000
+description_main: rf_antenna
+footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_pulse_w3000
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Pulse Electronics W3000 tri-band antenna for GPS (1.575Ghz), 868Mhz
+    and 2.4Ghz ISM bands, https://productfinder.pulseeng.com/products/datasheets/W3000.pdf
+  entryName: Pulse_W3000
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-4.16, Y=-1.06, angle=None, unlocked=False),
+    end=Position(X=0, Y=-1.06, angle=None, unlocked=False), layer=''B.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''default'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-4.16, Y=1.06, angle=None, unlocked=False), end=Position(X=-4.16,
+    Y=-1.06, angle=None, unlocked=False), layer=''B.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-4.16,
+    Y=1.06, angle=None, unlocked=False), end=Position(X=0, Y=1.06, angle=None, unlocked=False),
+    layer=''B.SilkS'', width=None, stroke=Stroke(width=0.12, type=''default'', color=None),
+    locked=False, tstamp=None), FpRect(start=Position(X=4.15, Y=1.05, angle=None,
+    unlocked=False), end=Position(X=-4.15, Y=-1.05, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''default'', color=None), fill=''none'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-3.9, Y=-0.8, angle=None,
+    unlocked=False), end=Position(X=3.9, Y=-0.8, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.9, Y=0.8, angle=None, unlocked=False),
+    end=Position(X=-3.9, Y=-0.8, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''default'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.25, Y=0.799999, angle=None, unlocked=False), end=Position(X=-3.9,
+    Y=0.8, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''default'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.25,
+    Y=0.799999, angle=None, unlocked=False), end=Position(X=3.9, Y=0.266666, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''default'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=3.9, Y=0.266666,
+    angle=None, unlocked=False), end=Position(X=3.9, Y=-0.8, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''default'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=0,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/RF_Antenna.3dshapes/Pulse_W3000.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=-3.3,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.2, Y=1.6, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''smd'', shape=''rect'', position=Position(X=3.3, Y=0,
+    angle=None, unlocked=False), locked=False, size=Position(X=1.2, Y=1.6, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Pulse_W3000'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Antenna GPS 868Mhz ISM 1.575Ghz
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[Zone(locked=False, net=0, netName='''', layers=[''F.Cu''], tstamp=None,
+    name=''Impedance tuning area'', hatch=Hatch(style=''edge'', pitch=0.5), priority=None,
+    connectPads=None, clearance=0, minThickness=0.25, filledAreasThickness=''no'',
+    keepoutSettings=KeepoutSettings(tracks=''allowed'', vias=''not_allowed'', pads=''allowed'',
+    copperpour=''allowed'', footprints=''allowed''), fillSettings=FillSettings(yes=False,
+    mode=None, thermalGap=0.5, thermalBridgeWidth=0.5, smoothingStyle=None, smoothingRadius=None,
+    islandRemovalMode=None, islandAreaMin=None, hatchThickness=None, hatchGap=None,
+    hatchOrientation=None, hatchSmoothingLevel=None, hatchSmoothingValue=None, hatchBorderAlgorithm=None,
+    hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=-2.95, Y=4.83,
+    angle=None, unlocked=False), Position(X=-2.95, Y=0.95, angle=None, unlocked=False),
+    Position(X=-3.69, Y=0.95, angle=None, unlocked=False), Position(X=-3.69, Y=4.83,
+    angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None), Zone(locked=False,
+    net=0, netName='''', layers=[''F.Cu''], tstamp=None, name=''F.Cu GND Clearance'',
+    hatch=Hatch(style=''edge'', pitch=0.5), priority=None, connectPads=None, clearance=0,
+    minThickness=0.25, filledAreasThickness=''no'', keepoutSettings=KeepoutSettings(tracks=''not_allowed'',
+    vias=''not_allowed'', pads=''not_allowed'', copperpour=''not_allowed'', footprints=''allowed''),
+    fillSettings=FillSettings(yes=False, mode=None, thermalGap=0.5, thermalBridgeWidth=0.5,
+    smoothingStyle=None, smoothingRadius=None, islandRemovalMode=None, islandAreaMin=None,
+    hatchThickness=None, hatchGap=None, hatchOrientation=None, hatchSmoothingLevel=None,
+    hatchSmoothingValue=None, hatchBorderAlgorithm=None, hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=-2.65,
+    Y=-0.85, angle=None, unlocked=False), Position(X=-3.95, Y=-0.85, angle=None, unlocked=False),
+    Position(X=-3.95, Y=-1.17, angle=None, unlocked=False), Position(X=-2.65, Y=-1.17,
+    angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None), Zone(locked=False,
+    net=0, netName='''', layers=[''F.Cu''], tstamp=None, name=''Inductor Zone'', hatch=Hatch(style=''edge'',
+    pitch=0.5), priority=None, connectPads=None, clearance=0, minThickness=0.25, filledAreasThickness=''no'',
+    keepoutSettings=KeepoutSettings(tracks=''allowed'', vias=''not_allowed'', pads=''allowed'',
+    copperpour=''allowed'', footprints=''allowed''), fillSettings=FillSettings(yes=False,
+    mode=None, thermalGap=0.5, thermalBridgeWidth=0.5, smoothingStyle=None, smoothingRadius=None,
+    islandRemovalMode=None, islandAreaMin=None, hatchThickness=None, hatchGap=None,
+    hatchOrientation=None, hatchSmoothingLevel=None, hatchSmoothingValue=None, hatchBorderAlgorithm=None,
+    hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=-1.631,
+    Y=4.83, angle=None, unlocked=False), Position(X=-2.6, Y=4.83, angle=None, unlocked=False),
+    Position(X=-2.6, Y=4.14, angle=None, unlocked=False), Position(X=-1.631, Y=4.14,
+    angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None), Zone(locked=False,
+    net=0, netName='''', layers=[''F.Cu''], tstamp=None, name=''F.Cu GND Clearance'',
+    hatch=Hatch(style=''edge'', pitch=0.5), priority=None, connectPads=None, clearance=0,
+    minThickness=0.25, filledAreasThickness=''no'', keepoutSettings=KeepoutSettings(tracks=''not_allowed'',
+    vias=''not_allowed'', pads=''not_allowed'', copperpour=''not_allowed'', footprints=''allowed''),
+    fillSettings=FillSettings(yes=False, mode=None, thermalGap=0.5, thermalBridgeWidth=0.5,
+    smoothingStyle=None, smoothingRadius=None, islandRemovalMode=None, islandAreaMin=None,
+    hatchThickness=None, hatchGap=None, hatchOrientation=None, hatchSmoothingLevel=None,
+    hatchSmoothingValue=None, hatchBorderAlgorithm=None, hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=3.95,
+    Y=-0.85, angle=None, unlocked=False), Position(X=2.65, Y=-0.85, angle=None, unlocked=False),
+    Position(X=2.65, Y=-1.17, angle=None, unlocked=False), Position(X=3.95, Y=-1.17,
+    angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None), Zone(locked=False,
+    net=0, netName='''', layers=[''F.Cu''], tstamp=None, name=''F.Cu GND Clearance
+    Left'', hatch=Hatch(style=''edge'', pitch=0.5), priority=None, connectPads=None,
+    clearance=0, minThickness=0.25, filledAreasThickness=''no'', keepoutSettings=KeepoutSettings(tracks=''not_allowed'',
+    vias=''not_allowed'', pads=''not_allowed'', copperpour=''not_allowed'', footprints=''allowed''),
+    fillSettings=FillSettings(yes=False, mode=None, thermalGap=0.5, thermalBridgeWidth=0.5,
+    smoothingStyle=None, smoothingRadius=None, islandRemovalMode=None, islandAreaMin=None,
+    hatchThickness=None, hatchGap=None, hatchOrientation=None, hatchSmoothingLevel=None,
+    hatchSmoothingValue=None, hatchBorderAlgorithm=None, hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=-5.48,
+    Y=-1.17, angle=None, unlocked=False), Position(X=-3.95, Y=-1.17, angle=None, unlocked=False),
+    Position(X=-3.95, Y=0.85, angle=None, unlocked=False), Position(X=-3.74, Y=0.85,
+    angle=None, unlocked=False), Position(X=-3.74, Y=4.83, angle=None, unlocked=False),
+    Position(X=-5.48, Y=4.83, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None),
+    Zone(locked=False, net=0, netName='''', layers=[''F.Cu''], tstamp=None, name=''F.Cu
+    GND Clearance Right'', hatch=Hatch(style=''edge'', pitch=0.5), priority=None,
+    connectPads=None, clearance=0, minThickness=0.25, filledAreasThickness=''no'',
+    keepoutSettings=KeepoutSettings(tracks=''not_allowed'', vias=''not_allowed'',
+    pads=''not_allowed'', copperpour=''not_allowed'', footprints=''allowed''), fillSettings=FillSettings(yes=False,
+    mode=None, thermalGap=0.5, thermalBridgeWidth=0.5, smoothingStyle=None, smoothingRadius=None,
+    islandRemovalMode=None, islandAreaMin=None, hatchThickness=None, hatchGap=None,
+    hatchOrientation=None, hatchSmoothingLevel=None, hatchSmoothingValue=None, hatchBorderAlgorithm=None,
+    hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=-2.65, Y=-1.17,
+    angle=None, unlocked=False), Position(X=-2.65, Y=0.85, angle=None, unlocked=False),
+    Position(X=-2.9, Y=0.85, angle=None, unlocked=False), Position(X=-2.9, Y=4.83,
+    angle=None, unlocked=False), Position(X=-2.65, Y=4.83, angle=None, unlocked=False),
+    Position(X=-2.65, Y=4.09, angle=None, unlocked=False), Position(X=-1.581, Y=4.09,
+    angle=None, unlocked=False), Position(X=-1.581, Y=4.83, angle=None, unlocked=False),
+    Position(X=5.48, Y=4.84, angle=None, unlocked=False), Position(X=5.48, Y=-1.17,
+    angle=None, unlocked=False), Position(X=3.95, Y=-1.17, angle=None, unlocked=False),
+    Position(X=3.95, Y=0.85, angle=None, unlocked=False), Position(X=2.65, Y=0.85,
+    angle=None, unlocked=False), Position(X=2.65, Y=-1.17, angle=None, unlocked=False)])],
+    filledPolygons=[], fillSegments=None), Zone(locked=False, net=0, netName='''',
+    layers=[''In1.Cu'', ''In2.Cu'', ''In3.Cu'', ''In4.Cu'', ''In5.Cu'', ''In6.Cu'',
+    ''In7.Cu'', ''In8.Cu'', ''In9.Cu'', ''In10.Cu'', ''In11.Cu'', ''In12.Cu'', ''In13.Cu'',
+    ''In14.Cu'', ''In15.Cu'', ''In16.Cu'', ''In17.Cu'', ''In18.Cu'', ''In19.Cu'',
+    ''In20.Cu'', ''In21.Cu'', ''In22.Cu'', ''In23.Cu'', ''In24.Cu'', ''In25.Cu'',
+    ''In26.Cu'', ''In27.Cu'', ''In28.Cu'', ''In29.Cu'', ''In30.Cu'', ''B.Cu'', ''F.CrtYd''],
+    tstamp=None, name=None, hatch=Hatch(style=''edge'', pitch=0.5), priority=None,
+    connectPads=None, clearance=0, minThickness=0.25, filledAreasThickness=''no'',
+    keepoutSettings=KeepoutSettings(tracks=''not_allowed'', vias=''not_allowed'',
+    pads=''not_allowed'', copperpour=''not_allowed'', footprints=''allowed''), fillSettings=FillSettings(yes=False,
+    mode=None, thermalGap=0.5, thermalBridgeWidth=0.5, smoothingStyle=None, smoothingRadius=None,
+    islandRemovalMode=None, islandAreaMin=None, hatchThickness=None, hatchGap=None,
+    hatchOrientation=None, hatchSmoothingLevel=None, hatchSmoothingValue=None, hatchBorderAlgorithm=None,
+    hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=5.48, Y=4.83,
+    angle=None, unlocked=False), Position(X=-5.48, Y=4.83, angle=None, unlocked=False),
+    Position(X=-5.48, Y=-1.17, angle=None, unlocked=False), Position(X=-4.68, Y=-1.17,
+    angle=None, unlocked=False), Position(X=-3.88, Y=-1.17, angle=None, unlocked=False),
+    Position(X=5.48, Y=-1.17, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_rf_antenna_pulse_w3000
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

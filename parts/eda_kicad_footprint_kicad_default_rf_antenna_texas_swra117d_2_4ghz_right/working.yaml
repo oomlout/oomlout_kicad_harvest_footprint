@@ -1,0 +1,140 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: texas_swra117d_2_4ghz_right
+description_main: rf_antenna
+footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_right
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: http://www.ti.com/lit/an/swra117d/swra117d.pdf
+  entryName: Texas_SWRA117D_2.4GHz_Right
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpPoly(layer=''F.Cu'', coordinates=[Position(X=2.45, Y=-2.51, angle=None,
+    unlocked=False), Position(X=4.45, Y=-2.51, angle=None, unlocked=False), Position(X=4.45,
+    Y=-5.15, angle=None, unlocked=False), Position(X=7.15, Y=-5.15, angle=None, unlocked=False),
+    Position(X=7.15, Y=-2.51, angle=None, unlocked=False), Position(X=9.15, Y=-2.51,
+    angle=None, unlocked=False), Position(X=9.15, Y=-5.15, angle=None, unlocked=False),
+    Position(X=11.85, Y=-5.15, angle=None, unlocked=False), Position(X=11.85, Y=-0.71,
+    angle=None, unlocked=False), Position(X=11.35, Y=-0.71, angle=None, unlocked=False),
+    Position(X=11.35, Y=-4.65, angle=None, unlocked=False), Position(X=9.65, Y=-4.65,
+    angle=None, unlocked=False), Position(X=9.65, Y=-2.01, angle=None, unlocked=False),
+    Position(X=6.65, Y=-2.01, angle=None, unlocked=False), Position(X=6.65, Y=-4.65,
+    angle=None, unlocked=False), Position(X=4.95, Y=-4.65, angle=None, unlocked=False),
+    Position(X=4.95, Y=-2.01, angle=None, unlocked=False), Position(X=1.95, Y=-2.01,
+    angle=None, unlocked=False), Position(X=1.95, Y=-4.65, angle=None, unlocked=False),
+    Position(X=0.25, Y=-4.65, angle=None, unlocked=False), Position(X=0.25, Y=0.25,
+    angle=None, unlocked=False), Position(X=-0.25, Y=0.25, angle=None, unlocked=False),
+    Position(X=-0.25, Y=-4.65, angle=None, unlocked=False), Position(X=-1.65, Y=-4.65,
+    angle=None, unlocked=False), Position(X=-1.65, Y=0.25, angle=None, unlocked=False),
+    Position(X=-2.55, Y=0.25, angle=None, unlocked=False), Position(X=-2.55, Y=0.006785,
+    angle=None, unlocked=False), Position(X=-2.247583, Y=0.006785, angle=None, unlocked=False),
+    Position(X=-2.237742, Y=0.054395, angle=None, unlocked=False), Position(X=-2.213674,
+    Y=0.096797, angle=None, unlocked=False), Position(X=-2.175731, Y=0.129581, angle=None,
+    unlocked=False), Position(X=-2.167819, Y=0.133935, angle=None, unlocked=False),
+    Position(X=-2.125156, Y=0.146043, angle=None, unlocked=False), Position(X=-2.076637,
+    Y=0.1453, angle=None, unlocked=False), Position(X=-2.031122, Y=0.1324, angle=None,
+    unlocked=False), Position(X=-2.012511, Y=0.121787, angle=None, unlocked=False),
+    Position(X=-1.978868, Y=0.086553, angle=None, unlocked=False), Position(X=-1.958309,
+    Y=0.041368, angle=None, unlocked=False), Position(X=-1.951778, Y=-0.008158, angle=None,
+    unlocked=False), Position(X=-1.960218, Y=-0.056417, angle=None, unlocked=False),
+    Position(X=-1.977112, Y=-0.088643, angle=None, unlocked=False), Position(X=-2.012372,
+    Y=-0.121313, angle=None, unlocked=False), Position(X=-2.057682, Y=-0.141408, angle=None,
+    unlocked=False), Position(X=-2.107267, Y=-0.147982, angle=None, unlocked=False),
+    Position(X=-2.155353, Y=-0.140092, angle=None, unlocked=False), Position(X=-2.188245,
+    Y=-0.123186, angle=None, unlocked=False), Position(X=-2.223185, Y=-0.086416, angle=None,
+    unlocked=False), Position(X=-2.242847, Y=-0.041622, angle=None, unlocked=False),
+    Position(X=-2.247583, Y=0.006785, angle=None, unlocked=False), Position(X=-2.55,
+    Y=0.006785, angle=None, unlocked=False), Position(X=-2.55, Y=-5.15, angle=None,
+    unlocked=False), Position(X=2.45, Y=-5.15, angle=None, unlocked=False), Position(X=2.45,
+    Y=-2.51, angle=None, unlocked=False)], width=None, stroke=Stroke(width=0, type=''solid'',
+    color=None), fill=''solid'', locked=False, tstamp=None), FpLine(start=Position(X=-3.05,
+    Y=-5.45, angle=None, unlocked=False), end=Position(X=12.15, Y=-5.45, angle=None,
+    unlocked=False), layer=''Dwgs.User'', width=None, stroke=Stroke(width=0.15, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-3.05, Y=-5.45,
+    angle=None, unlocked=False), end=Position(X=12.15, Y=-0.25, angle=None, unlocked=False),
+    layer=''Dwgs.User'', width=None, stroke=Stroke(width=0.15, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-3.05, Y=-0.25, angle=None,
+    unlocked=False), end=Position(X=-3.05, Y=-5.45, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.05, Y=-0.25, angle=None, unlocked=False),
+    end=Position(X=12.15, Y=-5.45, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.05, Y=-0.25, angle=None, unlocked=False),
+    end=Position(X=12.15, Y=-0.25, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=12.15, Y=-0.25, angle=None, unlocked=False),
+    end=Position(X=12.15, Y=-5.45, angle=None, unlocked=False), layer=''Dwgs.User'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.2, Y=-5.6, angle=None, unlocked=False),
+    end=Position(X=12.3, Y=-5.6, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-3.2, Y=0.35, angle=None, unlocked=False), end=Position(X=-3.2,
+    Y=-5.6, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=12.3,
+    Y=-5.6, angle=None, unlocked=False), end=Position(X=12.3, Y=0.35, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=12.3, Y=0.35,
+    angle=None, unlocked=False), end=Position(X=-3.2, Y=0.35, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-3.2, Y=-5.6, angle=None,
+    unlocked=False), end=Position(X=12.3, Y=-5.6, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-3.2, Y=0.35, angle=None, unlocked=False),
+    end=Position(X=-3.2, Y=-5.6, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.15, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=12.3, Y=-5.6, angle=None, unlocked=False), end=Position(X=12.3,
+    Y=0.35, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.15,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=12.3,
+    Y=0.35, angle=None, unlocked=False), end=Position(X=-3.2, Y=0.35, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.15, type=''solid'',
+    color=None), locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'',
+    position=Position(X=4.55, Y=-6.4, angle=0, unlocked=False), layer=''F.Fab'', hide=False,
+    effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15, bold=False,
+    italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[Pad(number=''1'', type=''connect'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=0.5, Y=0.5, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''thru_hole'', shape=''rect'', position=Position(X=-2.1,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=0.9, Y=0.5, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.3, width=None, offset=None),
+    layers=[''*.Cu''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=2, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Texas_SWRA117D_2.4GHz_Right'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: PCB antenna
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_rf_antenna_texas_swra117d_2_4ghz_right
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

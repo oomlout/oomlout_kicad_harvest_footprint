@@ -1,0 +1,213 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: ce_logo_11_2x8mm_silkscreen
+description_main: symbol
+footprint_id: eda_kicad_footprint_kicad_default_symbol_ce_logo_11_2x8mm_silkscreen
+footprint_string:
+  attributes: Attributes(type=None, boardOnly=False, excludeFromPosFiles=True, excludeFromBom=True)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: CE marking
+  entryName: CE-Logo_11.2x8mm_SilkScreen
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-1.404663, Y=-3.993183,
+    angle=None, unlocked=False), Position(X=-1.319278, Y=-3.990984, angle=None, unlocked=False),
+    Position(X=-1.25753, Y=-3.987051, angle=None, unlocked=False), Position(X=-1.230586,
+    Y=-3.982891, angle=None, unlocked=False), Position(X=-1.191173, Y=-3.972328, angle=None,
+    unlocked=False), Position(X=-1.191173, Y=-2.753505, angle=None, unlocked=False),
+    Position(X=-1.468626, Y=-2.763133, angle=None, unlocked=False), Position(X=-1.746476,
+    Y=-2.762784, angle=None, unlocked=False), Position(X=-2.003607, Y=-2.74046, angle=None,
+    unlocked=False), Position(X=-2.24783, Y=-2.694522, angle=None, unlocked=False),
+    Position(X=-2.486953, Y=-2.623331, angle=None, unlocked=False), Position(X=-2.728788,
+    Y=-2.525248, angle=None, unlocked=False), Position(X=-2.829035, Y=-2.477623, angle=None,
+    unlocked=False), Position(X=-3.068109, Y=-2.346402, angle=None, unlocked=False),
+    Position(X=-3.283467, Y=-2.198961, angle=None, unlocked=False), Position(X=-3.485262,
+    Y=-2.028038, angle=None, unlocked=False), Position(X=-3.563755, Y=-1.952169, angle=None,
+    unlocked=False), Position(X=-3.771165, Y=-1.720239, angle=None, unlocked=False),
+    Position(X=-3.950602, Y=-1.46778, angle=None, unlocked=False), Position(X=-4.101165,
+    Y=-1.196499, angle=None, unlocked=False), Position(X=-4.221956, Y=-0.908103, angle=None,
+    unlocked=False), Position(X=-4.312075, Y=-0.604299, angle=None, unlocked=False),
+    Position(X=-4.338768, Y=-0.481725, angle=None, unlocked=False), Position(X=-4.354855,
+    Y=-0.370436, angle=None, unlocked=False), Position(X=-4.365596, Y=-0.234062, angle=None,
+    unlocked=False), Position(X=-4.371, Y=-0.082142, angle=None, unlocked=False),
+    Position(X=-4.371077, Y=0.075786, angle=None, unlocked=False), Position(X=-4.365836,
+    Y=0.230185, angle=None, unlocked=False), Position(X=-4.355287, Y=0.371515, angle=None,
+    unlocked=False), Position(X=-4.339439, Y=0.490239, angle=None, unlocked=False),
+    Position(X=-4.3378, Y=0.499241, angle=None, unlocked=False), Position(X=-4.263842,
+    Y=0.802109, angle=None, unlocked=False), Position(X=-4.158722, Y=1.091043, angle=None,
+    unlocked=False), Position(X=-4.024146, Y=1.364097, angle=None, unlocked=False),
+    Position(X=-3.86182, Y=1.619326, angle=None, unlocked=False), Position(X=-3.673449,
+    Y=1.854784, angle=None, unlocked=False), Position(X=-3.460739, Y=2.068527, angle=None,
+    unlocked=False), Position(X=-3.225395, Y=2.258607, angle=None, unlocked=False),
+    Position(X=-2.969124, Y=2.423081, angle=None, unlocked=False), Position(X=-2.69363,
+    Y=2.560003, angle=None, unlocked=False), Position(X=-2.450666, Y=2.651633, angle=None,
+    unlocked=False), Position(X=-2.314095, Y=2.693453, angle=None, unlocked=False),
+    Position(X=-2.188658, Y=2.725247, angle=None, unlocked=False), Position(X=-2.065828,
+    Y=2.7482, angle=None, unlocked=False), Position(X=-1.937073, Y=2.763497, angle=None,
+    unlocked=False), Position(X=-1.793865, Y=2.772322, angle=None, unlocked=False),
+    Position(X=-1.627674, Y=2.775859, angle=None, unlocked=False), Position(X=-1.554655,
+    Y=2.776061, angle=None, unlocked=False), Position(X=-1.191173, Y=2.77564, angle=None,
+    unlocked=False), Position(X=-1.191173, Y=3.989844, angle=None, unlocked=False),
+    Position(X=-1.230586, Y=4.000407, angle=None, unlocked=False), Position(X=-1.26422,
+    Y=4.004377, angle=None, unlocked=False), Position(X=-1.326448, Y=4.00711, angle=None,
+    unlocked=False), Position(X=-1.410856, Y=4.008672, angle=None, unlocked=False),
+    Position(X=-1.511029, Y=4.009123, angle=None, unlocked=False), Position(X=-1.620552,
+    Y=4.008529, angle=None, unlocked=False), Position(X=-1.733009, Y=4.006951, angle=None,
+    unlocked=False), Position(X=-1.841985, Y=4.004454, angle=None, unlocked=False),
+    Position(X=-1.941066, Y=4.001099, angle=None, unlocked=False), Position(X=-2.023835,
+    Y=3.996952, angle=None, unlocked=False), Position(X=-2.083879, Y=3.992073, angle=None,
+    unlocked=False), Position(X=-2.084552, Y=3.991997, angle=None, unlocked=False),
+    Position(X=-2.23418, Y=3.970217, angle=None, unlocked=False), Position(X=-2.403141,
+    Y=3.937598, angle=None, unlocked=False), Position(X=-2.578544, Y=3.897048, angle=None,
+    unlocked=False), Position(X=-2.747498, Y=3.851476, angle=None, unlocked=False),
+    Position(X=-2.854862, Y=3.8182, angle=None, unlocked=False), Position(X=-3.205147,
+    Y=3.684411, angle=None, unlocked=False), Position(X=-3.537139, Y=3.521562, angle=None,
+    unlocked=False), Position(X=-3.849528, Y=3.331236, angle=None, unlocked=False),
+    Position(X=-4.141003, Y=3.115017, angle=None, unlocked=False), Position(X=-4.410254,
+    Y=2.874489, angle=None, unlocked=False), Position(X=-4.65597, Y=2.611235, angle=None,
+    unlocked=False), Position(X=-4.87684, Y=2.326838, angle=None, unlocked=False),
+    Position(X=-5.071553, Y=2.022883, angle=None, unlocked=False), Position(X=-5.2388,
+    Y=1.700952, angle=None, unlocked=False), Position(X=-5.377269, Y=1.36263, angle=None,
+    unlocked=False), Position(X=-5.485649, Y=1.0095, angle=None, unlocked=False),
+    Position(X=-5.56263, Y=0.643146, angle=None, unlocked=False), Position(X=-5.580132,
+    Y=0.525517, angle=None, unlocked=False), Position(X=-5.591329, Y=0.413273, angle=None,
+    unlocked=False), Position(X=-5.599034, Y=0.275577, angle=None, unlocked=False),
+    Position(X=-5.603246, Y=0.121833, angle=None, unlocked=False), Position(X=-5.603965,
+    Y=-0.03855, angle=None, unlocked=False), Position(X=-5.601191, Y=-0.196166, angle=None,
+    unlocked=False), Position(X=-5.594925, Y=-0.341609, angle=None, unlocked=False),
+    Position(X=-5.585165, Y=-0.465471, angle=None, unlocked=False), Position(X=-5.580132,
+    Y=-0.508, angle=None, unlocked=False), Position(X=-5.512706, Y=-0.882266, angle=None,
+    unlocked=False), Position(X=-5.412805, Y=-1.243876, angle=None, unlocked=False),
+    Position(X=-5.280769, Y=-1.591993, angle=None, unlocked=False), Position(X=-5.116938,
+    Y=-1.925777, angle=None, unlocked=False), Position(X=-4.921651, Y=-2.244391, angle=None,
+    unlocked=False), Position(X=-4.817277, Y=-2.391104, angle=None, unlocked=False),
+    Position(X=-4.581213, Y=-2.679098, angle=None, unlocked=False), Position(X=-4.321677,
+    Y=-2.941778, angle=None, unlocked=False), Position(X=-4.040477, Y=-3.178087, angle=None,
+    unlocked=False), Position(X=-3.739419, Y=-3.386968, angle=None, unlocked=False),
+    Position(X=-3.420311, Y=-3.567364, angle=None, unlocked=False), Position(X=-3.084959,
+    Y=-3.718218, angle=None, unlocked=False), Position(X=-2.73517, Y=-3.838474, angle=None,
+    unlocked=False), Position(X=-2.372751, Y=-3.927074, angle=None, unlocked=False),
+    Position(X=-2.120104, Y=-3.968689, angle=None, unlocked=False), Position(X=-2.050621,
+    Y=-3.975737, angle=None, unlocked=False), Position(X=-1.959435, Y=-3.981775, angle=None,
+    unlocked=False), Position(X=-1.853024, Y=-3.986698, angle=None, unlocked=False),
+    Position(X=-1.737864, Y=-3.990404, angle=None, unlocked=False), Position(X=-1.620433,
+    Y=-3.992789, angle=None, unlocked=False), Position(X=-1.507207, Y=-3.99375, angle=None,
+    unlocked=False), Position(X=-1.404663, Y=-3.993183, angle=None, unlocked=False)],
+    width=None, stroke=Stroke(width=0.01, type=''solid'', color=None), fill=''solid'',
+    locked=False, tstamp=None), FpPoly(layer=''F.SilkS'', coordinates=[Position(X=5.605518,
+    Y=-3.376449, angle=None, unlocked=False), Position(X=5.60552, Y=-2.758966, angle=None,
+    unlocked=False), Position(X=5.21576, Y=-2.758583, angle=None, unlocked=False),
+    Position(X=5.08073, Y=-2.75802, angle=None, unlocked=False), Position(X=4.973932,
+    Y=-2.756315, angle=None, unlocked=False), Position(X=4.888569, Y=-2.752996, angle=None,
+    unlocked=False), Position(X=4.817845, Y=-2.747592, angle=None, unlocked=False),
+    Position(X=4.754963, Y=-2.73963, angle=None, unlocked=False), Position(X=4.693127,
+    Y=-2.72864, angle=None, unlocked=False), Position(X=4.648239, Y=-2.719202, angle=None,
+    unlocked=False), Position(X=4.343899, Y=-2.63536, angle=None, unlocked=False),
+    Position(X=4.053493, Y=-2.521143, angle=None, unlocked=False), Position(X=3.779356,
+    Y=-2.37814, angle=None, unlocked=False), Position(X=3.523822, Y=-2.207941, angle=None,
+    unlocked=False), Position(X=3.289224, Y=-2.012136, angle=None, unlocked=False),
+    Position(X=3.077896, Y=-1.792313, angle=None, unlocked=False), Position(X=2.892173,
+    Y=-1.550064, angle=None, unlocked=False), Position(X=2.859548, Y=-1.500978, angle=None,
+    unlocked=False), Position(X=2.790959, Y=-1.38584, angle=None, unlocked=False),
+    Position(X=2.720912, Y=-1.251548, angle=None, unlocked=False), Position(X=2.653356,
+    Y=-1.107156, angle=None, unlocked=False), Position(X=2.592241, Y=-0.961719, angle=None,
+    unlocked=False), Position(X=2.541517, Y=-0.824291, angle=None, unlocked=False),
+    Position(X=2.505134, Y=-0.703927, angle=None, unlocked=False), Position(X=2.497065,
+    Y=-0.670035, angle=None, unlocked=False), Position(X=2.484664, Y=-0.613104, angle=None,
+    unlocked=False), Position(X=4.817241, Y=-0.613104, angle=None, unlocked=False),
+    Position(X=4.817241, Y=0.63062, angle=None, unlocked=False), Position(X=2.484664,
+    Y=0.63062, angle=None, unlocked=False), Position(X=2.497065, Y=0.687551, angle=None,
+    unlocked=False), Position(X=2.530248, Y=0.808533, angle=None, unlocked=False),
+    Position(X=2.579887, Y=0.948705, angle=None, unlocked=False), Position(X=2.641901,
+    Y=1.098873, angle=None, unlocked=False), Position(X=2.712208, Y=1.249843, angle=None,
+    unlocked=False), Position(X=2.786727, Y=1.392423, angle=None, unlocked=False),
+    Position(X=2.861377, Y=1.517418, angle=None, unlocked=False), Position(X=2.873899,
+    Y=1.536423, angle=None, unlocked=False), Position(X=3.064233, Y=1.789958, angle=None,
+    unlocked=False), Position(X=3.277682, Y=2.017496, angle=None, unlocked=False),
+    Position(X=3.512925, Y=2.218148, angle=None, unlocked=False), Position(X=3.76864,
+    Y=2.391021, angle=None, unlocked=False), Position(X=4.043507, Y=2.535227, angle=None,
+    unlocked=False), Position(X=4.336205, Y=2.649874, angle=None, unlocked=False),
+    Position(X=4.645413, Y=2.734072, angle=None, unlocked=False), Position(X=4.652962,
+    Y=2.735697, angle=None, unlocked=False), Position(X=4.722588, Y=2.749735, angle=None,
+    unlocked=False), Position(X=4.786704, Y=2.760183, angle=None, unlocked=False),
+    Position(X=4.852448, Y=2.767552, angle=None, unlocked=False), Position(X=4.92696,
+    Y=2.772351, angle=None, unlocked=False), Position(X=5.017381, Y=2.775088, angle=None,
+    unlocked=False), Position(X=5.130848, Y=2.776273, angle=None, unlocked=False),
+    Position(X=5.224517, Y=2.776451, angle=None, unlocked=False), Position(X=5.605517,
+    Y=2.77642, angle=None, unlocked=False), Position(X=5.605517, Y=4.011448, angle=None,
+    unlocked=False), Position(X=5.224517, Y=4.009175, angle=None, unlocked=False),
+    Position(X=5.102729, Y=4.007781, angle=None, unlocked=False), Position(X=4.983911,
+    Y=4.005208, angle=None, unlocked=False), Position(X=4.875685, Y=4.001711, angle=None,
+    unlocked=False), Position(X=4.785672, Y=3.997548, angle=None, unlocked=False),
+    Position(X=4.721494, Y=3.992972, angle=None, unlocked=False), Position(X=4.712138,
+    Y=3.991997, angle=None, unlocked=False), Position(X=4.413665, Y=3.944069, angle=None,
+    unlocked=False), Position(X=4.106663, Y=3.868305, angle=None, unlocked=False),
+    Position(X=3.799514, Y=3.767548, angle=None, unlocked=False), Position(X=3.500604,
+    Y=3.644643, angle=None, unlocked=False), Position(X=3.218316, Y=3.502435, angle=None,
+    unlocked=False), Position(X=3.144426, Y=3.460152, angle=None, unlocked=False),
+    Position(X=2.927876, Y=3.320497, angle=None, unlocked=False), Position(X=2.708146,
+    Y=3.156143, angle=None, unlocked=False), Position(X=2.493917, Y=2.974584, angle=None,
+    unlocked=False), Position(X=2.29387, Y=2.783315, angle=None, unlocked=False),
+    Position(X=2.116687, Y=2.589827, angle=None, unlocked=False), Position(X=2.068294,
+    Y=2.531232, angle=None, unlocked=False), Position(X=1.854684, Y=2.23781, angle=None,
+    unlocked=False), Position(X=1.66755, Y=1.923149, angle=None, unlocked=False),
+    Position(X=1.508226, Y=1.590408, angle=None, unlocked=False), Position(X=1.378045,
+    Y=1.242747, angle=None, unlocked=False), Position(X=1.278338, Y=0.883323, angle=None,
+    unlocked=False), Position(X=1.210441, Y=0.515295, angle=None, unlocked=False),
+    Position(X=1.207071, Y=0.490482, angle=None, unlocked=False), Position(X=1.19787,
+    Y=0.395588, angle=None, unlocked=False), Position(X=1.191337, Y=0.275481, angle=None,
+    unlocked=False), Position(X=1.187476, Y=0.138933, angle=None, unlocked=False),
+    Position(X=1.186288, Y=-0.005285, angle=None, unlocked=False), Position(X=1.187777,
+    Y=-0.148402, angle=None, unlocked=False), Position(X=1.191944, Y=-0.281646, angle=None,
+    unlocked=False), Position(X=1.198793, Y=-0.396246, angle=None, unlocked=False),
+    Position(X=1.206797, Y=-0.472966, angle=None, unlocked=False), Position(X=1.275593,
+    Y=-0.850237, angle=None, unlocked=False), Position(X=1.375209, Y=-1.21509, angle=None,
+    unlocked=False), Position(X=1.504738, Y=-1.565384, angle=None, unlocked=False),
+    Position(X=1.663277, Y=-1.898976, angle=None, unlocked=False), Position(X=1.849921,
+    Y=-2.213725, angle=None, unlocked=False), Position(X=2.063766, Y=-2.507487, angle=None,
+    unlocked=False), Position(X=2.068294, Y=-2.513109, angle=None, unlocked=False),
+    Position(X=2.307019, Y=-2.781853, angle=None, unlocked=False), Position(X=2.570711,
+    Y=-3.028759, angle=None, unlocked=False), Position(X=2.85613, Y=-3.251799, angle=None,
+    unlocked=False), Position(X=3.160035, Y=-3.448949, angle=None, unlocked=False),
+    Position(X=3.479185, Y=-3.618184, angle=None, unlocked=False), Position(X=3.810339,
+    Y=-3.757478, angle=None, unlocked=False), Position(X=4.150258, Y=-3.864805, angle=None,
+    unlocked=False), Position(X=4.283082, Y=-3.897243, angle=None, unlocked=False),
+    Position(X=4.447157, Y=-3.931448, angle=None, unlocked=False), Position(X=4.599658,
+    Y=-3.957065, angle=None, unlocked=False), Position(X=4.750372, Y=-3.975087, angle=None,
+    unlocked=False), Position(X=4.909089, Y=-3.986507, angle=None, unlocked=False),
+    Position(X=5.085599, Y=-3.992318, angle=None, unlocked=False), Position(X=5.233276,
+    Y=-3.99359, angle=None, unlocked=False), Position(X=5.605517, Y=-3.993931, angle=None,
+    unlocked=False), Position(X=5.605518, Y=-3.376449, angle=None, unlocked=False)],
+    width=None, stroke=Stroke(width=0.01, type=''solid'', color=None), fill=''solid'',
+    locked=False, tstamp=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[]'
+  pads: '[]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''CE-Logo_11.2x8mm_SilkScreen'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Logo CE certification
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_symbol_ce_logo_11_2x8mm_silkscreen
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

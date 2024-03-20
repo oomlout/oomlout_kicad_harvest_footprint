@@ -1,0 +1,215 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: quectel_l80_r
+description_main: rf_gps
+footprint_id: eda_kicad_footprint_kicad_default_rf_gps_quectel_l80_r
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf
+  entryName: Quectel_L80-R
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-8.11, Y=-8.11, angle=None, unlocked=False),
+    end=Position(X=-8.11, Y=-6.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-8.11, Y=8.11, angle=None, unlocked=False),
+    end=Position(X=-8.11, Y=7.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''default'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.11, Y=-8.11, angle=None, unlocked=False),
+    end=Position(X=-8.11, Y=-8.11, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.11, Y=-8.11, angle=None, unlocked=False),
+    end=Position(X=8.11, Y=-6.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.11, Y=8.11, angle=None, unlocked=False),
+    end=Position(X=-8.11, Y=8.11, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=8.11, Y=8.11, angle=None, unlocked=False),
+    end=Position(X=8.11, Y=7.61, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''default'', color=None), locked=False, tstamp=None),
+    FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-8.66, Y=-6.61, angle=None,
+    unlocked=False), Position(X=-8.9, Y=-6.94, angle=None, unlocked=False), Position(X=-8.42,
+    Y=-6.94, angle=None, unlocked=False), Position(X=-8.66, Y=-6.61, angle=None, unlocked=False)],
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), fill=''solid'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-9.25, Y=-8.25, angle=None,
+    unlocked=False), end=Position(X=-9.25, Y=8.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-9.25, Y=-8.25, angle=None, unlocked=False),
+    end=Position(X=9.25, Y=-8.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-9.25, Y=8.25, angle=None, unlocked=False),
+    end=Position(X=9.25, Y=8.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=9.25, Y=8.25, angle=None, unlocked=False), end=Position(X=9.25,
+    Y=-8.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-8,
+    Y=8, angle=None, unlocked=False), end=Position(X=-8, Y=-8, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=8, Y=-8, angle=None, unlocked=False),
+    end=Position(X=-8, Y=-8, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=8, Y=8, angle=None, unlocked=False), end=Position(X=-8,
+    Y=8, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=8,
+    Y=8, angle=None, unlocked=False), end=Position(X=8, Y=-8, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''Keepout'', position=Position(X=-0.6,
+    Y=-0.63, angle=0, unlocked=False), layer=''Cmts.User'', hide=False, effects=Effects(font=Font(face=None,
+    height=0.4, width=0.4, thickness=0.1, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=2.032, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L80-R.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''rect'', position=Position(X=-7.75,
+    Y=-5.85, angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''2'', type=''smd'', shape=''rect'', position=Position(X=-7.75, Y=-3.31,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''smd'', shape=''rect'', position=Position(X=-7.75, Y=-0.77,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''4'', type=''smd'', shape=''rect'', position=Position(X=-7.75, Y=1.77,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''5'', type=''smd'', shape=''rect'', position=Position(X=-7.75, Y=4.31,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''6'', type=''smd'', shape=''rect'', position=Position(X=-7.75, Y=6.85,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''7'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=6.85,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''8'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=4.31,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''9'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=1.77,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''10'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=-0.77,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''11'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=-3.31,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''12'', type=''smd'', shape=''rect'', position=Position(X=7.75, Y=-5.85,
+    angle=180, unlocked=False), locked=False, size=Position(X=2.5, Y=1, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Quectel_L80-R'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: quectel GPS GNSS
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[Zone(locked=False, net=0, netName='''', layers=[''F.Cu''], tstamp=None,
+    name=None, hatch=Hatch(style=''full'', pitch=0.508), priority=None, connectPads=None,
+    clearance=0, minThickness=0.254, filledAreasThickness=''no'', keepoutSettings=KeepoutSettings(tracks=''not_allowed'',
+    vias=''not_allowed'', pads=''not_allowed'', copperpour=''not_allowed'', footprints=''not_allowed''),
+    fillSettings=FillSettings(yes=False, mode=None, thermalGap=0.508, thermalBridgeWidth=0.508,
+    smoothingStyle=None, smoothingRadius=None, islandRemovalMode=None, islandAreaMin=None,
+    hatchThickness=None, hatchGap=None, hatchOrientation=None, hatchSmoothingLevel=None,
+    hatchSmoothingValue=None, hatchBorderAlgorithm=None, hatchMinHoleArea=None), polygons=[ZonePolygon(coordinates=[Position(X=0.654775,
+    Y=-0.63, angle=None, unlocked=False), Position(X=0.635712, Y=-0.847889, angle=None,
+    unlocked=False), Position(X=0.579103, Y=-1.059158, angle=None, unlocked=False),
+    Position(X=0.486667, Y=-1.257387, angle=None, unlocked=False), Position(X=0.361213,
+    Y=-1.436554, angle=None, unlocked=False), Position(X=0.206554, Y=-1.591213, angle=None,
+    unlocked=False), Position(X=0.027388, Y=-1.716667, angle=None, unlocked=False),
+    Position(X=-0.170842, Y=-1.809103, angle=None, unlocked=False), Position(X=-0.382111,
+    Y=-1.865712, angle=None, unlocked=False), Position(X=-0.6, Y=-1.884775, angle=None,
+    unlocked=False), Position(X=-0.817889, Y=-1.865712, angle=None, unlocked=False),
+    Position(X=-1.029158, Y=-1.809103, angle=None, unlocked=False), Position(X=-1.227387,
+    Y=-1.716667, angle=None, unlocked=False), Position(X=-1.406554, Y=-1.591213, angle=None,
+    unlocked=False), Position(X=-1.561213, Y=-1.436554, angle=None, unlocked=False),
+    Position(X=-1.686667, Y=-1.257387, angle=None, unlocked=False), Position(X=-1.779103,
+    Y=-1.059158, angle=None, unlocked=False), Position(X=-1.835712, Y=-0.847889, angle=None,
+    unlocked=False), Position(X=-1.854775, Y=-0.63, angle=None, unlocked=False), Position(X=-1.835712,
+    Y=-0.412111, angle=None, unlocked=False), Position(X=-1.779103, Y=-0.200842, angle=None,
+    unlocked=False), Position(X=-1.686667, Y=-0.002613, angle=None, unlocked=False),
+    Position(X=-1.561213, Y=0.176554, angle=None, unlocked=False), Position(X=-1.406554,
+    Y=0.331213, angle=None, unlocked=False), Position(X=-1.227388, Y=0.456667, angle=None,
+    unlocked=False), Position(X=-1.029158, Y=0.549103, angle=None, unlocked=False),
+    Position(X=-0.817889, Y=0.605712, angle=None, unlocked=False), Position(X=-0.6,
+    Y=0.624775, angle=None, unlocked=False), Position(X=-0.382111, Y=0.605712, angle=None,
+    unlocked=False), Position(X=-0.170842, Y=0.549103, angle=None, unlocked=False),
+    Position(X=0.027388, Y=0.456667, angle=None, unlocked=False), Position(X=0.206554,
+    Y=0.331213, angle=None, unlocked=False), Position(X=0.361213, Y=0.176554, angle=None,
+    unlocked=False), Position(X=0.486667, Y=-0.002613, angle=None, unlocked=False),
+    Position(X=0.579103, Y=-0.200842, angle=None, unlocked=False), Position(X=0.635712,
+    Y=-0.412111, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_rf_gps_quectel_l80_r
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

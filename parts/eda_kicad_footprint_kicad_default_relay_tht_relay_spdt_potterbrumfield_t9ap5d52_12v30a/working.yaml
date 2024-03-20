@@ -1,0 +1,224 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: relay_spdt_potterbrumfield_t9ap5d52_12v30a
+description_main: relay_tht
+footprint_id: eda_kicad_footprint_kicad_default_relay_tht_relay_spdt_potterbrumfield_t9ap5d52_12v30a
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUn Connector Fast ON
+    Only Dummy for Space NO Pads
+  entryName: Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-13.74902, Y=-3.00228, angle=None, unlocked=False),
+    end=Position(X=-13.74902, Y=47.00016, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.74902, Y=6.2484, angle=None, unlocked=False),
+    end=Position(X=13.74902, Y=6.2484, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.74902, Y=47.00016, angle=None, unlocked=False),
+    end=Position(X=13.74902, Y=47.00016, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-11.00074, Y=19.22272, angle=None, unlocked=False),
+    end=Position(X=-11.00074, Y=25.89784, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-6.82498, Y=34.72434, angle=None, unlocked=False),
+    end=Position(X=-10.2743, Y=34.72434, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.97612, Y=-1.20142, angle=None, unlocked=False),
+    end=Position(X=-1.97612, Y=-3.00228, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.97612, Y=1.09982, angle=None, unlocked=False),
+    end=Position(X=-1.89992, Y=1.37414, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.97612, Y=45.0977, angle=None, unlocked=False),
+    end=Position(X=-1.97612, Y=47.00016, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.89992, Y=1.37414, angle=None, unlocked=False),
+    end=Position(X=-1.5494, Y=1.72466, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.75006, Y=42.32402, angle=None, unlocked=False),
+    end=Position(X=-1.97612, Y=42.67454, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.5494, Y=1.72466, angle=None, unlocked=False),
+    end=Position(X=-1.12522, Y=2.02438, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.30048, Y=41.9481, angle=None, unlocked=False),
+    end=Position(X=-1.75006, Y=42.32402, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.12522, Y=2.02438, angle=None, unlocked=False),
+    end=Position(X=-0.44958, Y=2.2479, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.8509, Y=41.72458, angle=None, unlocked=False),
+    end=Position(X=-1.30048, Y=41.9481, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.44958, Y=2.2479, angle=None, unlocked=False),
+    end=Position(X=0.20066, Y=2.2733, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.0762, Y=41.60012, angle=None, unlocked=False),
+    end=Position(X=-0.8509, Y=41.72458, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.20066, Y=2.2733, angle=None, unlocked=False),
+    end=Position(X=0.8255, Y=2.17424, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.37592, Y=41.60012, angle=None, unlocked=False),
+    end=Position(X=0.0762, Y=41.60012, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.8001, Y=41.72458, angle=None, unlocked=False),
+    end=Position(X=0.37592, Y=41.60012, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.8255, Y=2.17424, angle=None, unlocked=False),
+    end=Position(X=1.27508, Y=1.92278, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.27508, Y=1.92278, angle=None, unlocked=False),
+    end=Position(X=1.67386, Y=1.524, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.42494, Y=34.69894, angle=None, unlocked=False),
+    end=Position(X=5.00126, Y=34.69894, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.45034, Y=42.0497, angle=None, unlocked=False),
+    end=Position(X=0.8001, Y=41.72458, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.67386, Y=1.524, angle=None, unlocked=False),
+    end=Position(X=1.95072, Y=1.12268, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.82626, Y=42.47388, angle=None, unlocked=False),
+    end=Position(X=1.45034, Y=42.0497, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.95072, Y=1.12268, angle=None, unlocked=False),
+    end=Position(X=1.99898, Y=0.94996, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.95072, Y=45.0977, angle=None, unlocked=False),
+    end=Position(X=1.97612, Y=46.97476, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.97612, Y=-1.09982, angle=None, unlocked=False),
+    end=Position(X=1.97612, Y=-3.00228, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.97612, Y=42.67454, angle=None, unlocked=False),
+    end=Position(X=1.82626, Y=42.47388, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=3.35026, Y=19.19986, angle=None, unlocked=False),
+    end=Position(X=3.32486, Y=19.19986, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=11.24966, Y=19.22272, angle=None, unlocked=False),
+    end=Position(X=3.35026, Y=19.19986, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=11.27506, Y=10.74928, angle=None, unlocked=False),
+    end=Position(X=3.42392, Y=10.77468, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=13.74902, Y=-3.00228, angle=None, unlocked=False),
+    end=Position(X=-13.74902, Y=-3.00228, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=13.74902, Y=21.99894, angle=None, unlocked=False),
+    end=Position(X=13.74902, Y=-3.00228, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=13.74902, Y=37.74948, angle=None, unlocked=False),
+    end=Position(X=-13.74902, Y=37.74948, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=13.74902, Y=47.00016, angle=None, unlocked=False),
+    end=Position(X=13.74902, Y=21.99894, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-14, Y=-3.25, angle=None, unlocked=False),
+    end=Position(X=-14, Y=47.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-14, Y=47.25, angle=None, unlocked=False), end=Position(X=14,
+    Y=47.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=14,
+    Y=-3.25, angle=None, unlocked=False), end=Position(X=-14, Y=-3.25, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=14, Y=47.25,
+    angle=None, unlocked=False), end=Position(X=14, Y=-3.25, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-13.7, Y=-2.9, angle=None,
+    unlocked=False), end=Position(X=13.6, Y=-2.9, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-13.7, Y=46.9, angle=None, unlocked=False),
+    end=Position(X=-13.7, Y=-2.9, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-13.6, Y=46.9, angle=None, unlocked=False), end=Position(X=-13.7,
+    Y=46.9, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=13.6,
+    Y=-2.9, angle=None, unlocked=False), end=Position(X=13.6, Y=46.9, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=13.6, Y=46.9,
+    angle=None, unlocked=False), end=Position(X=-13.6, Y=46.9, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''11/C'', position=Position(X=-10.2743,
+    Y=17.84858, angle=0, unlocked=False), layer=''F.SilkS'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''A1'', position=Position(X=-8.57504, Y=32.74822, angle=0, unlocked=False),
+    layer=''F.SilkS'', hide=False, effects=Effects(font=Font(face=None, height=1,
+    width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None), FpText(type=''user'', text=''A2'',
+    position=Position(X=3.2512, Y=32.79902, angle=0, unlocked=False), layer=''F.SilkS'',
+    hide=False, effects=Effects(font=Font(face=None, height=1, width=1, thickness=0.15,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None),
+    FpText(type=''user'', text=''12/NC'', position=Position(X=6.85038, Y=13.27404,
+    angle=0, unlocked=False), layer=''F.SilkS'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None), FpText(type=''user'',
+    text=''14/NO'', position=Position(X=6.59892, Y=21.79828, angle=0, unlocked=False),
+    layer=''F.SilkS'', hide=False, effects=Effects(font=Font(face=None, height=1,
+    width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None), FpText(type=''user'', text=''${REFERENCE}'',
+    position=Position(X=0, Y=21.99894, angle=0, unlocked=False), layer=''F.Fab'',
+    hide=False, effects=Effects(font=Font(face=None, height=0.8, width=0.8, thickness=0.12,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=3.50012, Y=3.50012,
+    angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=3.50012,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number='''', type=''np_thru_hole'', shape=''circle'', position=Position(X=0,
+    Y=43.99788, angle=None, unlocked=False), locked=False, size=Position(X=3.50012,
+    Y=3.50012, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=3.50012,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=False,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUm Connector Fast ON Flachsteckeranschluss
+    Only Dummy for Space NO Pads
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_relay_tht_relay_spdt_potterbrumfield_t9ap5d52_12v30a
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

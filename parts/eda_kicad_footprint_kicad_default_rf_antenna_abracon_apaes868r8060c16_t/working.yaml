@@ -1,0 +1,133 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: abracon_apaes868r8060c16_t
+description_main: rf_antenna
+footprint_id: eda_kicad_footprint_kicad_default_rf_antenna_abracon_apaes868r8060c16_t
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi
+  entryName: Abracon_APAES868R8060C16-T
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-41.1, Y=48, angle=None, unlocked=False),
+    end=Position(X=-41.1, Y=-26, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-37, Y=-30.099999, angle=None, unlocked=False), end=Position(X=37,
+    Y=-30.099999, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=37,
+    Y=52.1, angle=None, unlocked=False), end=Position(X=-37, Y=52.1, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=41.099999, Y=-26, angle=None,
+    unlocked=False), end=Position(X=41.099999, Y=48, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=-41.1, Y=-26, angle=None, unlocked=False),
+    mid=Position(X=-39.899138, Y=-28.899138, angle=None, unlocked=False), end=Position(X=-37,
+    Y=-30.1, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=-37,
+    Y=52.1, angle=None, unlocked=False), mid=Position(X=-39.899138, Y=50.899138, angle=None,
+    unlocked=False), end=Position(X=-41.1, Y=48, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=37, Y=-30.1, angle=None, unlocked=False),
+    mid=Position(X=39.899138, Y=-28.899138, angle=None, unlocked=False), end=Position(X=41.1,
+    Y=-26, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=41.1,
+    Y=48, angle=None, unlocked=False), mid=Position(X=39.899138, Y=50.899138, angle=None,
+    unlocked=False), end=Position(X=37, Y=52.1, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-41.25, Y=48, angle=None, unlocked=False),
+    end=Position(X=-41.25, Y=-26, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-37, Y=-30.25, angle=None, unlocked=False),
+    end=Position(X=37, Y=-30.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=37, Y=52.25, angle=None, unlocked=False), end=Position(X=-37,
+    Y=52.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=41.25,
+    Y=-26, angle=None, unlocked=False), end=Position(X=41.25, Y=48, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=-41.25, Y=-26, angle=None,
+    unlocked=False), mid=Position(X=-40.005204, Y=-29.005204, angle=None, unlocked=False),
+    end=Position(X=-37, Y=-30.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=-37, Y=52.25, angle=None, unlocked=False),
+    mid=Position(X=-40.005204, Y=51.005204, angle=None, unlocked=False), end=Position(X=-41.25,
+    Y=48, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=37,
+    Y=-30.25, angle=None, unlocked=False), mid=Position(X=40.005204, Y=-29.005204,
+    angle=None, unlocked=False), end=Position(X=41.25, Y=-26, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=41.25, Y=48, angle=None, unlocked=False),
+    mid=Position(X=40.005204, Y=51.005204, angle=None, unlocked=False), end=Position(X=37,
+    Y=52.25, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-41,
+    Y=48, angle=None, unlocked=False), end=Position(X=-41, Y=-26, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-37, Y=-30, angle=None, unlocked=False),
+    end=Position(X=37, Y=-30, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=37, Y=52, angle=None, unlocked=False), end=Position(X=-37,
+    Y=52, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=41,
+    Y=-26, angle=None, unlocked=False), end=Position(X=41, Y=48, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=-41, Y=-26, angle=None, unlocked=False),
+    mid=Position(X=-39.828427, Y=-28.828427, angle=None, unlocked=False), end=Position(X=-37,
+    Y=-30, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=-37,
+    Y=52, angle=None, unlocked=False), mid=Position(X=-39.828427, Y=50.828427, angle=None,
+    unlocked=False), end=Position(X=-41, Y=48, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=37, Y=-30, angle=None, unlocked=False), mid=Position(X=39.828427,
+    Y=-28.828427, angle=None, unlocked=False), end=Position(X=41, Y=-26, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=41, Y=48, angle=None,
+    unlocked=False), mid=Position(X=39.828427, Y=50.828427, angle=None, unlocked=False),
+    end=Position(X=37, Y=52, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=-0.127, Y=-31.037,
+    angle=0, unlocked=False), layer=''F.SilkS'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''roundrect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.7, Y=1.7, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.1, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=0.25, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''${REFERENCE}'', ''Value'': ''Abracon_APAES868R8060C16-T'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: APAES patch antenna
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_rf_antenna_abracon_apaes868r8060c16_t
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

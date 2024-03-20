@@ -1,0 +1,141 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: relay_spst_no_fujitsu_ftr_lyaa005x_forma_vertical
+description_main: relay_tht
+footprint_id: eda_kicad_footprint_kicad_default_relay_tht_relay_spst_no_fujitsu_ftr_lyaa005x_forma_vertical
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Relay, SPST-NO Form A, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
+  entryName: Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-1.26, Y=-1.61, angle=None, unlocked=False),
+    end=Position(X=0.24, Y=-1.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.26, Y=-0.11, angle=None, unlocked=False),
+    end=Position(X=-1.26, Y=-1.61, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.81, Y=3.91, angle=None, unlocked=False),
+    end=Position(X=-0.81, Y=1.3, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.81, Y=3.91, angle=None, unlocked=False), end=Position(X=27.41,
+    Y=3.91, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=19.4,
+    Y=-1.31, angle=None, unlocked=False), end=Position(X=-0.81, Y=-1.31, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=20.94, Y=-1.31,
+    angle=None, unlocked=False), end=Position(X=24.42, Y=-1.31, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=26, Y=-1.31, angle=None, unlocked=False),
+    end=Position(X=27.41, Y=-1.31, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=27.41, Y=3.91, angle=None, unlocked=False),
+    end=Position(X=27.41, Y=-1.31, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.25, Y=-1.25, angle=None, unlocked=False),
+    end=Position(X=-0.95, Y=-1.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.25, Y=1.25, angle=None, unlocked=False),
+    end=Position(X=-1.25, Y=-1.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-1.25, Y=1.25, angle=None, unlocked=False),
+    end=Position(X=-0.95, Y=1.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.95, Y=-1.45, angle=None, unlocked=False),
+    end=Position(X=27.55, Y=-1.45, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.95, Y=-1.25, angle=None, unlocked=False),
+    end=Position(X=-0.95, Y=-1.45, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.95, Y=4.05, angle=None, unlocked=False),
+    end=Position(X=-0.95, Y=1.25, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=27.55, Y=-1.45, angle=None, unlocked=False),
+    end=Position(X=27.55, Y=4.05, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=27.55, Y=4.05, angle=None, unlocked=False),
+    end=Position(X=-0.95, Y=4.05, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.7, Y=-0.2, angle=None, unlocked=False),
+    end=Position(X=-0.7, Y=3.8, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.7, Y=3.8, angle=None, unlocked=False), end=Position(X=27.3,
+    Y=3.8, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.3,
+    Y=-1.2, angle=None, unlocked=False), end=Position(X=-0.7, Y=-0.2, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=27.3, Y=-1.2,
+    angle=None, unlocked=False), end=Position(X=0.3, Y=-1.2, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=27.3, Y=3.8, angle=None, unlocked=False),
+    end=Position(X=27.3, Y=-1.2, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=13.3, Y=1.3,
+    angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''13'', type=''thru_hole'', shape=''circle'', position=Position(X=20.16,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4, Y=2.4, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''14'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=25.2, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2.4,
+    Y=2.4, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1.3,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''A1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2, Y=2, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=1, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''A2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=3.78, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=2,
+    Y=2, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=1,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: relay SPST-NO form A vertical
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_relay_tht_relay_spst_no_fujitsu_ftr_lyaa005x_forma_vertical
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

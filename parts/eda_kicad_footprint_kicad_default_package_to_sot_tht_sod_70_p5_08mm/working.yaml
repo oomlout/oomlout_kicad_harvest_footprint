@@ -1,0 +1,119 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: sod_70_p5_08mm
+description_main: package_to_sot_tht
+footprint_id: eda_kicad_footprint_kicad_default_package_to_sot_tht_sod_70_p5_08mm
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: 'Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp
+    generated footprint]'
+  entryName: SOD-70_P5.08mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=4.287141, Y=1.66, angle=None, unlocked=False),
+    end=Position(X=0.792859, Y=1.66, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=0.37076, Y=-1.05, angle=None, unlocked=False),
+    mid=Position(X=2.5811, Y=-2.40965, angle=None, unlocked=False), end=Position(X=4.743786,
+    Y=-0.975412, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=0.79286,
+    Y=1.66, angle=None, unlocked=False), mid=Position(X=0.5582, Y=1.371338, angle=None,
+    unlocked=False), end=Position(X=0.370761, Y=1.05, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=4.743786, Y=0.975412, angle=None,
+    unlocked=False), mid=Position(X=4.544899, Y=1.337341, angle=None, unlocked=False),
+    end=Position(X=4.287141, Y=1.66, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.85, Y=-1.1, angle=None, unlocked=False),
+    end=Position(X=-0.85, Y=1.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.85, Y=1.1, angle=None, unlocked=False), end=Position(X=0.03,
+    Y=1.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.03,
+    Y=-1.1, angle=None, unlocked=False), end=Position(X=-0.85, Y=-1.1, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.03, Y=1.1,
+    angle=None, unlocked=False), end=Position(X=0.73, Y=1.8, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.48, Y=-2.55, angle=None,
+    unlocked=False), end=Position(X=0.03, Y=-1.1, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.48, Y=-2.55, angle=None, unlocked=False),
+    end=Position(X=3.6, Y=-2.55, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=3.6, Y=-2.55, angle=None, unlocked=False), end=Position(X=5.05,
+    Y=-1.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=4.35,
+    Y=1.8, angle=None, unlocked=False), end=Position(X=0.73, Y=1.8, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=5.05, Y=-1.1, angle=None,
+    unlocked=False), end=Position(X=5.93, Y=-1.1, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=5.05, Y=1.1, angle=None, unlocked=False),
+    end=Position(X=4.35, Y=1.8, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=5.93, Y=-1.1, angle=None, unlocked=False), end=Position(X=5.93,
+    Y=1.1, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=5.93,
+    Y=1.1, angle=None, unlocked=False), end=Position(X=5.05, Y=1.1, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=4.239265, Y=1.55, angle=None,
+    unlocked=False), end=Position(X=0.840735, Y=1.55, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpArc(start=Position(X=0.840735, Y=1.55, angle=None,
+    unlocked=False), mid=Position(X=2.54, Y=-2.3, angle=None, unlocked=False), end=Position(X=4.239265,
+    Y=1.55, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=2.5, Y=-3.5, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=1, width=1,
+    thickness=0.15, bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOD-70_P5.08mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.2, Y=1.7, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.7, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''oval'',
+    position=Position(X=5.08, Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.2,
+    Y=1.7, angle=None, unlocked=False), drill=DrillDefinition(oval=False, diameter=0.7,
+    width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True,
+    keepEndLayers=False, roundrectRatio=None, chamferRatio=None, chamfer=[], net=None,
+    tstamp=None, pinFunction=None, pinType=None, dieLength=None, solderMaskMargin=None,
+    solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None, zoneConnect=None,
+    thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''SOD-70_P5.08mm'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: Sod-70
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_to_sot_tht_sod_70_p5_08mm
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

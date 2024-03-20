@@ -1,0 +1,113 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: to_92l_wide
+description_main: package_to_sot_tht
+footprint_id: eda_kicad_footprint_kicad_default_package_to_sot_tht_to_92l_wide
+footprint_string:
+  attributes: Attributes(type='through_hole', boardOnly=False, excludeFromPosFiles=False,
+    excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: TO-92L leads in-line (large body variant of TO-92), also known as TO-226,
+    wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf
+    and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+  entryName: TO-92L_Wide
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=0.6, Y=1.7, angle=None, unlocked=False),
+    end=Position(X=4.45, Y=1.7, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=0.192226, Y=-1.094786, angle=None, unlocked=False), mid=Position(X=0.710119,
+    Y=-1.833613, angle=None, unlocked=False), end=Position(X=1.45, Y=-2.35, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=0.6, Y=1.7, angle=None,
+    unlocked=False), mid=Position(X=0.389183, Y=1.423933, angle=None, unlocked=False),
+    end=Position(X=0.217369, Y=1.122045, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpArc(start=Position(X=3.6, Y=-2.35, angle=None, unlocked=False),
+    mid=Position(X=4.351408, Y=-1.834367, angle=None, unlocked=False), end=Position(X=4.876463,
+    Y=-1.089513, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpArc(start=Position(X=4.842383,
+    Y=1.112264, angle=None, unlocked=False), mid=Position(X=4.666594, Y=1.419753,
+    angle=None, unlocked=False), end=Position(X=4.45, Y=1.7, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-1, Y=-3.55, angle=None, unlocked=False),
+    end=Position(X=-1, Y=1.85, angle=None, unlocked=False), layer=''B.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1, Y=1.85, angle=None, unlocked=False), end=Position(X=6.1,
+    Y=1.85, angle=None, unlocked=False), layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.1,
+    Y=-3.55, angle=None, unlocked=False), end=Position(X=-1, Y=-3.55, angle=None,
+    unlocked=False), layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=6.1, Y=1.85,
+    angle=None, unlocked=False), end=Position(X=6.1, Y=-3.55, angle=None, unlocked=False),
+    layer=''B.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.65, Y=1.6, angle=None, unlocked=False),
+    end=Position(X=4.4, Y=1.6, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpArc(start=Position(X=0.647182, Y=1.602385, angle=None, unlocked=False), mid=Position(X=0.290076,
+    Y=-1.043188, angle=None, unlocked=False), end=Position(X=2.54, Y=-2.48, angle=None,
+    unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'',
+    color=None), locked=False, tstamp=None), FpArc(start=Position(X=2.54, Y=-2.48,
+    angle=None, unlocked=False), mid=Position(X=4.787211, Y=-1.049019, angle=None,
+    unlocked=False), end=Position(X=4.441103, Y=1.592547, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpText(type=''user'', text=''${REFERENCE}'', position=Position(X=2.54,
+    Y=0, angle=0, unlocked=False), layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None,
+    height=1, width=1, thickness=0.15, bold=False, italic=False, lineSpacing=None,
+    color=None), justify=Justify(horizontally=None, vertically=None, mirror=False),
+    hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L_Wide.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''thru_hole'', shape=''rect'', position=Position(X=0,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.5, Y=1.5, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.8, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''thru_hole'', shape=''circle'',
+    position=Position(X=2.54, Y=-2.54, angle=None, unlocked=False), locked=False,
+    size=Position(X=1.5, Y=1.5, angle=None, unlocked=False), drill=DrillDefinition(oval=False,
+    diameter=0.8, width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None,
+    removeUnusedLayers=True, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''thru_hole'', shape=''circle'', position=Position(X=5.08,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=1.5, Y=1.5, angle=None,
+    unlocked=False), drill=DrillDefinition(oval=False, diameter=0.8, width=None, offset=None),
+    layers=[''*.Cu'', ''*.Mask''], property=None, removeUnusedLayers=True, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''TO-92L_Wide'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: TO-92L Molded Wide transistor
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_to_sot_tht_to_92l_wide
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default
