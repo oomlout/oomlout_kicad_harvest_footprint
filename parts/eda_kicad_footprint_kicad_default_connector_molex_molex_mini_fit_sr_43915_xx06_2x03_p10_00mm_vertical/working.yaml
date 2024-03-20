@@ -284,13 +284,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex Mini-Fit_Sr side entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_mini_fit_sr_43915_xx06_2x03_p10_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

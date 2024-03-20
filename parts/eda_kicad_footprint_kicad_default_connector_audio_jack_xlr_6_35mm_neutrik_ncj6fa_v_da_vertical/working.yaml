@@ -405,13 +405,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: neutrik jack combo a
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_audio_jack_xlr_6_35mm_neutrik_ncj6fa_v_da_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

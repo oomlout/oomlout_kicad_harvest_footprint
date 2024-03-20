@@ -412,13 +412,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: molex FFC/FPC connector Pitch 0.5mm vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_ffc_fpc_molex_502231_3300_1x33_1sh_p0_5mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

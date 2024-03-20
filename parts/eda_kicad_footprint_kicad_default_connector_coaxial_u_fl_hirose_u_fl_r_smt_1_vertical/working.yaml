@@ -162,7 +162,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Hirose U.FL Coaxial
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -179,6 +179,7 @@ footprint_string:
     Y=-0.95, angle=None, unlocked=False), Position(X=-0.515, Y=-0.95, angle=None,
     unlocked=False), Position(X=-0.515, Y=0.95, angle=None, unlocked=False), Position(X=1.575,
     Y=0.95, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

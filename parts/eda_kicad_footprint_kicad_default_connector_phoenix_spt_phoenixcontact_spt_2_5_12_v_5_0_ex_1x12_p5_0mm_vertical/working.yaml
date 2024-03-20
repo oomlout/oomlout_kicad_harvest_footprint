@@ -439,13 +439,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 2.5/12-V-5.0-EX 1732593
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_spt_phoenixcontact_spt_2_5_12_v_5_0_ex_1x12_p5_0mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

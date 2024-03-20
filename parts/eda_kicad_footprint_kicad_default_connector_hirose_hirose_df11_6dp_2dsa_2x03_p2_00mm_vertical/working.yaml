@@ -170,13 +170,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Hirose DF11 vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df11_6dp_2dsa_2x03_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

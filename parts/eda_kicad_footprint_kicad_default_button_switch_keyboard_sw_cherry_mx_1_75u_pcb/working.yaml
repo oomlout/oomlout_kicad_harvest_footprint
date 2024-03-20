@@ -120,13 +120,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Cherry MX keyswitch 1.75u PCB
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_keyboard_sw_cherry_mx_1_75u_pcb
 manufacturer: ''
 part_number: ''
 short_name: ''

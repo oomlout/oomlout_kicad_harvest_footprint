@@ -302,13 +302,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 1.5/9-H-3.5 1990805
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_spt_phoenixcontact_spt_1_5_9_h_3_5_1x09_p3_5mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

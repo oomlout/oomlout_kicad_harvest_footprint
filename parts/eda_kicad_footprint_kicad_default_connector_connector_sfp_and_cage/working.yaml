@@ -468,7 +468,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SFP+ SFP
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -490,6 +490,7 @@ footprint_string:
     Y=8.125, angle=None, unlocked=False), Position(X=-41.6, Y=8.125, angle=None, unlocked=False),
     Position(X=-41.6, Y=-8.125, angle=None, unlocked=False), Position(X=0.7, Y=-8.125,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_connector_sfp_and_cage
 manufacturer: ''
 part_number: ''
 short_name: ''

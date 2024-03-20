@@ -287,13 +287,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Hirose DF12 vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df12_df12c3_0_14ds_0_5v_2x07_p0_50mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

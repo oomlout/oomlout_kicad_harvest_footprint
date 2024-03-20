@@ -149,13 +149,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 5/2-V-7.5 1738144
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_spt_phoenixcontact_spt_5_2_v_7_5_1x02_p7_5mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

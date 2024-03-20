@@ -331,13 +331,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD DIP Switch SPST Slide 6.15mm 242mil
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_smd_sw_dip_spstx06_slide_omron_a6h_6101_w6_15mm_p1_27mm
 manufacturer: ''
 part_number: ''
 short_name: ''

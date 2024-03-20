@@ -256,13 +256,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Hirose DF13C vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df13c_cl535_0414_1_51_1x14_1mp_p1_25mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

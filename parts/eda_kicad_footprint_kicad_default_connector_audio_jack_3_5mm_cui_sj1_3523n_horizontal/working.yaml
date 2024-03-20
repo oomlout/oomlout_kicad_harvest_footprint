@@ -219,13 +219,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TRS audio jack stereo horizontal
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_audio_jack_3_5mm_cui_sj1_3523n_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -234,7 +234,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: sd card
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -251,6 +251,7 @@ footprint_string:
     Y=0.875, angle=None, unlocked=False), Position(X=10.3, Y=0.875, angle=None, unlocked=False),
     Position(X=10.3, Y=-8.075, angle=None, unlocked=False), Position(X=-10.67, Y=-8.075,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_card_sd_te_2041021
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -524,13 +524,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DIP Switch SPST Slide 7.62mm 300mil
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_dip_spstx04_slide_9_78x12_34mm_w7_62mm_p2_54mm
 manufacturer: ''
 part_number: ''
 short_name: ''

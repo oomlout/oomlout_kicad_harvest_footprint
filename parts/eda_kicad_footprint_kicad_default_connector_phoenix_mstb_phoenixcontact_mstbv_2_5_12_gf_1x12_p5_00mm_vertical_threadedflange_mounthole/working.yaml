@@ -495,13 +495,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBV_01x12_GF_5.00mm_MH
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_mstb_phoenixcontact_mstbv_2_5_12_gf_1x12_p5_00mm_vertical_threadedflange_mounthole
 manufacturer: ''
 part_number: ''
 short_name: ''

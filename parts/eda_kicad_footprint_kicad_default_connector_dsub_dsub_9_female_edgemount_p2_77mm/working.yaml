@@ -323,13 +323,14 @@ footprint_string:
   solderPasteRatio: None
   tags: 9-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting
     holes distance 25mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_dsub_dsub_9_female_edgemount_p2_77mm
 manufacturer: ''
 part_number: ''
 short_name: ''

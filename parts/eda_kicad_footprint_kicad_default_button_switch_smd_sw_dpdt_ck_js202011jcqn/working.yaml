@@ -141,13 +141,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: switch DPDT SMT
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_smd_sw_dpdt_ck_js202011jcqn
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -276,13 +276,14 @@ footprint_string:
   solderPasteRatio: None
   tags: 15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm
     pin-PCB-offset 8.35mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_dsub_dsub_15_hd_male_horizontal_p2_29x1_98mm_edgepinoffset8_35mm_housed_mountingholesoffset10_89mm
 manufacturer: ''
 part_number: ''
 short_name: ''

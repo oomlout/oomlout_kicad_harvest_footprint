@@ -118,13 +118,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: tact sw push PVA1 DPST
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_2p1t_toggle_ck_pva1xxh2xxxxxxv2
 manufacturer: ''
 part_number: ''
 short_name: ''

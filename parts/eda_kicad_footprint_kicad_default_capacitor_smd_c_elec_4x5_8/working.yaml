@@ -130,13 +130,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: capacitor electrolyic nonpolar
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_capacitor_smd_c_elec_4x5_8
 manufacturer: ''
 part_number: ''
 short_name: ''

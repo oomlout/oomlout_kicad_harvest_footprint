@@ -770,13 +770,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 4UCON 10156 Card edge socket with 80 contacts
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pcbedge_4ucon_10156_2x40_p1_27mm_socket_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

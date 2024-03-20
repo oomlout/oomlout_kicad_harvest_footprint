@@ -140,13 +140,14 @@ footprint_string:
   solderPasteRatio: None
   tags: CP Axial series Axial Horizontal pin pitch 30mm  length 25mm diameter 10mm
     Electrolytic Capacitor
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_capacitor_tht_cp_axial_l25_0mm_d10_0mm_p30_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

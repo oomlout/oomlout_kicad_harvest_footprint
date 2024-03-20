@@ -186,7 +186,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Switch Coaxial RF
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -220,6 +220,7 @@ footprint_string:
     Position(X=-0.72, Y=0, angle=None, unlocked=False), Position(X=-0.72, Y=0.25,
     angle=None, unlocked=False), Position(X=-1.2, Y=0.25, angle=None, unlocked=False),
     Position(X=-1.2, Y=0.78, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

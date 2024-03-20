@@ -173,13 +173,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMA Straight Samtec Edge Mount
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_sma_samtec_sma_j_p_x_st_em1_edgemount
 manufacturer: ''
 part_number: ''
 short_name: ''

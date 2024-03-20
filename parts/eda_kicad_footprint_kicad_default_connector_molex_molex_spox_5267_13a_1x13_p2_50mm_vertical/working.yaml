@@ -194,13 +194,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex SPOX side entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_spox_5267_13a_1x13_p2_50mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

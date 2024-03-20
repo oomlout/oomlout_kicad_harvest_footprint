@@ -325,13 +325,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Gauge Massstab 100mm  CopperTop Type 2
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_calibration_scale_gauge_100mm_type2_coppertop
 manufacturer: ''
 part_number: ''
 short_name: ''

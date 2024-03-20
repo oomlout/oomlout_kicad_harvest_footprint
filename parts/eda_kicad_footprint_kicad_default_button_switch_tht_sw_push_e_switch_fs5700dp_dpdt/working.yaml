@@ -115,13 +115,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: switch DPDT footswitch
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
 manufacturer: ''
 part_number: ''
 short_name: ''

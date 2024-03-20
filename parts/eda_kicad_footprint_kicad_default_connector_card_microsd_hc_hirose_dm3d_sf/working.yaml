@@ -234,7 +234,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Micro SD
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -262,6 +262,7 @@ footprint_string:
     Y=-3.875, angle=None, unlocked=False), Position(X=0.525, Y=-3.875, angle=None,
     unlocked=False), Position(X=0.525, Y=-5.725, angle=None, unlocked=False), Position(X=-1.975,
     Y=-5.725, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_card_microsd_hc_hirose_dm3d_sf
 manufacturer: ''
 part_number: ''
 short_name: ''

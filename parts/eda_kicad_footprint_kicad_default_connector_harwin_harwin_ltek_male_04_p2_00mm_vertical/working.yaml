@@ -146,13 +146,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector harwin ltek M80
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_harwin_harwin_ltek_male_04_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

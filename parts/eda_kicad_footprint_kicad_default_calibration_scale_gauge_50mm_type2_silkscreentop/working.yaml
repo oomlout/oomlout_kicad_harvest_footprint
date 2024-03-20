@@ -218,13 +218,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Gauge Massstab 50mm SilkScreenTop Type 2
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_calibration_scale_gauge_50mm_type2_silkscreentop
 manufacturer: ''
 part_number: ''
 short_name: ''

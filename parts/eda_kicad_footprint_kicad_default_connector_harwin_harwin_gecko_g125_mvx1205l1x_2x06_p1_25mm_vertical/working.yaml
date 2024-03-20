@@ -410,13 +410,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector harwin gecko
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_harwin_harwin_gecko_g125_mvx1205l1x_2x06_p1_25mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -172,13 +172,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector GMSTBA_01x04_G_7.50mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_gmstb_phoenixcontact_gmstba_2_5_4_g_1x04_p7_50mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

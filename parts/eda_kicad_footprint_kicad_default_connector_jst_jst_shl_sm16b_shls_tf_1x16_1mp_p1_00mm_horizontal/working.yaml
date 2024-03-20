@@ -212,13 +212,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST SHL horizontal
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jst_jst_shl_sm16b_shls_tf_1x16_1mp_p1_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

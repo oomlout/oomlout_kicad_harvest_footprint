@@ -310,7 +310,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: molex FFC/FPC connector Pitch 0.5mm right angle
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -344,6 +344,7 @@ footprint_string:
     Position(X=6.38, Y=2.51, angle=None, unlocked=False), Position(X=6.38, Y=-0.04,
     angle=None, unlocked=False), Position(X=0, Y=-0.04, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_ffc_fpc_molex_502244_2430_1x24_1mp_p0_5mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

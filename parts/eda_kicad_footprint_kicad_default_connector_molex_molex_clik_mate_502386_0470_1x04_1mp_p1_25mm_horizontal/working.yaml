@@ -135,13 +135,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex CLIK-Mate top entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_clik_mate_502386_0470_1x04_1mp_p1_25mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

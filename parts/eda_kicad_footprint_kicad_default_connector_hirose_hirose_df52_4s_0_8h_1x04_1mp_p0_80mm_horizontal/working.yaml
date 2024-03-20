@@ -132,13 +132,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Hirose  top entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_hirose_hirose_df52_4s_0_8h_1x04_1mp_p0_80mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

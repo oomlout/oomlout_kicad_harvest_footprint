@@ -206,13 +206,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Coaxial Connector 50 ohms Female
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_wr_mmcx_wuerth_66011102111302_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

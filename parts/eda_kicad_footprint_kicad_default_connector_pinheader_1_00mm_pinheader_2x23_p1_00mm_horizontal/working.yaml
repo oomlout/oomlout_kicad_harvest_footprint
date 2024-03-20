@@ -1226,13 +1226,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole angled pin header THT 2x23 1.00mm double row
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_pinheader_1_00mm_pinheader_2x23_p1_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

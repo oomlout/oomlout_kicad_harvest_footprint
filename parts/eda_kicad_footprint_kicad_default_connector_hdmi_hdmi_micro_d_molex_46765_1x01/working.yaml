@@ -263,7 +263,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: hdmi micro type d right angle tht
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -280,6 +280,7 @@ footprint_string:
     Y=-2.64, angle=None, unlocked=False), Position(X=2.35, Y=-2.64, angle=None, unlocked=False),
     Position(X=2.35, Y=1.7, angle=None, unlocked=False), Position(X=-2.35, Y=1.7,
     angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_hdmi_hdmi_micro_d_molex_46765_1x01
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -141,13 +141,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Pushbutton Right-angle
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_nkk_bb15ah
 manufacturer: ''
 part_number: ''
 short_name: ''

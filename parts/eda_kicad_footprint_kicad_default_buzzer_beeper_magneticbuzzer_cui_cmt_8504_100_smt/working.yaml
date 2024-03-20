@@ -166,13 +166,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CMT 8504
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_buzzer_beeper_magneticbuzzer_cui_cmt_8504_100_smt
 manufacturer: ''
 part_number: ''
 short_name: ''

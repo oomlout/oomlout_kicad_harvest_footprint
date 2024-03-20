@@ -195,13 +195,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector 3-pin PD-30S power DIN shielded
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_cui_pd_30s
 manufacturer: ''
 part_number: ''
 short_name: ''

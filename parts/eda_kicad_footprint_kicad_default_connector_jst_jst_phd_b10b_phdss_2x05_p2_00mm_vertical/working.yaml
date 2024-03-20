@@ -207,13 +207,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST PHD vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jst_jst_phd_b10b_phdss_2x05_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

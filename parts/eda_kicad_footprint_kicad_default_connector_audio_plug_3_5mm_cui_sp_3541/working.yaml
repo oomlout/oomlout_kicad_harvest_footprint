@@ -283,13 +283,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 3.5mm plug TRRS
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_audio_plug_3_5mm_cui_sp_3541
 manufacturer: ''
 part_number: ''
 short_name: ''

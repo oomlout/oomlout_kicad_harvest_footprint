@@ -173,13 +173,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex Micro-Latch side entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_micro_latch_53253_0770_1x07_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

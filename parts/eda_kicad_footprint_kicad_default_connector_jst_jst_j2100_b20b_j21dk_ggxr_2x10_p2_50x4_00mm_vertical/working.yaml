@@ -320,13 +320,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST J2100 vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jst_jst_j2100_b20b_j21dk_ggxr_2x10_p2_50x4_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

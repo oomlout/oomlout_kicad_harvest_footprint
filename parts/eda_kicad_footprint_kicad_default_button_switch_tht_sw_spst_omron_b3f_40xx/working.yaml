@@ -111,13 +111,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'tactile switch THT button push B3F-4000 B3F-4050 B3F-4005 B3F-4055  '
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_spst_omron_b3f_40xx
 manufacturer: ''
 part_number: ''
 short_name: ''

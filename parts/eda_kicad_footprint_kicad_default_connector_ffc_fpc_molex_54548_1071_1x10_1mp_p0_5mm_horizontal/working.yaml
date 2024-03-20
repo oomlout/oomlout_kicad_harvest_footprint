@@ -223,13 +223,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: FFC FPC connector
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -117,7 +117,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -161,6 +161,7 @@ footprint_string:
     Y=7.034079, angle=None, unlocked=False), Position(X=1.471149, Y=6.798074, angle=None,
     unlocked=False), Position(X=1.503344, Y=6.553526, angle=None, unlocked=False)])],
     filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_audio_jack_3_5mm_qingpu_wqp_pj398sm_vertical_circularholes
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -146,13 +146,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: tact sw push 6mm silicone rubber
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_smd_sw_push_1ts009xxxx_xxxx_xxxx_6x6x5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

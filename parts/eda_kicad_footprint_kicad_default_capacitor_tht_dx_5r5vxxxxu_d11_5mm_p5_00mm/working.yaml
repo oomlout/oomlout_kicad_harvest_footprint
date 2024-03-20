@@ -124,13 +124,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CP Radial series Radial pin pitch 5.00mm diameter 11.5mm supercapacitor
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_capacitor_tht_dx_5r5vxxxxu_d11_5mm_p5_00mm
 manufacturer: ''
 part_number: ''
 short_name: ''

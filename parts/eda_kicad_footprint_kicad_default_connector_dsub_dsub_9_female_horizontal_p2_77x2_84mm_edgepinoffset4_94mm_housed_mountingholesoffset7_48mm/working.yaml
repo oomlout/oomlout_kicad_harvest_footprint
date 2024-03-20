@@ -227,13 +227,14 @@ footprint_string:
   tags: 9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm
     pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 25mm mounting-hole-offset
     25mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_dsub_dsub_9_female_horizontal_p2_77x2_84mm_edgepinoffset4_94mm_housed_mountingholesoffset7_48mm
 manufacturer: ''
 part_number: ''
 short_name: ''

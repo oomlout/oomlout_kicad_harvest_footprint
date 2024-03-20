@@ -381,13 +381,14 @@ footprint_string:
   solderPasteRatio: None
   tags: 26-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting
     holes distance 33.3mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_dsub_dsub_26_hd_female_vertical_p2_29x1_98mm_mountingholes
 manufacturer: ''
 part_number: ''
 short_name: ''

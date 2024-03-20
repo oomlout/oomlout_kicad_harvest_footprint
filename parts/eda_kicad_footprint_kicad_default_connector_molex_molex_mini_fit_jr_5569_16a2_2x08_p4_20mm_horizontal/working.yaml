@@ -293,13 +293,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex Mini-Fit_Jr top entryplastic_peg
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_mini_fit_jr_5569_16a2_2x08_p4_20mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

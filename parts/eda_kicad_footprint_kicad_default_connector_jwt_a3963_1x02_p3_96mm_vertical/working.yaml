@@ -135,13 +135,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JWT A3963 pinhead
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jwt_a3963_1x02_p3_96mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -68,13 +68,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: buzzer
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_buzzer_beeper_buzzer_tdk_ps1240p02bt_d12_2mm_h6_5mm
 manufacturer: ''
 part_number: ''
 short_name: ''

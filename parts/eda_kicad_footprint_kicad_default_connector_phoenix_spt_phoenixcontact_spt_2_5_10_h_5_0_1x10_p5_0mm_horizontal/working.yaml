@@ -326,13 +326,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 2.5/10-H-5.0 1991053
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_spt_phoenixcontact_spt_2_5_10_h_5_0_1x10_p5_0mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

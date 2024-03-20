@@ -193,13 +193,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBA_01x05_G_5.08mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_mstb_phoenixcontact_mstba_2_5_5_g_5_08_1x05_p5_08mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

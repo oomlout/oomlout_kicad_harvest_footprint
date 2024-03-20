@@ -110,13 +110,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: power jack 2mm 2.5mm KLDX-0202-BC KLDX-0202-AC
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_barreljack_barreljack_kycon_kldx_0202_xc_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

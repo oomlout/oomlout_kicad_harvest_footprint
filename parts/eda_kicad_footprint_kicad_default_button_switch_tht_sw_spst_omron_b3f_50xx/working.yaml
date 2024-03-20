@@ -111,13 +111,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'tactile omron switch tht B3F-5000 B3F-5050 B3F-5001 B3F-5051  '
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_button_switch_tht_sw_spst_omron_b3f_50xx
 manufacturer: ''
 part_number: ''
 short_name: ''

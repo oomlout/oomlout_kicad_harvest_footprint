@@ -115,13 +115,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TRS audio jack stereo horizontal circular
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_audio_jack_3_5mm_cui_sj1_3533ng_horizontal_circularholes
 manufacturer: ''
 part_number: ''
 short_name: ''

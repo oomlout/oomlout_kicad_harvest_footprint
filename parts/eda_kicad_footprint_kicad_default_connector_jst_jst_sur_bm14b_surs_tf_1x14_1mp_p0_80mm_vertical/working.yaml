@@ -193,13 +193,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST SUR vertical
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jst_jst_sur_bm14b_surs_tf_1x14_1mp_p0_80mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

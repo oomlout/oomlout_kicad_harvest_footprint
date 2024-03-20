@@ -768,13 +768,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DIN 41612 IEC 60603 C
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_din_din41612_c_2x32_male_horizontal_tht
 manufacturer: ''
 part_number: ''
 short_name: ''

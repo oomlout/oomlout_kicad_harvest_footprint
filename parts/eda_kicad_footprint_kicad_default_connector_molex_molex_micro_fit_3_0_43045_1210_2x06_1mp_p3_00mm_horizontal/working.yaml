@@ -267,13 +267,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex Micro-Fit_3.0 top entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_micro_fit_3_0_43045_1210_2x06_1mp_p3_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

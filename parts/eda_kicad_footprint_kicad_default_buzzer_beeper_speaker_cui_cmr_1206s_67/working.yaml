@@ -113,13 +113,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: speaker CUI
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_buzzer_beeper_speaker_cui_cmr_1206s_67
 manufacturer: ''
 part_number: ''
 short_name: ''

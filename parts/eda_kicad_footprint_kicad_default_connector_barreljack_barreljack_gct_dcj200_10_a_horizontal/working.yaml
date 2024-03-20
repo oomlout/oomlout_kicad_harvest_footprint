@@ -116,13 +116,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector barrel jack
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_barreljack_barreljack_gct_dcj200_10_a_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -196,13 +196,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex Nano-Fit top entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_molex_molex_nano_fit_105313_xx05_1x05_p2_50mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

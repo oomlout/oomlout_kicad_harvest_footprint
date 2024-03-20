@@ -95,13 +95,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: C Axial series Axial Horizontal pin pitch 10mm  length 5.1mm diameter 3.1mm
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_capacitor_tht_c_axial_l5_1mm_d3_1mm_p10_00mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

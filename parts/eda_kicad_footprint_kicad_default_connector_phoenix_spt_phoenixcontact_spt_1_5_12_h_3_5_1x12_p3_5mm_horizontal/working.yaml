@@ -374,13 +374,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 1.5/12-H-3.5 1990834
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_phoenix_spt_phoenixcontact_spt_1_5_12_h_3_5_1x12_p3_5mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

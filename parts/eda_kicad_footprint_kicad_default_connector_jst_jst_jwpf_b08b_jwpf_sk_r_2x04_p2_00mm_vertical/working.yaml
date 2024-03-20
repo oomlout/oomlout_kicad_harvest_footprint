@@ -203,13 +203,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST JWPF side entry
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -109,13 +109,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: pin header 3-pin CPU fan
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_fanpinheader_1x03_p2_54mm_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

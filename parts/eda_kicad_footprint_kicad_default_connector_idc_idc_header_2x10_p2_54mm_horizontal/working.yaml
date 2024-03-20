@@ -336,13 +336,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole horizontal IDC box header THT 2x10 2.54mm double row
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_idc_idc_header_2x10_p2_54mm_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''

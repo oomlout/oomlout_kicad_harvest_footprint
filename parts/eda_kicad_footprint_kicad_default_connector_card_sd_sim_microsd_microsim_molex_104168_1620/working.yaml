@@ -327,7 +327,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Combo Connector microSD and microSIM
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
@@ -344,6 +344,7 @@ footprint_string:
     Y=-8.725, angle=None, unlocked=False), Position(X=5.99, Y=-8.725, angle=None,
     unlocked=False), Position(X=5.99, Y=8.965, angle=None, unlocked=False), Position(X=-5.99,
     Y=8.965, angle=None, unlocked=False)])], filledPolygons=[], fillSegments=None)]'
+id: eda_kicad_footprint_kicad_default_connector_card_sd_sim_microsd_microsim_molex_104168_1620
 manufacturer: ''
 part_number: ''
 short_name: ''

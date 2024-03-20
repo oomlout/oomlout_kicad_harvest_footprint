@@ -130,13 +130,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mcrf hirose ufl u.fl microcoaxial
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
 manufacturer: ''
 part_number: ''
 short_name: ''

@@ -144,13 +144,14 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BNC Amphenol Horizontal
-  tedit: 65f83759
+  tedit: 65facd8d
   thermalGap: None
   thermalWidth: None
   tstamp: None
   version: '20240108'
   zoneConnect: None
   zones: '[]'
+id: eda_kicad_footprint_kicad_default_connector_coaxial_bnc_amphenol_b6252hb_npp3g_50_horizontal
 manufacturer: ''
 part_number: ''
 short_name: ''
