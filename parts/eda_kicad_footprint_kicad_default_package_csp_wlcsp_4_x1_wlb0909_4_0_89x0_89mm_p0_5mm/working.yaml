@@ -1,0 +1,120 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
+description_main: package_csp
+footprint_id: eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
+  entryName: WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.6275, Y=0.6275, angle=None, unlocked=False),
+    end=Position(X=-0.6275, Y=-0.36875, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.36875, Y=-0.6275, angle=None, unlocked=False),
+    end=Position(X=0.6275, Y=-0.6275, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.6275, Y=-0.6275, angle=None, unlocked=False),
+    end=Position(X=0.6275, Y=0.6275, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.6275, Y=0.6275, angle=None, unlocked=False),
+    end=Position(X=-0.6275, Y=0.6275, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-0.6275, Y=-0.6275,
+    angle=None, unlocked=False), Position(X=-1.1275, Y=-0.6275, angle=None, unlocked=False),
+    Position(X=-0.6275, Y=-1.1275, angle=None, unlocked=False), Position(X=-0.6275,
+    Y=-0.6275, angle=None, unlocked=False)], width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), fill=''solid'', locked=False, tstamp=None), FpLine(start=Position(X=-1.45,
+    Y=-1.45, angle=None, unlocked=False), end=Position(X=-1.45, Y=1.45, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.45, Y=1.45,
+    angle=None, unlocked=False), end=Position(X=1.45, Y=1.45, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.45, Y=-1.45, angle=None,
+    unlocked=False), end=Position(X=-1.45, Y=-1.45, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.45, Y=1.45, angle=None, unlocked=False),
+    end=Position(X=1.45, Y=-1.45, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.445, Y=-0.2225, angle=None, unlocked=False),
+    end=Position(X=-0.2225, Y=-0.445, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.445, Y=0.445, angle=None, unlocked=False),
+    end=Position(X=-0.445, Y=-0.2225, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.2225, Y=-0.445, angle=None, unlocked=False),
+    end=Position(X=0.445, Y=-0.445, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.445, Y=-0.445, angle=None, unlocked=False),
+    end=Position(X=0.445, Y=0.445, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.445, Y=0.445, angle=None, unlocked=False), end=Position(X=-0.445,
+    Y=0.445, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=0, angle=0, unlocked=False), layer=''F.Fab'',
+    hide=False, effects=Effects(font=Font(face=None, height=0.21, width=0.21, thickness=0.0315,
+    bold=False, italic=False, lineSpacing=None, color=None), justify=Justify(horizontally=None,
+    vertically=None, mirror=False), hide=False, href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''A1'', type=''smd'', shape=''circle'', position=Position(X=-0.25,
+    Y=-0.25, angle=None, unlocked=False), locked=False, size=Position(X=0.235, Y=0.235,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''A2'', type=''smd'', shape=''circle'', position=Position(X=0.25,
+    Y=-0.25, angle=None, unlocked=False), locked=False, size=Position(X=0.235, Y=0.235,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''B1'', type=''smd'', shape=''circle'', position=Position(X=-0.25,
+    Y=0.25, angle=None, unlocked=False), locked=False, size=Position(X=0.235, Y=0.235,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''B2'', type=''smd'', shape=''circle'', position=Position(X=0.25,
+    Y=0.25, angle=None, unlocked=False), locked=False, size=Position(X=0.235, Y=0.235,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: CSP 4 0.5
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_csp_wlcsp_4_x1_wlb0909_4_0_89x0_89mm_p0_5mm
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

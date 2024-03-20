@@ -1,0 +1,110 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: infineon_pg_tsfp_3_1
+description_main: package_to_sot_smd
+footprint_id: eda_kicad_footprint_kicad_default_package_to_sot_smd_infineon_pg_tsfp_3_1
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Infineon_PG-TSFP-3-1, https://www.infineon.com/dgdl/TSFP-3-1,-2-Package_Overview.pdf?fileId=db3a30431936bc4b0119539929863d46
+  entryName: Infineon_PG-TSFP-3-1
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.69, Y=-0.86, angle=None, unlocked=False),
+    end=Position(X=0.6, Y=-0.86, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.6, Y=-0.86, angle=None, unlocked=False), end=Position(X=0.6,
+    Y=-0.485, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.6,
+    Y=0.485, angle=None, unlocked=False), end=Position(X=0.6, Y=0.86, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=0.6, Y=0.86,
+    angle=None, unlocked=False), end=Position(X=-0.4, Y=0.86, angle=None, unlocked=False),
+    layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12, type=''solid'', color=None),
+    locked=False, tstamp=None), FpCircle(center=Position(X=-1.03, Y=-0.76, angle=None,
+    unlocked=False), end=Position(X=-0.88, Y=-0.76, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0, type=''solid'', color=None), fill=''solid'',
+    locked=False, tstamp=None), FpLine(start=Position(X=-1, Y=-0.85, angle=None, unlocked=False),
+    end=Position(X=1, Y=-0.85, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-1, Y=0.85, angle=None, unlocked=False), end=Position(X=-1,
+    Y=-0.85, angle=None, unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=1,
+    Y=-0.85, angle=None, unlocked=False), end=Position(X=1, Y=0.85, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1, Y=0.85, angle=None, unlocked=False),
+    end=Position(X=-1, Y=0.85, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.4, Y=-0.3, angle=None, unlocked=False), end=Position(X=-0.1,
+    Y=-0.6, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.4,
+    Y=0.6, angle=None, unlocked=False), end=Position(X=-0.4, Y=-0.3, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.1, Y=-0.6, angle=None,
+    unlocked=False), end=Position(X=0.4, Y=-0.6, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.4, Y=-0.6, angle=None, unlocked=False),
+    end=Position(X=0.4, Y=0.6, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.4, Y=0.6, angle=None, unlocked=False), end=Position(X=-0.4,
+    Y=0.6, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0.9, Y=0, angle=90, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=0.5,
+    width=0.5, thickness=0.075, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TSFP-3-1.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''1'', type=''smd'', shape=''roundrect'', position=Position(X=-0.525,
+    Y=-0.4, angle=270, unlocked=False), locked=False, size=Position(X=0.4, Y=0.45,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''2'', type=''smd'', shape=''roundrect'',
+    position=Position(X=-0.525, Y=0.4, angle=270, unlocked=False), locked=False, size=Position(X=0.4,
+    Y=0.45, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''3'', type=''smd'', shape=''roundrect'',
+    position=Position(X=0.525, Y=0, angle=270, unlocked=False), locked=False, size=Position(X=0.4,
+    Y=0.45, angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.25,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Infineon_PG-TSFP-3-1'', ''Footprint'':
+    '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: TSFP-3
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_to_sot_smd_infineon_pg_tsfp_3_1
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

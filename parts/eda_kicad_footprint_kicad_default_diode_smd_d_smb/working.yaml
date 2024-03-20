@@ -96,7 +96,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Diode SMB (DO-214AA)
-  tedit: 65fae197
+  tedit: 65faf87e
   thermalGap: None
   thermalWidth: None
   tstamp: None

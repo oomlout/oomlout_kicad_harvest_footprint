@@ -1,0 +1,137 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: texas_dsbga_6_0_704x1_054mm_layout2x3_p0_35mm
+description_main: package_bga
+footprint_id: eda_kicad_footprint_kicad_default_package_bga_texas_dsbga_6_0_704x1_054mm_layout2x3_p0_35mm
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: Texas Instruments, DSBGA-6, 0.704x1.054mm, NSMD, YKA pad definition,
+    0.704x1.054mm, 6 Ball, 2x3 Layout, 0.35mm Pitch, https://www.ti.com/lit/ml/mxbg383/mxbg383.pdf,
+    https://www.ti.com/lit/ds/symlink/tps62800.pdf
+  entryName: Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.535, Y=0.71, angle=None, unlocked=False),
+    end=Position(X=-0.535, Y=-0.4975, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.3225, Y=-0.71, angle=None, unlocked=False),
+    end=Position(X=0.535, Y=-0.71, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.535, Y=-0.71, angle=None, unlocked=False),
+    end=Position(X=0.535, Y=0.71, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.535, Y=0.71, angle=None, unlocked=False),
+    end=Position(X=-0.535, Y=0.71, angle=None, unlocked=False), layer=''F.SilkS'',
+    width=None, stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False,
+    tstamp=None), FpPoly(layer=''F.SilkS'', coordinates=[Position(X=-0.535, Y=-0.71,
+    angle=None, unlocked=False), Position(X=-1.035, Y=-0.71, angle=None, unlocked=False),
+    Position(X=-0.535, Y=-1.21, angle=None, unlocked=False), Position(X=-0.535, Y=-0.71,
+    angle=None, unlocked=False)], width=None, stroke=Stroke(width=0.12, type=''solid'',
+    color=None), fill=''solid'', locked=False, tstamp=None), FpLine(start=Position(X=-1.36,
+    Y=-1.53, angle=None, unlocked=False), end=Position(X=-1.36, Y=1.53, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-1.36, Y=1.53,
+    angle=None, unlocked=False), end=Position(X=1.36, Y=1.53, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=1.36, Y=-1.53, angle=None,
+    unlocked=False), end=Position(X=-1.36, Y=-1.53, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=1.36, Y=1.53, angle=None, unlocked=False),
+    end=Position(X=1.36, Y=-1.53, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.352, Y=-0.351, angle=None, unlocked=False),
+    end=Position(X=-0.176, Y=-0.527, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.352, Y=0.527, angle=None, unlocked=False),
+    end=Position(X=-0.352, Y=-0.351, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=-0.176, Y=-0.527, angle=None, unlocked=False),
+    end=Position(X=0.352, Y=-0.527, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.352, Y=-0.527, angle=None, unlocked=False),
+    end=Position(X=0.352, Y=0.527, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.352, Y=0.527, angle=None, unlocked=False), end=Position(X=-0.352,
+    Y=0.527, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=0, angle=-90, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=0.25,
+    width=0.25, thickness=0.0375, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number=''A1'', type=''smd'', shape=''circle'', position=Position(X=-0.175,
+    Y=-0.35, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''A2'', type=''smd'', shape=''circle'', position=Position(X=0.175,
+    Y=-0.35, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''B1'', type=''smd'', shape=''circle'', position=Position(X=-0.175,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=''pad_prop_bga'',
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''B2'', type=''smd'', shape=''circle'', position=Position(X=0.175,
+    Y=0, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=''pad_prop_bga'',
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''C1'', type=''smd'', shape=''circle'', position=Position(X=-0.175,
+    Y=0.35, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''C2'', type=''smd'', shape=''circle'', position=Position(X=0.175,
+    Y=0.35, angle=None, unlocked=False), locked=False, size=Position(X=0.2, Y=0.2,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''],
+    property=''pad_prop_bga'', removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: '0.0325'
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: BGA 6 0.35
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_bga_texas_dsbga_6_0_704x1_054mm_layout2x3_p0_35mm
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default

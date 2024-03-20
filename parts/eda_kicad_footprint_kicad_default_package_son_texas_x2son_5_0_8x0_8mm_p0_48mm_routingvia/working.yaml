@@ -1,0 +1,216 @@
+classification: kicad_footprint
+color: ''
+description: eda
+description_extra: texas_x2son_5_0_8x0_8mm_p0_48mm_routingvia
+description_main: package_son
+footprint_id: eda_kicad_footprint_kicad_default_package_son_texas_x2son_5_0_8x0_8mm_p0_48mm_routingvia
+footprint_string:
+  attributes: Attributes(type='smd', boardOnly=False, excludeFromPosFiles=False, excludeFromBom=False)
+  autoplaceCost180: None
+  autoplaceCost90: None
+  clearance: None
+  description: 'X2SON 5 pin 0.8x0.8mm package (Reference Datasheet: https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf#page=39
+    Reference part: SN74LVC1G17) [StepUp generated footprint]'
+  entryName: Texas_X2SON-5_0.8x0.8mm_P0.48mm_RoutingVia
+  filePath: None
+  generator: pcbnew
+  graphicItems: '[FpLine(start=Position(X=-0.4, Y=-0.66, angle=None, unlocked=False),
+    end=Position(X=0.4, Y=-0.66, angle=None, unlocked=False), layer=''F.SilkS'', width=None,
+    stroke=Stroke(width=0.12, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.4, Y=0.66, angle=None, unlocked=False), end=Position(X=0.4,
+    Y=0.66, angle=None, unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0.12,
+    type=''solid'', color=None), locked=False, tstamp=None), FpCircle(center=Position(X=-0.910356,
+    Y=-0.55, angle=None, unlocked=False), end=Position(X=-0.770356, Y=-0.56, angle=None,
+    unlocked=False), layer=''F.SilkS'', width=None, stroke=Stroke(width=0, type=''solid'',
+    color=None), fill=''solid'', locked=False, tstamp=None), FpLine(start=Position(X=-0.9,
+    Y=-0.65, angle=None, unlocked=False), end=Position(X=0.9, Y=-0.65, angle=None,
+    unlocked=False), layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'',
+    color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.9, Y=0.65,
+    angle=None, unlocked=False), end=Position(X=-0.9, Y=-0.65, angle=None, unlocked=False),
+    layer=''F.CrtYd'', width=None, stroke=Stroke(width=0.05, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=0.9, Y=-0.65, angle=None,
+    unlocked=False), end=Position(X=0.9, Y=0.65, angle=None, unlocked=False), layer=''F.CrtYd'',
+    width=None, stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.9, Y=0.65, angle=None, unlocked=False),
+    end=Position(X=-0.9, Y=0.65, angle=None, unlocked=False), layer=''F.CrtYd'', width=None,
+    stroke=Stroke(width=0.05, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=-0.4, Y=-0.2, angle=None, unlocked=False), end=Position(X=-0.2,
+    Y=-0.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpLine(start=Position(X=-0.4,
+    Y=0.4, angle=None, unlocked=False), end=Position(X=-0.4, Y=-0.2, angle=None, unlocked=False),
+    layer=''F.Fab'', width=None, stroke=Stroke(width=0.1, type=''solid'', color=None),
+    locked=False, tstamp=None), FpLine(start=Position(X=-0.2, Y=-0.4, angle=None,
+    unlocked=False), end=Position(X=0.4, Y=-0.4, angle=None, unlocked=False), layer=''F.Fab'',
+    width=None, stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False,
+    tstamp=None), FpLine(start=Position(X=0.4, Y=-0.4, angle=None, unlocked=False),
+    end=Position(X=0.4, Y=0.4, angle=None, unlocked=False), layer=''F.Fab'', width=None,
+    stroke=Stroke(width=0.1, type=''solid'', color=None), locked=False, tstamp=None),
+    FpLine(start=Position(X=0.4, Y=0.4, angle=None, unlocked=False), end=Position(X=-0.4,
+    Y=0.4, angle=None, unlocked=False), layer=''F.Fab'', width=None, stroke=Stroke(width=0.1,
+    type=''solid'', color=None), locked=False, tstamp=None), FpText(type=''user'',
+    text=''${REFERENCE}'', position=Position(X=0, Y=1.1, angle=0, unlocked=False),
+    layer=''F.Fab'', hide=False, effects=Effects(font=Font(face=None, height=0.5,
+    width=0.5, thickness=0.075, bold=False, italic=False, lineSpacing=None, color=None),
+    justify=Justify(horizontally=None, vertically=None, mirror=False), hide=False,
+    href=None), tstamp=None, renderCache=None)]'
+  groups: '[]'
+  layer: F.Cu
+  libraryNickname: None
+  locked: 'False'
+  models: '[Model(path=''${KICAD8_3DMODEL_DIR}/Package_SON.3dshapes/Texas_X2SON-5_0.8x0.8mm_P0.48mm_RoutingVia.wrl'',
+    pos=Coordinate(X=0, Y=0, Z=0), scale=Coordinate(X=1, Y=1, Z=1), rotate=Coordinate(X=0,
+    Y=0, Z=0), hide=False)]'
+  pads: '[Pad(number='''', type=''smd'', shape=''custom'', position=Position(X=-0.39,
+    Y=-0.24, angle=None, unlocked=False), locked=False, size=Position(X=0.15, Y=0.15,
+    angle=None, unlocked=False), drill=None, layers=[''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=0.05,
+    Y=0.11, angle=None, unlocked=False), Position(X=0.21, Y=-0.05, angle=None, unlocked=False),
+    Position(X=0.21, Y=-0.11, angle=None, unlocked=False), Position(X=-0.16, Y=-0.11,
+    angle=None, unlocked=False), Position(X=-0.195, Y=-0.095, angle=None, unlocked=False),
+    Position(X=-0.21, Y=-0.06, angle=None, unlocked=False), Position(X=-0.21, Y=0.06,
+    angle=None, unlocked=False), Position(X=-0.195, Y=0.095, angle=None, unlocked=False),
+    Position(X=-0.16, Y=0.11, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)]), Pad(number='''', type=''smd'', shape=''custom'',
+    position=Position(X=-0.39, Y=0.24, angle=None, unlocked=False), locked=False,
+    size=Position(X=0.05, Y=0.05, angle=None, unlocked=False), drill=None, layers=[''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=-0.16,
+    Y=-0.11, angle=None, unlocked=False), Position(X=0.05, Y=-0.11, angle=None, unlocked=False),
+    Position(X=0.21, Y=0.05, angle=None, unlocked=False), Position(X=0.21, Y=0.11,
+    angle=None, unlocked=False), Position(X=-0.16, Y=0.11, angle=None, unlocked=False),
+    Position(X=-0.195, Y=0.095, angle=None, unlocked=False), Position(X=-0.21, Y=0.06,
+    angle=None, unlocked=False), Position(X=-0.21, Y=-0.06, angle=None, unlocked=False),
+    Position(X=-0.195, Y=-0.095, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)]), Pad(number='''', type=''smd'', shape=''custom'',
+    position=Position(X=0.39, Y=-0.24, angle=None, unlocked=False), locked=False,
+    size=Position(X=0.05, Y=0.05, angle=None, unlocked=False), drill=None, layers=[''F.Paste'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=0.16,
+    Y=0.11, angle=None, unlocked=False), Position(X=-0.05, Y=0.11, angle=None, unlocked=False),
+    Position(X=-0.21, Y=-0.05, angle=None, unlocked=False), Position(X=-0.21, Y=-0.11,
+    angle=None, unlocked=False), Position(X=0.16, Y=-0.11, angle=None, unlocked=False),
+    Position(X=0.195, Y=-0.095, angle=None, unlocked=False), Position(X=0.21, Y=-0.06,
+    angle=None, unlocked=False), Position(X=0.21, Y=0.06, angle=None, unlocked=False),
+    Position(X=0.195, Y=0.095, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)]), Pad(number='''', type=''smd'', shape=''custom'',
+    position=Position(X=0.39, Y=0.24, angle=None, unlocked=False), locked=False, size=Position(X=0.15,
+    Y=0.15, angle=None, unlocked=False), drill=None, layers=[''F.Paste''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=-0.05,
+    Y=-0.11, angle=None, unlocked=False), Position(X=-0.21, Y=0.05, angle=None, unlocked=False),
+    Position(X=-0.21, Y=0.11, angle=None, unlocked=False), Position(X=0.16, Y=0.11,
+    angle=None, unlocked=False), Position(X=0.195, Y=0.095, angle=None, unlocked=False),
+    Position(X=0.21, Y=0.06, angle=None, unlocked=False), Position(X=0.21, Y=-0.06,
+    angle=None, unlocked=False), Position(X=0.195, Y=-0.095, angle=None, unlocked=False),
+    Position(X=0.16, Y=-0.11, angle=None, unlocked=False)], width=0, fill=''yes'',
+    tstamp=None, locked=False)]), Pad(number=''1'', type=''smd'', shape=''custom'',
+    position=Position(X=-0.39, Y=-0.24, angle=None, unlocked=False), locked=False,
+    size=Position(X=0.15, Y=0.15, angle=None, unlocked=False), drill=None, layers=[''F.Cu'',
+    ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None,
+    chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None,
+    dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=0.071,
+    Y=0.16, angle=None, unlocked=False), Position(X=0.26, Y=-0.029, angle=None, unlocked=False),
+    Position(X=0.26, Y=-0.16, angle=None, unlocked=False), Position(X=-0.16, Y=-0.16,
+    angle=None, unlocked=False), Position(X=-0.21, Y=-0.147, angle=None, unlocked=False),
+    Position(X=-0.247, Y=-0.11, angle=None, unlocked=False), Position(X=-0.26, Y=-0.06,
+    angle=None, unlocked=False), Position(X=-0.26, Y=0.06, angle=None, unlocked=False),
+    Position(X=-0.247, Y=0.11, angle=None, unlocked=False), Position(X=-0.21, Y=0.147,
+    angle=None, unlocked=False), Position(X=-0.16, Y=0.16, angle=None, unlocked=False)],
+    width=0, fill=''yes'', tstamp=None, locked=False)]), Pad(number=''2'', type=''smd'',
+    shape=''custom'', position=Position(X=-0.39, Y=0.24, angle=None, unlocked=False),
+    locked=False, size=Position(X=0.05, Y=0.05, angle=None, unlocked=False), drill=None,
+    layers=[''F.Cu'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=-0.21,
+    Y=-0.147, angle=None, unlocked=False), Position(X=-0.16, Y=-0.16, angle=None,
+    unlocked=False), Position(X=0.071, Y=-0.16, angle=None, unlocked=False), Position(X=0.26,
+    Y=0.029, angle=None, unlocked=False), Position(X=0.26, Y=0.16, angle=None, unlocked=False),
+    Position(X=-0.16, Y=0.16, angle=None, unlocked=False), Position(X=-0.21, Y=0.147,
+    angle=None, unlocked=False), Position(X=-0.247, Y=0.11, angle=None, unlocked=False),
+    Position(X=-0.26, Y=0.06, angle=None, unlocked=False), Position(X=-0.26, Y=-0.06,
+    angle=None, unlocked=False), Position(X=-0.247, Y=-0.11, angle=None, unlocked=False)],
+    width=0, fill=''yes'', tstamp=None, locked=False)]), Pad(number=''3'', type=''thru_hole'',
+    shape=''circle'', position=Position(X=0, Y=0, angle=None, unlocked=False), locked=False,
+    size=Position(X=0.305, Y=0.305, angle=None, unlocked=False), drill=DrillDefinition(oval=False,
+    diameter=0.102, width=None, offset=None), layers=[''*.Cu'', ''*.Mask''], property=None,
+    removeUnusedLayers=True, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=None, thermalWidth=None, thermalGap=None, customPadOptions=None, customPadPrimitives=[]),
+    Pad(number=''3'', type=''smd'', shape=''roundrect'', position=Position(X=0, Y=0,
+    angle=45, unlocked=False), locked=False, size=Position(X=0.35, Y=0.35, angle=None,
+    unlocked=False), drill=None, layers=[''F.Cu'', ''F.Paste'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=0.2857142857, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=-0.05, solderPasteMargin=-0.055, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=None,
+    customPadPrimitives=[]), Pad(number=''4'', type=''smd'', shape=''custom'', position=Position(X=0.39,
+    Y=0.24, angle=None, unlocked=False), locked=False, size=Position(X=0.15, Y=0.15,
+    angle=None, unlocked=False), drill=None, layers=[''F.Cu'', ''F.Mask''], property=None,
+    removeUnusedLayers=False, keepEndLayers=False, roundrectRatio=None, chamferRatio=None,
+    chamfer=[], net=None, tstamp=None, pinFunction=None, pinType=None, dieLength=None,
+    solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None, clearance=None,
+    zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=-0.071,
+    Y=-0.16, angle=None, unlocked=False), Position(X=-0.26, Y=0.029, angle=None, unlocked=False),
+    Position(X=-0.26, Y=0.16, angle=None, unlocked=False), Position(X=0.16, Y=0.16,
+    angle=None, unlocked=False), Position(X=0.21, Y=0.147, angle=None, unlocked=False),
+    Position(X=0.247, Y=0.11, angle=None, unlocked=False), Position(X=0.26, Y=0.06,
+    angle=None, unlocked=False), Position(X=0.26, Y=-0.06, angle=None, unlocked=False),
+    Position(X=0.247, Y=-0.11, angle=None, unlocked=False), Position(X=0.21, Y=-0.147,
+    angle=None, unlocked=False), Position(X=0.16, Y=-0.16, angle=None, unlocked=False)],
+    width=0, fill=''yes'', tstamp=None, locked=False)]), Pad(number=''5'', type=''smd'',
+    shape=''custom'', position=Position(X=0.39, Y=-0.24, angle=None, unlocked=False),
+    locked=False, size=Position(X=0.05, Y=0.05, angle=None, unlocked=False), drill=None,
+    layers=[''F.Cu'', ''F.Mask''], property=None, removeUnusedLayers=False, keepEndLayers=False,
+    roundrectRatio=None, chamferRatio=None, chamfer=[], net=None, tstamp=None, pinFunction=None,
+    pinType=None, dieLength=None, solderMaskMargin=None, solderPasteMargin=None, solderPasteMarginRatio=None,
+    clearance=None, zoneConnect=0, thermalWidth=None, thermalGap=None, customPadOptions=PadOptions(clearance=''outline'',
+    anchor=''circle''), customPadPrimitives=[GrPoly(layer=None, coordinates=[Position(X=0.21,
+    Y=0.147, angle=None, unlocked=False), Position(X=0.16, Y=0.16, angle=None, unlocked=False),
+    Position(X=-0.071, Y=0.16, angle=None, unlocked=False), Position(X=-0.26, Y=-0.029,
+    angle=None, unlocked=False), Position(X=-0.26, Y=-0.16, angle=None, unlocked=False),
+    Position(X=0.16, Y=-0.16, angle=None, unlocked=False), Position(X=0.21, Y=-0.147,
+    angle=None, unlocked=False), Position(X=0.247, Y=-0.11, angle=None, unlocked=False),
+    Position(X=0.26, Y=-0.06, angle=None, unlocked=False), Position(X=0.26, Y=0.06,
+    angle=None, unlocked=False), Position(X=0.247, Y=0.11, angle=None, unlocked=False)],
+    width=0, fill=''yes'', tstamp=None, locked=False)])]'
+  path: None
+  placed: 'False'
+  position: None
+  properties: '{''Reference'': ''REF**'', ''Value'': ''Texas_X2SON-5_0.8x0.8mm_P0.48mm_RoutingVia'',
+    ''Footprint'': '''', ''Datasheet'': '''', ''Description'': ''''}'
+  solderMaskMargin: None
+  solderPasteMargin: None
+  solderPasteRatio: None
+  tags: X2SON DPW0005A
+  tedit: 65faf87e
+  thermalGap: None
+  thermalWidth: None
+  tstamp: None
+  version: '20240108'
+  zoneConnect: None
+  zones: '[]'
+id: eda_kicad_footprint_kicad_default_package_son_texas_x2son_5_0_8x0_8mm_p0_48mm_routingvia
+manufacturer: ''
+part_number: ''
+short_name: ''
+size: ''
+type: kicad_default
