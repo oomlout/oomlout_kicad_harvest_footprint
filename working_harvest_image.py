@@ -449,5 +449,5 @@ if __name__ == '__main__':
     kwargs = {}
     filter = [""]
     kwargs["filters"] = filter
-    #main(**kwargs)
-    git_commit()
+    main(**kwargs)
+    #git_commit()
