@@ -1278,7 +1278,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted pin header SMD 2x38 1.27mm double row
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -131,7 +131,7 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 7.62mm  length 16.51mm width 11.43mm
     Pulse KM-2
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

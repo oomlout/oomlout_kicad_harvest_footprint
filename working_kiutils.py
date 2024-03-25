@@ -24,7 +24,36 @@ def main(**kwargs):
             #open the footprint in kicad
             print(f"Opening {footprint}")
             if filter in footprint:
-                harvest_footprint_kiutils(footprint)
+                directory = harvest_footprint_kiutils(footprint)
+                create_pcb_file(directory)
+
+def create_pcb_file(directory):
+    file_pcb_source = "source/kicad_empty_board/working.kicad_pcb"
+    file_pcb_destination = f"{directory}/working/working.kicad_pcb"
+    file_footprint_source = f"{directory}/footprint.kicad_mod"
+
+    from kiutils.board import Board
+    from kiutils.footprint import Footprint
+    from kiutils.items.common import Position
+    from kiutils.items.fpitems import FpText
+
+    from os import path
+
+    # Load board file and footprint file
+    board = Board().from_file(file_pcb_source)
+    footprint = Footprint().from_file(file_footprint_source)
+
+    # Set new footprint's position
+    footprint.position = Position(X=0, Y=0)
+
+    
+    # Append footprint to board and save board
+    board.footprints.append(footprint)
+    # make directory for working
+    os.makedirs(f"{directory}/working", exist_ok=True)
+    board.to_file(file_pcb_destination)
+
+    pass
 
 def delay(seconds):
     #if seconds is greater than five print the number of dots were waiting for, then print a dot for each second we wait
@@ -109,6 +138,8 @@ def harvest_footprint_kiutils(file_footprint):
         print(f"Error loading {file_footprint}")
         print(e)
         return    
+    
+    return directory
 
 def lauch_footprint_browser():
     print("Launching footprint browser")

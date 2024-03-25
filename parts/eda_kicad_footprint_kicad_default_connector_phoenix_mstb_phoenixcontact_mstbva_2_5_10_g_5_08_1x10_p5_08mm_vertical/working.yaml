@@ -384,7 +384,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBVA_01x10_G_5.08mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -121,7 +121,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD SMT crystal hand-soldering
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -106,7 +106,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex SPOX side entry
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

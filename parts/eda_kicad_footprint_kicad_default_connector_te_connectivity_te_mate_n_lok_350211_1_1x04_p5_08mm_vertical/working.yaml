@@ -279,7 +279,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

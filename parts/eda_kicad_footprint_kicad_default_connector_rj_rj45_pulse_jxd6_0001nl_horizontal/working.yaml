@@ -184,7 +184,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ethernet 8p8c transformer magjack
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

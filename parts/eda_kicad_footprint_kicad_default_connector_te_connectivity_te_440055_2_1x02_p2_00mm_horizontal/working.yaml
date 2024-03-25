@@ -178,7 +178,7 @@ footprint_string:
   solderPasteRatio: None
   tags: connector header hdr horizontal right-angle shrouded fully-shrounded 440055-2
     2-440055-2 4-440055-2 6-440055-2 8-440055-2
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

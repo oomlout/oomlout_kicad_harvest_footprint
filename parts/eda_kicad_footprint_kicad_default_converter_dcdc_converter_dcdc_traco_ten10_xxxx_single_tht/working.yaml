@@ -111,7 +111,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter TRACO TEN10-xxxx single output
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

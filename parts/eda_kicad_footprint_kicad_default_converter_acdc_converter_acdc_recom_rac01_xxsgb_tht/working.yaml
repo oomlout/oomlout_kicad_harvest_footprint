@@ -120,7 +120,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: recom power ac dc rac01xxgb rac01-05sgb rac01-12sgb
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

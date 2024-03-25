@@ -114,7 +114,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: common mode filter triple choke
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

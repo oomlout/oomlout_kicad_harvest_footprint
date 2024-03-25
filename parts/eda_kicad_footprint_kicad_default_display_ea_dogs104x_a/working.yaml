@@ -211,7 +211,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LCD 4x10 character 3.3V VDD I2C or SPI
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

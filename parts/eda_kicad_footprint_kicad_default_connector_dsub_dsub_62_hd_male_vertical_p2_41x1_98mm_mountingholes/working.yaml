@@ -664,7 +664,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 62-pin D-Sub connector straight vertical THT male pitch 2.41x1.98mm mounting
     holes distance 63.5mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

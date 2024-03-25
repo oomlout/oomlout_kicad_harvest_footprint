@@ -146,7 +146,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ14 connector 6P4C Connfly DS1133
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

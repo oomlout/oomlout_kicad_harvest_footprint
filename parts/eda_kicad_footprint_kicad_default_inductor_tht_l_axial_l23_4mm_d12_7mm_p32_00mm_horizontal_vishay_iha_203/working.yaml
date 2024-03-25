@@ -96,7 +96,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 32mm  length 23.37mm diameter
     12.7mm Vishay IHA-203
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

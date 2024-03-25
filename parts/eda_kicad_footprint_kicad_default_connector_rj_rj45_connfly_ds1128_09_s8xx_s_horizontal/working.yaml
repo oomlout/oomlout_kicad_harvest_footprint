@@ -229,7 +229,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ45 8p8c ethernet
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

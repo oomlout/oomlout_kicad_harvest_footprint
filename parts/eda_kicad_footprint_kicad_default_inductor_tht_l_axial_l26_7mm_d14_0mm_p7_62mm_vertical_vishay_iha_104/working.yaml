@@ -72,7 +72,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 26.67mm diameter
     13.97mm Vishay IHA-104
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

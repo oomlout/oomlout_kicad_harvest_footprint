@@ -216,7 +216,7 @@ footprint_string:
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060
     USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

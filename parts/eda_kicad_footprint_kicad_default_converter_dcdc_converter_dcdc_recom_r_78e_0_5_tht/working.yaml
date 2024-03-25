@@ -102,7 +102,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: dc-dc recom buck sip-3 pitch 2.54mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

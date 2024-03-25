@@ -142,7 +142,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Bourns SRP1038C SMD inductor
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -856,7 +856,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm
     pin-PCB-offset 9.4mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -159,7 +159,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RJ12 RJ18 RJ25 jack connector 6P6C
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -111,7 +111,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Choke Shielded Power Inductor WE-PD 7345 Wuerth
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

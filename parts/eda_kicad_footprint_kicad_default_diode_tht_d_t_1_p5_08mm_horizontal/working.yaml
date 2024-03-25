@@ -122,7 +122,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter
     2.6mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

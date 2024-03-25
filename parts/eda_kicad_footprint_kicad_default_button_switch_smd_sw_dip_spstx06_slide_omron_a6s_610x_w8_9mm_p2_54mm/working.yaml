@@ -433,7 +433,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD DIP Switch SPST Slide 8.9mm 350mil
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

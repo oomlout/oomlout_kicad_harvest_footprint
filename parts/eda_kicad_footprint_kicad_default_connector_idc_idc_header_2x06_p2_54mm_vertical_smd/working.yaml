@@ -213,7 +213,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD vertical IDC box header  2x06 2.54mm double row
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

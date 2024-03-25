@@ -465,7 +465,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TFT-graphical display 800x480 16-bit colours and touch display
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -82,7 +82,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter
     9.1mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

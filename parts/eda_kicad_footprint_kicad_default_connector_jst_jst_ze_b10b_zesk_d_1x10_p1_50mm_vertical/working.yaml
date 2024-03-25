@@ -233,7 +233,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST ZE side entry
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

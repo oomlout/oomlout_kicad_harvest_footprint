@@ -83,7 +83,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter
     1.6mm
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

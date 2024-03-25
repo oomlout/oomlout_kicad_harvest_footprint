@@ -105,7 +105,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Bourns SRR1005 SMD inductor
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

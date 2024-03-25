@@ -158,7 +158,7 @@ footprint_string:
   solderPasteMargin: '-0.2'
   solderPasteRatio: None
   tags: 7segment LED HDSM531 HDSM533
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

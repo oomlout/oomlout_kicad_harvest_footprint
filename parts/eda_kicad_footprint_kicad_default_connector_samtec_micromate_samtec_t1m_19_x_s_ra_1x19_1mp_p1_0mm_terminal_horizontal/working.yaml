@@ -256,7 +256,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: conn samtec discrete wire terminal
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

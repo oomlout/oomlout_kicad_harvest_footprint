@@ -134,7 +134,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: inductor sagami cwr12xx smd
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None
