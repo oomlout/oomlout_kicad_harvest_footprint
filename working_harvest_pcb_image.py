@@ -152,10 +152,10 @@ def oom_typewriter(string, wait=2, times=1):
         print(f"Typing {string}")
     else:
         print(f"Typing {string} {times} times")
-    for i in range(times):
-        pyautogui.typewrite(string, interval=0.05)       
-        if times > 1:
-            delay(0.25) 
+    for i in range(times):        
+            pyautogui.typewrite(string, interval=0.05)               
+            if times > 1:
+                delay(0.25)         
     if wait > 1:
         delay(wait)
     else:
@@ -194,11 +194,14 @@ def harvest_footprint_pcb_image(footprint, overwrite):
 
     if not os.path.exists(test_file) or overwrite:
         file_pcb = f"{folder_full}/working/working.kicad_pcb"
-        folder_export_temporary = "temporary" 
-        file_export_temporary = f"{folder_export_temporary}/working.svg"
-        file_export = f"{folder_full}/image.svg"
+        folder_export_temporary = f"{folder_full}working/temporary" 
+        file_export_temporary = f"{folder_export_temporary}/working-brd.svg"
+        file_export = f"{folder_full}image.svg"
         #replace slashes
         
+        #make the temporary folder
+        os.makedirs(folder_export_temporary, exist_ok=True)
+
         #open the pcb file
         os.system(f'start "" "{file_pcb}"')
 
@@ -211,20 +214,21 @@ def harvest_footprint_pcb_image(footprint, overwrite):
         #send e
         oom_typewriter("e", wait=1)
 
-        #send s twice
-        oom_typewriter("s",wait=1, times=2)
+        #send down 5 times
+        oom_typewriter(["down"], times=5, wait=1)
 
         #send enter
         oom_typewriter(["enter"], wait=5)
 
         #send folder temporary
-        oom_typewriter(folder_export_temporary)
+        oom_typewriter(folder_export_temporary.replace("/", "\\"), wait=1)
 
         #send enter
         oom_typewriter(["enter"], wait=5)
 
         #send escape
-        oom_typewriter("esc", wait=5)
+        oom_typewriter(["esc"], wait=5)
+        oom_typewriter(["esc"], wait=5)
 
         #close pcbnew
         oom_click(position_menu_file)
@@ -233,18 +237,24 @@ def harvest_footprint_pcb_image(footprint, overwrite):
 
         #copy temporary file to export file if temporary file exists if not generate an error prompt that times out after ten seconds
         if os.path.exists(file_export_temporary):
-            print (f"Exporting {file_export_temporary} to {file_export}")
-            os.system(f'copy "{file_export_temporary}" "{file_export}"')
+            
+            command = f'copy "{file_export_temporary}" "{file_export}"'
+            #replace /
+            command = command.replace("/", "\\")
+            print(command)
+            os.system(command)
         else:
             print(f"Error exporting image {file_export_temporary} does not exist")
             delay(10)
 
-
         #use inkscape to make a pdf version of the svg
-        file_export_pdf = f"{folder_full}/image.pdf"
+        file_export_pdf = f"{folder_full}image.pdf"
         print (f"Exporting {file_export} to {file_export_pdf}")
-        os.system(f'inkscape -f "{file_export}" -A "{file_export_pdf}"')
+        os.system(f'inkscape --export-filename "{file_export_pdf}" "{file_export}"')
         return_value = 1
+
+        #remove the temporary folder and contents
+        os.system(f'rmdir /s /q "{folder_export_temporary}"')
 
     return return_value
 
