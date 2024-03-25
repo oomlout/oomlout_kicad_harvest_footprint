@@ -56,6 +56,8 @@ def main(**kwargs):
 
 def git_commit():
     print("Committing changes")
+    #pull first
+    os.system("git pull")    
     os.system("git add .")
     os.system("git commit -m \"Harvesting footprints\"")
     os.system("git push")
