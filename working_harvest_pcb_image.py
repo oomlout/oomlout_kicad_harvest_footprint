@@ -13,8 +13,8 @@ def main(**kwargs):
     overwrite = kwargs.get("overwrite", False)
 
     global typ
-    #typ = "surface"
-    typ = "desktop"
+    typ = "surface"
+    #typ = "desktop"
     set_mouse_positions(typ)
 
 
