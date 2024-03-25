@@ -1150,7 +1150,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera BGA-153 M153 MBGA
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

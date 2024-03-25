@@ -2098,7 +2098,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 289 0.8 ZAV S-PBGA-N289
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

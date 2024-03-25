@@ -141,7 +141,7 @@ footprint_string:
     z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position
     of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center
     5.0mm 2 pins
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

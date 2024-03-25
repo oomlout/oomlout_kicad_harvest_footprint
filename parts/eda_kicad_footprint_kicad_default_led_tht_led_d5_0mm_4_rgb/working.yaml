@@ -107,7 +107,7 @@ footprint_string:
   solderPasteRatio: None
   tags: LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB
     RGBLED
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

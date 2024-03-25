@@ -123,7 +123,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: KPS-3227 Ambient Light Photo Sensor
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

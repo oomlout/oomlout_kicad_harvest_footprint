@@ -1075,7 +1075,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera BGA-144 M144 MBGA
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None

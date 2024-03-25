@@ -91,7 +91,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: IR infrared LED diameter 3.0mm 2 pins grey
-  tedit: 65faf87e
+  tedit: '66017484'
   thermalGap: None
   thermalWidth: None
   tstamp: None
