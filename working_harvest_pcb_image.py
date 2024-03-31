@@ -164,6 +164,8 @@ def oom_typewriter(string, wait=2, times=1):
 def set_mouse_positions(typ):
     global position_filter_box, position_first_result, position_menu_file, position_menu_view, position_menu_3d_view, position_footprint_browser
 
+
+
     if typ == "desktop":
         position_filter_box = [65,114]
         position_first_result = [92,185]
