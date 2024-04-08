@@ -190,12 +190,24 @@ def harvest_footprint_pcb_image(footprint, overwrite):
 
     yaml_file = f"parts/{footprint}/working.yaml"
     cwd = os.getcwd()
-    folder_full = f"{cwd}/parts/{footprint}/"
+    folder_full = f"{cwd}/parts/{footprint}/"    
+    folder_full = folder_full.replace("//", "/")    
+    folder_full = folder_full.replace("/", "\\")
     
     test_file = f"{folder_full}image.svg"
 
-    if not os.path.exists(test_file) or overwrite:
-        file_pcb = f"{folder_full}/working/working.kicad_pcb"
+    file_pcb = f"{folder_full}/working/working.kicad_pcb"
+    #replace // with /
+    file_pcb = file_pcb.replace("//", "/")
+    #replace / with \\
+    file_pcb = file_pcb.replace("/", "\\")
+    #replace double \\ with single \
+    file_pcb = file_pcb.replace("\\\\", "\\")
+    length_max = 144
+
+    if (not os.path.exists(test_file) or overwrite)  and os.path.exists(file_pcb):
+        
+
         folder_export_temporary = f"{folder_full}working/temporary" 
         file_export_temporary = f"{folder_export_temporary}/working-brd.svg"
         file_export = f"{folder_full}image.svg"
@@ -204,7 +216,9 @@ def harvest_footprint_pcb_image(footprint, overwrite):
         #make the temporary folder
         os.makedirs(folder_export_temporary, exist_ok=True)
 
-        #open the pcb file
+        #open the pcb file 
+        #print the length of the filename
+        print(f"Opening {file_pcb} {len(file_pcb)}")
         os.system(f'start "" "{file_pcb}"')
 
         #wait for pcbnew to open
