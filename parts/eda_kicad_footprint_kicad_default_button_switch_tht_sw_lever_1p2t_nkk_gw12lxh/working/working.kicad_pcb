@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Lever_1P2T_NKK_GW12LxH" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf")
     (tags "switch single-pole double-throw spdt ON-ON horizontal")

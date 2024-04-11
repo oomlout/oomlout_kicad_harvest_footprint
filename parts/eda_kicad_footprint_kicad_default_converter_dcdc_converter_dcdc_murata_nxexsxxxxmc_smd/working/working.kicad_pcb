@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Murata_NXExSxxxxMC_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Isolated 1W or 2W Single Output SM DC/DC Converters https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9")
     (tags "Isolated 1W or 2W Single Output SM DC/DC Converters")

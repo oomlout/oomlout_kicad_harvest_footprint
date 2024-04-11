@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf")
     (tags "Projects Unlimited AI-4228-TWT-R ")

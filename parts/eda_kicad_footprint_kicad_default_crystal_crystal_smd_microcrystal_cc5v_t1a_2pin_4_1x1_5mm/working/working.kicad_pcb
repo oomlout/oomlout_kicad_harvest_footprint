@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, 4.1x1.5mm^2 package")
     (tags "SMD SMT crystal")

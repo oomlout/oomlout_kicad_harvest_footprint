@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ERM19264" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf")
     (tags "ERM19264 Graphics Display 192x64")

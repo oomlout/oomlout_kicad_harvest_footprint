@@ -223,7 +223,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type175_RT02704HBLC pitch 7.5mm size 30x11mm^2
     drill 1.4mm pad 2.6mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

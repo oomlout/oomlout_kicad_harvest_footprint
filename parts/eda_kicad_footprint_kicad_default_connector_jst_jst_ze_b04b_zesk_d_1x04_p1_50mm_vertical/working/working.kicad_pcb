@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JST ZE series connector, B04B-ZESK-D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator")
     (tags "connector JST ZE side entry")

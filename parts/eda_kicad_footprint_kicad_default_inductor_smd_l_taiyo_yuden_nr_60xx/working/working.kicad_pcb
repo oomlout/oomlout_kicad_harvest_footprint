@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Taiyo-Yuden_NR-60xx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-60xx, 6.0mmx6.0mm")
     (tags "inductor taiyo-yuden nr smd")

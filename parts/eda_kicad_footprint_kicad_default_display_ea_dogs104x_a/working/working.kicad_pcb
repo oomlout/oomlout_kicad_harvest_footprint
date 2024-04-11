@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_DOGS104X-A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf")
     (tags "LCD 4x10 character 3.3V VDD I2C or SPI")

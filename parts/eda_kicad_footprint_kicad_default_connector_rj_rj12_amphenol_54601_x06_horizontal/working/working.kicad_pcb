@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ12_Amphenol_54601-x06_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RJ12 6P6C horizontal socket, plastic body, tab down, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf")
     (tags "RJ12 connector")

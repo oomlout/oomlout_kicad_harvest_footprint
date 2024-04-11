@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Osram_BPW34S-SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5488319/BPW%2034%20S_EN.pdf")
     (tags "PhotoDiode plastic SMD DIL")

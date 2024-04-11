@@ -316,7 +316,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block Phoenix MKDS-3-7-5.08 pitch 5.08mm size 35.6x11.2mm^2 drill
     1.3mm pad 2.6mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

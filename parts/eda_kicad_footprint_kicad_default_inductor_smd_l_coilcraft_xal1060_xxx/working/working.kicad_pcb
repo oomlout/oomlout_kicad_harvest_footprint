@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_XAL1060-XXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Coilcraft, XAL1060-XXX, 10.5x11.8x6.0mm, https://www.coilcraft.com/getmedia/8909f858-b441-4d60-acff-8b8ca36f9ede/xal1060.pdf")
     (tags "Inductor xal")

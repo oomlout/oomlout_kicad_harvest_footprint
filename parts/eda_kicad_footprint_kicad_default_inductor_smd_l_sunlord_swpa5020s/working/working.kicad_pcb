@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sunlord_SWPA5020S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Sunlord, SWPA5020S, 5.0x5.0x2.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf")
     (tags "Inductor swpa")

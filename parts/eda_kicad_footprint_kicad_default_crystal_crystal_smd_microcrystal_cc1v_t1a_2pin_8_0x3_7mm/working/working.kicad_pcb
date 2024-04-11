@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_MicroCrystal_CC1V-T1A-2Pin_8.0x3.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal MicroCrystal CC1V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC1V-T1A.pdf, 8.0x3.7mm^2 package")
     (tags "SMD SMT crystal")

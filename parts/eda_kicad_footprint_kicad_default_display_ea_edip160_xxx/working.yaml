@@ -415,7 +415,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

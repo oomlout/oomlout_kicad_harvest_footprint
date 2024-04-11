@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_SXN_SMDRI64" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, SXN, SMDRI64, 6.5x6.8x5.0mm, https://www.sxndz.com/upload/202108/16/202108161607454319.pdf")
     (tags "Inductor sxn smdri")

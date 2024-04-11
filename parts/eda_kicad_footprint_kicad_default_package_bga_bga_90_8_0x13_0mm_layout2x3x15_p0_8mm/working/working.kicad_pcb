@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf")
     (tags "BGA-90")

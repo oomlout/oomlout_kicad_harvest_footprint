@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_DIP-4_W5.08mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf")
     (tags "DIL DIP PDIP 5.08mm 2.54")

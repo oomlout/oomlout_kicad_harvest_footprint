@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_CUI_CST-931RP-A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf")
     (tags "CST-931RP-A")

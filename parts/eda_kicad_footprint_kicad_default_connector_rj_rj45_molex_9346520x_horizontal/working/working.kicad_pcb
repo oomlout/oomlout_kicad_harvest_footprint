@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Molex_9346520x_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, two LED, tab up")
     (tags "RJ45 Magjack")

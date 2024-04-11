@@ -124,7 +124,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD SMT SPST EVQPUL EVQPUC
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

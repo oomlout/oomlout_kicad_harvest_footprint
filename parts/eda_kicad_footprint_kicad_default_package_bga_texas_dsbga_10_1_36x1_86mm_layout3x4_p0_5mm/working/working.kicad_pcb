@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, YZP, YZP0010, 1.86x1.36mm, 10 Ball, 3x4 Layout, 0.5mm Pitch, http://www.ti.com/lit/ds/symlink/ts3a24159.pdf")
     (tags "BGA 10 0.5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sagami_CWR1277C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Sagami power inductor, CWR1242C, H=7.7mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)")
     (tags "inductor sagami cwr12xx smd")

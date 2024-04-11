@@ -121,7 +121,7 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 12.20mm  length 25.4mm width 14.7mm
     Vishay TJ5 BigPads
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

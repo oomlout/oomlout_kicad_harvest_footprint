@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_AAVID_590302B03600G" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf")
     (tags "heatsink")

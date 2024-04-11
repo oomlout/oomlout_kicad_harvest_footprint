@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm, Vishay, TJ5, BigPads, http://www.vishay.com/docs/34079/tj.pdf")
     (tags "L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5 BigPads")

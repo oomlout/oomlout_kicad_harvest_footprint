@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_10x8.5mm_P7.6mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Resistor, LDR 10x8.5mm")
     (tags "Resistor LDR10.8.5mm")

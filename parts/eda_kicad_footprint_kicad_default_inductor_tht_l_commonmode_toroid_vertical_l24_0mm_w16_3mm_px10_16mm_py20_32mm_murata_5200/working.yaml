@@ -141,7 +141,7 @@ footprint_string:
   solderPasteRatio: None
   tags: L_CommonMode_Toroid Vertical series Radial pin pitch 10.16*20.32mm^2  length
     24mm width 16.3mm muRATA 5200
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

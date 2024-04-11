@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Cherry_MX_2.00u_Vertical_PCB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.00u vertical PCB")

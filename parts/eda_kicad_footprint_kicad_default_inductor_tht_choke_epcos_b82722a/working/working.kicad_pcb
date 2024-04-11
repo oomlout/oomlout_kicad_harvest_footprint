@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Choke_EPCOS_B82722A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf")
     (tags "chokes epcos tht")

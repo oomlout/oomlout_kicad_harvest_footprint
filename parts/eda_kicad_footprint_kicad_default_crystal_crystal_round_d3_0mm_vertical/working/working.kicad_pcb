@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_Round_D3.0mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Crystal THT C38-LF 8.0mm length 3.0mm diameter")
     (tags "['C38-LF']")

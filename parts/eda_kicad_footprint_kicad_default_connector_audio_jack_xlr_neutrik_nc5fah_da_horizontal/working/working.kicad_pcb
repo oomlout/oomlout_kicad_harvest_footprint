@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR_Neutrik_NC5FAH-DA_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fah-da")
     (tags "neutrik xlr a")

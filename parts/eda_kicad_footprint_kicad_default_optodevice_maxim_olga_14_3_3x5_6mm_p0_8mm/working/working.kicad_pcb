@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Maxim_OLGA-14_3.3x5.6mm_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF")
     (tags "OLGA-14 OESIP-14")

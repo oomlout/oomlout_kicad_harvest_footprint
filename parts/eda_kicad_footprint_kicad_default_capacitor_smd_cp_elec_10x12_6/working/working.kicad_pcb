@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Elec_10x12.6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm")
     (tags "capacitor electrolytic")

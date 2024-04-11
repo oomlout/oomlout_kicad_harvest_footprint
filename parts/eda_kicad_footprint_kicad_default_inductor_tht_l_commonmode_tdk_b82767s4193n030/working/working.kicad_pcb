@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_TDK_B82767S4193N030" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "19A, 3Phase N, Quadruple Coil, https://www.tdk-electronics.tdk.com/inf/30/ds/b82767s4.pdf")
     (tags "common mode filter quadruple choke")

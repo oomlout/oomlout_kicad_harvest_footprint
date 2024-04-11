@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MCV_1,5_13-G-3.81_1x13_P3.81mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/13-G-3.81; number of pins: 13; pin pitch: 3.81mm; Vertical || order number: 1803536 8A 160V")
     (tags "phoenix_contact connector MCV_01x13_G_3.81mm")

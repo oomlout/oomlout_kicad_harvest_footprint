@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DE113-XX-XX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf")
     (tags "3 1/5 digit LOW BAT + 7-Segment LCD")

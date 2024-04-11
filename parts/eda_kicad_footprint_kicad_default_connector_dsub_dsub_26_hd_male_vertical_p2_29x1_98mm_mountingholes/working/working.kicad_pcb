@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "26-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
     (tags "26-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 33.3mm")

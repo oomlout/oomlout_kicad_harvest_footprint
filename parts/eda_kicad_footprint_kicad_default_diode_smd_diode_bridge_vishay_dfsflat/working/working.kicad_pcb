@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Vishay_DFSFlat" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD diode bridge Low Profile DFS \"Flat\", see http://www.vishay.com/docs/88874/dfl15005.pdf")
     (tags "DFS")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MiniXLR-5_Switchcraft_TRAPC_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF")
     (tags "THT Mini XLR 5Pin right angle")

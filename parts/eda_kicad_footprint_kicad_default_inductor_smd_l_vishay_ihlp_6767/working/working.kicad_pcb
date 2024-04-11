@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Vishay_IHLP-6767" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Vishay, IHLP series, 17.0mmx17.0mm")
     (tags "inductor vishay ihlp smd")

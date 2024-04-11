@@ -277,7 +277,7 @@ footprint_string:
   tags: 15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm
     pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset
     33.3mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Radial_D16.0mm_H25.0mm_P7.50mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "C, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=25mm, Non-Polar Electrolytic Capacitor")
     (tags "C Radial series Radial pin pitch 7.50mm diameter 16mm height 25mm Non-Polar Electrolytic Capacitor")

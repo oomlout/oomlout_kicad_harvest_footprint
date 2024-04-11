@@ -425,7 +425,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector GMSTBV_01x10_GF_7.62mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

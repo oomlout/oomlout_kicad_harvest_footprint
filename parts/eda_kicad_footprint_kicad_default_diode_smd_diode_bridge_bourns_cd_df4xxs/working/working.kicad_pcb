@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Bourns_CD-DF4xxS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf")
     (tags "Surface Mount Bridge Rectifier Diode")

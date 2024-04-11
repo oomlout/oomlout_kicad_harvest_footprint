@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Murata_NMAxxxxDC_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Isolated 1W DCDC-Converter, http://power.murata.com/data/power/ncl/kdc_nma.pdf")
     (tags "Isolated 1W DCDC-Converter")

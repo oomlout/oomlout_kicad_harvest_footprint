@@ -60,7 +60,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 5.00mm  diameter 10mm Fastron 07P
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_Amphenol_031-5539_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BNC coaxial connector vertical, Amphenol 031-71059, https://www.amphenolrf.com/library/download/link/link_id/594427/parent/031-5539/")
     (tags "BNC Amphenol Vertical")

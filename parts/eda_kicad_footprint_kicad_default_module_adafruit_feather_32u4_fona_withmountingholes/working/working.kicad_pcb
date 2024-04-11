@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Adafruit_Feather_32u4_FONA_WithMountingHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona")
     (tags "Adafruit Feather 32u4 FONA")

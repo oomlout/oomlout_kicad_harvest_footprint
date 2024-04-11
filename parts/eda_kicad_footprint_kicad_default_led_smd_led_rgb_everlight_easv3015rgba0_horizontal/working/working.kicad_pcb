@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_Everlight_EASV3015RGBA0_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220")
     (tags "LED RGB right-angle")

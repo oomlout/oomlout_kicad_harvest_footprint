@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)")
     (tags "push horizontal SPST 1P1T")

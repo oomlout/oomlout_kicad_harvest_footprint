@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Amphenol_RJHSE5380" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf")
     (tags "RJ45 8p8c ethernet cat5")

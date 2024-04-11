@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_2016-4Pin_2.0x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package")
     (tags "SMD SMT crystal")

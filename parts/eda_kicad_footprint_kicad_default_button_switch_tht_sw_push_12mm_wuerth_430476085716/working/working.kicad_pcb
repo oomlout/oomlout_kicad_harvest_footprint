@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_PUSH-12mm_Wuerth-430476085716" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf")
     (tags "tact sw push 12mm")

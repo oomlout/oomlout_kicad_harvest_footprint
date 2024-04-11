@@ -264,7 +264,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBA_01x09_G_5.00mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

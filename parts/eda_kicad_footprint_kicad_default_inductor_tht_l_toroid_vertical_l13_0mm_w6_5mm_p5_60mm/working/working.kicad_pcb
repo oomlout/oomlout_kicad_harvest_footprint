@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Vertical_L13.0mm_W6.5mm_P5.60mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Vertical series, Radial, pin pitch=5.60mm, , length*width=13*6.5mm^2")
     (tags "L_Toroid Vertical series Radial pin pitch 5.60mm  length 13mm width 6.5mm")

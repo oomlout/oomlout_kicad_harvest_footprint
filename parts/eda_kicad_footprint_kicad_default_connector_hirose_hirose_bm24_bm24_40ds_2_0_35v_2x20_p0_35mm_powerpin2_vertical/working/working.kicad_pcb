@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Hirose BM24 series connector, BM24-40DS/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)")
     (tags "connector Hirose 40pin receptacle vertical")

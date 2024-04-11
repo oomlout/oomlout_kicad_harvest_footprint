@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-625_21.0x21.0mm_Layout25x25_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-625")
     (tags "BGA-625")

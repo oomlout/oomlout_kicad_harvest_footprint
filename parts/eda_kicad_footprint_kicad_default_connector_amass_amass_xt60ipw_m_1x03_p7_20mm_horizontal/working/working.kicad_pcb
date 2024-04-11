@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Connector XT60 Horizontal PCB Male, https://www.bto.pl/pdf/08988/XT60IPW-M3.pdf")
     (tags "RC Connector XT60")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NS-Tech_Grove_1x04_P2mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
     (tags "Grove-1x04")

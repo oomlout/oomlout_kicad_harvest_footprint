@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Olimex_MOD-WIFI-ESP8266-DEV" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "ESP8266 development board https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/resources/dimensions-WIFI-ESP8266-DEV.png")
     (tags "ESP8266")

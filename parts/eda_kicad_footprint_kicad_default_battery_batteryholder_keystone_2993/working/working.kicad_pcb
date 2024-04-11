@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Keystone_2993" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.keyelco.com/product-pdf.cfm?p=776")
     (tags "Keystone type 2993 negative battery contact")

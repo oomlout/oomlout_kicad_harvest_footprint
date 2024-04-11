@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf")
     (tags "LED RGB Wurth PLCC-4 3528")

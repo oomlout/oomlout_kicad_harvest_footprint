@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TMR-1SM_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf")
     (tags "DCDC SMD TRACO TMR-1SM")

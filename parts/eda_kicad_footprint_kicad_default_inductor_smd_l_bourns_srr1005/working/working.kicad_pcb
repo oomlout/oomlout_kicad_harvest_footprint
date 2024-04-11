@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRR1005" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Bourns SRR1005 series SMD inductor")
     (tags "Bourns SRR1005 SMD inductor")

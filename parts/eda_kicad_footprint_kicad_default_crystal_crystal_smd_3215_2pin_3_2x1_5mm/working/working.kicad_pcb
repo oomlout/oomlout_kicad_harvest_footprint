@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_3215-2Pin_3.2x1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf")
     (tags "SMD SMT Crystal")

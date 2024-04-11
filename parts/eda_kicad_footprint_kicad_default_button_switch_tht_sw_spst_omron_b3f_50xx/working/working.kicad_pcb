@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_Omron_B3F-50xx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SW_THT_Tactile_Omron_B3F-50xx, 12x12x7,3 mm, Through hole switch from the B3F Family manufactured by Omron,  https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "tactile omron switch tht B3F-5000 B3F-5050 B3F-5001 B3F-5051  ")

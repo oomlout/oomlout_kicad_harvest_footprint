@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JST SH series connector, SM03B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SH horizontal")

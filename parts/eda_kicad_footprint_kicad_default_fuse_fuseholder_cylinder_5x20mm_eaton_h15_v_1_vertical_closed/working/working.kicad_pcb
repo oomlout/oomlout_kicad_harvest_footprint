@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PCB fuse holders for 5 mm x 20 mm fuses; 250V; 10A (http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/bus-elx-ds-4426-h15.pdf)")
     (tags "fuse holder vertical 5x20mm")

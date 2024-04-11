@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Omron_XF2M-4015-1A_1x40-1MP_P0.5mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Omron FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf2m.pdf")
     (tags "omron fpc xf2m")

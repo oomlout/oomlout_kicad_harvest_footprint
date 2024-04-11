@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "microSIM_JAE_SF53S006VCBR2000" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "micro SIM card connector, 6pos., 1.45mm height, Push-pull type, https://www.jae.com/direct/topics/topics_file_download/topics_id=68883&ext_no=06")
     (tags "microSIM GSM Card")

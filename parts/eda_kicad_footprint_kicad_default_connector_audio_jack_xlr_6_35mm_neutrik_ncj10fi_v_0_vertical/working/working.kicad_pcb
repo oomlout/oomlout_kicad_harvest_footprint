@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj10fi-v-0")
     (tags "neutrik jack combo i")

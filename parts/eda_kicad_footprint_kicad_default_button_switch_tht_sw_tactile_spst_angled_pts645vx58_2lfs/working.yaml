@@ -144,7 +144,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: tactile switch SPST angled PTS645VL58-2 LFS C&K Button
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

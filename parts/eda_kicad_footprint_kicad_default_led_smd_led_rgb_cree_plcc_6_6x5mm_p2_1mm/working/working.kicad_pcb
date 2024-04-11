@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.farnell.com/datasheets/2003905.pdf")
     (tags "LED RGB PLCC-6 CLP6C-FBK")

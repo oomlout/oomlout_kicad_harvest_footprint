@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Receptacle_GCT_USB1046" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "GCT USB1046, USB Type A, https://gct.co/files/drawings/usb1046.pdf")
     (tags "USB SMD Type-A Receptacle Right Angle")

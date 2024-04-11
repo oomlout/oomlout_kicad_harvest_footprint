@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_HPM-08-05-x-S_Straight_1x08_Pitch5.08mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole straight Samtec HPM power header series 3.81mm post length, 1x08, 5.08mm pitch, single row")
     (tags "Through hole Samtec HPM power header series 3.81mm post length THT 1x08 5.08mm single row")

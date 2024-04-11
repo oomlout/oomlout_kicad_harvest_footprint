@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HDSP-4840" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN")
     (tags "10-Element Yellow Bar Graph Array")

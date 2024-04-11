@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Vishay_IHSM-5832" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Vishay, Vishay_IHSM-5832, http://www.vishay.com/docs/34020/ihsm5832.pdf, 16.3mmx8.1mm")
     (tags "inductor vishay icsm smd")

@@ -2097,7 +2097,7 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: BGA 289 0.8
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinHeader_2x23_P2.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole straight pin header, 2x23, 2.00mm pitch, double rows")
     (tags "Through hole pin header THT 2x23 2.00mm double row")

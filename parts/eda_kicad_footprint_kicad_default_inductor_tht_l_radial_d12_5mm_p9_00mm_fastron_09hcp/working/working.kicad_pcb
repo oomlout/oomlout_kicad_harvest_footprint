@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D12.5mm_P9.00mm_Fastron_09HCP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=9.00mm, , diameter=12.5mm, Fastron, 09HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_09HCP.pdf")
     (tags "Inductor Radial series Radial pin pitch 9.00mm  diameter 12.5mm Fastron 09HCP")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sharp_GP2Y0A41SK0F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf")
     (tags "Distance Sensor Sharp")

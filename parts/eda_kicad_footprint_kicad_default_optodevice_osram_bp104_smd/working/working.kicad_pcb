@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Osram_BP104-SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.2x2.2mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf")
     (tags "PhotoDiode plastic SMD DIL")

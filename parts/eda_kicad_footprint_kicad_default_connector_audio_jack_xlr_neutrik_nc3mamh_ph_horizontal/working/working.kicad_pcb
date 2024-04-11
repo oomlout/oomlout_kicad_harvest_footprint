@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph")
     (tags "neutrik xlr a")

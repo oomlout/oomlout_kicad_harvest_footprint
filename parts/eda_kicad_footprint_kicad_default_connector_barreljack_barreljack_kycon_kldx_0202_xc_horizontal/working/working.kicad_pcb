@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_Kycon_KLDX-0202-xC_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DC Barrel Jack 2mm or 2.5mm center pin, https://www.kycon.com/Pub_Eng_Draw/KLDX-0202-AC%20&%20BC.pdf")
     (tags "power jack 2mm 2.5mm KLDX-0202-BC KLDX-0202-AC")

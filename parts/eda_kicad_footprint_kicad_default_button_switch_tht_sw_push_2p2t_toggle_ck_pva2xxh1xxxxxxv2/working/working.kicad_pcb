@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "momentary / push-push button, h=17.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf")
     (tags "tact sw push PVA2 DPDT")

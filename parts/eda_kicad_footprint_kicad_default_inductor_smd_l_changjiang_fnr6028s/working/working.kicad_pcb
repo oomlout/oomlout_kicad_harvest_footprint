@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Changjiang_FNR6028S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Changjiang, FNR6028S, 6.0x6.0x2.8mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf")
     (tags "Inductor wirewound power shielded")

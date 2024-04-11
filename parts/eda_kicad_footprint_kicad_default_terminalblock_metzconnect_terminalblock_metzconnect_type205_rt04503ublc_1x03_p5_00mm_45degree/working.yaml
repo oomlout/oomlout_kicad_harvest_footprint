@@ -237,7 +237,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type205_RT04503UBLC 45Degree pitch 5mm size
     15x12.5mm^2 drill 1.4mm pad 2.7mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

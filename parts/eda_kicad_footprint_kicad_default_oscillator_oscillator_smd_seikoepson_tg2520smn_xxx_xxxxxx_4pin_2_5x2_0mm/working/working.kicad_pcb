@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_SeikoEpson_TG2520SMN-xxx-xxxxxx-4Pin_2.5x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator TG2520 series, https://support.epson.biz/td/api/doc_check.php?dl=app_TG2520SMN&lang=en")
     (tags "Miniature Crystal Clock Oscillator TG2520 series SMD SMT")

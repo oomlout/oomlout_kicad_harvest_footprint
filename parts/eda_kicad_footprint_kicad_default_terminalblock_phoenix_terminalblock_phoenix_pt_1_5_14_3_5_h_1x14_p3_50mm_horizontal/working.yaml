@@ -532,7 +532,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block Phoenix PT-1,5-14-3.5-H pitch 3.5mm size 49x7.6mm^2 drill
     1.2mm pad 2.4mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRU8043" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Bourns SRU8043 series SMD inductor")
     (tags "Bourns SRU8043 SMD inductor")

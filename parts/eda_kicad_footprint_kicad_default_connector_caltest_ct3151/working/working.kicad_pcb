@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CalTest_CT3151" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf")
     (tags "banana jack horizontal")

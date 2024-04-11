@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-XHP70_6V" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf")
     (tags "LED Cree XHP70")

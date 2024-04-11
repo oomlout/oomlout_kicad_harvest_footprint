@@ -508,7 +508,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBV_01x13_GF_5.08mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

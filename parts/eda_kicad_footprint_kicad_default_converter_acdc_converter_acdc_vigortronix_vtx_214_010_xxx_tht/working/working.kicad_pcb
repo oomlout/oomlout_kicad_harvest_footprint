@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Vigortronix VTX-214-010-xxx serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx")
     (tags "Vigortronix VTX-214-010-xxx serie of ACDC converter")

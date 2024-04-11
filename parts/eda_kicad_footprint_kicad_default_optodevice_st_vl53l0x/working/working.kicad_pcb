@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_VL53L0X" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.st.com/resource/en/datasheet/vl53l1x.pdf")
     (tags "laser-ranging sensor")

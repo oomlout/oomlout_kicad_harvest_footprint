@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_CUI_PJ-102AH_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf")
     (tags "Power Jack")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D18.0mm_P10.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=18mm, http://www.abracon.com/Magnetics/radial/AIUR-15.pdf")
     (tags "Inductor Radial series Radial pin pitch 10.00mm  diameter 18mm")

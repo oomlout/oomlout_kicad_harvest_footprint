@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Broadcom_LGA-8_2x2mm_P0.53mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Broadcom LGA NoLead")

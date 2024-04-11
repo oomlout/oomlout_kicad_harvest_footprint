@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_2x07_P1.27mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole angled socket strip, 2x07, 1.27mm pitch, 4.4mm socket length, double cols (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD091.pdf&t=1511594177220), script generated")
     (tags "Through hole angled socket strip THT 2x07 1.27mm double row")

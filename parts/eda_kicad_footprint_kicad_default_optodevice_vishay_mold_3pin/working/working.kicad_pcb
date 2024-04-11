@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_MOLD-3Pin" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "IR Receiver Vishay TSOP-xxxx, MOLD package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf")
     (tags "IR Receiver Vishay TSOP-xxxx MOLD")

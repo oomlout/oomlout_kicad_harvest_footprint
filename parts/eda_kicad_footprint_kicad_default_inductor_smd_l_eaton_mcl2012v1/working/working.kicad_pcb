@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Eaton_MCL2012V1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Eaton, MCL2012V1, 2.0x1.2x0.9mm, https://eu.mouser.com/datasheet/2/87/eaton-mcl2012v1-multilayer-chip-inductor-data-shee-1622891.pdf")
     (tags "Inductor ferrite multilayer power")

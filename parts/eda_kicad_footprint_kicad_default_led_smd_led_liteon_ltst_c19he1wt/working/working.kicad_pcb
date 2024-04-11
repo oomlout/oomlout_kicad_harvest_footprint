@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_LiteOn_LTST-C19HE1WT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf")
     (tags "LED RGB Chip SMD")

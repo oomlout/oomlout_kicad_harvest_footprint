@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ14_Connfly_DS1133-S4_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RJ14 connector 6P4C Horizontal http://www.connfly.com/userfiles/image/UpLoadFile/File/2012/10/26/DS1133.pdf")
     (tags "RJ14 connector 6P4C Connfly DS1133")

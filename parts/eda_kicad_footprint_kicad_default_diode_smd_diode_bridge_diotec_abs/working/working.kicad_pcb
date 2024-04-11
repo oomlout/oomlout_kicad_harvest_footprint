@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Diotec_ABS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf")
     (tags "ABS MBLS")

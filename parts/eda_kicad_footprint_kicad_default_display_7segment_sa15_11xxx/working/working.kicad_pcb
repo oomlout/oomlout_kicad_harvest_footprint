@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SA15-11xxx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf")
     (tags "SA15-11xxx single digit 7 segment display 38.1mm 1.5inch")

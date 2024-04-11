@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_NKK_NR01" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "NKK Switches NR01 series rotary switch, 10.7 x 10.7mm. https://www.nkkswitches.com/pdf/NR01%20Rotaries.pdf")
     (tags "NKK NR01 SP3T SP4T SP5T")

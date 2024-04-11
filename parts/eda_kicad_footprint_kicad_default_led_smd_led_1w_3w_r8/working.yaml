@@ -122,7 +122,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED 1W 3W 5W
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

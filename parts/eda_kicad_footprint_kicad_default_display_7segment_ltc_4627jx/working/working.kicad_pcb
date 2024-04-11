@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LTC-4627Jx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf")
     (tags "4 digit 7 segment LED")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Bourns_MF-RHT100" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PTC Resettable Fuse, Ihold = 1.0A, Itrip=1.8A, http://www.bourns.com/docs/product-datasheets/mfrht.pdf")
     (tags "ptc resettable fuse polyfuse THT")

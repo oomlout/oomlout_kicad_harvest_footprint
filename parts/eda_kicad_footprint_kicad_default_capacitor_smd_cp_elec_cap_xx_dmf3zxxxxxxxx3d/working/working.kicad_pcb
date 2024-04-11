@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "5.5V, 470mF supercapacitor, 45mohm, -40ºC to +70ºC, https://www.cap-xx.com/wp-content/uploads/datasheets/CAP-XX-DMF470mF-Datasheet.pdf")
     (tags "supercap")

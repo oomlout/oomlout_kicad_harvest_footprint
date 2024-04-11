@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Single phase bridge rectifier case 28.6x28.6mm, pitch 18.0mm & 11.6mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf")
     (tags "Diode Bridge KBPCxxxxWP")

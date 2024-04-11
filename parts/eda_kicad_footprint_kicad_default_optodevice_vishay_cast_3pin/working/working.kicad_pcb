@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_CAST-3Pin" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf")
     (tags "IRReceiverVishayTSOP-xxxx CAST")

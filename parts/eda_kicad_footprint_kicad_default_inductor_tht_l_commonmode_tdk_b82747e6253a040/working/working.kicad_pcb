@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_TDK_B82747E6253A040" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "25A, 3Phase, Triple Coil, CM Choke, drill hole 2.44mm ( https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/ds/b82747e6.pdf )")
     (tags "three phase common mode triple choke")

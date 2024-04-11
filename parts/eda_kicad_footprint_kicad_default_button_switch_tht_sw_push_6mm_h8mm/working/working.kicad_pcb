@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_PUSH_6mm_H8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=8mm")
     (tags "tact sw push 6mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMASS_XT60-M_1x02_P7.20mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf")
     (tags "XT60 female vertical")

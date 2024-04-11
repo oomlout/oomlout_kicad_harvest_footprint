@@ -359,7 +359,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 5/11-V-7.5-ZB 1719406
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

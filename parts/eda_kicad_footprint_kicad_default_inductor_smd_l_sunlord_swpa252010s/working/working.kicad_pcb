@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sunlord_SWPA252010S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Sunlord, SWPA252010S, 2.5x2.0x1.0mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf")
     (tags "Inductor swpa")

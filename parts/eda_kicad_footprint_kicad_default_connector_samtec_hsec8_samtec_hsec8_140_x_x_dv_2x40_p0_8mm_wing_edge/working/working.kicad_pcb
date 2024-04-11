@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_HSEC8-140-X-X-DV_2x40_P0.8mm_Wing_Edge" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Highspeed card edge for PCB's with 2x40 contacts (with horizontal Edge.Cuts ends)")
     (tags "conn samtec card-edge high-speed")

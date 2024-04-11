@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_TXC_7A-2Pin_5x3.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal TXC 7A http://txccrystal.com/images/pdf/7a.pdf")
     (tags "SMD SMT crystal")

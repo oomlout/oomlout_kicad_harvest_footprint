@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRR1260" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf")
     (tags "Bourns SRR1260 SMD inductor")

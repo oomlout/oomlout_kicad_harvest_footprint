@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_MECF-70-01-L-DV_2x70_P1.27mm_Polarized_Socket_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Highspeed card edge connector for 1.6mm PCB's with 70 contacts (polarized)")
     (tags "conn samtec card-edge high-speed")

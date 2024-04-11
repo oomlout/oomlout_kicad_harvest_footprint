@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LaserDiode_TO56-3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Laser Diode, TO-56, 3pin")
     (tags "Laser Diode TO56")

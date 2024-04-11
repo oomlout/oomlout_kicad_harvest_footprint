@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Murata_CRE1xxxxxxDC_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Isloated DC-DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf")
     (tags "Isloated DC-DC")

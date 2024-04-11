@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AGILENT_HFBR-252x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fiberoptic Receiver RX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)")
     (tags "Fiberoptic Transmitter")

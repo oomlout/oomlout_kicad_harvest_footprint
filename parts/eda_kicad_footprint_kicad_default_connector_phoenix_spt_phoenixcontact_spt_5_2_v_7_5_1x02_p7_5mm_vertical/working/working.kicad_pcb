@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_SPT_5_2-V-7.5_1x02_P7.5mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Connector Phoenix Contact, SPT 5/2-V-7.5 Terminal Block, 1738144 (https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1738144), generated with kicad-footprint-generator")
     (tags "Connector Phoenix Contact SPT 5/2-V-7.5 1738144")

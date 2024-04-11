@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_RECOM_RPA60-xxxxSFW" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RPA60-FW 60W Isolated DC to DC Converters")
     (tags "DCDC Regulator Single")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_XP_POWER-ISU02_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, XP POWER, ISU02 Series, 2W Single and Dual Output, 1500VDC Isolation, 19.0x17.0x8.7mm https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf")
     (tags "DCDC SMD XP POWER ISU02")

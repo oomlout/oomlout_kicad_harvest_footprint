@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Pin_D1.3mm_L11.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm")
     (tags "solder Pin_ pressfit")

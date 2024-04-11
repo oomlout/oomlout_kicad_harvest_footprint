@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_2.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 2.7mm, no annular")
     (tags "mounting hole 2.7mm no annular")

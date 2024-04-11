@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Broadcom_APDS-9160-003" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Broadcom DFN, 8 Pin (https://docs.broadcom.com/docs/APDS-9160-003-DS)")
     (tags "proximity sensor avago")

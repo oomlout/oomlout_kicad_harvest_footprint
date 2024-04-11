@@ -157,7 +157,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2
     drill 1.1mm pad 2.1mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

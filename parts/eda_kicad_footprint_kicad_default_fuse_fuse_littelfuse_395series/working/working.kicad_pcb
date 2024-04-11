@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Littelfuse_395Series" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,")
     (tags "Fuse TE5 Littelfuse/Wickmann No. 460 No560 ")

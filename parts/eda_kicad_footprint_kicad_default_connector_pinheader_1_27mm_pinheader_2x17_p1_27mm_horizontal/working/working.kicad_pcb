@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinHeader_2x17_P1.27mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole angled pin header, 2x17, 1.27mm pitch, 4.0mm pin length, double rows")
     (tags "Through hole angled pin header THT 2x17 1.27mm double row")

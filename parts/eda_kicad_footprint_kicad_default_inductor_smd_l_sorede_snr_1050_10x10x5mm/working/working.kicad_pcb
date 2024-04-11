@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_SOREDE_SNR.1050_10x10x5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Sorede 10x10x5mm Power Inductor, https://datasheet.lcsc.com/lcsc/2201141530_SOREDE-SNR-1050-TYD4R7MT00_C2942304.pdf")
     (tags "Inductor Sorede SNR ")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_B3U-1100P" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, without Boss")
     (tags "Tactile Switch")

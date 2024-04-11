@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf")
     (tags "LED RGB NeoPixel Nano PLCC-4")

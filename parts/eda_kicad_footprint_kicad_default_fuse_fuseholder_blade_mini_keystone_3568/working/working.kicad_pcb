@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Blade_Mini_Keystone_3568" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306")
     (tags "car blade fuse mini")

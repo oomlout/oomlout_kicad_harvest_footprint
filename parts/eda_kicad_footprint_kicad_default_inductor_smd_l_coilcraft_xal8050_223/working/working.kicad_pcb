@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_XAL8050-223" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Coilcraft, XAL8050-223, 8.3x8.8x5.0mm, https://www.coilcraft.com/getmedia/5885ede8-ea4f-464a-9dcb-18dbf143a845/xal8050.pdf")
     (tags "Inductor xal")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_PulseElectronics_PH9455x705NL_1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl")
     (tags "cmode choke dual")

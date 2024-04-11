@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Taiyo-Yuden_BK_Array_1206_3216Metric" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Ferrite Bead Array 4x0603, Taiyo Yuden BK Series (see https://www.yuden.co.jp/productdata/catalog/mlci09_e.pdf)")
     (tags "ferrite bead array")

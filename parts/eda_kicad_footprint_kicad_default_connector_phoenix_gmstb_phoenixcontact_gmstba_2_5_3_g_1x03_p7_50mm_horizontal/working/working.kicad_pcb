@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_GMSTBA_2,5_3-G_1x03_P7.50mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: GMSTBA_2,5/3-G; number of pins: 03; pin pitch: 7.50mm; Angled || order number: 1766356 12A 630V")
     (tags "phoenix_contact connector GMSTBA_01x03_G_7.50mm")

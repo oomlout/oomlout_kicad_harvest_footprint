@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_Fox_FT5H_5.0x3.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf")
     (tags "Fox TXCO temperature compensated oscillator")

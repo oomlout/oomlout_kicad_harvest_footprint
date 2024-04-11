@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Wuerth WR-WTB series connector, 64800511622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator")
     (tags "connector Wuerth WR-WTB vertical")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Receptacle_JAE_DX07S024WJ1R350" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf")
     (tags "USB C Type-C Receptacle SMD")

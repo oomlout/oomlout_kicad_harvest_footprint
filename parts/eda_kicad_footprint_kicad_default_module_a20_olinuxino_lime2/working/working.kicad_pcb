@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "A20_OLINUXINO_LIME2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet")
     (tags "A20 Olimex Olinuxino LIME2 development board")

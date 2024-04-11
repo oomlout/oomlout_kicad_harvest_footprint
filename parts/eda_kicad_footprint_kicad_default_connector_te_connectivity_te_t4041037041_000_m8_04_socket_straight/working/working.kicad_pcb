@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_T4041037041-000_M8_04_Socket_Straight" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Shielded M8 socket 4 ways connector panel, straight and rear mount (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FT404103010X000%7FA%7Fpdf%7FEnglish%7FENG_CD_T404103010X000_A.pdf%7FT4041037041-000)")
     (tags "four-pin M8")

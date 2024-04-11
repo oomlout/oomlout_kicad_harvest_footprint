@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_PUI_SMT-1028-T-2-R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Buzzer, 2830Hz, 3.6Vpp, 90dbA@10cm, Top sound port, 10x10x3,5mm, https://api.puiaudio.com/file/612539d9-c50b-48de-88aa-b63ef8817a91.pdf")
     (tags "SMT 1028")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Lightpipe_Bivar_SLP3-150-300-F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1-way, 3mm lightpipe, flat face, 3.8mm lens output height, 7.62mm protrusion, https://www.bivar.com/parts_content/Datasheets/SLP3-150-XXX-X.pdf")
     (tags "light pipe 1 way 3mm ")

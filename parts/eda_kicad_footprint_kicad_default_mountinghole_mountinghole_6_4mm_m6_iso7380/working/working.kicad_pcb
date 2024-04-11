@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_6.4mm_M6_ISO7380" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 6.4mm, no annular, M6, ISO7380")
     (tags "mounting hole 6.4mm no annular m6 iso7380")

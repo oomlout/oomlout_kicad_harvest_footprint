@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, hand-soldering, 3.2x1.5mm^2 package")
     (tags "SMD SMT crystal hand-soldering")

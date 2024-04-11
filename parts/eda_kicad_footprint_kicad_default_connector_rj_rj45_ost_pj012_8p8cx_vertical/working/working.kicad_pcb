@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_OST_PJ012-8P8CX_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf")
     (tags "RJ45 PJ012")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Lightpipe_LPF-C013301S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.lumex.com/spec/LPF-C013301S.pdf")
     (tags "lightpipe triple tower right angle 3mm")

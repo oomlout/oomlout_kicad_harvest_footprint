@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_Amphenol_031-6575_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)")
     (tags "Dual BNC Amphenol Horizontal")

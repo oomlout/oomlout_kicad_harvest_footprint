@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_MPD_BC2AAPC_2xAA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf")
     (tags "AA battery cell holder")

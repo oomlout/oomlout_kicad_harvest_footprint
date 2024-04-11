@@ -840,7 +840,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting
     holes distance 63.5mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
     (tags "LED RGB NeoPixel PLCC-4 5050")

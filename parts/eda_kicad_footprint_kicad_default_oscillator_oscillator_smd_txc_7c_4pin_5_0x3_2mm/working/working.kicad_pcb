@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator TXC 7C series, http://www.txccorp.com/download/products/osc/7C_o.pdf, 5.0x3.2mm^2 package")
     (tags "SMD SMT crystal oscillator")

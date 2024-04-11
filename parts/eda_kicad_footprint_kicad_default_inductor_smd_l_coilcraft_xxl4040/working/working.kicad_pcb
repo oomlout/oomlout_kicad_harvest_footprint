@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_XxL4040" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Coilcraft_XxL4040 https://www.coilcraft.com/pdfs/xal4000.pdf")
     (tags "L Coilcraft XxL4040")

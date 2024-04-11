@@ -503,7 +503,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm
     pin-PCB-offset 8.35mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

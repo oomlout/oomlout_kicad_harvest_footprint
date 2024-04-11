@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_TruPower_BH-331P_3xAA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Keystone Battery Holder BH-331P Battery Type 3xAA (Script generated with StandardBox.py) (Keystone Battery Holder BH-331P Battery Type 3xAA)")
     (tags "Battery Holder BH-331P Battery Type 3xAA")

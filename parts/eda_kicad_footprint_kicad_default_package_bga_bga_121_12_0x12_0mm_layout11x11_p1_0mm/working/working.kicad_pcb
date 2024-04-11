@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-121_12.0x12.0mm_Layout11x11_P1.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-121, http://cds.linear.com/docs/en/packaging/05081891_A_bga121.pdf")
     (tags "BGA-121")

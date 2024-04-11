@@ -255,7 +255,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: "USB 3.0 type A right angle W\xC3\xBCrth"
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

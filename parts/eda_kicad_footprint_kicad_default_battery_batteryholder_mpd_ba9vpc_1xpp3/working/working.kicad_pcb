@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_MPD_BA9VPC_1xPP3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1xPP3 (9V) battery holder, Memory Protection Devices P/N BA9VPC, http://www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf")
     (tags "PP3 Battery Holder BA9VPC 9V")

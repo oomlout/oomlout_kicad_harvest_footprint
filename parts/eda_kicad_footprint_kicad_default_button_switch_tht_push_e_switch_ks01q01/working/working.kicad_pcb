@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Push_E-Switch_KS01Q01" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf")
     (tags "Push Button")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_speakON_Neutrik_NL2MDXX-V_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "speakON Chassis Connectors, 2 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, replaces NL2MD-V, https://www.neutrik.com/en/product/nl2mdxx-v")
     (tags "neutrik speakon")

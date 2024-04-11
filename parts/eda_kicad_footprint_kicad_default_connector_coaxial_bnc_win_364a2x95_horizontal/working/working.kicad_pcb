@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_Win_364A2x95_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)")
     (tags "Dual BNC Horizontal Isolated")

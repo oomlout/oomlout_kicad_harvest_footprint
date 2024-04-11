@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_P600_R-6_P7.62mm_Vertical_AnodeUp" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf")
     (tags "Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm")

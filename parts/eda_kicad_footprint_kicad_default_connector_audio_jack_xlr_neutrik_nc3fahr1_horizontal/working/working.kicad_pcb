@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR_Neutrik_NC3FAHR1_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1")
     (tags "neutrik xlr a")

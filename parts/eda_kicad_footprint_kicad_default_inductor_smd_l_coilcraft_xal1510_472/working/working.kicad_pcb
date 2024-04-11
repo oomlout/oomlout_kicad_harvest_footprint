@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_XAL1510-472" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Coilcraft, XAL1510-472, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf")
     (tags "Inductor xal")

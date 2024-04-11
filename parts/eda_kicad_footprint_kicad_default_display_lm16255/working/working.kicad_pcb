@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LM16255" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html")
     (tags "LCD 12x2")

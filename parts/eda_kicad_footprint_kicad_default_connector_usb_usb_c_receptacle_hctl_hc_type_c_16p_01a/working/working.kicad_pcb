@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
     (tags "usb usb-c 2.0 pd")

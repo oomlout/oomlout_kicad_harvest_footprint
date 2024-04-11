@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_RECOM_R5xxxPA_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, RECOM, RECOM_R5xxxPA, SIP-12, pitch 2.54mm, package size 32.2x9.1x15mm^3, https://www.recom-power.com/pdf/Innoline/R-5xxxPA_DA.pdf")
     (tags "dc-dc recom buck sip-12 pitch 2.54mm")

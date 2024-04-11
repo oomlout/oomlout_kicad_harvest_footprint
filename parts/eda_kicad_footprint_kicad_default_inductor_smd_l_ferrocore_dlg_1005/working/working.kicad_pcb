@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Ferrocore_DLG-1005" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Ferrocore DLG-1005 unshielded SMD power inductor, 10.0x9.0x5.4mm, https://www.tme.eu/Document/bda580f72a60a2225c2f6576c2740ae1/dlg-0504.pdf")
     (tags "smd inductor dlg-1005")

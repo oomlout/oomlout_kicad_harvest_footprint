@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Ms85" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85.pdf")
     (tags "Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD")

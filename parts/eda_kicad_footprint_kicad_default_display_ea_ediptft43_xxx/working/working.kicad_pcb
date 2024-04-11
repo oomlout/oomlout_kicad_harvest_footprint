@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_eDIPTFT43-XXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "TFT graphical display 480x272 16-bit colour with LED backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf")
     (tags "TFT graphical display 480x272 16-bit colour with LED backlight")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DA04-11SYKWA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SYKWA(Ver.6A).pdf")
     (tags "Dubble digit super bright yellow 7 segment LED display")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf")
     (tags "Button Tactile Switch SPST 1P1T")

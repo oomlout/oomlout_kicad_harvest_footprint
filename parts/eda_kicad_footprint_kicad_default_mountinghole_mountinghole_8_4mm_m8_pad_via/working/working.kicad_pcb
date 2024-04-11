@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_8.4mm_M8_Pad_Via" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 8.4mm, M8")
     (tags "mounting hole 8.4mm m8")

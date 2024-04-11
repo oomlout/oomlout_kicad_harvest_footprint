@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR_Neutrik_NC3FAAV1_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav1")
     (tags "neutrik xlr aa")

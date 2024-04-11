@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_XLR_Neutrik_NC3MBV-SW_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "B Series, 3 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-sw")
     (tags "neutrik xlr b")

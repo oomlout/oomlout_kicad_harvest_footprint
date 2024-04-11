@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Fischer_FK224xx2201_25x8.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks")
     (tags "heatsink TO-220")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-169_11.0x11.0mm_Layout13x13_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Altera U169, https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00470-01.pdf")
     (tags "Altera UBGA U169 BGA-169")

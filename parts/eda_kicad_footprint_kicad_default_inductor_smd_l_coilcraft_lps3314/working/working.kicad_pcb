@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_LPS3314" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Inductor, 3.3x3.3x1.4mm, Coilcraft LPS3314, https://www.coilcraft.com/pdfs/lps3314.pdf")
     (tags "L Coilcraft LPS3314")

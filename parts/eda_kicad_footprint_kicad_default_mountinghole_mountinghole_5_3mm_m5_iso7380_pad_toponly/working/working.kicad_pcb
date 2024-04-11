@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_5.3mm_M5_ISO7380_Pad_TopOnly" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 5.3mm, M5, ISO7380")
     (tags "mounting hole 5.3mm m5 iso7380")

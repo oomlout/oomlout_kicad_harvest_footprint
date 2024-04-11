@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , length*width=8*8mm^2, Neosid, NE-CPB-07E, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_NE_CPB07E.pdf")
     (tags "Inductor Radial series Radial pin pitch 5.00mm  length 8mm width 8mm Neosid NE-CPB-07E")

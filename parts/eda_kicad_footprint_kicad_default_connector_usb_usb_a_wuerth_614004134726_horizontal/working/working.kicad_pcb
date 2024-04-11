@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Wuerth_614004134726_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf")
     (tags "USB_A Female Connector receptacle")

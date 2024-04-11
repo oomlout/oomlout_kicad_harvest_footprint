@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf")
     (tags "buzzer")

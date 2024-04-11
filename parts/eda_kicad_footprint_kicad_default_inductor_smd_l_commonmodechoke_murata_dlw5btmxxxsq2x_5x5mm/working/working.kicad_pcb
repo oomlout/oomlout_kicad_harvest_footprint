@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonModeChoke_Murata_DLW5BTMxxxSQ2x_5x5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Wire Wound Chip Common Mode Choke Coil SMD, Murata DLW5BTxxxSQ2x, https://www.murata.com/products/productdata/8796762701854/EFLC0020.pdf, manual footprint")
     (tags "inductor common mode choke")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_2.2mm_M2_ISO7380_Pad_TopOnly" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 2.2mm, M2, ISO7380")
     (tags "mounting hole 2.2mm m2 iso7380")

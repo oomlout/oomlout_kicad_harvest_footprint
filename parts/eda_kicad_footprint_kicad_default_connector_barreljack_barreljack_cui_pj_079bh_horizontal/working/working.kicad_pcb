@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_CUI_PJ-079BH_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Barrel Jack, 2.5mm ID, 5.5mm OD, 24V, 5A, switch, https://www.cui.com/product/resource/pj-079bh.pdf ")
     (tags "barrel jack cui dc power")

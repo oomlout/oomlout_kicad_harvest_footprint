@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3_BigPads" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=14.70mm, , diameter=16.8mm, Vishay, TJ3, BigPads, http://www.vishay.com/docs/34079/tj.pdf")
     (tags "L_Toroid Horizontal series Radial pin pitch 14.70mm  diameter 16.8mm Vishay TJ3 BigPads")

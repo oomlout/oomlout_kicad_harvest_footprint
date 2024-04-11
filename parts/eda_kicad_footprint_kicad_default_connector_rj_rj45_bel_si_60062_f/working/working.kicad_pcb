@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Bel_SI-60062-F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf")
     (tags "RJ45 Magjack")

@@ -73,7 +73,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 2.54mm  length 9.5mm diameter
     4mm Fastron SMCC
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Gauge_50mm_Type2_CopperTop" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Gauge, Massstab, 50mm, CopperTop, Type 2,")
     (tags "Gauge Massstab 50mm CopperTop Type 2")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Hirose  series connector, DF3EA-04P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator")
     (tags "connector Hirose  top entry")

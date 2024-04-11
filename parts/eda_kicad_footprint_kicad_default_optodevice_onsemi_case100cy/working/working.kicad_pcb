@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_CASE100CY" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "OnSemi CASE 100CY, light-direction upwards, see http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF")
     (tags "refective opto couple photo coupler")

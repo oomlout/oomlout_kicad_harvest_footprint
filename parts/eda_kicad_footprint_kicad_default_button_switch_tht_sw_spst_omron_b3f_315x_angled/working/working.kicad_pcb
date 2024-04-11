@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_Omron_B3F-315x_Angled" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "tactile switch, 7.3mm x 6.25mm  x 7.4mm, right angle, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf")
     (tags "tactile switch Omron B3F right angle through hole")

@@ -146,7 +146,7 @@ footprint_string:
   solderPasteRatio: None
   tags: 'Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch
     11.4mm 1W length 12.4mm width 4.8mm '
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

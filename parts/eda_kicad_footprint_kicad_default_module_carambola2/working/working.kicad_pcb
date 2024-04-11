@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Carambola2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf")
     (tags "carambola2 8devices")

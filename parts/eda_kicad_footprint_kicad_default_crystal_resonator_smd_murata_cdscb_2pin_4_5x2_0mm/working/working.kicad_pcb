@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 4.5x2.0mm^2 package")
     (tags "SMD SMT ceramic resonator filter filter")

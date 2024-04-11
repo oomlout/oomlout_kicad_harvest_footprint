@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_SHL_SM16B-SHLS-TF_1x16-1MP_P1.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JST SHL series connector, SM16B-SHLS-TF (http://www.jst-mfg.com/product/pdf/eng/eSHL.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SHL horizontal")

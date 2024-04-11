@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Buzzer_D14mm_H7mm_P10mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Buzzer, D14mm height 7mm with pitch 10mm")
     (tags "buzzer")

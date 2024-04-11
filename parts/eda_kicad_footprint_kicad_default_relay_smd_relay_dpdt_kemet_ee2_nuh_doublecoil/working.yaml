@@ -191,7 +191,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

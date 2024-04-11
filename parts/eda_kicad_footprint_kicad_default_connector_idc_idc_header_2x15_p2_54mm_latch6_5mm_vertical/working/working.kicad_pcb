@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "IDC-Header_2x15_P2.54mm_Latch6.5mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
     (tags "Through hole vertical IDC header THT 2x15 2.54mm double row")

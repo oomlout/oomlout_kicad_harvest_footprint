@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Mini-B_Lumberg_2486_01_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf")
     (tags "USB USB_B USB_Mini connector")

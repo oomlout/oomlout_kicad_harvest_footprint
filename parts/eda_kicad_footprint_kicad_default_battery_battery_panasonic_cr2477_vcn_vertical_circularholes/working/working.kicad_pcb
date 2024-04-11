@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D502.PDF")
     (tags "battery CR-2477 coin cell vertical")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Highspeed card edge connector for PCB's with 20 contacts (not polarized)")
     (tags "conn samtec card-edge high-speed")

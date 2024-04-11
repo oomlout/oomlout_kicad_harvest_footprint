@@ -96,7 +96,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_Power series Box pin pitch 86.36mm 17W length 75mm width 9mm
     height 9mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

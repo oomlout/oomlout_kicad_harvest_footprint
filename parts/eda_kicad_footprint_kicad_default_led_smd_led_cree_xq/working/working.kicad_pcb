@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-XQ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED Cree-XQ http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf")
     (tags "LED Cree XQ")

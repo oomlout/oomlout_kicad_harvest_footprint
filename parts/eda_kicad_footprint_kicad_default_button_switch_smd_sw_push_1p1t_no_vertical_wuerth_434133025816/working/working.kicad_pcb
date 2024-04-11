@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1P1T_NO_Vertical_Wuerth_434133025816" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
     (tags "tactile switch Wurth Wuerth")

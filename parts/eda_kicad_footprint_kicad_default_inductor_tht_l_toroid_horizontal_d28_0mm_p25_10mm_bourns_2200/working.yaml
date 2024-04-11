@@ -115,7 +115,7 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Horizontal series Radial pin pitch 25.10mm  diameter 28mm Bourns
     2200
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

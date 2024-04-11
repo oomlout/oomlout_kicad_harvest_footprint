@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf")
     (tags "BGA-96")

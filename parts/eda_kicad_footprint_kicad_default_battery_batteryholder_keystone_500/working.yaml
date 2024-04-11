@@ -106,7 +106,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CR1220 battery holder
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

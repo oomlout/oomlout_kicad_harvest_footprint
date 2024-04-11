@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_MAPI-2510" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Wuerth Elektronik, Wuerth_MAPI-2510, 2.5mmx2.0mm")
     (tags "inductor Wuerth smd")

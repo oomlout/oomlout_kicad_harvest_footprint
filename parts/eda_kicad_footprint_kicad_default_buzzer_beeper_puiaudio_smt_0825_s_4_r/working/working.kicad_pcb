@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PUIAudio_SMT_0825_S_4_R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R")
     (tags "SMD 8540")

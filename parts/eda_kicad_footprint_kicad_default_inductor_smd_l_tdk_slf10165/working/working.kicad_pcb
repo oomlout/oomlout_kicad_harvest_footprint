@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TDK_SLF10165" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, TDK, SLF10165, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf10165_en.pdf)")
     (tags "Inductor TDK_SLF10165")

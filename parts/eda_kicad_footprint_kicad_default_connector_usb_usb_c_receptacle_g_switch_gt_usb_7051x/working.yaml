@@ -335,7 +335,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

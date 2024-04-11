@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_OCXO_Morion_MV267" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.morion.com.ru/catalog_pdf/MV267.pdf")
     (tags "OCXO")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cuidevices.com/product/resource/sj2-359x-smt.pdf)")
     (tags "3.5mm audio cui horizontal jack stereo")

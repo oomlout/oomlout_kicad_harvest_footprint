@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Jushuo AFC07, FFC/FPC connector, AFC07-S24FCA-00, 24 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)")
     (tags "connector jushuo horizontal")

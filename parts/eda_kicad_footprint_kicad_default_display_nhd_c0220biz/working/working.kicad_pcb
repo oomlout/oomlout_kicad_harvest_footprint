@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NHD-C0220BiZ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "NHD-C0220BiZ LCD http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf")
     (tags "NHD-C0220BiZ LCD")

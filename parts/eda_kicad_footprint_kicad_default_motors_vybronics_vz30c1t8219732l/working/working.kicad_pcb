@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vybronics_VZ30C1T8219732L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf")
     (tags "vibration motor Vybronics")

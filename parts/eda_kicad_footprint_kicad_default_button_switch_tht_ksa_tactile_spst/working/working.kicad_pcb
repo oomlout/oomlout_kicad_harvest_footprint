@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "KSA_Tactile_SPST" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf")
     (tags "SWITCH SMD KSA SW")

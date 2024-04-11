@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_THB10-xxxx_Single_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, TRACO, THB10-xxxx, Single, 10W, Rev. December 07. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/thb10.pdf)")
     (tags "DCDC-Converter TRACO THB10 THT 2\"x1\" 10W")

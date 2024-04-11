@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_4mm_Pad_TopBottom" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 4mm")
     (tags "mounting hole 4mm")

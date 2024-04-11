@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Dialight_591" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)")
     (tags "LED Dialight 591")

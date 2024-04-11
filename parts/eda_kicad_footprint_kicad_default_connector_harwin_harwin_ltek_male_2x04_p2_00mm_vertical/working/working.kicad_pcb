@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Harwin_LTek-Male_2x04_P2.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Harwin LTek Connector, 8 pins, single row male, vertical entry")
     (tags "connector harwin ltek M80")

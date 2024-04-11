@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-XHP50_12V" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf")
     (tags "LED XHP50 Cree")

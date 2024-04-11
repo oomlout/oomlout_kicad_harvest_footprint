@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package")
     (tags "SMD SMT crystal hand-soldering")

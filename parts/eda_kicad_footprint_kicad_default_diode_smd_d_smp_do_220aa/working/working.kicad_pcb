@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SMP_DO-220AA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMP DO-220AA (https://www.vishay.com/docs/89016/esh2pb.pdf)")
     (tags "SMP DO-220AA")

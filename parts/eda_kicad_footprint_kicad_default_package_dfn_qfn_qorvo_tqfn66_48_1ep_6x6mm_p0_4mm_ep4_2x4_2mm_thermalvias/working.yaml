@@ -627,7 +627,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Qorvo TQFN66 NoLead
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

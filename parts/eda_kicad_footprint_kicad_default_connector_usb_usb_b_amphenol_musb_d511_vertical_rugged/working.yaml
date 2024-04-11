@@ -137,7 +137,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB_B_MUSB_Straight female connector straight rugged MUSB D511
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

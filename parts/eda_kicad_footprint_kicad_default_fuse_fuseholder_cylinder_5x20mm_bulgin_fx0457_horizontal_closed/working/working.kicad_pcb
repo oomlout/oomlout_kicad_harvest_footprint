@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fuseholder, 5x20, closed, horizontal, Bulgin, FX0457, Sicherungshalter,")
     (tags "Fuseholder 5x20 closed horizontal Bulgin FX0457 Sicherungshalter ")

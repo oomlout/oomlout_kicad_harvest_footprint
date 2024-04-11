@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Osram_SFH9x0x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "package for Osram SFH9x0x series of reflective photo interrupters/couplers, see http://www.osram-os.com/Graphics/XPic6/00200860_0.pdf")
     (tags "reflective photo interrupter SMD")

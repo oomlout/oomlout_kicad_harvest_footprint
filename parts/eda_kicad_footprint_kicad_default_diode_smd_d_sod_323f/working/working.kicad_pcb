@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SOD-323F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
     (tags "SOD-323F")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, 7.5x5.0mm^2 package")
     (tags "SMD SMT crystal")

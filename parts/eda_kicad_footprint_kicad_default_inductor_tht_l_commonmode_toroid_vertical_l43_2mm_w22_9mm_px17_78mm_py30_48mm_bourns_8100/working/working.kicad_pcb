@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_Toroid_Vertical_L43.2mm_W22.9mm_Px17.78mm_Py30.48mm_Bourns_8100" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_CommonMode_Toroid, Vertical series, Radial, pin pitch=17.78*30.48mm^2, , length*width=43.18*22.86mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf")
     (tags "L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.18mm width 22.86mm Bourns 8100")

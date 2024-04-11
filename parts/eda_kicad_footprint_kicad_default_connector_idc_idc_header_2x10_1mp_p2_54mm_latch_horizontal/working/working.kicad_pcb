@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "IDC-Header_2x10-1MP_P2.54mm_Latch_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
     (tags "Through hole horizontal IDC header THT 2x10 2.54mm double row")

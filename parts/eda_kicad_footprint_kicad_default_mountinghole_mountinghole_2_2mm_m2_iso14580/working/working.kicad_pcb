@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_2.2mm_M2_ISO14580" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 2.2mm, no annular, M2, ISO14580")
     (tags "mounting hole 2.2mm no annular m2 iso14580")

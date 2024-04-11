@@ -224,7 +224,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Thermally-enhanced SO-8 PowerPAK PQFN Q5A PowerFLAT LFPAK SOT669 WPAK(3F)
     LFPAK Power56 PMPAK PowerDFN56 HSOP8 PRPAK56 PDFN HVSON
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

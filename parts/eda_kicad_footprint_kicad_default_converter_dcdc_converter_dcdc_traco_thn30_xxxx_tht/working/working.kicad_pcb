@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_THN30-xxxx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf)")
     (tags "DCDC-Converter TRACO THN30 Generic")

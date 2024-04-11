@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
     (tags "switch single-pole double-throw SPDT würth wurth")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMA_Amphenol_132134-11_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf")
     (tags "SMA THT Female Jack Vertical ExtendedLegs")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf")
     (tags "Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS")

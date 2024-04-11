@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_SPT_1.5_4-H-3.5_1x04_P3.5mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Connector Phoenix Contact, SPT 1.5/4-H-3.5 Terminal Block, 1990753 (https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1990753), generated with kicad-footprint-generator")
     (tags "Connector Phoenix Contact SPT 1.5/4-H-3.5 1990753")

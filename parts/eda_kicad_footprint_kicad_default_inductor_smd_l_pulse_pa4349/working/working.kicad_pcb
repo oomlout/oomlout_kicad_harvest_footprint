@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Pulse_PA4349" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Shielded Molded High Current Power Inductors 23.5x22mm, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/pa4349.104anlt")
     (tags "Shielded Molded High Current Power Inductor")

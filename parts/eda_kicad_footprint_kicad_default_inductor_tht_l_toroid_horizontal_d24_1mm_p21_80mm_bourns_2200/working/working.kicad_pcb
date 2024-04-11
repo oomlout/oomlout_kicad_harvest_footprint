@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D24.1mm_P21.80mm_Bourns_2200" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=21.80mm, , diameter=24.1mm, Bourns, 2200, http://www.bourns.com/docs/Product-Datasheets/2100_series.pdf?sfvrsn=3")
     (tags "L_Toroid Horizontal series Radial pin pitch 21.80mm  diameter 24.1mm Bourns 2200")

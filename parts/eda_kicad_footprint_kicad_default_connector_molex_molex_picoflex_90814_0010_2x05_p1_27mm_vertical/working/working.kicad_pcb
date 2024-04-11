@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Molex_Picoflex_90814-0010_2x05_P1.27mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Molex Picoflex Ribbon-Cable Connectors, 90814-0010, 10 Pins (http://www.molex.com/pdm_docs/sd/908140004_sd.pdf), generated with kicad-footprint-generator")
     (tags "connector Molex Picoflex side entry")

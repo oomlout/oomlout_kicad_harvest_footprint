@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Hirose FH41, FFC/FPC connector, FH41-30S-0.5SH, 30 Pins per row (https://www.hirose.com/fr/product/document?clcode=CL0580-2218-5-05&productname=FH41-30S-0.5SH(05)&series=FH41&documenttype=2DDrawing&lang=fr&documentid=0001001704)")
     (tags "connector Hirose FH41 horizontal")

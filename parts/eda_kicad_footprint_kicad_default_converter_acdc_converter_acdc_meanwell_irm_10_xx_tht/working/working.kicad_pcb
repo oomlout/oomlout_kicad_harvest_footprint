@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_MeanWell_IRM-10-xx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-10")
     (tags "ACDC-Converter 10W   Meanwell IRM-10")

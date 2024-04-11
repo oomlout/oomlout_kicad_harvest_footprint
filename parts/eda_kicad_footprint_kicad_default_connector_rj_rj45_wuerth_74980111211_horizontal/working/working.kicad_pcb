@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Wuerth_74980111211_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RJ45 LAN Transformer 10/100BaseT (https://katalog.we-online.de/pbs/datasheet/74980111211.pdf)")
     (tags "lan magnetics transformer")

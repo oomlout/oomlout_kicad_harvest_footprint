@@ -170,7 +170,7 @@ footprint_string:
   solderPasteRatio: None
   tags: LED diameter 5.0mm z-position of LED center 3.0mm 3 pins diameter 5.0mm z-position
     of LED center 3.0mm 2 pins
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

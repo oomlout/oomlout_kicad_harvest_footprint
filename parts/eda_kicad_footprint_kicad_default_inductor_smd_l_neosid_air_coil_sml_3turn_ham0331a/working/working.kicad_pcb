@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Air-Coil_SML_3turn_HAM0331A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Neosid, Air-Coil, SML, 2turn, HAM0331A,")
     (tags "Neosid Air-Coil SML 3turn HAM0331A")

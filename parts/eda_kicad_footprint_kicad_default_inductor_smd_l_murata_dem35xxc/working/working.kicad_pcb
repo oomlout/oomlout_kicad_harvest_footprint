@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Murata_DEM35xxC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx")
     (tags "Inductor SMD DEM35xxC")

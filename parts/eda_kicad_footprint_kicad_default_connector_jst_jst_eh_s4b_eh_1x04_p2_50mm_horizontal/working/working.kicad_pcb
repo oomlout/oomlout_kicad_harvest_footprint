@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_EH_S4B-EH_1x04_P2.50mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST EH horizontal")

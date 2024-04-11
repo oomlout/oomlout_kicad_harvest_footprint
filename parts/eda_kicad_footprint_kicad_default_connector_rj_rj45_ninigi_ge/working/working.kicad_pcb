@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Ninigi_GE" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1 port ethernet throughhole connector, https://en.ninigi.com/product/rj45ge/pdf")
     (tags "RJ45 ethernet 8p8c")

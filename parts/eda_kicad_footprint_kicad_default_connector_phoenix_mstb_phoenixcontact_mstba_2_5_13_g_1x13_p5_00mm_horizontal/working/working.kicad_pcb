@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/13-G; number of pins: 13; pin pitch: 5.00mm; Angled || order number: 1757572 12A")
     (tags "phoenix_contact connector MSTBA_01x13_G_5.00mm")

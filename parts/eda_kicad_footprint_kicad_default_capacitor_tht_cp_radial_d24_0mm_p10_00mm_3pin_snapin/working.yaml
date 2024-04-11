@@ -1525,7 +1525,7 @@ footprint_string:
   solderPasteRatio: None
   tags: CP Radial series Radial pin pitch 10.00mm diameter 24mm height 40mm Electrolytic
     Capacitor
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

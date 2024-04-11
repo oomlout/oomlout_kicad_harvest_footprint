@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_FILTERCON_1FPxx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)")
     (tags "EMI filter")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB3_A_Plug_Wuerth_692112030100_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB 3.0 Type A SMT Plug, Horizontal, https://www.we-online.com/components/products/datasheet/692112030100.pdf")
     (tags "usb A plug horizontal")

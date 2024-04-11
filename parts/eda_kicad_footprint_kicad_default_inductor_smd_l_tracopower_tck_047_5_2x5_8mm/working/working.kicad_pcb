@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TracoPower_TCK-047_5.2x5.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Traco, TCK-047, 5.2x5.8mm, https://www.tracopower.com/products/tck047.pdf")
     (tags "inductor smd traco")

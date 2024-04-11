@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Banana_Jack_2Pin" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Dual banana socket, footprint - 2 x 6mm drills")
     (tags "banana socket")

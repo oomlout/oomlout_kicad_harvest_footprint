@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BUS_PCIexpress_x4" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70")
     (tags "PCIe")

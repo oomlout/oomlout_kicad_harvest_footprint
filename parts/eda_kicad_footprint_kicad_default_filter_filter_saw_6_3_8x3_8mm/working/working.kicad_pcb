@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_SAW-6_3.8x3.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "6-pin 3.8 x 3.8mm SAW filter package, https://www.golledge.com/media/3785/mp08167.pdf")
     (tags "SAW filter 6-pin")

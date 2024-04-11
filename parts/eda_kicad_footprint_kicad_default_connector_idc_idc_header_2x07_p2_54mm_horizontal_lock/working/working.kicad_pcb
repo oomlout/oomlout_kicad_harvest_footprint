@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "IDC-Header_2x07_P2.54mm_Horizontal_Lock" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)")
     (tags "connector idc locked")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Littelfuse-NANO2-451_453" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Littelfuse NANO2 https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf")
     (tags "Fuse Nano2")

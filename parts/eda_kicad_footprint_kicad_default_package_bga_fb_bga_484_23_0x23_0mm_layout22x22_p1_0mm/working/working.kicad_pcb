@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Xilinx FB-484, https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf")
     (tags "FB-BGA-484")

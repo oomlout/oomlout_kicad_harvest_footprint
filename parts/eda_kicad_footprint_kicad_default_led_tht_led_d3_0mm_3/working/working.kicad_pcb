@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_D3.0mm-3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf")
     (tags "LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins")

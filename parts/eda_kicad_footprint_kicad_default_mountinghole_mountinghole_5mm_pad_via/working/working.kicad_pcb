@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_5mm_Pad_Via" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 5mm")
     (tags "mounting hole 5mm")

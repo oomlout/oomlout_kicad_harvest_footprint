@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Receptacle_Amphenol_12401548E4-2A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A")
     (tags "USB C Type-C Receptacle Hybrid")

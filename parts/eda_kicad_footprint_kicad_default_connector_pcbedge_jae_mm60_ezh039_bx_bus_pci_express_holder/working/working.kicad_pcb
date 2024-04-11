@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JAE_MM60-EZH039-Bx_BUS_PCI_Express_Holder" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PCI Express mini card latch for 3.9mm connector height, https://www.jae.com/direct/topics/topics_file_download/?topics_id=68909&ext_no=06&index=0&_lang=en&v=2022071912512930114109")
     (tags "MiniPCI")

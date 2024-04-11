@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Trimmer_Voltronics_JZ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf")
     (tags " Voltronics JR")

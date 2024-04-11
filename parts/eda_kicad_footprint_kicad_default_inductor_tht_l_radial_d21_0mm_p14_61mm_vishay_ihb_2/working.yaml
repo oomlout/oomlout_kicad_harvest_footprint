@@ -75,7 +75,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 14.61mm  diameter 21mm Vishay IHB-2
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Toshiba_TORX170_TORX173_TORX193_TORX194" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fiberoptic Reciver, RX, Toshiba, Toslink, TORX170, TORX173, TORX193, TORX194")
     (tags "Fiberoptic Reciver RX Toshiba Toslink TORX170 TORX173 TORX193 TORX194")

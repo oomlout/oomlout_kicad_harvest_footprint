@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Molex_Panelmate_53780-0670_1x06-1MP_P1.25mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Molex Panelmate series connector, 53780-0670 (), generated with kicad-footprint-generator")
     (tags "connector Molex Panelmate top entry")

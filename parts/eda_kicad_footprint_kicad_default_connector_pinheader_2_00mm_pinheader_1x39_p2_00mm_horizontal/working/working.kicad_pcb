@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinHeader_1x39_P2.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole angled pin header, 1x39, 2.00mm pitch, 4.2mm pin length, single row")
     (tags "Through hole angled pin header THT 1x39 2.00mm single row")

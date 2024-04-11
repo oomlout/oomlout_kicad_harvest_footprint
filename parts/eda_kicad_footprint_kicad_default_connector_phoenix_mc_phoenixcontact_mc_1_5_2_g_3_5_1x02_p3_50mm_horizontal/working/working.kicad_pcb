@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/2-G-3.5; number of pins: 02; pin pitch: 3.50mm; Angled || order number: 1844210 8A 160V")
     (tags "phoenix_contact connector MC_01x02_G_3.5mm")

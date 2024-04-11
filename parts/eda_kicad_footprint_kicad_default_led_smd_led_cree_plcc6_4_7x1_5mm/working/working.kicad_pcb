@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-PLCC6_4.7x1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf")
     (tags "LED Cree PLCC-6")

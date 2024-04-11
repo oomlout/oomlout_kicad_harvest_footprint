@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Kingbright_KPA-3010_3x2x1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Kingbright surface mount LED, right angle, 3.0 x 2.0 x 1.0 mm, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPA-3010SURCK(Ver.26A).pdf")
     (tags "Kingbright LED right-angle")

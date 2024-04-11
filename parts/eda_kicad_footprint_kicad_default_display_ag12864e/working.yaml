@@ -379,7 +379,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: AG12864E Graphics Display 128x64 Ampire
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

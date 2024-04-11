@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sharp_GP2S700HCP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Sharp GP2S700HCP, light-direction upwards, see: https://www.sharpsde.com/fileadmin/products/Optoelectronics/Isolation%20Devices/Specs_Photointerrupter/GP2S700HCP_03Oct05_DS_D3-A02201FEN.pdf")
     (tags "refective opto couple photo coupler")

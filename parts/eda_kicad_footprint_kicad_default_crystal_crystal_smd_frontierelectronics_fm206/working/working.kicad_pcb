@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_FrontierElectronics_FM206" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf")
     (tags "['FM206']")

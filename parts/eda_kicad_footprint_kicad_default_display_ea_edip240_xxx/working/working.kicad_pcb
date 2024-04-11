@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_eDIP240-XXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf")
     (tags "LCD graphical display LED backlight 240x128")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DA04-11SURKWA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf")
     (tags "Dubble digit hyper red 7 segment LED display")

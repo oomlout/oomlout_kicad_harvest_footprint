@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Trimmer_Murata_TZC3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb")
     (tags " Murata TZC3")

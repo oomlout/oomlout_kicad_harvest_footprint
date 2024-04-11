@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_SM-PIC0612H" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Neosid, Power Inductor, SM-PIC0612H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0612H.pdf")
     (tags "Neosid Power Inductor SM-PIC0612H Fixed inductor SMD")

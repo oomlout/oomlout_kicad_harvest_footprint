@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3518P, http://www.keyelco.com/product-pdf.cfm?p=1387")
     (tags "fuse clip open")

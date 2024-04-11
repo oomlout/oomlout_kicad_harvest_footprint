@@ -1282,7 +1282,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block WAGO 804-113 45Degree pitch 5mm size 66.5x15mm^2 drill
     1.2mm pad 3mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

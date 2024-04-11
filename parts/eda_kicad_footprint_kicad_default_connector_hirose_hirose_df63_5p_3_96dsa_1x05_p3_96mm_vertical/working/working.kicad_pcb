@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Hirose DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator")
     (tags "connector Hirose DF63 vertical")

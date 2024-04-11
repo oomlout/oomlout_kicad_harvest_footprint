@@ -218,7 +218,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Gauge Massstab 50mm SilkScreenTop Type 2
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

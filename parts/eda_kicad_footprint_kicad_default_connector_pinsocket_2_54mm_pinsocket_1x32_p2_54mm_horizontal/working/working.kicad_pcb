@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_1x32_P2.54mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Through hole angled socket strip, 1x32, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole angled socket strip THT 1x32 2.54mm single row")

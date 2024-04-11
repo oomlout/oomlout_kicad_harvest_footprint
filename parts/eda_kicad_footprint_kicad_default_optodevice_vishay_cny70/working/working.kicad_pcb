@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_CNY70" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "package for Vishay CNY70 refective photo coupler/interrupter, https://www.vishay.com/docs/83751/cny70.pdf")
     (tags "Vishay CNY70 refective photo coupler")

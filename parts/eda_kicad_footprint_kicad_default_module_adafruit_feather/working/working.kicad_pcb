@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Adafruit_Feather" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification")
     (tags "Adafruit Feather")

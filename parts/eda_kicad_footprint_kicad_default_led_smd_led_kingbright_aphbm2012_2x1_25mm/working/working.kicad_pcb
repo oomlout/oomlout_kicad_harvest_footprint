@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Kingbright_APHBM2012_2x1.25mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012")
     (tags "LED Kingbright APHM2012")

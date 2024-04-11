@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Littelfuse-LVR100" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Littelfuse, resettable fuse, PTC, polyswitch LVR100, Ih 1A http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lvr_catalog_datasheet.pdf.pdf")
     (tags "LVR100 PTC resettable polyswitch ")

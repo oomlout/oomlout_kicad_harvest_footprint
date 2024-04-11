@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Connector_SFP_and_Cage" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English")
     (tags "SFP+ SFP")

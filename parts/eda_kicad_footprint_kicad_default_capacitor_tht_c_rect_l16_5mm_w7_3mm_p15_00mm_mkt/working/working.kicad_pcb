@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Rect_L16.5mm_W7.3mm_P15.00mm_MKT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*7.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf")
     (tags "C Rect series Radial pin pitch 15.00mm  length 16.5mm width 7.3mm Capacitor")

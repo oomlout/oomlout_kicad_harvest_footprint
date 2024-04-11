@@ -74,7 +74,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14.5mm diameter
     5.8mm Fastron HBCC
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

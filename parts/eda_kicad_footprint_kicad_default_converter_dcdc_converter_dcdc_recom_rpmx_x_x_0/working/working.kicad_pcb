@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_RECOM_RPMx.x-x.0" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf")
     (tags "dc-dc recom buck lga-25 pitch 2.29mm")

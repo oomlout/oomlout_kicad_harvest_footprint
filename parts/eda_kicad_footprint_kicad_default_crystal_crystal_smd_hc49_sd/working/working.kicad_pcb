@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_HC49-SD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package")
     (tags "SMD SMT crystal")

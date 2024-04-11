@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_CW_GPTS203211B" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf")
     (tags "SPST button switch Off-On")

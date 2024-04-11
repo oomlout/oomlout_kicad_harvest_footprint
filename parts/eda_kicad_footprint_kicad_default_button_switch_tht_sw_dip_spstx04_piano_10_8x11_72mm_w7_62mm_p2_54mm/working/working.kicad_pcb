@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_DIP_SPSTx04_Piano_10.8x11.72mm_W7.62mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "4x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x11.72mm")
     (tags "DIP Switch SPST Piano 7.62mm 300mil")

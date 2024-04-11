@@ -61,7 +61,7 @@ footprint_string:
   solderPasteRatio: None
   tags: C Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Non-Polar
     Electrolytic Capacitor
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

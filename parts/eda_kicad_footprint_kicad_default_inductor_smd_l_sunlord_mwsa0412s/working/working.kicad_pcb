@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sunlord_MWSA0412S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Sunlord, MWSA0412S, 4.4x4.2x1.0mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en")
     (tags "Inductor mwsa")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm")

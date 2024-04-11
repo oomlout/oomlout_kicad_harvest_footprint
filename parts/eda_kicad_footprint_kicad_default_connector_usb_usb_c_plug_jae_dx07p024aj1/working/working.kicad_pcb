@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Plug_JAE_DX07P024AJ1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1")
     (tags "USB Type-C Plug Edge Mount")

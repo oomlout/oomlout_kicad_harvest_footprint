@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sumida_CR75" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Sumida, 8.1mm × 7.3mm × 5.5 mm, Unshielded, http://products.sumida.com/products/pdf/CR75.pdf")
     (tags "Inductor SMD CR75 Unshielded")

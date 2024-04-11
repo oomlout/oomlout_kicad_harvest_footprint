@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Kingbright_APDA3020VBCD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED, SMD, APDA3020VBC/D, https://www.kingbrightusa.com/images/catalog/SPEC/APDA3020VBC-D.pdf")
     (tags "LED APDA3020VBC/D Kingbright ")

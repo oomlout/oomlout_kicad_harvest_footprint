@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Keystone_2468_2xAAA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033")
     (tags "AAA battery cell holder")

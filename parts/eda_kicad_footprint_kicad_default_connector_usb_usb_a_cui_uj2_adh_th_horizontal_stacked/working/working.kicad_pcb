@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB-A two stacked horizontal receptacle, through-hole (https://www.cuidevices.com/product/resource/uj2-adh-th.pdf)")
     (tags "USB-A CUI stacked horizontal through-hole")

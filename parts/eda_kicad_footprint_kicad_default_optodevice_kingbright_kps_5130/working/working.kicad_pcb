@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Kingbright_KPS-5130" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf")
     (tags "KPS-5130 photodiode RGB sensor")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SODIMM-200_2.5V_Card_edge" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SODIMM 200-pins edge connector, Jedec MO-224 Variation AA compliant (2.5V DDR SDRAM), 0.6mm pitch, https://www.jst-mfg.com/product/pdf/eng/eDM-200P.pdf")
     (tags "sodimm")

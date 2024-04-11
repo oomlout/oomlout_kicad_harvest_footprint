@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SpringContact_Harwin_S1941-46R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf")
     (tags "spring contact emi emc shield")

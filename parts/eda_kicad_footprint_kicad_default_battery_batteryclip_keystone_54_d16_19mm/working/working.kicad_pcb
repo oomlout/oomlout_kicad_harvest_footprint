@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryClip_Keystone_54_D16-19mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826")
     (tags "battery clip 18650 18350 17350 CR123A 2/3A")

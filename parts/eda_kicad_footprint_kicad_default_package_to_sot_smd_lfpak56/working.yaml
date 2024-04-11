@@ -239,7 +239,7 @@ footprint_string:
   solderPasteMargin: '-0.05'
   solderPasteRatio: None
   tags: LFPAK56 SOT-669 Power-SO8
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

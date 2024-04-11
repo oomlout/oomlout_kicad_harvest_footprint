@@ -1120,7 +1120,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

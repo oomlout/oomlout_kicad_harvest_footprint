@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Amphenol_M8S-03PMMR-SF8001" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)")
     (tags "three-pin M8")

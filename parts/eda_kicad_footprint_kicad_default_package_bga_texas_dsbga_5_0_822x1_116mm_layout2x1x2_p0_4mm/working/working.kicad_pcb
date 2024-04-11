@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, 0.822x1.116mm, 5 bump 2x1x2 array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/opa330.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)")
     (tags "Texas Instruments DSBGA BGA YFF S-XBGA-N5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Abracon_ASPI-3012S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf")
     (tags "inductor abracon smd shielded")

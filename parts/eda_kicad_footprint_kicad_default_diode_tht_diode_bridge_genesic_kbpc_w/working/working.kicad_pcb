@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_GeneSiC_KBPC_W" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Single phase, Bridge Rectifier, 28.55x28.55mm, case KBPC_W(WP), https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc15005w.pdf")
     (tags "diode module")

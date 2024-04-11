@@ -117,7 +117,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB APFA3010 KINGBRIGHT 3x1.5mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

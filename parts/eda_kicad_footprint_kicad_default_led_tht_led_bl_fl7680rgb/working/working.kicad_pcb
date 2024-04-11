@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_BL-FL7680RGB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf")
     (tags "RGB LED Piranha Super-Flux BetLux")

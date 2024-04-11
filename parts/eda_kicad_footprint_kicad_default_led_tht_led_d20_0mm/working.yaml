@@ -80,7 +80,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED diameter 20.0mm 2 pins
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

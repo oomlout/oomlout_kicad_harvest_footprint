@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Panasonic ELC Type 15E-L inductor, radial, shielded, pin pitch=10.00mm, diameter=16.0mm, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AGB0000/AGB0000CE10.pdf")
     (tags "ELC15ExxxL")

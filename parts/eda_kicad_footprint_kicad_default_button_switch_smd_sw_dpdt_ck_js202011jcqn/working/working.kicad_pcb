@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_DPDT_CK_JS202011JCQN" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf")
     (tags "switch DPDT SMT")

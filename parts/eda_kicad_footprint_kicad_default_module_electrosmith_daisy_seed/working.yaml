@@ -426,7 +426,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Electrosmith Daisy Seed Microcontroller Module ARM Cortex-M7 Audio Codec
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

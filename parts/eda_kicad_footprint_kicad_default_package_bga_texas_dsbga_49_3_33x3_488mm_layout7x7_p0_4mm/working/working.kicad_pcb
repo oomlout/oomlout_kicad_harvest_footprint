@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, 3.33x3.488mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, http://www.ti.com/lit/ds/symlink/msp430f2234.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf")
     (tags "BGA 49 0.4")

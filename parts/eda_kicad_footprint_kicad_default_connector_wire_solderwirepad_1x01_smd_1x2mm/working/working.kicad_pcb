@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SolderWirePad_1x01_SMD_1x2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Wire Pad, Square, SMD Pad,  1mm x 2mm,")
     (tags "MesurementPoint Square SMDPad 1mmx2mm ")

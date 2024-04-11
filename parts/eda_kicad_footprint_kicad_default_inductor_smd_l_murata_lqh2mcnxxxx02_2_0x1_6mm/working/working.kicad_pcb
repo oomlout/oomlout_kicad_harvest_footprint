@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Murata_LQH2MCNxxxx02_2.0x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)")
     (tags "chip coil inductor Murata LQH2MC")

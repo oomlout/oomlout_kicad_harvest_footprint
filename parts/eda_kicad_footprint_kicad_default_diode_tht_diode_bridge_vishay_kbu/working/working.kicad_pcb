@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Vishay_KBU" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Vishay KBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88656/kbu4.pdf")
     (tags "Vishay KBU rectifier diode bridge")

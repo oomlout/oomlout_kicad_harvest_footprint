@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Broadcom_APDS-9301" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "ambient light sensor, i2c interface, 6-pin chipled package, https://docs.broadcom.com/docs/AV02-2315EN")
     (tags "ambient light sensor chipled")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED-L1T2_LUMILEDS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.lumileds.com/uploads/438/DS133-pdf")
     (tags "LUMILEDS LUXEON TX L1T2 LED")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonModeChoke_Wuerth_WE-SL5" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "WE-SL5 SMT Common Mode Line Filter, 9.5x8.3mm, height 5mm, https://www.we-online.com/components/products/datasheet/744273222.pdf")
     (tags "SMT Common Mode Line Filter")

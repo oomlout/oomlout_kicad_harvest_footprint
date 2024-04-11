@@ -501,7 +501,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole angled pin header THT 1x10 2.00mm single row
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

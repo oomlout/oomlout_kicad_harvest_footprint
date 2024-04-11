@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_Wuerth_WE-SL2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1")
     (tags "Wuerth WE-SL2")

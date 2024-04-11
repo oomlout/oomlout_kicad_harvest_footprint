@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Tactile_Straight_KSL0Axx1LFTR" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf")
     (tags "SW PUSH SMALL Tactile C&K")

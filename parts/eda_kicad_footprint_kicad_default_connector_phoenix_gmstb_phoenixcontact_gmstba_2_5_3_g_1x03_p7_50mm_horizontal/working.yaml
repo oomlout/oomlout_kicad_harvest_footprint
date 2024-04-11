@@ -153,7 +153,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector GMSTBA_01x03_G_7.50mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

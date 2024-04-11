@@ -272,7 +272,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

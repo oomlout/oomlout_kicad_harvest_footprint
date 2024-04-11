@@ -411,7 +411,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TFT-graphic display 320x240 16 bit colour with led backlight
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

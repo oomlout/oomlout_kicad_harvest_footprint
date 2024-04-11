@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_RECOM_RAC01-xxSGB_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf")
     (tags "recom power ac dc rac01xxgb rac01-05sgb rac01-12sgb")

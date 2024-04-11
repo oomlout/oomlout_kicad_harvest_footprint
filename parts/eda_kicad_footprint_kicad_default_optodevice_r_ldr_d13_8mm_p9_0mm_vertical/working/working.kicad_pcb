@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_D13.8mm_P9.0mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Resistor, diameter 13.8mm pitch 9mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
     (tags "Resistor LDR ")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D10.0mm_P5.00mm_Fastron_07M" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Fastron, 07M, http://www.fastrongroup.com/image-show/37/07M.pdf?type=Complete-DataSheet&productType=series")
     (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 10mm Fastron 07M")

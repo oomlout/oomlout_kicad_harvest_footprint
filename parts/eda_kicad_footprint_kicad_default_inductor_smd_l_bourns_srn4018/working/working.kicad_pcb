@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRN4018" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf")
     (tags "Bourns SRN4018 SMD inductor")

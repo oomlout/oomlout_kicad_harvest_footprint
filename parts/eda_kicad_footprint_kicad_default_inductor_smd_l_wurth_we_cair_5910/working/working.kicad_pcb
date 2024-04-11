@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wurth_WE-CAIR-5910" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "WE-CAIR Air coil, https://www.we-online.com/components/products/datasheet/744918254.pdf")
     (tags "air coil inductor wurth we cair")

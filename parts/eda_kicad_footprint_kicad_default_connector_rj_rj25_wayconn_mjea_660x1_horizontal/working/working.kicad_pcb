@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ25_Wayconn_MJEA-660X1_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "RJ25 6P6C Socket 90 degrees, https://wayconn.com/wp-content/themes/way/datasheet/MJEA-660X1XXX_RJ25_6P6C_PCB_RA.pdf")
     (tags "RJ12 RJ18 RJ25 jack connector 6P6C")

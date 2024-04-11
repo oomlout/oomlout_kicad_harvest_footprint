@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Molex_Mini-Fit_Sr_42819-22XX_1x02_P10.00mm_Vertical_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Molex Mini-Fit Sr. Power Connectors, 42819-22XX, With thermal vias in pads, 2 Pins per row (http://www.molex.com/pdm_docs/sd/428192214_sd.pdf), generated with kicad-footprint-generator")
     (tags "connector Molex Mini-Fit_Sr side entry")

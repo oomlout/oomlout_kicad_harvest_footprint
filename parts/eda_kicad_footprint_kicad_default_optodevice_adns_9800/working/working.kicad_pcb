@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ADNS-9800" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Laser Gaming Sensor ADNS-9800")
     (tags "MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR")

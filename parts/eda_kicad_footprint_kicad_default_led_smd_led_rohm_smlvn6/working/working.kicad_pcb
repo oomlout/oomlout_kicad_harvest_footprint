@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_ROHM_SMLVN6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.rohm.com/datasheet/SMLVN6RGB1U")
     (tags "LED ROHM SMLVN6")

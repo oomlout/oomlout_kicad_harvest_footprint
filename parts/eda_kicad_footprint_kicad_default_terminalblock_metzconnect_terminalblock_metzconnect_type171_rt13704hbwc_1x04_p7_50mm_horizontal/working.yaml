@@ -218,7 +218,7 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type171_RT13704HBWC pitch 7.5mm size 30x9mm^2
     drill 1.3mm pad 2.5mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

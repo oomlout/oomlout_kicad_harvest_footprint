@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf")
     (tags "raspberry pi zero through hole")

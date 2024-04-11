@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_Mini-Circuits_FV1206" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206.pdf")
     (tags "Mini-Circuits Filter SMD 1206")

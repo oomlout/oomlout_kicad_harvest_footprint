@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JST LEA series connector, SM02B-LEASS-TF (http://www.jst-mfg.com/product/pdf/eng/eLEA.pdf), generated with kicad-footprint-generator")
     (tags "connector JST LEA horizontal")

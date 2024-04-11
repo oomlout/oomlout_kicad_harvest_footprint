@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Ms42" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf")
     (tags "Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded")

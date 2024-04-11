@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_HCM-7070" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Wuerth Elektronik, Wuerth_HCM-7070, 7.4mmx7.2mm")
     (tags "inductor Wuerth hcm smd")

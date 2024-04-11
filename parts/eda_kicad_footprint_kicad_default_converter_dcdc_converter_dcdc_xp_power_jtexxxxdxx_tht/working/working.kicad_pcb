@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_XP_POWER_JTExxxxDxx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, XP POWER, Type JTE06 Series,  Dual Output")
     (tags "DCDC-Converter XP_POWER JTE06 Dual")

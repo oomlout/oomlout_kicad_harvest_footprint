@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_PowerDI-123" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.diodes.com/_files/datasheets/ds30497.pdf")
     (tags "PowerDI diode vishay")

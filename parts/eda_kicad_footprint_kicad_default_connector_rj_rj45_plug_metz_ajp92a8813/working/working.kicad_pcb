@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Plug_Metz_AJP92A8813" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "plug, ethernet, 8P8C, RJ45 Plug")
     (tags "AJP92A8813 8P8C RJ45 ethernet plug")

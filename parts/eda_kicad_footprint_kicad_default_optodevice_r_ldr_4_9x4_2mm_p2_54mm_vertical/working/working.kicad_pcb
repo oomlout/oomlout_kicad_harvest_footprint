@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_4.9x4.2mm_P2.54mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Resistor, LDR 4.9x4.2mm")
     (tags "Resistor LDR4.9x4.2")

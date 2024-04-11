@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf")
     (tags "hdmi type a")

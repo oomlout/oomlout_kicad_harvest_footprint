@@ -532,7 +532,7 @@ footprint_string:
   solderPasteRatio: None
   tags: wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840
     nrf52833
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_MeanWell_IRM-03-xx_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "ACDC-Converter, 3W, Meanwell, IRM-03, SMD, http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-03")
     (tags "ACDC-Converter 3W")

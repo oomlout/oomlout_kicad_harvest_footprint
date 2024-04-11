@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_15.7x15.7x6.3mm_P10.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Single phase bridge rectifier case 15.7x15.7")
     (tags "Diode Bridge")

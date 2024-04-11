@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_PUSH_E-Switch_FS5700DP_DPDT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "FS5700 series pushbutton footswitch, DPDT, https://www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf")
     (tags "switch DPDT footswitch")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_Switronic_ST-005-G_horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf")
     (tags "Connector Audio Switronic ST-005-G")

@@ -85,7 +85,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 6.00*6.00mm^2  length 11.5mm width
     11.5mm Neosid NE-CPB-11EN Drill1.5mm
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

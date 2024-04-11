@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DE119-XX-XX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.display-elektronik.de/filter/DE119-RS-20_635.pdf")
     (tags "4 digit 7 segment LCD ")

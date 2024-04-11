@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Chilisin_BMRF00131350" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Chilisin, BMRF00131350, 13.8x12.6x5.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf")
     (tags "Inductor bmrx mchi")

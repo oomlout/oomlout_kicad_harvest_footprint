@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016")
     (tags "DCDC-Converter TRACO TMR1-xxxx Dual_output")

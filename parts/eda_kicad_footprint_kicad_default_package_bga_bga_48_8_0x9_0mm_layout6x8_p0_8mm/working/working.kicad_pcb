@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-48_8.0x9.0mm_Layout6x8_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-48 - pitch 0.8 mm")
     (tags "BGA-48")

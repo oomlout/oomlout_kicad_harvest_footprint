@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=20.00mm, , diameter=12.7mm, Diameter14-5mm, Amidon-T50")
     (tags "L_Toroid Horizontal series Radial pin pitch 20.00mm  diameter 12.7mm Diameter14-5mm Amidon-T50")

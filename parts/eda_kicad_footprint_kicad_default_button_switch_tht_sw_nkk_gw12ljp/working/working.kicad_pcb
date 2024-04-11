@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_NKK_GW12LJP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf")
     (tags "switch single-pole double-throw spdt ON-ON illuminated LED")

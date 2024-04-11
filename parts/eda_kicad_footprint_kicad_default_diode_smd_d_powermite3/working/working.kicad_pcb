@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_Powermite3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)")
     (tags "PowerMite3")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_ProSignal_ABI-010-RC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Buzzer, Elektromagnetic Beeper, Summer, 12V-DC,")
     (tags "Pro Signal ABI-010-RC ")

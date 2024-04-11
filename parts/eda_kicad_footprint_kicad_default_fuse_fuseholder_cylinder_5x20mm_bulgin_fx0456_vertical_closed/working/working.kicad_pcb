@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Fuseholder, 5x20, closed, vertical, Bulgin, FX0456, https://www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf")
     (tags "Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter ")

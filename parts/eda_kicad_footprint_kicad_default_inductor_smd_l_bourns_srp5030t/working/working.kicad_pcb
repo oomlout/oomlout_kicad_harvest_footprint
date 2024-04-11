@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRP5030T" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)")
     (tags "Inductor Bourns_SRP5030T")

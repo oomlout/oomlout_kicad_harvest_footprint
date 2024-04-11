@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_Amphenol_B6252HB-NPP3G-50_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.farnell.com/datasheets/612848.pdf")
     (tags "BNC Amphenol Horizontal")

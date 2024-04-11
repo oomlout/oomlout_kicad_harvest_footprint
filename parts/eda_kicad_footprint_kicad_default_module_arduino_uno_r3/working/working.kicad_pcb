@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Arduino_UNO_R3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
     (tags "Arduino UNO R3")

@@ -103,7 +103,7 @@ footprint_string:
   solderPasteRatio: None
   tags: DCDC-Converter SWITCHING-REGULATOR STEP-DOWN TRACO TSR1E 2.54MM THT SIP-3
     1A
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

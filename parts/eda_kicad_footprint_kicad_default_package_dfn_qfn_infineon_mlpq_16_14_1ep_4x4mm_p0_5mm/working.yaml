@@ -225,7 +225,7 @@ footprint_string:
   solderPasteMargin: '-0.02'
   solderPasteRatio: None
   tags: mlpq 32 7x7mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

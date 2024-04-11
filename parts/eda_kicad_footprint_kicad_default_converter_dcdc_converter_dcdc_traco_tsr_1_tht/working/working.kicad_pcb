@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TSR-1_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, TRACO, TSR 1-xxxx")
     (tags "DCDC-Converter TRACO TSR-1")

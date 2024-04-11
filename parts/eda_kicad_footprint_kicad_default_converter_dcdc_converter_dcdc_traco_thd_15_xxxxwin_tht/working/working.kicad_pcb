@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_THD_15-xxxxWIN_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Traco THD 15WIN, 15W, THT (https://www.tracopower.com/products/thd15win.pdf#page=3)")
     (tags "traco dcdc tht 15w")

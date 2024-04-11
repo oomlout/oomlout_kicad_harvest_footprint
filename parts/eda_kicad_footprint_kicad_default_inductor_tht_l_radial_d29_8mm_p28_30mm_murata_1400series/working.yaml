@@ -79,7 +79,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 28.30mm  diameter 29.8mm muRATA 1400series
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

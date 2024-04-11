@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Blade_ATO_directSolder" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "car blade fuse direct solder")
     (tags "car blade fuse")

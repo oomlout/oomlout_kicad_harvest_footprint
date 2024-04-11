@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_WS2812B-Mini_PLCC4_3.5x3.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Addressable RGB LED NeoPixel Mini, 12 mA, https://web.archive.org/web/20200131233647/http://www.world-semi.com/DownLoadFile/112")
     (tags "LED RGB NeoPixel Mini")

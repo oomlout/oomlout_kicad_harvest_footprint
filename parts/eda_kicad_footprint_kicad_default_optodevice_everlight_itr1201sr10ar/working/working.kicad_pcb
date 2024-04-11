@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Everlight_ITR1201SR10AR" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "package for Everlight ITR1201SR10AR, light-direction upwards, see https://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf")
     (tags "reflective opto couple photo coupler")

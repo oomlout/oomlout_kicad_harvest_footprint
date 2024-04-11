@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator TXCO Fordahl DFA S11-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 7.0x5.0mm^2 package")
     (tags "SMD SMT crystal oscillator hand-soldering")

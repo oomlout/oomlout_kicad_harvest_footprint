@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D40.0mm_P48.26mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=48.26mm, , diameter=40mm")
     (tags "L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm")

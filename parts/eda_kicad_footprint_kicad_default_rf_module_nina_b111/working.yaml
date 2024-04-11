@@ -393,7 +393,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: NINA ublox u-blox b111 bluetooth nrf52840 module
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

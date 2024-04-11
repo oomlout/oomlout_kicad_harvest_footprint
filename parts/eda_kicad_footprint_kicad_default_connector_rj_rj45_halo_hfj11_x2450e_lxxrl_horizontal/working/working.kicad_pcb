@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_HALO_HFJ11-x2450E-LxxRL_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Halo FastJack, Shielded, 2 LEDs, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf")
     (tags "10/100 Ethernet RJ45 Tab-Down")

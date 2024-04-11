@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PerkinElmer_VTL5Cx2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)")
     (tags "vactrol")

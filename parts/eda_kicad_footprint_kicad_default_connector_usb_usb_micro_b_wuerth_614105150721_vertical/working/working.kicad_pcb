@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Micro-B_Wuerth_614105150721_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf")
     (tags "usb micro receptacle vertical")

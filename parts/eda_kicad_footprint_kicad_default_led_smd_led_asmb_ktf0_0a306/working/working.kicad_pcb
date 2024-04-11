@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_ASMB-KTF0-0A306" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100")
     (tags "Tricolor LED")

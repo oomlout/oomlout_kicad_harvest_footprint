@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "CP, Axial series, Axial, Horizontal, pin pitch=48mm, , length*diameter=40*16mm^2, Electrolytic Capacitor")
     (tags "CP Axial series Axial Horizontal pin pitch 48mm  length 40mm diameter 16mm Electrolytic Capacitor")

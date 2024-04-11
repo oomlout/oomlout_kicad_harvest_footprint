@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_B3S-1000" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Surface Mount Tactile Switch for High-Density Packaging")
     (tags "Tactile Switch")

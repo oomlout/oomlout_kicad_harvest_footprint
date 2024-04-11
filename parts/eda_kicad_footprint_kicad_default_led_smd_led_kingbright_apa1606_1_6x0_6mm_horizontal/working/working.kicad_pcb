@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Kingbright_APA1606_1.6x0.6mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Right angled LED, 1.6x1.2 mm, H0.6 mm")
     (tags "LED chip right angled vertical")

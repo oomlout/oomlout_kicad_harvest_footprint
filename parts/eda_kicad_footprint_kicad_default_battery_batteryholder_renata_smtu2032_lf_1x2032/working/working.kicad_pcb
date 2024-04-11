@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Renata_SMTU2032-LF_1x2032" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "https://www.renata.com/fr/downloads/?product=smtu2032-lf&fileid=6a9833a4d49dfb7b550194fe0f")
     (tags "Renata SMT battery holder coin cell 2032")

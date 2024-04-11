@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_PJ31060-I_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)")
     (tags "headphones jack plug stereo 3.5mm PJ31060-I PJ31060")

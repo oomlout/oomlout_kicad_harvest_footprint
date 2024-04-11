@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "BGA-1295")
     (tags "BGA-1295")

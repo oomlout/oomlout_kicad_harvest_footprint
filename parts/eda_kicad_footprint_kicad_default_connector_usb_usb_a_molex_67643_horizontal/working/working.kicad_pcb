@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Molex_67643_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf")
     (tags "USB_A Female Connector receptacle")

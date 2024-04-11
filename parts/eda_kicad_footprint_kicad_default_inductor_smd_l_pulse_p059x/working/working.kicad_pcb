@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Pulse_P059x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1:1, Power Inductor, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/p0599nl")
     (tags "inductor coil choke")

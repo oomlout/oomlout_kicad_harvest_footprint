@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_12x12mm_H6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Choke, SMD, 12x12mm 6mm height")
     (tags "Choke SMD")

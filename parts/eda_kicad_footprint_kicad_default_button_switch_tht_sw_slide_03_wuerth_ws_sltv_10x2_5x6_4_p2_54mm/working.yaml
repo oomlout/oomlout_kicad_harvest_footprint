@@ -67,7 +67,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: "switch single-pole double-throw SPDT w\xC3\xBCrth wurth"
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -374,7 +374,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Connector Phoenix Contact SPT 1.5/12-H-3.5 1990834
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

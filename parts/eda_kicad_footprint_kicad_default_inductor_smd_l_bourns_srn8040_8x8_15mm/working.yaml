@@ -90,7 +90,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Bourns SRN8040 SMD inductor
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

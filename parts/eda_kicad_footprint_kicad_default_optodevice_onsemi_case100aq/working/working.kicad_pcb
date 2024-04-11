@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_CASE100AQ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "OnSemi CASE 100AQ for QRE1113, see https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF")
     (tags "reflective opto couple photo coupler")

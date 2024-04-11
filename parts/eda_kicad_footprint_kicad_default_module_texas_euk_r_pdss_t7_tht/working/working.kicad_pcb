@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_EUK_R-PDSS-T7_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Texas Instruments EUK 7 Pin Double Sided Module")
     (tags "module pcb")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Seiko_MS621F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg")
     (tags "Seiko MS621F")

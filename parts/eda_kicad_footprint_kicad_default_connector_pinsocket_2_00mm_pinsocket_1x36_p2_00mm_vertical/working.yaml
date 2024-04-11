@@ -361,7 +361,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole socket strip THT 1x36 2.00mm single row
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

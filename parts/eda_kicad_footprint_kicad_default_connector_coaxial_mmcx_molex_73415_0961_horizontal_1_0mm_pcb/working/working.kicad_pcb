@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf")
     (tags "Molex MMCX Horizontal Coaxial")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Micro-B_Wuerth_629105150521_CircularHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf")
     (tags "usb micro receptacle")

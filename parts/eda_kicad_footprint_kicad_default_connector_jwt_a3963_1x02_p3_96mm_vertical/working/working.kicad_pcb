@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JWT_A3963_1x02_P3.96mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "JWT A3963, 3.96mm pitch Pin head connector (http://www.jwt.com.tw/pro_pdf/A3963.pdf)")
     (tags "connector JWT A3963 pinhead")

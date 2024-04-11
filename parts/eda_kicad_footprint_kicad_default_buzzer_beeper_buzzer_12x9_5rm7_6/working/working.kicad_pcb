@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Buzzer_12x9.5RM7.6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Buzzer, D12mm height 9.5mm with RM7.6mm")
     (tags "buzzer")

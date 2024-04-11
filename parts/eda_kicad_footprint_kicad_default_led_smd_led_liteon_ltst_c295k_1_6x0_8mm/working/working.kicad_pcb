@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_LiteOn_LTST-C295K_1.6x0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Topview dual http://optoelectronics.liteon.com/upload/download/DS22-2009-0072/LTST-C295KGKRKT.PDF")
     (tags "SMD Top view Dual colour")

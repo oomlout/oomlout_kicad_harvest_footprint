@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Vertical_L19.1mm_W8.1mm_P7.10mm_Bourns_5700" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Vertical series, Radial, pin pitch=7.10mm, , length*width=19.1*8.1mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
     (tags "L_Toroid Vertical series Radial pin pitch 7.10mm  length 19.1mm width 8.1mm Bourns 5700")

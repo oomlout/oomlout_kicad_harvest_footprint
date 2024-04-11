@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Taiyo-Yuden_MD-1616" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-1616, 1.6mmx1.6mm")
     (tags "inductor taiyo-yuden md smd")

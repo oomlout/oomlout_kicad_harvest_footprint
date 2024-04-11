@@ -609,7 +609,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Symbol, GNU-GPL, Copper Top, Big,
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

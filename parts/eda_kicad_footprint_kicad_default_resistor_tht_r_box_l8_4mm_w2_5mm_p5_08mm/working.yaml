@@ -86,7 +86,7 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Box series Radial pin pitch 5.08mm 0.5W = 1/2W length 8.38mm width
     2.54mm
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

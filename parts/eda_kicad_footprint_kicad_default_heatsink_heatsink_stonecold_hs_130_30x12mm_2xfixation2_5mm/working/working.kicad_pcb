@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Stonecold_HS-130_30x12mm_2xFixation2.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Heatsink, StoneCold HS, https://www.tme.eu/Document/da20d9b42617e16f6777c881dc9e3434/hs-130.pdf")
     (tags "heatsink")

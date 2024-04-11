@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Slide_SPDT_Angled_CK_OS102011MA1Q" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf")
     (tags "switch SPDT")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins")
     (tags "LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins")

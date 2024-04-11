@@ -310,7 +310,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: molex FFC/FPC connector Pitch 0.5mm right angle
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

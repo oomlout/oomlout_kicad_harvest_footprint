@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_speakON_Neutrik_NL4MDXX-H-3_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, replaces NL4MD-H, NL4MD-H-1, NL4MD-H-3, https://www.neutrik.com/en/product/nl4mdxx-h-3")
     (tags "neutrik speakon")

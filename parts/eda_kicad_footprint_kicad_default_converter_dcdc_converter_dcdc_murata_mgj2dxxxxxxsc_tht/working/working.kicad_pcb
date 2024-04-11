@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf")
     (tags "Murata MGJ2DxxxxxxSC")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_1-826576-7_1x17_P3.96mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "TE, 1-826576-7, 17 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator")
     (tags "connector TE 826576 vertical")

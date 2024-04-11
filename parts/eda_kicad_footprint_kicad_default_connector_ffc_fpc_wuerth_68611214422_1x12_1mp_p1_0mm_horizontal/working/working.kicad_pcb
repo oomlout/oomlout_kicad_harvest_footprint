@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://katalog.we-online.de/em/datasheet/68611214422.pdf")
     (tags "Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT")

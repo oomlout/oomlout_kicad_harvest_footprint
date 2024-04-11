@@ -187,7 +187,7 @@ footprint_string:
   solderPasteMargin: '-0.1'
   solderPasteRatio: None
   tags: PG-LSON-8-1
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

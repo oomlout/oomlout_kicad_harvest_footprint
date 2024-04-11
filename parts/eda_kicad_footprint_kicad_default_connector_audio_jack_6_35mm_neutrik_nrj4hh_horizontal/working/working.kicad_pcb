@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_6.35mm_Neutrik_NRJ4HH_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj4hh")
     (tags "neutrik jack slim")

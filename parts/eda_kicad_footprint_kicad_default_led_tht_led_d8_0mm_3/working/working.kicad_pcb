@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_D8.0mm-3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED, diameter 8.0mm, 2 pins, diameter 8.0mm, 3 pins")
     (tags "LED diameter 8.0mm 2 pins diameter 8.0mm 3 pins")

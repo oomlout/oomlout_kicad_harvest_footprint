@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_PanelMountable_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Panel-mountable BNC connector mounted through PCB, vertical")
     (tags "BNC connector")

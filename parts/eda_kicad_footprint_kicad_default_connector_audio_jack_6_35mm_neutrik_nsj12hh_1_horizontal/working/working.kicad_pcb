@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Stacking Jacks, Stereo dual jack, half threaded nose, https://www.neutrik.com/en/product/nsj12hh-1")
     (tags "neutrik jack stacking")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Murata_MYRxP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Murata MYRxP PicoBK DC/DC converter with inductor, 2x2.5mm, height 1.04mm. https://www.murata.com/en-global/products/power/nonisolated-dc-dc-converter/overview/lineup/picobk")
     (tags "PicoBK DC/DC MYRBP MYRGP MYRLP")

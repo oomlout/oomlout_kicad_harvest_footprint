@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_HCF-2013" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "7443630070, http://katalog.we-online.de/pbs/datasheet/7443630070.pdf")
     (tags "inductor shielded wuerth hcf")

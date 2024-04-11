@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "http://www.ecsxtal.com/store/pdf/CSM-3X.pdf")
     (tags "Crystal CSM-3X")

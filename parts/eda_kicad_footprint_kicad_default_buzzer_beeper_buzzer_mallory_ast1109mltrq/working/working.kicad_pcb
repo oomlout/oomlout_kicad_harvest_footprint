@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Buzzer_Mallory_AST1109MLTRQ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mallory low-profile piezo buzzer, https://mspindy.com/spec-sheets/AST1109MLTRQ.pdf")
     (tags "buzzer piezo")

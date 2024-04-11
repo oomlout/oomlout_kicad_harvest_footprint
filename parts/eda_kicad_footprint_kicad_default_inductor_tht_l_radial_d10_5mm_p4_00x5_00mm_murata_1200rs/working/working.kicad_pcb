@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Radial, Pitch=4.00x5.00mm, Diameter=10.5mm, Murata 1200RS, http://www.murata-ps.com/data/magnetics/kmp_1200rs.pdf")
     (tags "Inductor Radial Murata 1200RS")

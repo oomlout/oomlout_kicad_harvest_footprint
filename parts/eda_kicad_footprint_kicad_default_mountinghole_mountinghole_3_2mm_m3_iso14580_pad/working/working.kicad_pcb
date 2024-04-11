@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_3.2mm_M3_ISO14580_Pad" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Mounting Hole 3.2mm, M3, ISO14580")
     (tags "mounting hole 3.2mm m3 iso14580")

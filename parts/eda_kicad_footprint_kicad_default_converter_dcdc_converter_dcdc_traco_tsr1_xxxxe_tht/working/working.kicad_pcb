@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TSR1-xxxxE_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "DCDC-Converter, TRACO, TSR1-xxxxE, 1A, Rev. October 31. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tsr1e.pdf)")
     (tags "DCDC-Converter SWITCHING-REGULATOR STEP-DOWN TRACO TSR1E 2.54MM THT SIP-3 1A")

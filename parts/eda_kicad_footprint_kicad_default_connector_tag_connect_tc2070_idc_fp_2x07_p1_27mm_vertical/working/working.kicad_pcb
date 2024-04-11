@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2070-IDC%20Datasheet.pdf")
     (tags "tag connect programming header pogo pins")

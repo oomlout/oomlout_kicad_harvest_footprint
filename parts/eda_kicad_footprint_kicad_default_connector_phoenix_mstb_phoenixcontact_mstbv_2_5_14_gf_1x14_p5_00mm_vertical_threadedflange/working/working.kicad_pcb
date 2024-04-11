@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MSTBV_2,5_14-GF_1x14_P5.00mm_Vertical_ThreadedFlange" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776002 12A")
     (tags "phoenix_contact connector MSTBV_01x14_GF_5.00mm")

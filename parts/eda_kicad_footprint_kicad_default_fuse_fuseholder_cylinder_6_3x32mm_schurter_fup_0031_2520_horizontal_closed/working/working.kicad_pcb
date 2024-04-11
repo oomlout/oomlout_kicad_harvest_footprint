@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Cylinder-6.3x32mm_Schurter_FUP_0031.2520_Horizontal_Closed" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Shock-Safe closed Fuseholder, Schurter FUP Series, 6.3 x 32 mm, Slotted Cap, horizontal, 500 VAC 4W/16A (VDE), 600V 30A (UL/CSA), order numbers: 0031.2520 (0031.2500 + 0031.2321), http://www.schurter.ch/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FUP.pdf")
     (tags "Fuseholder 6.3x32mm horizontal closed")

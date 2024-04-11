@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Kingbright_KRC011_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf")
     (tags "Subminiature Reflective Optical Sensor")

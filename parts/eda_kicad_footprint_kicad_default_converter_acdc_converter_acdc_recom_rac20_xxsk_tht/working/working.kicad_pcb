@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_Recom_RAC20-xxSK_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Recom RAC20-xxSK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020")
     (tags "Recom RAC20-xxSK")

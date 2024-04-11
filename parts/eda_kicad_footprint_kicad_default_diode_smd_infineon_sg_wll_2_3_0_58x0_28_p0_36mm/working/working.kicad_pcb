@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Infineon  SG-WLL-2-3, 0.58x0.28x0.15mm, https://www.infineon.com/dgdl/Infineon-SG-WLL-2-3_SPO_PDF-Package-v02_00-EN.pdf?fileId=5546d46271bf4f9201723159ce71239d")
     (tags "Infineon WLL")

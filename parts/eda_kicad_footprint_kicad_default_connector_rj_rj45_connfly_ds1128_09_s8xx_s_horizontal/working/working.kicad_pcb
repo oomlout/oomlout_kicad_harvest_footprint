@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Connfly_DS1128-09-S8xx-S_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "1 Port RJ45 8p8c receptacle, shielded, through hole, 2 LEDs, tab up, http://en.connfly.group/static/upload/file//DS1128-09.pdf")
     (tags "RJ45 8p8c ethernet")

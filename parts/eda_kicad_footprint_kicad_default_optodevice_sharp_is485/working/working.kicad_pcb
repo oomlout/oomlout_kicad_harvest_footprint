@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sharp_IS485" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Sharp OPIC, IS485, IS486, see http://microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf")
     (tags "Sharp OPIC IS485 IS486")

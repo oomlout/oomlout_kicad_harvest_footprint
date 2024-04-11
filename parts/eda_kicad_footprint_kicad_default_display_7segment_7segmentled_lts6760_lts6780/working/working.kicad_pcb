@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "7SegmentLED_LTS6760_LTS6780" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf")
     (tags "7Segment LED LTS6760 LTS6780")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=16*9.5mm^2, Vishay, IM-10-37, http://www.vishay.com/docs/34030/im10.pdf")
     (tags "Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 16mm diameter 9.5mm Vishay IM-10-37")

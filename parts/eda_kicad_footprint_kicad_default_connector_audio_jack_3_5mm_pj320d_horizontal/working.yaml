@@ -150,7 +150,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 3.5mm jack mic microphone phones headphones 4pins audio plug
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

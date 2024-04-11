@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wurth_WE-LQSH-3012" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Semi-Shielded High Saturation Power Inductor, body 3x3mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-3012")
     (tags "SMT")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Plug_3.5mm_CUI_SP-3541" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/pdf/sp-3541.pdf")
     (tags "3.5mm plug TRRS")

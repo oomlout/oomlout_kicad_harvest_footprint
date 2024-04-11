@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_TRACO_TMLM-04_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "ACDC-Converter, TRACO, TMLM Series 04 https://www.tracopower.com/products/tmlm.pdf")
     (tags "ACDC-Converter TRACO TMLM Series 04")

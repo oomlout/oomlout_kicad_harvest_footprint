@@ -159,7 +159,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SA15-11xxx single digit 7 segment display 38.1mm 1.5inch
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

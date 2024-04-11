@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956")
     (tags "BGA 196 0.75")

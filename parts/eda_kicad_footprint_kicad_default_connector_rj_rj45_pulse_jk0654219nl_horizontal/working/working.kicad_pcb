@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Pulse_JK0654219NL_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2")
     (tags "RJ45 8p8c ethernet")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sunlord_MWSA1205S-220" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Sunlord, MWSA1205S-220, 13.45x12.6x4.8mm, https://sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMjExMTUxNDQ4MDU0NTQucGRm&lan=en")
     (tags "Inductor mwsa")

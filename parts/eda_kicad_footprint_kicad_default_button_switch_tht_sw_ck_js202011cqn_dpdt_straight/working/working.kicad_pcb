@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_CK_JS202011CQN_DPDT_Straight" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf")
     (tags "switch DPDT")

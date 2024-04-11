@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_D20.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf")
     (tags "LED diameter 20.0mm 2 pins")

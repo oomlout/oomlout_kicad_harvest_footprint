@@ -25,7 +25,11 @@ def main(**kwargs):
             print(f"Opening {footprint}")
             if filter in footprint:
                 directory = harvest_footprint_kiutils(footprint)
-                create_pcb_file(directory)
+                if directory != None:
+                    create_pcb_file(directory)
+                else:
+                    print(f"Error loading {footprint}")
+                    
 
 def create_pcb_file(directory):
     file_pcb_source = "source/kicad_empty_board/working.kicad_pcb"

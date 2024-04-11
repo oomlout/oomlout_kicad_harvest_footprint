@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NHD-C12832A1Z-FSRGB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "128x32 LCD with RGB backlight https://www.newhavendisplay.com/specs/NHD-C12832A1Z-FSRGB-FBW-3V.pdf")
     (tags "lcd rgb st7565")

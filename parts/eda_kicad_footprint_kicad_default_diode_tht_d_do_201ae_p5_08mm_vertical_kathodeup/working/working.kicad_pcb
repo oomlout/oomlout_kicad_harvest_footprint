@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_DO-201AE_P5.08mm_Vertical_KathodeUp" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf")
     (tags "Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm")

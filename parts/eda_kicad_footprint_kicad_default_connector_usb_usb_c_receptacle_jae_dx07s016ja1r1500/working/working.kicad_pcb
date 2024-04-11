@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Receptacle_JAE_DX07S016JA1R1500" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780")
     (tags "USB C Type-C Receptacle SMD USB 2.0")

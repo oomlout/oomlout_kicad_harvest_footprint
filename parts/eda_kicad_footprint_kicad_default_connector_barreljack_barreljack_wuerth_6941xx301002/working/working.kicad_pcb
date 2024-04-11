@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_Wuerth_6941xx301002" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf")
     (tags "connector barrel jack")

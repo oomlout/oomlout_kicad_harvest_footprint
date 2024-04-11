@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_AAVID_576802B03900G" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Heatsink, 14.48x12.7x19.05mm, TO-220/ TO-262, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Plug-In-5768.pdf")
     (tags "heatsink")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Keystone_1057_1x2032" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMT (Auto-In/Ultra-Low) Holder for 2032 Cell, 33.2 x 23.9mm, 2mm height above PCB, https://www.keyelco.com/userAssets/file/M65p4.pdf")
     (tags "Keystone type 1057 coin cell holder")

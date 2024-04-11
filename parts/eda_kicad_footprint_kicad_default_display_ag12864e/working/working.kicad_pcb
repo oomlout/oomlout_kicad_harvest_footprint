@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AG12864E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php")
     (tags "AG12864E Graphics Display 128x64 Ampire")

@@ -714,7 +714,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'QFP 0.5 '
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

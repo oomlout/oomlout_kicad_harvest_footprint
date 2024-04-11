@@ -502,7 +502,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted pin header SMD 1x23 1.00mm single row style2 pin1 right
-  tedit: '66017484'
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

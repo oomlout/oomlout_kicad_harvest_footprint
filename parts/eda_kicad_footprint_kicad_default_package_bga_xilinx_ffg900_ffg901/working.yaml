@@ -6379,7 +6379,7 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 900 1 FF900 FFG900 FFV900 FF901 FFG901 FFV901
-  tedit: 65faf87e
+  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

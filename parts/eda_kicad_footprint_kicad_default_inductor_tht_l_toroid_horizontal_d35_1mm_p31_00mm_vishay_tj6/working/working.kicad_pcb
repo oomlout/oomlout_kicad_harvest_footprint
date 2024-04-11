@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=31.00mm, , diameter=35.1mm, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf")
     (tags "L_Toroid Horizontal series Radial pin pitch 31.00mm  diameter 35.1mm Vishay TJ6")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "IDC-Header_2x08_P2.54mm_Vertical_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "SMD IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf")
     (tags "SMD vertical IDC box header  2x08 2.54mm double row")

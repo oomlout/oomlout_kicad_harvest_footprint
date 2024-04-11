@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_Micro-MaTch_1-215079-8_2x09_P1.27mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "TE-Connectivity Micro-MaTch female-on-board top-entry thru-hole 18 pin connector, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F215079%7FY1%7Fpdf%7FEnglish%7FENG_CD_215079_Y1.pdf%7F215079-4")
     (tags "connector TE-Connectivity Micro-MaTch Vertical 1-215079-8 8-215079-18")

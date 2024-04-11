@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Axial_L20.0mm_D8.0mm_P7.62mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66017484)
+    (tedit 66151a7f)
     (at 0 0)
     (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=20*8mm^2")
     (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20mm diameter 8mm")
