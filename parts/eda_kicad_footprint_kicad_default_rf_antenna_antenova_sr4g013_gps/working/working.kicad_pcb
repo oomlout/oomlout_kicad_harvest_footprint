@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Antenova_SR4G013_GPS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GPS/GLONASS/Galileo/BeiDou antenna, 1559-1609Mhz, SMD, https://www.application-datasheet.com/pdf/antenova/sr4g013.pdf")
     (tags "antenna GPS Antenova Beltii")

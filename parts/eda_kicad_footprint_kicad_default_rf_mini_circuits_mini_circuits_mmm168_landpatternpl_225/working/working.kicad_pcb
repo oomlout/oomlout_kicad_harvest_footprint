@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_MMM168_LandPatternPL-225" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case MMM168, Land pattern PL-225, vias included, (case drawing: https://ww2.minicircuits.com/case_style/MMM168.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl225.pdf)")
     (tags "pl-225")

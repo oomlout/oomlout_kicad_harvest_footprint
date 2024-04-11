@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VQFN, 16 Pin (https://www.st.com/resource/en/datasheet/stspin220.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")

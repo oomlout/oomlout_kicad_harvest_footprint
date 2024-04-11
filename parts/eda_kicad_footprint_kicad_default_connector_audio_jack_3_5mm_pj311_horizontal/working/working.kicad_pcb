@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_PJ311_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PJ311 6pin SMD 3.5mm stereo headphones jack.")
     (tags "headphones jack plug stereo 3.5mm PJ311")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_NDY0011A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf")
     (tags "Texas TO-PMOD NDY00011A")

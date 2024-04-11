@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TQFP-128_14x14mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TQFP128 14x14 / TQFP128 CASE 932BB (see ON Semiconductor 932BB.PDF)")
     (tags "QFP 0.4")

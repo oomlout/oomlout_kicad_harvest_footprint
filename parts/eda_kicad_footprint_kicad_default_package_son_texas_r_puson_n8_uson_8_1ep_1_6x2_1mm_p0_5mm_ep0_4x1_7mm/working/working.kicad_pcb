@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_R-PUSON-N8_USON-8-1EP_1.6x2.1mm_P0.5mm_EP0.4x1.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USON, 8 Pin (https://www.ti.com/lit/gpn/tpd3f303#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "USON NoLead")

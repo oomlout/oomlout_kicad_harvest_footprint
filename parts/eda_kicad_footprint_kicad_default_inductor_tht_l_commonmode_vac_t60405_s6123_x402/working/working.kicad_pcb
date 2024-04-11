@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_VAC_T60405-S6123-X402" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "30A, 3Phase N, Quadruple Coil, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X402.pdf")
     (tags "common mode filter quadruple choke")

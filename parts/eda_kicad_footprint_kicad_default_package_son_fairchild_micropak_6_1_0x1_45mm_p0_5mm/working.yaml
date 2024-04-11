@@ -105,7 +105,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

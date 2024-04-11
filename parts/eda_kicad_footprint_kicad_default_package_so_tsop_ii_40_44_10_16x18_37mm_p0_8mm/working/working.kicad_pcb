@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOP-II-40-44_10.16x18.37mm_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSOP-II, 40 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-tsop2-44pin-ptsb0044ge-e), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSOP-II SO")

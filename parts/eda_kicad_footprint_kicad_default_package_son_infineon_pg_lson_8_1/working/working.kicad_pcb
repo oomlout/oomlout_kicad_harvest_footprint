@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-LSON-8-1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/")
     (tags "PG-LSON-8-1")

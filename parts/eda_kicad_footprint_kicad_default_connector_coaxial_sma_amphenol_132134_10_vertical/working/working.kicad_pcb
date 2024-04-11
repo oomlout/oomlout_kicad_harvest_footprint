@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMA_Amphenol_132134-10_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf")
     (tags "SMA SMD Female Jack Vertical")

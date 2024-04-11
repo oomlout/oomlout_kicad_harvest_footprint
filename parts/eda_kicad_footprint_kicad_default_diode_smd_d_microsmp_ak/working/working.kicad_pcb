@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_MicroSMP_AK" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode MicroSMP (DO-219AD), large-pad cathode, https://www.vishay.com/docs/89020/mss1p3l.pdf")
     (tags "Diode MicroSMP (DO-219AD)")

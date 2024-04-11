@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Zeming_ZMCT103C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Qingxian Zeming Langxi Electronic ZMCT103C current transformer 1000:1, https://5krorwxhmqqirik.leadongcdn.com/ZMCT103C+specification-aidirBqoKomRilSjpimnokp.pdf")
     (tags "current transformer ZMCT")

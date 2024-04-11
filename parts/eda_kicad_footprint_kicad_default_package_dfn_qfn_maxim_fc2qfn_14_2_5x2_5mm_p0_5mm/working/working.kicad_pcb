@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Maxim_FC2QFN-14_2.5x2.5mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "14-FC2QFN, 14/12 Pin, https://pdfserv.maximintegrated.com/land_patterns/90-100127.PDF")
     (tags "FC2QFN NoLead")

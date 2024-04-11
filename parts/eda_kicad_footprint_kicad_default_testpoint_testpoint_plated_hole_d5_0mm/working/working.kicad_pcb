@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Plated_Hole_D5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Plated Hole as test Point, diameter 5.0mm")
     (tags "test point plated hole")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFCSP, 32 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "LFCSP NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Raytac_MDBT50Q" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Multiprotocol radio SoC module https://www.raytac.com/download/index.php?index_id=43")
     (tags "wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840 nrf52833")

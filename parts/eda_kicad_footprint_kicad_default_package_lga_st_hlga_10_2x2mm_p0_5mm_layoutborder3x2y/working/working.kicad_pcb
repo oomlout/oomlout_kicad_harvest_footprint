@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps22hh.pdf#page=55), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "ST HLGA NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-36_Die445" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-36, 2.605x2.703mm, 36 Ball, 6x6 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=96")
     (tags "CSP 36 0.4")

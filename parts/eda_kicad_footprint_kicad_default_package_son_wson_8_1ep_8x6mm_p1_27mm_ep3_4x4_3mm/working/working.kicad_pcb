@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WSON, 8 Pin (https://datasheet.lcsc.com/lcsc/2204011730_GigaDevice-Semicon-Beijing-GD5F1GQ4UFYIGR_C2986324.pdf (page 44)), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WSON NoLead")

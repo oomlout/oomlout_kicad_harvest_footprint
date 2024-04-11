@@ -61,7 +61,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Neosid SD12
     style2
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

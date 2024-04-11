@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Osram_Lx_P47F_D2mm_ReverseMount" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf")
     (tags "LED ReverseMount Reverse")

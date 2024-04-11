@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_UQFN-10_1.5x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)")
     (tags "Texas RSE0010 UQFN NoLead")

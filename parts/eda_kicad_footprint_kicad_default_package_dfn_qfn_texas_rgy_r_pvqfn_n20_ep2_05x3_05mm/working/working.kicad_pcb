@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 20 Pin, RGY0020A (https://www.ti.com/lit/ds/symlink/txb0108.pdf#page=33)")
     (tags "QFN NoLead")

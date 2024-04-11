@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SO-4_4.4x2.3mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf")
     (tags "SO SOIC 1.27")

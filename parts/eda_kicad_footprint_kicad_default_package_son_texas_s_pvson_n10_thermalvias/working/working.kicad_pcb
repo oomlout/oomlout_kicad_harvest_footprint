@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_S-PVSON-N10_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "3x3mm Body, 0.5mm Pitch, S-PVSON-N10, DRC, http://www.ti.com/lit/ds/symlink/tps61201.pdf")
     (tags "0.5 S-PVSON-N10 DRC")

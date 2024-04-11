@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Maxim_WLP-12" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Maxim_WLP-12 W121B2+1 http://pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF")
     (tags "Maxim_WLP-12")

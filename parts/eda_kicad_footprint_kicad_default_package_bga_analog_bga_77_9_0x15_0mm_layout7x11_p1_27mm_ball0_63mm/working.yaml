@@ -615,7 +615,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 77 1.27 LTC Dwg 05-08-1964 Rev. B
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

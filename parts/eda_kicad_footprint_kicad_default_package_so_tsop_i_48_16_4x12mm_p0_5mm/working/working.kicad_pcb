@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOP-I-48_16.4x12mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSOP-I, 48 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation DC), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSOP-I SO")

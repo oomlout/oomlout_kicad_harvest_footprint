@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-529_19x19mm_Layout23x23_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-529, NSMD, 19.0x19.0mm, 529 Ball, 23x23 Layout, 0.8mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
     (tags "BGA 529 0.8 529-ball FBGA")

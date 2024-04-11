@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "POM-2244P-C3310-2-R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Electret Condenser microphone, Project Unlimited (PU) Audio, https://api.puiaudio.com/file/b7e03aec-9603-48da-8064-9a0e0468047c.pdf")
     (tags "microphone electret")

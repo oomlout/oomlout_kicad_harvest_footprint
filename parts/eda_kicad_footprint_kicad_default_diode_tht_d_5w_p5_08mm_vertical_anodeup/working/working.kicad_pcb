@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_5W_P5.08mm_Vertical_AnodeUp" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif")
     (tags "Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Transformer, Toroid, horizontal, laying, Diameter 12,5mm, Amidon T44,")
     (tags "Transformer Toroid horizontal laying Diameter 12 5mm Amidon T44 ")

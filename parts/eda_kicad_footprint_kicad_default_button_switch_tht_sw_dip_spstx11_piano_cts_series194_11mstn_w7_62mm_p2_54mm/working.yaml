@@ -503,7 +503,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DIP Switch SPST Piano 7.62mm 300mil
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

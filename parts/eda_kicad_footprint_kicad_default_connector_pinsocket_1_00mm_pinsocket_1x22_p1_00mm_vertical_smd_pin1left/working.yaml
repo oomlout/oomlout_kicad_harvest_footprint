@@ -482,7 +482,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted socket strip SMD 1x22 1.00mm single row style1 pin1 left
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

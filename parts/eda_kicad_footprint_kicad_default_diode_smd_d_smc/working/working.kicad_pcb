@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SMC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode SMC (DO-214AB)")
     (tags "Diode SMC (DO-214AB)")

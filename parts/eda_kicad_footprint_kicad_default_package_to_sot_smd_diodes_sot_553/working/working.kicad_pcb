@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diodes_SOT-553" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf")
     (tags "SOT-553")

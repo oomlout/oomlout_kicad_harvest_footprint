@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_MultiPowerSO-30" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)")
     (tags "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm")

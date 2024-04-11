@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Choke_Schaffner_RN222-04-18.0x31.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Current-compensated Chokes, Schaffner, RN222-04, 18.0mmx31.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
     (tags "chokes schaffner tht")

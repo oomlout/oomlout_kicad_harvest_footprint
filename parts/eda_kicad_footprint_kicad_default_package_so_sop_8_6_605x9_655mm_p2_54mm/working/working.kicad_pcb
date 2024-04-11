@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOP-8_6.605x9.655mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOP, 8 Pin (https://www.onsemi.com/pdf/datasheet/hcpl2631m-d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOP SO")

@@ -743,7 +743,6 @@ footprint_string:
   solderPasteRatio: None
   tags: 37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm
     pin-PCB-offset 9.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

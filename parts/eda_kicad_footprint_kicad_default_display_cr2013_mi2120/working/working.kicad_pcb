@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CR2013-MI2120" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990")
     (tags "CR2013-MI2120 ILI9341 LCD Breakout")

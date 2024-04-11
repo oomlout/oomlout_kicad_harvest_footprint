@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA, 16 Pin (http://www.st.com/resource/en/datasheet/lis331hh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "LGA NoLead")

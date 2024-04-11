@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-263-9_TabPin5" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf")
     (tags "D2PAK DDPAK TO-263 D2PAK-9 TO-263-9")

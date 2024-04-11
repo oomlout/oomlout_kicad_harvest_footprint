@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMB_Jack_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMB pcb mounting jack")
     (tags "SMB Jack  Striaght")

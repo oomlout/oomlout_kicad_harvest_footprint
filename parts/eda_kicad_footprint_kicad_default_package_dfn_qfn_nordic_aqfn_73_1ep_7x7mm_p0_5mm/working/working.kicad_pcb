@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Nordic_AQFN-73-1EP_7x7mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html")
     (tags "AQFN 7mm ")

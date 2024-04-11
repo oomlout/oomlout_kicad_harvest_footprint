@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Xilinx_CLG400" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Zynq-7000 BGA, NSMD pad definition Appendix A, 17x17mm, 400 Ball, 20x20 Layout, 0.8mm Pitch, https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=78")
     (tags "BGA 400 0.8 CLG400 CL400")

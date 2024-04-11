@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TGS-5141" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fixaro carbon monoxide electrochemical sensor, https://figarosensor.com/product/docs/tgs5141-p00_product%20infomation%28fusa%29_rev07.pdf")
     (tags "Figaro CO sensor")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf")
     (tags "Diotec rectifier diode bridge")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_LFBGA-448_18x18mm_Layout22x22_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST LFBGA-448, 18.0x18.0mm, 448 Ball, 22x22 Layout, 0.8mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf")
     (tags "BGA 448 0.8")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_WE-XHMI-8080" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Wuerth, WE-XHMI 8080, 8.3mmx8.8mm (Script generated with StandardBox.py) (https://www.we-online.com/components/products/datasheet/74439358068.pdf)")
     (tags "Inductor Wuerth WE-XHMI 8080")

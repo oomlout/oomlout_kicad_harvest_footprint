@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LGA-28_5.2x3.8mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA 28 5.2x3.8mm Pitch 0.5mm")
     (tags "LGA 28 5.2x3.8mm Pitch 0.5mm")

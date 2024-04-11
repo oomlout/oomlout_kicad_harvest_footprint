@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Valve_ECC-83-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Valve ECC-83-2 flat pins")
     (tags "Valve ECC-83-2 flat pins")

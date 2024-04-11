@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DiodesInc_GEA20_WLCSP-20_1.70x2.10mm_Layout4x5_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diodes Incorporated WLCSP-20, GEA20, 1.7x2.1mm, 20 Ball, 4x5 Layout, 0.4mm Pitch, https://www.diodes.com/assets/Package-Files/GEA20.pdf")
     (tags "CSP 20 0.4")

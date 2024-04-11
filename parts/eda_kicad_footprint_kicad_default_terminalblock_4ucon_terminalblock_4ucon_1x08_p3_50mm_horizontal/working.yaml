@@ -480,7 +480,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block 4Ucon ItemNo. 19965 pitch 3.5mm size 28.7x7mm^2 drill 1.2mm
     pad 2.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

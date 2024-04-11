@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "6 lead, 1.1x0.7mm body, 0.37mm height, TSNP (https://www.infineon.com/cms/en/product/packages/PG-TSNP/PG-TSNP-6-10/)")
     (tags "PG-TSNP-6-10 TSNP")

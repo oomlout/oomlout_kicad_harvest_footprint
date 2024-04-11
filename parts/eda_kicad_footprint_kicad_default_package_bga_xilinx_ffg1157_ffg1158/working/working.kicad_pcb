@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Xilinx_FFG1157_FFG1158" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Virtex-7 BGA, NSMD pad definition Appendix A, 35x35mm, 1156 Ball, 34x34 Layout, 1mm Pitch, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=299")
     (tags "BGA 1156 1 FF1157 FFG1157 FFV1157 FF1158 FFG1158 FFV1158")

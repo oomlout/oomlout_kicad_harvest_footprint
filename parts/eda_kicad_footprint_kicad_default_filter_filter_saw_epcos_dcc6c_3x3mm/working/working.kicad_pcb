@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_SAW_Epcos_DCC6C_3x3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "EPCOS/TDK Electronics/Qualcomm DCC6c SAW filter package based on EPCOS app note 93 (https://www.catagle.com/45-2/PDF_AN93.htm)")
     (tags "SAW filter 6-pin")

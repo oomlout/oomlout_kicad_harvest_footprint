@@ -164,7 +164,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Power Module uPOL MUN12AD01
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

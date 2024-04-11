@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-324, https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00233-03.pdf")
     (tags "BGA-324")

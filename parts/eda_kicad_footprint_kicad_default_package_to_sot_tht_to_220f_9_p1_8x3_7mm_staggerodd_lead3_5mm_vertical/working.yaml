@@ -194,7 +194,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TO-220F-9 Vertical RM 0.9mm staggered type-1
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

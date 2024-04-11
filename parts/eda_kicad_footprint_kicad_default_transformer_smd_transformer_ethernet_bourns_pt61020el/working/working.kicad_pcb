@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Ethernet_Bourns_PT61020EL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10/100/1000 Base-T Transformer Module, PT61020EL (https://www.bourns.com/pdfs/PT61020.pdf)")
     (tags "Gigabit PoE Ethernet Transformer Single")

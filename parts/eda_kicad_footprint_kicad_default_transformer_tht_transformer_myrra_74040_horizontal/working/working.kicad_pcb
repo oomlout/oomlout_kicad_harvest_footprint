@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Myrra_74040_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,")
     (tags "Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040 ")

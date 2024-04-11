@@ -158,7 +158,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

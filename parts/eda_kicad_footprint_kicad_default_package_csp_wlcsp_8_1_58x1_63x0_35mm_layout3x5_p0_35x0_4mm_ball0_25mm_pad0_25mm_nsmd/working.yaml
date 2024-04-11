@@ -132,7 +132,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

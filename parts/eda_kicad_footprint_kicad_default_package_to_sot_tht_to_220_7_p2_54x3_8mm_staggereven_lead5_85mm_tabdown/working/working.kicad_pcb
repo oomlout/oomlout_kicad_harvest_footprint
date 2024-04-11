@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220-7_P2.54x3.8mm_StaggerEven_Lead5.85mm_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-2")
     (tags "TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-2")

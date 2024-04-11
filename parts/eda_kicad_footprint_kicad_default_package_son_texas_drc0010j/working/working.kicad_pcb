@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DRC0010J" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas DRC0010J, VSON10 3x3mm Body, 0.5mm Pitch,  http://www.ti.com/lit/ds/symlink/tps63000.pdf")
     (tags "Texas VSON10 3x3mm")

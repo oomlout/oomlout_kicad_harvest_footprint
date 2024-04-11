@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XFBGA-64, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf")
     (tags "XFBGA-64")

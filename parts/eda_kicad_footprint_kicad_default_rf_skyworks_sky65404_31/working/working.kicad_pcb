@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Skyworks_SKY65404-31" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf")
     (tags "Skyworks")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Shunt_Vishay_WSR2_WSR3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf")
     (tags "SMD Shunt Resistor")

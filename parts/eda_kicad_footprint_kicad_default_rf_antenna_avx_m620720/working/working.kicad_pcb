@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AVX_M620720" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "868Mhz, 915Mhz ISM antenna, 6 x 2 x 1.08mm, http://datasheets.avx.com/ethertronics/AVX-E_M620720.pdf")
     (tags "868 915 Mhz ISM antenna")

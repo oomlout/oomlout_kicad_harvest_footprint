@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TaiTech_TMPC1265_13.5x12.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Tai Tech TMPC1265 series SMD inductor https://datasheet.lcsc.com/lcsc/2009171439_TAI-TECH-TMPC1265HP-100MG-D_C305223.pdf, 13.5x12.5x6.2mm")
     (tags "Tai Tech TMPC1265 SMD inductor")

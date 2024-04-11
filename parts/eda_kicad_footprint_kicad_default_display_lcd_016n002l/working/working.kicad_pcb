@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LCD-016N002L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "16 x 2 Character LCD, http://www.vishay.com/product?docid=37299")
     (tags "LCD-016N002L 16 x 2 Character LCD")

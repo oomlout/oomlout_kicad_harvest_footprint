@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RotaryEncoder_Bourns_Horizontal_PEC09-2xxxF-Nxxxx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns rotary encoder, PEC09, without switch, horizontal shaft, https://www.bourns.com/products/encoders/contacting-encoders/product/PEC09")
     (tags "rotary encoder")

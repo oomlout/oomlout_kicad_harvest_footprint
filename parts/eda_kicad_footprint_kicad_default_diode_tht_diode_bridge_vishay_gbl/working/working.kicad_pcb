@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Vishay_GBL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Vishay GBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88609/gbl005.pdf")
     (tags "Vishay GBL rectifier diode bridge")

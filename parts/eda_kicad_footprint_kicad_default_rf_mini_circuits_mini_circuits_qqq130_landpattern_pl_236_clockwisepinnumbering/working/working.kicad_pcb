@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_QQQ130_LandPattern_PL-236_ClockwisePinNumbering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf) following land pattern PL-236, including GND vias (https://ww2.minicircuits.com/pcb/98-pl236.pdf)")
     (tags "Mini-Circuits PL-236")

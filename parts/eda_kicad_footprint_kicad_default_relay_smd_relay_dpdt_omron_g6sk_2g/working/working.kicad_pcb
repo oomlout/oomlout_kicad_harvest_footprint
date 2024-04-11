@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Omron_G6SK-2G" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay Omron G6SK-2G, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf")
     (tags "Relay Omron G6SK-2G")

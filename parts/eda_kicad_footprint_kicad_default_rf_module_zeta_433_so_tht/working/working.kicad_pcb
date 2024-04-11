@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ZETA-433-SO_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RF transceiver THT style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf")
     (tags "RF transceiver SMD style")

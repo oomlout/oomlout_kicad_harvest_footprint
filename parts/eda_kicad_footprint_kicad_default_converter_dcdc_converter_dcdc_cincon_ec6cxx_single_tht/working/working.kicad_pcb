@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Cincon_EC6Cxx_Single_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DCDC-Converter, CINCON, EC6Cxx, single output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf")
     (tags "DCDC-Converter CINCON EC6Cxx single output")

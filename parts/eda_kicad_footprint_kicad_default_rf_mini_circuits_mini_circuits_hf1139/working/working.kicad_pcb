@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_HF1139" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf)")
     (tags "Mini-Circuits HF1139")

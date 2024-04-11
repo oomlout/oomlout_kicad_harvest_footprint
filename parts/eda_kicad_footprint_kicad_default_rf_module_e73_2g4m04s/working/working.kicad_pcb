@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "E73-2G4M04S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.cdebyte.com/en/downpdf.aspx?id=243")
     (tags "BLE BLE5 nRF52832")

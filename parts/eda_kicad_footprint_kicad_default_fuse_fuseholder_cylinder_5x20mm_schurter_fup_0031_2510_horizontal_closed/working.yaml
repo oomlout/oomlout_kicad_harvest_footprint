@@ -212,7 +212,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Fuseholder 5x20mm horizontal closed
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

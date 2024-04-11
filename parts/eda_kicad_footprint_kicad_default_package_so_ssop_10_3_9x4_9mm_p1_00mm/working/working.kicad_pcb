@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-10_3.9x4.9mm_P1.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)")
     (tags "SSOP 3.9 4.9 1.00")

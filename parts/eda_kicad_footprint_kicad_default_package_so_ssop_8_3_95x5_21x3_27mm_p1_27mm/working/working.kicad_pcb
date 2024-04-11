@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-8_3.95x5.21x3.27mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SSOP-8 3.95x5.21x3.27mm Pitch 1.27mm")
     (tags "SSOP-8 3.95x5.21x3.27mm 1.27mm")

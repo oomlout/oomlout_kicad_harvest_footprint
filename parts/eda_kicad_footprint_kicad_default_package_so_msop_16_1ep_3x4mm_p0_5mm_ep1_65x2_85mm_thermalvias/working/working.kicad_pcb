@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MSOP, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "MSOP SO")

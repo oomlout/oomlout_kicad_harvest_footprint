@@ -286,7 +286,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block TE 1-282834-2 pitch 2.54mm size 30.94x6.5mm^2 drill 1.1mm
     pad 2.1mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

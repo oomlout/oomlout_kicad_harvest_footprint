@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRP1770TA_16.9x16.9mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRP1770TA series SMD Inductor http://www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf")
     (tags "Bourns SRP1770TA series SMD Inductor ")

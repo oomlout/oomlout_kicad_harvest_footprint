@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Modtronix_inAir9" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Modtronix Wireless SX1276 LoRa Module (http://modtronix.com/img/prod/imod/inair9/inair_dimensions.gif)")
     (tags "Modtronix LoRa inAir inAir9 SX1276 RF 915MHz 868MHz Wireless")

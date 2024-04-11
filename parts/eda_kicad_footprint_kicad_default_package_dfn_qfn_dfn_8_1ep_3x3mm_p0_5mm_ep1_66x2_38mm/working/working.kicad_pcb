@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DD Package; 8-Lead Plastic DFN (3mm x 3mm) (see Linear Technology DFN_8_05-08-1698.pdf)")
     (tags "DFN 0.5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SuperSOT-8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf")
     (tags "SuperSOT-8 SSOT-8")

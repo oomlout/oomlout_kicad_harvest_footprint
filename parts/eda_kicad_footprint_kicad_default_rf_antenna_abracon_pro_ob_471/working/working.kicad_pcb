@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Abracon_PRO-OB-471" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "OnBoard 868/915/868+2400 MHz Antenna, https://abracon.com/datasheets/PRO-OB-471.pdf")
     (tags "Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz")

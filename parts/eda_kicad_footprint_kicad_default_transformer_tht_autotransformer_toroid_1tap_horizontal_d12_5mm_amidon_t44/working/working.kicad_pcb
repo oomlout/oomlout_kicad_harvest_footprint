@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Autotransformer_Toroid_1Tap_Horizontal_D12.5mm_Amidon-T44" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 12,5mm, Amidon T44,")
     (tags "Autotransformer Toroid horizontal laying 1 Tap Diameter 12 5mm Amidon T44 ")

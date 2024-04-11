@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UQFN-10_1.4x1.8mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UQFN 10pin, https://www.onsemi.com/pub/Collateral/488AT.PDF")
     (tags "UQFN-10_1.4x1.8mm_P0.4mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SuperSOT-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "6-pin SuperSOT package http://www.mouser.com/ds/2/149/FMB5551-889214.pdf")
     (tags "SuperSOT-6 SSOT-6")

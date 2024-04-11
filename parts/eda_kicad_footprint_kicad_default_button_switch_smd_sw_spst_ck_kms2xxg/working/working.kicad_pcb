@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_CK_KMS2xxG" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Microminiature SMT Side Actuated, 4.2 x 2.8 x 1.42mm, https://www.ckswitches.com/media/1482/kms.pdf")
     (tags "Switch SPST KMS2")

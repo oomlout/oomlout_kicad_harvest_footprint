@@ -280,7 +280,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LoRa WiFi Heltec HT-CT62 ESP32C3
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

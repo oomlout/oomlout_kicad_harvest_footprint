@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_2x05_P2.00mm_Vertical_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "surface-mounted straight socket strip, 2x05, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated")
     (tags "Surface mounted socket strip SMD 2x05 2.00mm double row")

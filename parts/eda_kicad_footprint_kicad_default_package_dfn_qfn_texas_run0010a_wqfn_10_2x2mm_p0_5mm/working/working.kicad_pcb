@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RUN0010A_WQFN-10_2x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas RUN0010A WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas WQFN NoLead")

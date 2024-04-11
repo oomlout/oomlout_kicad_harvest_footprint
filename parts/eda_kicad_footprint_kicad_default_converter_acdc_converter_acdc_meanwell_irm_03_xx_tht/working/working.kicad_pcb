@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_MeanWell_IRM-03-xx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACDC-Converter, 3W, Meanwell, IRM-03, THT, https://www.meanwell.com/Upload/PDF/IRM-03/IRM-03-SPEC.PDF")
     (tags "ACDC-Converter 3W THT")

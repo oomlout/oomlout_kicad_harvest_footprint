@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 32 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")

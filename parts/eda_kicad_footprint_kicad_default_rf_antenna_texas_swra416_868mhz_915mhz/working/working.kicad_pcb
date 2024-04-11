@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_SWRA416_868MHz_915MHz" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.ti.com/lit/an/swra416/swra416.pdf")
     (tags "PCB antenna")

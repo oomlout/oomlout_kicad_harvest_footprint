@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_G8-2Pin_3.2x1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal G8, 3.2x1.5mm^2 package")
     (tags "SMD SMT crystal")

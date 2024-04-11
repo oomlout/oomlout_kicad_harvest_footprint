@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFBGA-400_16x16mm_Layout20x20_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFBGA-400, NSMD, 16.0x16.0mm, 400 Ball, 20x20 Layout, 0.8mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
     (tags "BGA 400 0.8 400-ball FBGA")

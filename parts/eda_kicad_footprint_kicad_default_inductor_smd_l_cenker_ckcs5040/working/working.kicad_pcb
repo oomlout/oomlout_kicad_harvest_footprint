@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Cenker_CKCS5040" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Cenker, CKCS5040, 5.0x5.0x4.0mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf")
     (tags "Inductor ckcs")

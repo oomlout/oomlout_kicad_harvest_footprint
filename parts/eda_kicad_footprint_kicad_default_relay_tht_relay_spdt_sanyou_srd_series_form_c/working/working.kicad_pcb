@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_SANYOU_SRD_Series_Form_C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
     (tags "relay Sanyu SRD form C")

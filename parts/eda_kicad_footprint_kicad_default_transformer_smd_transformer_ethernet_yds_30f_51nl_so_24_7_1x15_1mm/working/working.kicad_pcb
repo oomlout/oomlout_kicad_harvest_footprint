@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "YDS SO Transformer_SMD")

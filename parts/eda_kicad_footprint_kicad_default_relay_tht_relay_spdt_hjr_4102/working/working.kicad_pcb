@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_HJR-4102" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "IM Signal Relay SPDT HJR-4102")
     (tags "Relay SPDT IM-relay HJR-4102")

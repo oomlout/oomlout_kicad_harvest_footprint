@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-16_5.3x6.2mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SSOP, 16 Pin (https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SSOP SO")

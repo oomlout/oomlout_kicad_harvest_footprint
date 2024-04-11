@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-49_3.15x3.13mm_Layout7x7_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-49, ST die ID 468, 3.15x3.13mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g431c6.pdf")
     (tags "CSP 49 0.4")

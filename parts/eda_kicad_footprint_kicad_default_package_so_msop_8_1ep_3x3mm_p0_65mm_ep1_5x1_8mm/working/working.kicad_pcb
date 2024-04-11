@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MSOP, 8 Pin (https://www.diodes.com/assets/Package-Files/MSOP-8EP.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "MSOP SO")

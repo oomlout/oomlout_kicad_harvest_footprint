@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPST_COTO_3602" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Low thermal EMF DPST-NO reed relay, 150V 0.25A, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf")
     (tags "reed relay low thermal emf")

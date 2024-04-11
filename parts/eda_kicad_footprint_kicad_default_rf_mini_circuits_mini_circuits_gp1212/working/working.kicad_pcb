@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_GP1212" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf)")
     (tags "mini-circuits GP1212")

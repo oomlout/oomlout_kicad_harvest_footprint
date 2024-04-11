@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-132_4.57x4.37mm_Layout12x11_P0.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-132, ST die ID 480, 4.57x4.37mm, 132 Ball, 12x11 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32h7a3ai.pdf")
     (tags "CSP 132 0.35")

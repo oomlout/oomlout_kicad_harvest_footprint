@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MPS_QFN-12_2x2mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MPS  QFN, 12 Pin (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP5087A#page24), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "MPS QFN NoLead")

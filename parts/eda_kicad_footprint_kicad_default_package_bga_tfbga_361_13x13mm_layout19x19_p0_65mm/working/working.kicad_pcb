@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TFBGA-361_13x13mm_Layout19x19_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFBGA-361, NSMD, 13.0x13.0mm, 361 Ball, 19x19 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
     (tags "BGA 361 0.65 361-ball FBGA")

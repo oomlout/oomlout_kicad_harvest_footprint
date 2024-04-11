@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ9_Evercom_5301-440xxx_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Evercom 5301-4P4C RJ9 receptacle, unshielded, https://datasheet.lcsc.com/lcsc/2207051802_EVERCOM-5301-4P4C_C3097715.pdf")
     (tags "RJ9 Connector tab down")

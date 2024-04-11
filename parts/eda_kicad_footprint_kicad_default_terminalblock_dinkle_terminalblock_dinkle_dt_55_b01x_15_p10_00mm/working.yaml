@@ -1186,7 +1186,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

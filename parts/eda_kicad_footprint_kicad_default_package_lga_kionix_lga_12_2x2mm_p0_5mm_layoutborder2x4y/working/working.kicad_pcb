@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Kionix  LGA, 12 Pin (http://kionixfs.kionix.com/en/document/TN008-PCB-Design-Guidelines-for-2x2-LGA-Sensors.pdf#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Kionix LGA NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Linx_RXM-GPS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)")
     (tags "gps linx")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_CHK_EI48-10VA_Neutral" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Trafo, Printtrafo, CHK, EI48, 10VA, neutral, http://www.eratransformers.com/product-detail/18")
     (tags "Trafo Printtrafo CHK EI48 10VA neutral ")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Xilinx_CPG238" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Artix-7 BGA, NSMD pad definition Appendix A, 10x10mm, 238 Ball, 19x19 Layout, 0.5mm Pitch, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=267")
     (tags "BGA 238 0.5 CPG238")

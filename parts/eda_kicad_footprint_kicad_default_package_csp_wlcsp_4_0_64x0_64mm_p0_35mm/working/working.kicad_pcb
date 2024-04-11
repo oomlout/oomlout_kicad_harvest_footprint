@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-4_0.64x0.64mm_P0.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23")
     (tags "CSP 4 0.35")

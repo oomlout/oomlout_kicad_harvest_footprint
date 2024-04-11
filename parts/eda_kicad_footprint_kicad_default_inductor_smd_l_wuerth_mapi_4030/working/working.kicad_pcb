@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_MAPI-4030" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Wuerth Elektronik, Wuerth_MAPI-4030, 4.0mmx4.0mm")
     (tags "inductor Wuerth smd")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Micro-B_Technik_TWP-4002D-H3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Dustproof Micro USB Type B TWP-4002D-H3, https://www.technik.com.hk/images/pdf_product/WP4002D-H3-A_2.0.pdf")
     (tags "USB Micro B horizontal dustproof waterproof IP67")

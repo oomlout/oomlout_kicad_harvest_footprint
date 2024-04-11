@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Vishay_TS53YJ_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, Vishay TS53YJ, https://www.vishay.com/docs/51008/ts53.pdf")
     (tags "Potentiometer vertical Vishay TS53YJ")

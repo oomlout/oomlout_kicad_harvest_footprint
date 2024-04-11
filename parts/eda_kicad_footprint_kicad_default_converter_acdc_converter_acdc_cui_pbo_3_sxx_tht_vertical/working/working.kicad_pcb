@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf")
     (tags "Converter AC-DC THT Vertical")

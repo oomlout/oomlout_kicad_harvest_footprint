@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOD-70_P5.08mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]")
     (tags "Sod-70")

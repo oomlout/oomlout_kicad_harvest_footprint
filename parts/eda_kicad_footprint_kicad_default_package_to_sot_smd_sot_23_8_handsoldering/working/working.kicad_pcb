@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-23-8_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf")
     (tags "SOT-23-8 Handsoldering")

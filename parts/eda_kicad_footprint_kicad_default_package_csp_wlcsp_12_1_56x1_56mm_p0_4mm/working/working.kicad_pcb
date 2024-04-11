@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-12_1.56x1.56mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP 12 1.56x1.56 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMM150-DS001-01.pdf")
     (tags "BMM150 WLCSP")

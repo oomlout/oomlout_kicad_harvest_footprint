@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WDFN, 12 Pin (https://www.diodes.com/assets/Datasheets/PAM2306.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WDFN NoLead")

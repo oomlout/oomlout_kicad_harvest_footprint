@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Myrra_EI30-5_44000_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Myrra 44000 series encapsulated transformer, 50/60Hz, EI 30-5, 0.6VA, 32.6 x 27.6 x 15.3mm, https://myrra.com/wp-content/uploads/2021/03/Catalogue-Myrra-2022-Final_compressed-5.pdf")
     (tags "Transformer THT  Myrra")

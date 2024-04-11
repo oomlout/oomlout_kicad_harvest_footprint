@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, YZT, 1.86x1.36mm, 12 Ball, 3x4 Layout, 0.5mm Pitch, http://www.ti.com/lit/ds/symlink/txb0104.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf")
     (tags "BGA 12 0.5 R-XBGA-N12")

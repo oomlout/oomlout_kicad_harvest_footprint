@@ -177,7 +177,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

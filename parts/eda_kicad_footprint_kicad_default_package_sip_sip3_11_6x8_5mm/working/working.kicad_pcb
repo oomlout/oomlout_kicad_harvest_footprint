@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SIP3_11.6x8.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf")
     (tags "SIP3 Regulator Module")

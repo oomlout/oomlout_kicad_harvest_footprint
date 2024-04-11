@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_HVM-DIP-3_W7.62mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4), row spacing 7.62 mm (300 mils), see https://www.vishay.com/docs/91361/hexdip.pdf")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP")

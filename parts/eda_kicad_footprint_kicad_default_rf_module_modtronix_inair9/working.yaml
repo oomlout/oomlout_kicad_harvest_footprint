@@ -190,7 +190,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Modtronix LoRa inAir inAir9 SX1276 RF 915MHz 868MHz Wireless
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

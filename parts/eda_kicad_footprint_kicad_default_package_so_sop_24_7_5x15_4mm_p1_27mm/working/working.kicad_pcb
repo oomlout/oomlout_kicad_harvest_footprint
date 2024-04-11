@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOP-24_7.5x15.4mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOP SO")

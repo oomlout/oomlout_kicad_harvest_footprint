@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-100_4.437x4.456mm_Layout10x10_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-100, ST die ID 471, 4.437x4.456mm, 100 Ball, 10x10 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32l4p5ve.pdf")
     (tags "CSP 100 0.4")

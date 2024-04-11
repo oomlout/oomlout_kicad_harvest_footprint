@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_D6.4mm_P3.4mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Resistor, LDR D=6.4mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
     (tags "Resistor LDRD=6.4mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TerminalBlock_Wuerth_691311400102_P7.62mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://katalog.we-online.de/em/datasheet/6913114001xx.pdf")
     (tags "Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm")

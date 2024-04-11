@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Linear_MSOP-12-16_3x4mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "12-Lead Plastic Micro Small Outline Package (MS) [MSOP], variant of MSOP-16 (see https://www.analog.com/media/en/technical-documentation/data-sheets/3748fb.pdf)")
     (tags "SSOP 0.5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Pulse_JXD6-0001NL_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RJ45 ethernet transformer with magnetics (https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)")
     (tags "ethernet 8p8c transformer magjack")

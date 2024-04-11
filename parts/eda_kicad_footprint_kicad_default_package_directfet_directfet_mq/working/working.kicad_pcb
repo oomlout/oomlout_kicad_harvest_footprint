@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DirectFET_MQ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DirectFET MQ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=29")
     (tags "DirectFET MQ MOSFET Infineon")

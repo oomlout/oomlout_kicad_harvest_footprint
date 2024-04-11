@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")

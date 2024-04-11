@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_THTPad_D2.5mm_Drill1.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm ")
     (tags "test point THT pad")

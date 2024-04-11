@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TQFP-48-1EP_7x7mm_P0.5mm_EP4.11x4.11mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TQFP, 48 Pin (https://www.lumissil.com/assets/pdf/core/IS31FL3236_DS.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TQFP QFP")

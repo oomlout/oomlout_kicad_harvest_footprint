@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Rect_L31.5mm_W17.0mm_P27.50mm_MKS4" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*17mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
     (tags "C Rect series Radial pin pitch 27.50mm  length 31.5mm width 17mm Capacitor")

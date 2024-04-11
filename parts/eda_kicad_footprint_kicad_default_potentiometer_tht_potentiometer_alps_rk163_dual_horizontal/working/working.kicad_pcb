@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Alps_RK163_Dual_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf")
     (tags "Potentiometer horizontal Alps RK163 Dual")

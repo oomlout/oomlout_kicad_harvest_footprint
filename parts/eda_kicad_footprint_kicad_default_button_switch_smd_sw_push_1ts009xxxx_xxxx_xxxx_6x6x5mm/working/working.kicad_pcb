@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "tactile push button, 6x6mm, height=5mm, 12V 50mA, https://datasheet.lcsc.com/lcsc/1811151231_HYP--Hongyuan-Precision-1TS009A-1800-5000-CT_C319409.pdf")
     (tags "tact sw push 6mm silicone rubber")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Broadcom_AFBR-16xxZ_Tilted" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fiber Optic Transmitter and Receiver, https://docs.broadcom.com/docs/AV02-4369EN")
     (tags "Fiber Optic Transmitter and Receiver")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFCSP-8_2x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf")
     (tags "LFCSP 8pin 2x2mm Pitch 0.5mm")

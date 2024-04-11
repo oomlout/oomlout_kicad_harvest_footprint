@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fairchild_TO-220F-6L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf")
     (tags "Fairchild TO-220F-6L")

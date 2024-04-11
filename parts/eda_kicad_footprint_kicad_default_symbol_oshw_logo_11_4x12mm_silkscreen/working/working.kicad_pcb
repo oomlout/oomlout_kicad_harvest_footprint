@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OSHW-Logo_11.4x12mm_SilkScreen" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")

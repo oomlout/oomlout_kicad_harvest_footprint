@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Alps_RK09L_Double_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "122002H 122002L 12B0A4S 12B0A1V Potentiometer, horizontal, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf")
     (tags "Potentiometer horizontal Alps RK09L Double")

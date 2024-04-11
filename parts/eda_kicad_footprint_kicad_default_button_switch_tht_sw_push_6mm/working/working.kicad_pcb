@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_PUSH_6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic 6mm SW tactile push button")
     (tags "tact sw push 6mm")

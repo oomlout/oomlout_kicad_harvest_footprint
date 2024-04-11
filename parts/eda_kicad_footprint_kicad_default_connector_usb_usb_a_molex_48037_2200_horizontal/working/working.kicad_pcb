@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Molex_48037-2200_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB type A Plug, Horizontal, https://www.molex.com/pdm_docs/sd/480372200_sd.pdf")
     (tags "USB-A")

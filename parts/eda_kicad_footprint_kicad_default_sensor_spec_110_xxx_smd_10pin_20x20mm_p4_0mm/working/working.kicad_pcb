@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SPEC_110-xxx_SMD-10Pin_20x20mm_P4.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SPEC Sensors SMD package, 20x20mm, https://www.spec-sensors.com/wp-content/uploads/2016/10/3SP_H2S_50-C-Package-110-304.pdf")
     (tags "SPEC Sensors gas sensor")

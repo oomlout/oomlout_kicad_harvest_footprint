@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diodes_PowerDI3333-8_UXC_3.3x3.3mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diodes Incorporated PowerDI3333-8 UXC, 3.05x3.05x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8%20(Type%20UXC).pdf")
     (tags "PowerDI 0.65")

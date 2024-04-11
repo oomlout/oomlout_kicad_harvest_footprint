@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid, Air-Coil, SML, 6-10turn, HAM0631A-HAM1031A,")
     (tags "Neosid Air-Coil SML 6-10turn HAM0631A-HAM1031A")

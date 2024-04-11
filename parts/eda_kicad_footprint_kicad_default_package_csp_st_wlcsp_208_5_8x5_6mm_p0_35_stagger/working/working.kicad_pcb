@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-208_5.8x5.6mm_P0.35_Stagger" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-208, ST die ID 476, 5.8x5.6mm, 208 Ball, X-staggered 26x16 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32u5f9bj.pdf")
     (tags "CSP 208 0.35")

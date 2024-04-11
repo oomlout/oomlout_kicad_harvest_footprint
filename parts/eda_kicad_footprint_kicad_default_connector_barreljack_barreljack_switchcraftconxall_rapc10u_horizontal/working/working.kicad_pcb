@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf")
     (tags "barreljack switchcraftconxall dc power")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SolderWirePad_1x01_SMD_5x10mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Wire Pad, Square, SMD Pad,  5mm x 10mm,")
     (tags "MesurementPoint Square SMDPad 5mmx10mm ")

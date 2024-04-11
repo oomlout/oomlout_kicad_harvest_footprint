@@ -166,7 +166,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: VL53L1CXV0FY1 VL53L1x
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

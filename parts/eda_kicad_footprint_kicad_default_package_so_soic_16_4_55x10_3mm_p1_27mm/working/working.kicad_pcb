@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOIC-16_4.55x10.3mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOIC, 16 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DH Package; 16-Lead Plastic DFN (5mm x 5mm) (see Linear Technology DFN_16_05-08-1709.pdf)")
     (tags "DFN 0.5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_ACP_CA9-V10_Vertical_Hole" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, shaft hole, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
     (tags "Potentiometer vertical hole ACP CA9-V10")

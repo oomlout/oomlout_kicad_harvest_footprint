@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-64_Die414" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-64, 4.466x4.395mm, 64 Ball, 8x8 Layout, 0.5mm Pitch, http://www.st.com/resource/en/datasheet/stm32f103ze.pdf#page=120")
     (tags "CSP 64 0.5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DIP-64_W26.67mm_SMDSocket_LongPads" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "64-lead though-hole mounted DIP package, row spacing 26.67 mm (1050 mils), SMDSocket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads")

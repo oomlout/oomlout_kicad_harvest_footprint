@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_Kobitone_254-EMB73-RO" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MagneticBuzzer_Kobitone_254-EMB73-RO https://www.mouser.es/datasheet/2/209/joytech_11092018_KT-400379-1501513.pdf")
     (tags "MagneticBuzzer_Kobitone_254-EMB73-RO")

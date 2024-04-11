@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_Hahn_HS-400xx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACDC-Converter, 3W, Hahn-HS-400xx, THT https://www.schukat.com/schukat/schukat_cms_de.nsf/index/FrameView?OpenDocument&art=HS40009&wg=M7942")
     (tags "Hahn ACDC-Converter THT")

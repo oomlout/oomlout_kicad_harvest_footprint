@@ -147,7 +147,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: HSOP 1.27
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

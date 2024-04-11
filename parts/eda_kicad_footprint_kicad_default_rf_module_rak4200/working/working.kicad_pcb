@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RAK4200" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RAK4200 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf")
     (tags "LoRa LoRaWAN RAK4200")

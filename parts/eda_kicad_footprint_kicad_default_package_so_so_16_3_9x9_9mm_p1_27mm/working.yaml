@@ -189,7 +189,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SO SO SOT109-1
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

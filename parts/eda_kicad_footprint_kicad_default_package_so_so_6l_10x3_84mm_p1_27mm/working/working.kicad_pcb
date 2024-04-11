@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SO-6L_10x3.84mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770")
     (tags "SO-6L")

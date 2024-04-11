@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-6_1.4x1.0mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "6pin Pitch 0.4mm")
     (tags "6pin Pitch 0.4mm WLCSP")

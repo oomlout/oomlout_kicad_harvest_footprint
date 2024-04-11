@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_UDFN-8_1.2x1.8mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)")
     (tags "dfn udfn dual flat")

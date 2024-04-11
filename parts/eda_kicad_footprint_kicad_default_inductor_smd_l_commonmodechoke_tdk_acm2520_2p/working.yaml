@@ -99,7 +99,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACM2520 common-mode filter 4 pin
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

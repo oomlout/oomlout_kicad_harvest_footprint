@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")

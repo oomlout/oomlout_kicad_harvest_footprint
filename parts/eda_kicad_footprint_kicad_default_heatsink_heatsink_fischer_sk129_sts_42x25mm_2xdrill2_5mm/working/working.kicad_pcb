@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, Fischer SK129")
     (tags "heatsink fischer")

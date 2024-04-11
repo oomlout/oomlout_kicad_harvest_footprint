@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_B3SL-1002P" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Middle Stroke Tactile Switch, B3SL")
     (tags "Middle Stroke Tactile Switch")

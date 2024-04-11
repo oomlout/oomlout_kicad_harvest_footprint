@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_CK_KXT3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.ckswitches.com/media/1465/kxt3.pdf")
     (tags "Switch SPST KXT3")

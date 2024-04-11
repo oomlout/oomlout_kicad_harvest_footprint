@@ -915,7 +915,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted socket strip SMD 2x27 1.00mm double row
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

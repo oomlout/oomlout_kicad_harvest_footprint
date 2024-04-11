@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Wuerth_36103505_50x50mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WE-SHC Shielding Cabinet SMD 50x50mm")
     (tags "Shielding Cabinet")

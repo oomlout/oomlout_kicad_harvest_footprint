@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wurth_WE-LQSH-2010" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010")
     (tags "SMT")

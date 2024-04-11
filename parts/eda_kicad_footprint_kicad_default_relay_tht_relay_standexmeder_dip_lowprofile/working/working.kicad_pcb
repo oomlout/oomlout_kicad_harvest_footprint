@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_StandexMeder_DIP_LowProfile" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf")
     (tags "DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay")

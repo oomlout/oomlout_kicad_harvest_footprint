@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")

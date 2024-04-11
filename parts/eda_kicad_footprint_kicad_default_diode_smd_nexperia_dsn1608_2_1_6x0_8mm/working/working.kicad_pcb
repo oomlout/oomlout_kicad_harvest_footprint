@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Nexperia_DSN1608-2_1.6x0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode SMD DSN1608, 1.6 x 0.8 x 0.29 mm, https://assets.nexperia.com/documents/package-information/SOD964.pdf")
     (tags "diode SOD964 SOD-964")

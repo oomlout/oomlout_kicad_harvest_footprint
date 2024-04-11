@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-S-8-1EP_6x5mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic Dual Flat, No Lead Package (MF) - 6x5 mm Body [DFN-S] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "DFN 1.27")

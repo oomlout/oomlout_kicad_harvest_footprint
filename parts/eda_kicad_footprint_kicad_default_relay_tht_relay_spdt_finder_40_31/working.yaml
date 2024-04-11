@@ -145,7 +145,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Relay DPDT Finder 40.31 Pitch 3.5mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

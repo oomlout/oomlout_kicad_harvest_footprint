@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_RAYEX-L90BS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf")
     (tags "Relay RAYEX L90BS SPST NC")

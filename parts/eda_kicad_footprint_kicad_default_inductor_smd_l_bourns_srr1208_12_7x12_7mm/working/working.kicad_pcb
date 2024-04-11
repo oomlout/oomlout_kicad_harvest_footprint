@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRR1208_12.7x12.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf")
     (tags "Bourns SRP1208 SMD inductor")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.5")

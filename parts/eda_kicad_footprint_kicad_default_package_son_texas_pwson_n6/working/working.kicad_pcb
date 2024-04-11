@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_PWSON-N6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf")
     (tags "Plastic Small Outline No-Lead")

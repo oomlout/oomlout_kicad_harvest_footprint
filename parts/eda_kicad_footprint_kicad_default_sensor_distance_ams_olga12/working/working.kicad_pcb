@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMS_OLGA12" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TMF8820/1/8 distance sensor")
     (tags "TMF8820 TMF8821 TMF8828 ")

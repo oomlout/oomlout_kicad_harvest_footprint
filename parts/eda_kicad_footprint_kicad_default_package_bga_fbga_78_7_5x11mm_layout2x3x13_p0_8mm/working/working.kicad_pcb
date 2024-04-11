@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "FBGA-78, https://www.skhynix.com/product/filedata/fileDownload.do?seq=7687")
     (tags "FBGA-78")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AFF_2x7SEG-DIGIT_10mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Afficheur 7 segments 10mm DIGIT")
     (tags "AFFICHEUR")

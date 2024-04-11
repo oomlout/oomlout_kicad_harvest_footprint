@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_DOGM128-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf")
     (tags "EA DOGM128-6")

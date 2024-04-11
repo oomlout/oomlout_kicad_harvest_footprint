@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DQX002A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas DQX - 2pin WSON, 2.5x1.7mm body, 0.8mm height. https://www.ti.com/lit/ds/symlink/lmt01.pdf")
     (tags "WSON-2 DQX")

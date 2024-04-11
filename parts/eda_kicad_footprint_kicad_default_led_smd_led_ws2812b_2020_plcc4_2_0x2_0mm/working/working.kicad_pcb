@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_WS2812B-2020_PLCC4_2.0x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf")
     (tags "LED RGB NeoPixel Nano PLCC-4 2020")

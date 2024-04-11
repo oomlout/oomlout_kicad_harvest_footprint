@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PowerIntegrations_TO-220-7C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf")
     (tags "Power Integration Y Package")

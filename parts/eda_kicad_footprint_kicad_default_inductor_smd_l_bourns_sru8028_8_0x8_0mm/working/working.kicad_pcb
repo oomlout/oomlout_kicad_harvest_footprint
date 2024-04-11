@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRU8028_8.0x8.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRU8028 series SMD inductor")
     (tags "Bourns SRU8028 SMD inductor")

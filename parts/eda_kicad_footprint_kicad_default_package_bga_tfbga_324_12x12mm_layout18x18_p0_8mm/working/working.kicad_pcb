@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TFBGA-324_12x12mm_Layout18x18_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFBGA-324, NSMD, 12.0x12.0mm, 324 Ball, 18x18 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf")
     (tags "BGA 324 0.65 324-ball FBGA")

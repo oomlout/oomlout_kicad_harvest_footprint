@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PowerPAK_SO-8L_Single" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PowerPAK SO-8L Single (https://www.vishay.com/docs/64721/an913.pdf)")
     (tags "PowerPAK SO-8L_Single")

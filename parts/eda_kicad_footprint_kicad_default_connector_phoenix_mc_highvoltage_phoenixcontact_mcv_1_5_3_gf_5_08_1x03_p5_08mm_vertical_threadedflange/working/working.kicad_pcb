@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MCV_1,5_3-GF-5.08_1x03_P5.08mm_Vertical_ThreadedFlange" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/3-GF-5.08; number of pins: 03; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1847628 8A 320V")
     (tags "phoenix_contact connector MCV_01x03_GF_5.08mm")

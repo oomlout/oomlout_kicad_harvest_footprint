@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_3PST_COTO_3650" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Low thermal EMF 3PST-NO reed relay, 150V 0.25A, similar to 3660 but with independent shield, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf")
     (tags "reed relay low thermal emf")

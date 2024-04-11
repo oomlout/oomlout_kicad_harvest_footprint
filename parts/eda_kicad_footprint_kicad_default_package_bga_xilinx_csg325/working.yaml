@@ -2343,7 +2343,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 324 0.8 CS325 CSG235
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

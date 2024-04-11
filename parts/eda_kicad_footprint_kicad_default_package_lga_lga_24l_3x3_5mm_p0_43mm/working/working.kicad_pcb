@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LGA-24L_3x3.5mm_P0.43mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA 24L 3x3.5mm Pitch 0.43mm")
     (tags "LGA 24L 3x3.5mm Pitch 0.43mm")

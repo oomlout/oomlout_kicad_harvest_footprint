@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Wuerth_750315371" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm")
     (tags "transformer flyback")

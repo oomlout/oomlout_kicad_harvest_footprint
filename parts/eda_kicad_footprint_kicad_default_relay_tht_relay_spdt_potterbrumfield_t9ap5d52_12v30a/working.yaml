@@ -209,7 +209,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUm Connector Fast ON Flachsteckeranschluss
     Only Dummy for Space NO Pads
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

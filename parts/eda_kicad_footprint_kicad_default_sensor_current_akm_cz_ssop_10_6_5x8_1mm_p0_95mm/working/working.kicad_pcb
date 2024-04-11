@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AKM CZ-381x current sensor, 6.5x8.1mm body, 0.95mm pitch (http://www.akm.com/akm/en/product/detail/0009/)")
     (tags "akm cz-381x 10")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRU5016_5.2x5.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRU5016 series shielded SMD power inductor, 1.6mm height https://www.bourns.com/docs/product-datasheets/sru5016.pdf")
     (tags "Bourns SRU5016 SMD inductor")

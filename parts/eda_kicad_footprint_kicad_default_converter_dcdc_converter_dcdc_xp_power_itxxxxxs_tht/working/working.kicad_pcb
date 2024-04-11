@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_XP_POWER-ITxxxxxS_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/portals/0/pdfs/SF_ITX.pdf https://www.xppower.com/portals/0/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator")
     (tags "XP_POWER  ITxxxxxS SIP DCDC-Converter")

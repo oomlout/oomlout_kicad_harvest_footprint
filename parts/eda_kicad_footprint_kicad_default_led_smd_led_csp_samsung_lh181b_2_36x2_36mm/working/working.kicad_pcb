@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_CSP_Samsung_LH181B_2.36x2.36mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "High Power CSP LED, 2.36mm x 2.36mm, 1.4A max, https://cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf")
     (tags "LED Samsung LH181B")

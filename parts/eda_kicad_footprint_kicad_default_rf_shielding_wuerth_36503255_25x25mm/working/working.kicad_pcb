@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Wuerth_36503255_25x25mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WE-SHC Shielding Cabinet THT 26x26mm")
     (tags "Shielding Cabinet")

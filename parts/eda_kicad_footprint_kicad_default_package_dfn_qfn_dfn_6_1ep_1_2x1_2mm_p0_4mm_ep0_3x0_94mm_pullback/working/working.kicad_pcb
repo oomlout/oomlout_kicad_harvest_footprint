@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "DFN NoLead")

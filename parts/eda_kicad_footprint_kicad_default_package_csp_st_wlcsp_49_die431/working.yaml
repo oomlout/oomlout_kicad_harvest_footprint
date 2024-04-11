@@ -420,7 +420,6 @@ footprint_string:
   solderPasteMargin: 1e-06
   solderPasteRatio: None
   tags: CSP 49 0.4
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

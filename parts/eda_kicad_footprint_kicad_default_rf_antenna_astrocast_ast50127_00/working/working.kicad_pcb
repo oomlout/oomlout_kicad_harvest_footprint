@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Astrocast_AST50127-00" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "L-band patch antenna, https://docs.astrocast.com/dl/0534-DOC-M2M-ASTRO-Patch_Antenna-Datasheet.pdf")
     (tags "L-band antenna astrocast Patch Antenna")

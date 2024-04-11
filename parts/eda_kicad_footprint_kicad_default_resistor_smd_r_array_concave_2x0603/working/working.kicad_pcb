@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Array_Concave_2x0603" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)")
     (tags "resistor array")

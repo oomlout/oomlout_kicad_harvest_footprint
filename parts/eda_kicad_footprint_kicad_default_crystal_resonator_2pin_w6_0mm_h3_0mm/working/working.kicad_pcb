@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Resonator-2Pin_W6.0mm_H3.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 2 pins")
     (tags "THT ceramic resonator filter")

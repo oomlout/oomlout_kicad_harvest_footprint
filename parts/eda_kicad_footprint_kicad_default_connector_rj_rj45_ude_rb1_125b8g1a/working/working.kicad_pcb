@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_UDE_RB1-125B8G1A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3")
     (tags "RJ45 ethernet")

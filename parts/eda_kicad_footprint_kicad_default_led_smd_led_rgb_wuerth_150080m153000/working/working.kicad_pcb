@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_Wuerth_150080M153000" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.we-online.com/components/products/datasheet/150080M153000.pdf")
     (tags "RGB LED 0805")

@@ -137,7 +137,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Isolated 1W or 2W Single Output SM DC/DC Converters
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

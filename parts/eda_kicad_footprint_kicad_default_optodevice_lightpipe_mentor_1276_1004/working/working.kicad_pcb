@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Lightpipe_Mentor_1276.1004" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf")
     (tags "spherical light pipe 4 way 3mm PLCC-2 PLCC-4")

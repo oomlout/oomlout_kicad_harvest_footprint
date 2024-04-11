@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "DFN NoLead")

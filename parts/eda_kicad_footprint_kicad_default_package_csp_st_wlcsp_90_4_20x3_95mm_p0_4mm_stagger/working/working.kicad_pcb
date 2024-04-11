@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-90_4.20x3.95mm_P0.4mm_Stagger" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-90, ST die ID 482, 4.2x3.95mm, 90 Ball, X-staggered 18x10 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32u575og.pdf#page=306")
     (tags "CSP 90 0.4")

@@ -86,7 +86,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: C Rect series Radial pin pitch 27.50mm  length 31.5mm width 17mm Capacitor
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-89-5_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf")
     (tags "SOT-89-5")

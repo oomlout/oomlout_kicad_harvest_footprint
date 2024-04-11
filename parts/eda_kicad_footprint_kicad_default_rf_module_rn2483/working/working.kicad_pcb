@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RN2483" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Low-Power Long Range LoRa Transceiver Module")
     (tags "rf module lora lorawan")

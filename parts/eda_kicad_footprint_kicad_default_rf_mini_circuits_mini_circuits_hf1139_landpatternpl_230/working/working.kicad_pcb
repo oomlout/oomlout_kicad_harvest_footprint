@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_HF1139_LandPatternPL-230" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf) following land pattern PL-230, including GND vias (https://ww2.minicircuits.com/pcb/98-pl230.pdf)")
     (tags "Mini-Circuits PL-230")

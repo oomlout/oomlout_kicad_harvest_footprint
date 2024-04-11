@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
     (tags "Heatsink fischer TO-220")

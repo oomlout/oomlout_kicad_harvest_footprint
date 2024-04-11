@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Symbol_Attention_Triangle_8x7mm_Copper" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Symbol, Attention, 8x7mm, copper layer")
     (tags "warning graphic")

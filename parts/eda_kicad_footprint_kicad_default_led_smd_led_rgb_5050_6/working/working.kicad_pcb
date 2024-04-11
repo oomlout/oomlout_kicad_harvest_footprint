@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_5050-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf")
     (tags "RGB LED 5050-6")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_ECH8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF")
     (tags "ECH8 SOT28-FL SOT-28-FL")

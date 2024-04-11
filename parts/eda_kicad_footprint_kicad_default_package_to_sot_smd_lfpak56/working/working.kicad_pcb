@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFPAK56" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
     (tags "LFPAK56 SOT-669 Power-SO8")

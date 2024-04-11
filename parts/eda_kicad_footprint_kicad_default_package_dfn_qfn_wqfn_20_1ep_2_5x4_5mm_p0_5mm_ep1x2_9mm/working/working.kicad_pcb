@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.onsemi.com/pub/Collateral/510CD.PDF")
     (tags "WQFN-20 4.5mm 2.5mm 0.5mm")

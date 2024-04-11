@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_R-PDSO-G6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "R-PDSO-G6, http://www.ti.com/lit/ds/slis144b/slis144b.pdf")
     (tags "R-PDSO-G6 SC-70-6")

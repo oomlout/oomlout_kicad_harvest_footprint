@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NINA-B111" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "NINA-B111 LGA module 42 Pin https://content.u-blox.com/sites/default/files/NINA-B1_DataSheet_UBX-15019243.pdf#page=30")
     (tags "NINA ublox u-blox b111 bluetooth nrf52840 module")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)")
     (tags "LFCSP 0.5")

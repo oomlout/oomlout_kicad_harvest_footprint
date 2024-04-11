@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-36_2.374x2.459mm_Layout6x6_P0.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00604D.pdf")
     (tags "WLCSP-36")

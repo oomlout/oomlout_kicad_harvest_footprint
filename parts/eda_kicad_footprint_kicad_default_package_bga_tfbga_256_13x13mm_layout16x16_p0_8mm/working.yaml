@@ -1868,7 +1868,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 256 0.8 256-ball FBGA
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TEA1-xxxxHI_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DCDC-Converter, TRACO, TEA1-xxxxHI, 1W, Rev. October 31. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tea1hi.pdf)")
     (tags "DCDC-Converter TRACO TEA1HI THT SIP-7 1W")

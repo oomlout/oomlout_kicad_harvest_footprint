@@ -787,7 +787,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole angled socket strip THT 1x26 2.54mm single row
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

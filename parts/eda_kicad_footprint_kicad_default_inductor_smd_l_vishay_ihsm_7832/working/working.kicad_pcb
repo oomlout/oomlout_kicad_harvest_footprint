@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Vishay_IHSM-7832" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm")
     (tags "inductor vishay icsm smd")

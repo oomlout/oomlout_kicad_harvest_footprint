@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Keystone_1058_1x2032" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.keyelco.com/product-pdf.cfm?p=14028")
     (tags "Keystone type 1058 coin cell retainer")

@@ -435,7 +435,6 @@ footprint_string:
   solderPasteRatio: None
   tags: module wireless zigbee 802.15.4 flash crypto ATSAMR21G18 AT45DB041E  TECC508A
     U.Fi
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

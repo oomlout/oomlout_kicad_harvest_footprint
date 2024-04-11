@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Balun_Johanson_0900FM15K0039" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Johanson 0900FM15K0039 DFN, 10 Pin (https://www.johansontechnology.com/datasheets/0900FM15K0039/0900FM15K0039.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Johanson DFN NoLead")

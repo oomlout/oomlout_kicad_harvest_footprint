@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Linear_UGK52_QFN-46-52" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Linear UKG52(46) package, QFN-52-1EP variant (see http://cds.linear.com/docs/en/datasheet/3886fe.pdf)")
     (tags "QFN 0.5")

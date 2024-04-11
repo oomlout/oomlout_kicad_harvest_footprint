@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_TFBGA-361_12x12mm_Layout23x23_P0.5mmP0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST TFBGA-361, 12.0x12.0mm, 361 Ball, 23x23 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf")
     (tags "BGA 361 0.5")

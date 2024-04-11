@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ESP32-S2-WROVER" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf")
     (tags "ESP32-S2  ESP32  WIFI")

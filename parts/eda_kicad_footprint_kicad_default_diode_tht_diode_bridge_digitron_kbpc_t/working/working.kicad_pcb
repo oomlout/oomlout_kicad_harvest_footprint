@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_DIGITRON_KBPC_T" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Single phase, Bridge rectifier, 28.614x28.614mm, case KBPC_T(FP), https://www.digitroncorp.com/Digitron/media/Files/Datasheets/KBPC15005-SERIES.pdf")
     (tags "diode module")

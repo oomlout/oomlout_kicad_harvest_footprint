@@ -126,7 +126,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SSOP-8 2.95x2.8mm Pitch 0.65mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

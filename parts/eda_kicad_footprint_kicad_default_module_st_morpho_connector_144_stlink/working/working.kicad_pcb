@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_Morpho_Connector_144_STLink" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST Morpho Connector 144 With STLink")
     (tags "ST Morpho Connector 144 STLink")

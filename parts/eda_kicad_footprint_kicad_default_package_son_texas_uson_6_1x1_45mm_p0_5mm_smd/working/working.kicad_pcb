@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_USON-6_1x1.45mm_P0.5mm_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USON, 6 Pin (https://www.ti.com/lit/ds/symlink/sn74auc1g04.pdf#page=24), Solder Mask Defined")
     (tags "USON NoLead DRY0006A")

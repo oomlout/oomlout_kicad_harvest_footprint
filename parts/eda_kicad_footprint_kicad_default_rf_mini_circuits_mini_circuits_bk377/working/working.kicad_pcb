@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_BK377" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf)")
     (tags "Mini-circuits BK377")

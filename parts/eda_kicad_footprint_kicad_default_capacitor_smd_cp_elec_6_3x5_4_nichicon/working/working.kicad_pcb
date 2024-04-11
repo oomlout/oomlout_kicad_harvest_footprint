@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Elec_6.3x5.4_Nichicon" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm")
     (tags "capacitor electrolytic")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hamamatsu_C12880" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hamamatsu spectrometer, see http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf")
     (tags "opto spectrometer Hamamatsu")

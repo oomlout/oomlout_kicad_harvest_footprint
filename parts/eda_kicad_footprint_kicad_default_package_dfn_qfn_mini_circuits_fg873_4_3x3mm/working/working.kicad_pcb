@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_FG873-4_3x3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mini Circuits Case style FG (https://ww2.minicircuits.com/case_style/FG873.pdf)")
     (tags "FG873")

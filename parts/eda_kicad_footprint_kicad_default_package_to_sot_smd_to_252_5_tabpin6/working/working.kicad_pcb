@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-252-5_TabPin6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/")
     (tags "DPAK TO-252 DPAK-5 TO-252-5")

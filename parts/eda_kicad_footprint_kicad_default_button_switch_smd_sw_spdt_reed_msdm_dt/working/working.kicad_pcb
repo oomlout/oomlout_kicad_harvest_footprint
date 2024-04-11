@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPDT_REED_MSDM-DT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Littlefuse 14.73x2.54mm, 175VDC 5W, SPDT Reed Switch MSDM-DT, https://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_dt_datasheet.pdf.pdf")
     (tags "Littlefuse Reed SPDT Switch")

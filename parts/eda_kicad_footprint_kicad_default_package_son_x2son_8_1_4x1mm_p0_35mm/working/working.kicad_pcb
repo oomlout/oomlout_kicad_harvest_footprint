@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "X2SON-8_1.4x1mm_P0.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "X2SON-8 1.4x1mm Pitch0.35mm http://www.ti.com/lit/ds/symlink/pca9306.pdf")
     (tags "X2SON-8 1.4x1mm Pitch0.35mm")

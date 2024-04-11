@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-25_6.35x6.35mm_Layout5x5_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-25, http://cds.linear.com/docs/en/datasheet/4624fc.pdf")
     (tags "BGA-25 uModule")

@@ -227,7 +227,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BC-2001 CR2032 2032 Battery Holder
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

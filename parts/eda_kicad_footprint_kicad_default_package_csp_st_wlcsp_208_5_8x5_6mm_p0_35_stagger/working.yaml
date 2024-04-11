@@ -1532,7 +1532,6 @@ footprint_string:
   solderPasteMargin: '0.015'
   solderPasteRatio: None
   tags: CSP 208 0.35
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

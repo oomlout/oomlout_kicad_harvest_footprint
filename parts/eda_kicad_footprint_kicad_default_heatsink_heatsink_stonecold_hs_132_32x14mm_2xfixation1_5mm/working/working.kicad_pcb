@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, StoneCold HS")
     (tags "heatsink")

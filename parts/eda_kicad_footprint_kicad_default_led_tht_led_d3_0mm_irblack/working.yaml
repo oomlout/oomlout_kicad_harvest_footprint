@@ -91,7 +91,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: IR infrared LED diameter 3.0mm 2 pins black
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

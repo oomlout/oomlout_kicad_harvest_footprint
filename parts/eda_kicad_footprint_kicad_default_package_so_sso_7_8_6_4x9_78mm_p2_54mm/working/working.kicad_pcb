@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSO-7-8_6.4x9.78mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SSO, 7 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SSO SO")

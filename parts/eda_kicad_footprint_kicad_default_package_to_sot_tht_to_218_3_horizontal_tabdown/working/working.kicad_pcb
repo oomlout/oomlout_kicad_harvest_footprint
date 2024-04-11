@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-218-3_Horizontal_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf")
     (tags "TO-218-3 Horizontal RM 5.475mm SOT-93")

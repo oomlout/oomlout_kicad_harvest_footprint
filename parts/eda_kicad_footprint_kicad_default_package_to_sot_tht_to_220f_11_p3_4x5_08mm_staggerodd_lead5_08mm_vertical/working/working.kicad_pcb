@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220F-11_P3.4x5.08mm_StaggerOdd_Lead5.08mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-1, see http://www.ti.com/lit/ds/symlink/lm3886.pdf")
     (tags "TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-1")

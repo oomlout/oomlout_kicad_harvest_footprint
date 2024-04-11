@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf")
     (tags "Texas instruments QFN")

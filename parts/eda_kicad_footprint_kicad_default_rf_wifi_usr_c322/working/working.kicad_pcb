@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USR-C322" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf")
     (tags "WiFi IEEE802.11 b/g/n")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-DSO-8-43" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon_PG-DSO-8-43")
     (tags "DSO DSO-8 SOIC SOIC-8")

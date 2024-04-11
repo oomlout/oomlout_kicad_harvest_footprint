@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Pad_2.0x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD rectangular pad as test Point, square 2.0mm side length")
     (tags "test point SMD pad rectangle square")

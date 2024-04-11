@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WSON-10 package 2x3mm body, pitch 0.5mm, thermal vias and counter-pad, see http://www.ti.com/lit/ds/symlink/tps62177.pdf")
     (tags "WSON 0.5 thermal vias")

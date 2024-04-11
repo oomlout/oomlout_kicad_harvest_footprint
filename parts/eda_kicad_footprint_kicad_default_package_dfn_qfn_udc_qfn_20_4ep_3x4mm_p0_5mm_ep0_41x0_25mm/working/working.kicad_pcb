@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UDC-QFN-20-4EP_3x4mm_P0.5mm_EP0.41x0.25mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UDC QFN, 20 Pin, Exposed Pad Variation AB (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081536_B_UDC20(AB).pdf), modifed from generated QFN-20-1EP_3x4mm_P0.5")
     (tags "QFN NoLead")

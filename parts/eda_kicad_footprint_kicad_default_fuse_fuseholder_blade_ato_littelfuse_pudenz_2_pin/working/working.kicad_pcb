@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")
     (tags "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")

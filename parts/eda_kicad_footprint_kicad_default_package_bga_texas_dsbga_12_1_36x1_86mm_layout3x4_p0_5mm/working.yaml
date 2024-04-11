@@ -250,7 +250,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 12 0.5 R-XBGA-N12
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

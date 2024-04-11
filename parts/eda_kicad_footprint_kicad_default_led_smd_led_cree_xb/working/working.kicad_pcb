@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-XB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf")
     (tags "LED Cree XB")

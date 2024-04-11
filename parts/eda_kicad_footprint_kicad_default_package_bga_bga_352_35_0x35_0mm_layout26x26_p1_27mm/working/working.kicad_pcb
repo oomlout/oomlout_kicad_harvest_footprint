@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-352_35.0x35.0mm_Layout26x26_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-352, https://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf")
     (tags "BGA-352")

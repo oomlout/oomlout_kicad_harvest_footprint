@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Vishay_248GJ-249GJ_Single_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf")
     (tags "Potentiometer vertical Vishay 248GJ-249GJ Single")

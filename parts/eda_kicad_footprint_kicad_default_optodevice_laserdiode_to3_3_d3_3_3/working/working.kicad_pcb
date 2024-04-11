@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LaserDiode_TO3.3-D3.3-3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Laser Diode, TO-3.3mm, 3pin")
     (tags "Laser Diode TO3.3")

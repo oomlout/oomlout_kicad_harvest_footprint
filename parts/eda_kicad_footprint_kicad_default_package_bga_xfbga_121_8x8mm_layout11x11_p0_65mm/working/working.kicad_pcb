@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "XFBGA-121_8x8mm_Layout11x11_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XFBGA-121, https://www.nxp.com/docs/en/package-information/SOT1533-1.pdf")
     (tags "XFBGA-121")

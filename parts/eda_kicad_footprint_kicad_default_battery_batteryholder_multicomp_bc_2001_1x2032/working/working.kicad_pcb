@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Multicomp_BC-2001_1x2032" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "CR2032 retainer clip, SMT ( http://www.farnell.com/datasheets/1505853.pdf )")
     (tags "BC-2001 CR2032 2032 Battery Holder")

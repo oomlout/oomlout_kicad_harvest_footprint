@@ -418,7 +418,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type086_RT03406HBLC pitch 3.81mm size 22.8x7.3mm^2
     drill 0.7mm pad 1.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

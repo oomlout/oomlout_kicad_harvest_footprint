@@ -140,7 +140,6 @@ footprint_string:
   solderPasteRatio: None
   tags: CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 6mm
     Electrolytic Capacitor
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

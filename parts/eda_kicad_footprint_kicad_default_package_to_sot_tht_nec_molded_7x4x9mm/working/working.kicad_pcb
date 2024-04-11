@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NEC_Molded_7x4x9mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf")
     (tags "Japan transistor")

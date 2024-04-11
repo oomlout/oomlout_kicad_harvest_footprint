@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
     (tags "WSON 8 1EP")

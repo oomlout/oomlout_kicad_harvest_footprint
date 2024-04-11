@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00487-01.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "EQFP QFP")

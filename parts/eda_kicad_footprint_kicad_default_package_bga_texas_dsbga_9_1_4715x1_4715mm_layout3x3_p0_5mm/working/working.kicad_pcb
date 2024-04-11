@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-9_1.4715x1.4715mm_Layout3x3_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, 1.4715x1.4715mm, 9 bump 3x3 array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/lm4990.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)")
     (tags "Texas Instruments DSBGA BGA YZR0009")

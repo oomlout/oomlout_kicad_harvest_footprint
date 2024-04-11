@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_12x10.8mm_P9.0mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Resistor, LDR 12x10.8mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
     (tags "Resistor LDR12x10.8mm")

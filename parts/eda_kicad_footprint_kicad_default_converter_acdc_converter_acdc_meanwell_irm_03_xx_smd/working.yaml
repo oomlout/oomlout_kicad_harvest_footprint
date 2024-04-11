@@ -170,7 +170,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ACDC-Converter 3W
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

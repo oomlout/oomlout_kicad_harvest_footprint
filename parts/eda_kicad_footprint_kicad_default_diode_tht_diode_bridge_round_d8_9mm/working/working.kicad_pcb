@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Round_D8.9mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF")
     (tags "diode bridge 8.9mm 8.85mm WOB pitch 5.08mm")

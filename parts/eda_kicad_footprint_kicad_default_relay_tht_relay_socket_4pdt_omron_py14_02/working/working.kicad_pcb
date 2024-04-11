@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_Socket_4PDT_Omron_PY14-02" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "21.4x25.8mm, 4Pole mounting socket, 3A, 1.5kV AC / minute, 1e2Mohm, https://www.omron.com.tw/data_pdf/cat/common_sockets_ds_e_6_1_csm1819.pdf?#page=19")
     (tags "relay socket")

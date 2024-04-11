@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonModeChoke_TDK_ACM2520-2P" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TDK ACM2520 common-mode filter, SMD, 2x2.5mm, height 1.2mm https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_signal_acm2520_en.pdf")
     (tags "ACM2520 common-mode filter 4 pin")

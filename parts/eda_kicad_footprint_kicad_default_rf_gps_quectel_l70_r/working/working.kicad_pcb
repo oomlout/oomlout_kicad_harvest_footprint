@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Quectel_L70-R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Quectel L70-R, (https://www.quectel.com/product/gps-only-l70-r)")
     (tags "GPS Quectel L70-R")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Terminal Block Philmore , 2 pins, pitch 5mm, size 10x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore")
     (tags "THT Terminal Block Philmore  pitch 5mm size 10x10.2mm^2 drill 1.2mm pad 2.4mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMA_Wurth_60312102114405_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Würth WR-SMA PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/60312102114405.pdf)")
     (tags "Coaxial Connector 50 ohms Female")

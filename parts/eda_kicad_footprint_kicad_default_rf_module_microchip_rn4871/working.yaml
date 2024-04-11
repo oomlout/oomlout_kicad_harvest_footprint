@@ -196,7 +196,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: RN4871 BLE
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

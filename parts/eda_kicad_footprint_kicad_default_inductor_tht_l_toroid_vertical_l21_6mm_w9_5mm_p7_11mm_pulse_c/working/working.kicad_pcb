@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "L_Toroid, Vertical series, Radial, pin pitch=7.11mm, , length*width=21.59*9.53mm^2, Pulse, C, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf")
     (tags "L_Toroid Vertical series Radial pin pitch 7.11mm  length 21.59mm width 9.53mm Pulse C")

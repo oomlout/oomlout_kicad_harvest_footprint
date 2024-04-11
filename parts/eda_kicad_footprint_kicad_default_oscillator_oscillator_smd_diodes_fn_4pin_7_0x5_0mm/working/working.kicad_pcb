@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)")
     (tags "Oscillator Crystal SMD SMT")

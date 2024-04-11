@@ -213,7 +213,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm^2
     drill 1.2mm pad 2.3mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

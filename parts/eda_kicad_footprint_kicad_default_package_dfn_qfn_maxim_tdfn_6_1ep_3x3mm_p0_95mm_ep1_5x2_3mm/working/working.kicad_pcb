@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Maxim_TDFN-6-1EP_3x3mm_P0.95mm_EP1.5x2.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Maxim  TDFN, 6 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4460-MAX4462.pdf#page=19, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tdfn-ep/21-0137.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Maxim TDFN NoLead")

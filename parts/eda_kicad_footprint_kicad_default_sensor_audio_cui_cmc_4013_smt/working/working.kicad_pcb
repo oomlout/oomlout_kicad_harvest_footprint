@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CUI_CMC-4013-SMT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf")
     (tags "Microphone CUI ")

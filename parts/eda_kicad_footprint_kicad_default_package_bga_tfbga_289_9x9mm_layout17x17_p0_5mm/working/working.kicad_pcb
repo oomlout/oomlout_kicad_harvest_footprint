@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TFBGA-289_9x9mm_Layout17x17_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFBGA-289, 9.0x9.0mm, 289 Ball, 17x17 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp131c.pdf")
     (tags "BGA 289 0.5")

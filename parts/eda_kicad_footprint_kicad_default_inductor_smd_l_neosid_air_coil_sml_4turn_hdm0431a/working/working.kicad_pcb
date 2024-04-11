@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Air-Coil_SML_4turn_HDM0431A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid, Air-Coil, SML, 4turn, HDM0431A,")
     (tags "Neosid Air-Coil SML 4turn HDM0431A")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_GCT_DCJ200-10-A_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf")
     (tags "connector barrel jack")

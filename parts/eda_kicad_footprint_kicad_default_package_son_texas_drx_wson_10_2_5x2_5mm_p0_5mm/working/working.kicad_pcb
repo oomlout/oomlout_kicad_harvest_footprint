@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DRX_WSON-10_2.5x2.5mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas DRX WSON, 10 Pin (https://www.ti.com/lit/ml/mpss105a/mpss105a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas WSON NoLead")

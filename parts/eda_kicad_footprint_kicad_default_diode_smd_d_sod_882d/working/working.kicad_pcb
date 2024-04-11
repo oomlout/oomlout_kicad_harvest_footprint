@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SOD-882D" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOD-882D, DFN1006D-2, body 1.0 x 0.6 x 0.4mm, pitch 0.65mm, https://assets.nexperia.com/documents/data-sheet/PESD5V0L1ULD.pdf")
     (tags "Diode SOD882D DFN1006D-2")

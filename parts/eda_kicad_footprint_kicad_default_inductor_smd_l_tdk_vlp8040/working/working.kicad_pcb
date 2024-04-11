@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TDK_VLP8040" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm")
     (tags "inductor TDK VLP smd VLP8040")

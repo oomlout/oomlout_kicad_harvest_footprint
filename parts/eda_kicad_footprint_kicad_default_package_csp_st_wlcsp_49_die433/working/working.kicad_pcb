@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-49_Die433" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-49, 3.029x3.029mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/stm32f401ce.pdf#page=116")
     (tags "CSP 49 0.4")

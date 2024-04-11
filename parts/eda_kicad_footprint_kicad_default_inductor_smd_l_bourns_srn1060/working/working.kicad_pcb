@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRN1060" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRN1060 series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRN1060.pdf")
     (tags "Bourns SRN1060 SMD inductor")

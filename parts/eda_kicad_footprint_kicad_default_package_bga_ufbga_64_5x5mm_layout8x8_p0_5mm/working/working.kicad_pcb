@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-64_5x5mm_Layout8x8_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-64, 5.0x5.0mm, 64 Ball, 8x8 Layout, 0.5mm Pitch, http://www.st.com/resource/en/datasheet/stm32f051t8.pdf#page=91")
     (tags "BGA 64 0.5")

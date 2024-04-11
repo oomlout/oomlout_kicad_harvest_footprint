@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WC1602A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf")
     (tags "LCD 16x2 Alphanumeric 16pin")

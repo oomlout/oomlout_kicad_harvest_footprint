@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_ACEPACK-2-CIB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "35-lead TH, ACEPACK 2 CIB, same as Infineon_EasyPIM-2B, https://www.st.com/resource/en/datasheet/a2c25s12m3.pdf")
     (tags "brifge rectifier igbt diode module")

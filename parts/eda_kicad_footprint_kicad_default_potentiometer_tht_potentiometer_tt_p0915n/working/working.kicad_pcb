@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_TT_P0915N" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf")
     (tags "potentiometer vertical TT P0915N single")

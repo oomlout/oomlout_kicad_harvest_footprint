@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Vishay_T73XW_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Vishay T73XW, http://www.vishay.com/docs/51016/t73.pdf")
     (tags "Potentiometer horizontal Vishay T73XW")

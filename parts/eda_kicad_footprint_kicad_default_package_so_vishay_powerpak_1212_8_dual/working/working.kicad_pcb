@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_PowerPAK_1212-8_Dual" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PowerPAK 1212-8 Dual (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72598/72598.pdf)")
     (tags "Vishay_PowerPAK_1212-8_Dual")

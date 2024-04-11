@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_Socket_3PDT_Omron_PLE11-0" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "29mm Dia, round mounting socket, 10A, 2kV AC / minute, 1e3Mohm, https://www.omron.com.tw/data_pdf/cat/common_sockets_ds_e_6_1_csm1819.pdf?#page=27")
     (tags "tube type relay")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TerminalBlock_WAGO_233-510_2x10_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Terminal Block Wago 233-510, 10 pins, pitch 2.54 mm, https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-510")
     (tags "THT")

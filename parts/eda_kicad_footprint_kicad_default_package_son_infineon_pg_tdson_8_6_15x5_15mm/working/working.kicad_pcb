@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-TDSON-8_6.15x5.15mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon, PG-TDSON-8, 6.15x5.15x1mm, https://www.infineon.com/dgdl/Infineon-BSC520N15NS3_-DS-v02_02-en.pdf?fileId=db3a30432239cccd0122eee57d9b21a4")
     (tags "Infineon OptiMOS")

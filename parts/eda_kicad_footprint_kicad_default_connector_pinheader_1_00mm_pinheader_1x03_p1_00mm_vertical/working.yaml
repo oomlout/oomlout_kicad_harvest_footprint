@@ -106,7 +106,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole pin header THT 1x03 1.00mm single row
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

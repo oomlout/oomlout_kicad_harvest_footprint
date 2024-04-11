@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Rect_L27.0mm_W9.0mm_P23.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "C, Rect series, Radial, pin pitch=23.00mm, , length*width=27*9mm^2, Capacitor")
     (tags "C Rect series Radial pin pitch 23.00mm  length 27mm width 9mm Capacitor")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Micro Leadframe Package, 16 pin with exposed pad")
     (tags "MLPQ- 0.65")

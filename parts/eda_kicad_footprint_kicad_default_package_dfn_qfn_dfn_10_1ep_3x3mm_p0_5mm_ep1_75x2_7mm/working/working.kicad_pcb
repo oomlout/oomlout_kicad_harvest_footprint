@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10-Lead Plastic Dual Flat No-Lead Package, 3x3mm Body (see Atmel Appnote 8826)")
     (tags "DFN 0.5")

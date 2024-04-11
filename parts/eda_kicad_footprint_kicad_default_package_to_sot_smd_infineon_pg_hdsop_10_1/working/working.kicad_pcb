@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-HDSOP-10-1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)")
     (tags "hdsop 10 ddpak")

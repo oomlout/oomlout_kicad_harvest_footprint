@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Stocko_MKS_1667-6-0-1717_1x17_P2.50mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator")
     (tags "Stocko RFK MKS 16xx")

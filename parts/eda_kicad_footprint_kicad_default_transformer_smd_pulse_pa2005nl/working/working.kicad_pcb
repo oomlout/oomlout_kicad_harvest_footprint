@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Pulse_PA2005NL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMT Gate Drive Transformer, 1:1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)")
     (tags "pulse pa2005nl pa0173nl")

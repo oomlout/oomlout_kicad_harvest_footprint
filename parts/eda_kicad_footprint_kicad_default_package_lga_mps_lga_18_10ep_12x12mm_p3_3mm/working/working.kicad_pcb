@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MPS_LGA-18-10EP_12x12mm_P3.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MPS LGA-18 12x12x3.82mm (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/)")
     (tags "MPS LGA")

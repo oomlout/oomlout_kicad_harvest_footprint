@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Finder_30.22" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Finder 32.21-x000 Relay, DPDT, https://gfinder.findernet.com/public/attachments/30/EN/S30EN.pdf")
     (tags "AXICOM IM-Series Relay SPDT")

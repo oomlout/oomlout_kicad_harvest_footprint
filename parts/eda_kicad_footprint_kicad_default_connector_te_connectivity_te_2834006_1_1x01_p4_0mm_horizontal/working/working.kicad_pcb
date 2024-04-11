@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_2834006-1_1x01_P4.0mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TE Connectivity Buchanan WireMate connector, Poke-In series, 1-way, 4.0mm pitch, AWG18-22 (0.3255-0.823mm2), https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2834006%7FB6%7Fpdf%7FEnglish%7FENG_CD_2834006_B6.pdf%7F2834006-1")
     (tags "wire connector")

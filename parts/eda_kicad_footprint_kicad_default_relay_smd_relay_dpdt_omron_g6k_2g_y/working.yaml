@@ -153,7 +153,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Omron G6K-2G-Y relay
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

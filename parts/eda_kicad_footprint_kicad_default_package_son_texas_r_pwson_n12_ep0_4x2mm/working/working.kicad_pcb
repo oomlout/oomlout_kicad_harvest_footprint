@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_R-PWSON-N12_EP0.4x2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.ti.com/lit/ds/symlink/tpd6f003.pdf")
     (tags "WSON SMD")

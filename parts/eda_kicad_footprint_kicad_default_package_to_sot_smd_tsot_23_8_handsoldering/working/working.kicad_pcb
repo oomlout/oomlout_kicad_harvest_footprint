@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOT-23-8_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf")
     (tags "TSOT-23-8 Hand-soldering")

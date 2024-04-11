@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Nidec_Copal_CAS-120A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf")
     (tags "SMD slide switch Nidec CAS 120A ")

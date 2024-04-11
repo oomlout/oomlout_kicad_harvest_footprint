@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Microchip_8E-16" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "16-Lead Quad Flat, No Lead Package (8E) - 4x4x0.9 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFN Microchip 8E 16")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_MMM168" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case MMM168 (https://ww2.minicircuits.com/case_style/MMM168.pdf)")
     (tags "Mini-Circuits MMM168")

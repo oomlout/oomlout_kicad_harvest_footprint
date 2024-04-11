@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_Schaffner_FN405" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Compact PCB mounting EMI filter (https://www.schaffner.com/product/FN405/Schaffner_datasheet_FN405.pdf)")
     (tags "EMI filter")

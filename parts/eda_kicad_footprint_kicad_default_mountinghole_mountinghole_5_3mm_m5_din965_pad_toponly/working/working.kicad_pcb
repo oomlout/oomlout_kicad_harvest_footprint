@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_5.3mm_M5_DIN965_Pad_TopOnly" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mounting Hole 5.3mm, M5, DIN965")
     (tags "mounting hole 5.3mm m5 din965")

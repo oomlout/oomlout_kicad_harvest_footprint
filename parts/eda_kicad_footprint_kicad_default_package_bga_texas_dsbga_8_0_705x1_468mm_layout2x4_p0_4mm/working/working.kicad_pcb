@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, NSMD, YBJ0008 pad definition, 0.705x1.468mm, 8 Ball, 2x4 Layout, 0.4mm Pitch, https://www.ti.com/lit/gpn/ina234")
     (tags "BGA 8 0.4")

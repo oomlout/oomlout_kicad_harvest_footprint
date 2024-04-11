@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-PLCC4_2x2mm_CW" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "2.0mm x 2.0mm PLCC4 LED, https://assets.cree-led.com/a/ds/h/HB-CLMVC-FKA.pdf")
     (tags "LED Cree PLCC-4 2020 CLMVB-FKA CLMVC-FKA")

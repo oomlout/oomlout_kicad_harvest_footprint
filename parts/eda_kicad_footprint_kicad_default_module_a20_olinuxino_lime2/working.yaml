@@ -4058,7 +4058,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: A20 Olimex Olinuxino LIME2 development board
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

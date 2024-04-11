@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "DFN NoLead")

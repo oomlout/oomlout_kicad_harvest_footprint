@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_SPT_2.5_10-H-5.0_1x10_P5.0mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Connector Phoenix Contact, SPT 2.5/10-H-5.0 Terminal Block, 1991053 (https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1991053), generated with kicad-footprint-generator")
     (tags "Connector Phoenix Contact SPT 2.5/10-H-5.0 1991053")

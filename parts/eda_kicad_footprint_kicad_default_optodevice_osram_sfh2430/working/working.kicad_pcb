@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Osram_SFH2430" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467144/SFH%202430_EN.pdf")
     (tags "PhotoDiode plastic SMD DIL")

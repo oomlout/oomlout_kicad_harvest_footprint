@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WDFN, 8 Pin (https://www.onsemi.com/pub/Collateral/509AF.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WDFN NoLead")

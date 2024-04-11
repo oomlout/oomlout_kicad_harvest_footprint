@@ -188,7 +188,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

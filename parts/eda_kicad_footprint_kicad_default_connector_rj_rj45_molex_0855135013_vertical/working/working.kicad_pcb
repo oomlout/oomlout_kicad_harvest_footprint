@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Molex_0855135013_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf")
     (tags "RJ45 Vertical")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D24.0mm_P24.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=24.00mm, , diameter=24mm")
     (tags "Inductor Radial series Radial pin pitch 24.00mm  diameter 24mm")

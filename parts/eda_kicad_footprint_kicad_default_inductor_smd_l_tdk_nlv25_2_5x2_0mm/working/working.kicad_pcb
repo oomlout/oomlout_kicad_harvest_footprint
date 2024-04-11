@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TDK_NLV25_2.5x2.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf")
     (tags "tdk nlv25 nlcv25 nlfv25")

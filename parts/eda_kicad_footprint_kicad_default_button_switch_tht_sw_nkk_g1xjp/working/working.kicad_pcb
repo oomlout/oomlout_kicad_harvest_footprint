@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_NKK_G1xJP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf")
     (tags "SWITCH TOGGLE ILLUM SPDT NKK")

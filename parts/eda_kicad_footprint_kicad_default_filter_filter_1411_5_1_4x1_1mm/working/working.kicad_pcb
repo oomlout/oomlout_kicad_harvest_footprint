@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_1411-5_1.4x1.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "5-pin filter package - 1.4x1.1 mm Body; (see https://global.kyocera.com/prdct/electro/product/pdf/sf14_tdlte.pdf)")
     (tags "Filter 5")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_6.35mm_Neutrik_NRJ6HF-1_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1")
     (tags "neutrik jack slim")

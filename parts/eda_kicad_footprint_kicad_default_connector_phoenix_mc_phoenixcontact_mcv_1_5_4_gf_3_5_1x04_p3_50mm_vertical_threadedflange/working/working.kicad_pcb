@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MCV_1,5_4-GF-3.5_1x04_P3.50mm_Vertical_ThreadedFlange" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/4-GF-3.5; number of pins: 04; pin pitch: 3.50mm; Vertical; threaded flange || order number: 1843240 8A 160V")
     (tags "phoenix_contact connector MCV_01x04_GF_3.5mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_CUI_PJ-036AH-SMT_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf")
     (tags "Power Jack SMT")

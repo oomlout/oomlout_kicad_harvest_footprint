@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LEM_HTFS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LEM HTFS x00-P current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf)")
     (tags "HTFS current transducer")

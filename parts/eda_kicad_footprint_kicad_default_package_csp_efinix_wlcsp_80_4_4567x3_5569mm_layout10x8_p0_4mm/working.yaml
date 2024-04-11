@@ -639,7 +639,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CSP 80 0.4 80-ball WLCSP
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

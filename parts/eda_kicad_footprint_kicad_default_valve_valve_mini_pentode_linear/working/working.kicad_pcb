@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Valve_Mini_Pentode_Linear" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mini-Pentode, 5-pin, e.g. JAN6418")
     (tags "Valve Mini-Pentode 5-pin JAN6418")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRN8040_8x8.15mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf")
     (tags "Bourns SRN8040 SMD inductor")

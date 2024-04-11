@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LGA-12_2x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA12")
     (tags "lga land grid array")

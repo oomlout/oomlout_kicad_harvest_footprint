@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Vishay_148E-149E_Dual_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Vishay 148E-149E Dual, http://www.vishay.com/docs/57040/148149.pdf")
     (tags "Potentiometer horizontal Vishay 148E-149E Dual")

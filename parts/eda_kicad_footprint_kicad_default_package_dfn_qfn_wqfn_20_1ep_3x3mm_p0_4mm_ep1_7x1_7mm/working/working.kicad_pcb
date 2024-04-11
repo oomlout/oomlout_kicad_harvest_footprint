@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/ts3ds10224.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WQFN NoLead")

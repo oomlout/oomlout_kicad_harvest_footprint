@@ -143,7 +143,6 @@ footprint_string:
   solderPasteRatio: None
   tags: L_CommonMode_Toroid Vertical series Radial pin pitch 15.24*22.86mm^2  length
     36.83mm width 20.32mm Bourns 8100
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

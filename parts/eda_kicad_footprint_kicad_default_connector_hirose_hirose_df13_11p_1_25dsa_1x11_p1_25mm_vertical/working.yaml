@@ -226,7 +226,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Hirose DF13 vertical
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

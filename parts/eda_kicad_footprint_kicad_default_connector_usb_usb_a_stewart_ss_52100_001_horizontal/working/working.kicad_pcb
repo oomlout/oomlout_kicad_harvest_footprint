@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Stewart_SS-52100-001_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf")
     (tags "USB_A Female Connector receptacle")

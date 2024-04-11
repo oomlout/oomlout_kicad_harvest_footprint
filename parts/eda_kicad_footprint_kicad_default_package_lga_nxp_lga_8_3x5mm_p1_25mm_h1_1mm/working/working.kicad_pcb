@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NXP_LGA-8_3x5mm_P1.25mm_H1.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL3115A2.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "NXP LGA NoLead")

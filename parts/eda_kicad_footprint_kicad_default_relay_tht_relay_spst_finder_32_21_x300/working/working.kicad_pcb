@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_Finder_32.21-x300" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Finder 32.21-x300 Relay, SPST, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf")
     (tags "Finder 32.21-x300 Relay SPST")

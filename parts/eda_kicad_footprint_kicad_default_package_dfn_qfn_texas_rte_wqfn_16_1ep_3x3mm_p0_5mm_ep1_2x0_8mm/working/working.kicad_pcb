@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RTE_WQFN-16-1EP_3x3mm_P0.5mm_EP1.2x0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas RTE WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas WQFN NoLead")

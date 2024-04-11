@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_LINX_BAT-HLD-012-SMT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf")
     (tags "battery holder coin cell cr1216 cr1220 cr1225")

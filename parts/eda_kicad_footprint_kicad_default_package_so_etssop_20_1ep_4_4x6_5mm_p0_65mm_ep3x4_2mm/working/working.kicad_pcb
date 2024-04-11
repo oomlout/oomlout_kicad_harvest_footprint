@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body with Exposed Pad [eTSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")

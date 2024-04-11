@@ -82,7 +82,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter
     5.3mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

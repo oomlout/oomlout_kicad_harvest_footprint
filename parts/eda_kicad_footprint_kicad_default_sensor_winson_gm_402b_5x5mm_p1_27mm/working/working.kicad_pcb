@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Winson_GM-402B_5x5mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Winson GM-402B QFN, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Winson QFN NoLead")

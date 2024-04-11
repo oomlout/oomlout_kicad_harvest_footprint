@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)")
     (tags "OnSemi XDFN4")

@@ -90,7 +90,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: diode bridge 9.8mm WOG pitch 5.08mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

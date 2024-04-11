@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Knowles_LGA-5_3.5x2.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf")
     (tags "MEMS Microphone LGA")

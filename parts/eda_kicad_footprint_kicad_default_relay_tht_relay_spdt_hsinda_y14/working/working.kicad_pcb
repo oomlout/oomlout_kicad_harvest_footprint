@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_HsinDa_Y14" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.hsinda.com.tw/upload/file/Y14-20200430135145.pdf")
     (tags "Relay Y14")

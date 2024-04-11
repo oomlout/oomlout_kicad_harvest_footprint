@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RWU0007A_VQFN-7_2x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  RWU0007A VQFN, 2x2mm, 7 Pin (https://www.ti.com/lit/ds/symlink/tps61022.pdf)")
     (tags "Texas VQFN NoLead")

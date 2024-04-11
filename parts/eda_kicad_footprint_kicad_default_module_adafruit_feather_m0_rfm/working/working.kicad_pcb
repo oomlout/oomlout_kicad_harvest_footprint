@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Adafruit_Feather_M0_RFM" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio")
     (tags "Adafruit Feather M0 RFM")

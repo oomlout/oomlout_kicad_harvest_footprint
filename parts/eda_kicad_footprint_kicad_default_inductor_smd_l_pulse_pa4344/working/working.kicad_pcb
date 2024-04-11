@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Pulse_PA4344" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Pulse PA4344 / PM4344 Series SMD Inductors https://productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_p771_1608107700.pdf")
     (tags "Pulse PA4344 PM4344 Series SMD Inductors")

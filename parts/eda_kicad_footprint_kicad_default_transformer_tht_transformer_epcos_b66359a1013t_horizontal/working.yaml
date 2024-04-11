@@ -217,7 +217,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'Transformer Transformator ETD29 13 Pin Horizontal EPCOS-B66359A1013T '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

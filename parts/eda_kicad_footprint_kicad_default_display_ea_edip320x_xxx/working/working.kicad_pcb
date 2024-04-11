@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_eDIP320X-XXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf")
     (tags "LCD display 320x340 RS-232 I2C or SPI")

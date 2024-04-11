@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Luna_NSL-32" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Optoisolator with LED and photoresistor")
     (tags "optoisolator")

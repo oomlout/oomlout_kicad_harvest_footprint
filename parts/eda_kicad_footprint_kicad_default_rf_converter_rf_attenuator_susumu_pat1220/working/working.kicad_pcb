@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RF_Attenuator_Susumu_PAT1220" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf")
     (tags "2mm 1.2mm")

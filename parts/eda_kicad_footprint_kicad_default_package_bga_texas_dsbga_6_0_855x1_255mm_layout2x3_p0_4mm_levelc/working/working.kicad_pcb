@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, YBG pad definition, 0.95x1.488mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, YFF0006, NSMD pad definition,  https://www.ti.com/lit/ds/symlink/lmg1020.pdf, https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf")
     (tags "BGA 6 0.4 YFF0006")

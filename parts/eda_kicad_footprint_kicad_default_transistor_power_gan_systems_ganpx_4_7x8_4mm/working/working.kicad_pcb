@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "GaN_Systems_GaNPX-4_7x8.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GaN Systems GaNPX GS66508B Package, https://gansystems.com/wp-content/uploads/2020/04/GS66508B-DS-Rev-200402.pdf")
     (tags "ganpx gs66508b")

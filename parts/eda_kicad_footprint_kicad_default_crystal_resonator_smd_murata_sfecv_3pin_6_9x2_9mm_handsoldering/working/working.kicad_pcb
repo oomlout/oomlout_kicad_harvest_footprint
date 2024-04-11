@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 6.9x2.9mm^2 package")
     (tags "SMD SMT ceramic resonator filter filter hand-soldering")

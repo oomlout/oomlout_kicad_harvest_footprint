@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_DF13C_CL535-0411-3-51_1x11-1MP_P1.25mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hirose DF13C SMD, CL535-0411-3-51, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator")
     (tags "connector Hirose DF13C vertical")

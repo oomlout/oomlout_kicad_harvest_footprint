@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220-4_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220-4, Vertical, RM 2.54mm")
     (tags "TO-220-4 Vertical RM 2.54mm")

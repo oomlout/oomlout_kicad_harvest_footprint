@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_DB1627" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)")
     (tags "Mini-Circuits DB1627")

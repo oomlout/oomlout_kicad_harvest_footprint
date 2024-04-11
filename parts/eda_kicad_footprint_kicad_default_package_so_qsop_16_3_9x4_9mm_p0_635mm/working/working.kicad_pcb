@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QSOP-16_3.9x4.9mm_P0.635mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QSOP, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0055.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "QSOP SO")

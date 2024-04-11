@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Wurth_150044M155260" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Wurth Common anode RGB LED, SMD, 0404, 1x1x1.65mm, https://www.we-online.com/catalog/datasheet/150044M155260.pdf")
     (tags "LED RGB ARGB ")

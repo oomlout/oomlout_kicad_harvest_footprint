@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.panasonic-electric-works.com/cps/rde/xbcr/pew_eu_en/technical_information_photomos_en.pdf")
     (tags "SSOP4 APV21 AQY22")

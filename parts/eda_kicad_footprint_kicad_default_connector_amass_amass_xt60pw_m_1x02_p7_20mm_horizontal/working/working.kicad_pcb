@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMASS_XT60PW-M_1x02_P7.20mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Connector XT60 Horizontal PCB Female, https://www.tme.eu/en/Document/9b8d0c5eb7094295f3d3112c214d3ade/XT60PW%20SPEC.pdf")
     (tags "RC Connector XT60")

@@ -406,7 +406,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Surface mounted socket strip SMD 1x18 1.00mm single row style2 pin1 right
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

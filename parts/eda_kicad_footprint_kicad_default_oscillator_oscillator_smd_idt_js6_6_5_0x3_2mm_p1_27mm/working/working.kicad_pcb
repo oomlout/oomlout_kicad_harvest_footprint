@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=15, 5.0x3.2mm")
     (tags "SMD SMT crystal oscillator")

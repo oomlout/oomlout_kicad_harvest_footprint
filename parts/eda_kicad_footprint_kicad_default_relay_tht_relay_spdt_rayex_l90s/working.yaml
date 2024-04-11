@@ -281,7 +281,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Relay RAYEX L90S SPDT
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

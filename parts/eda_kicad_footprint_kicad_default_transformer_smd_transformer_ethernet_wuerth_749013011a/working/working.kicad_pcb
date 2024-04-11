@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Ethernet_Wuerth_749013011A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf")
     (tags "Ethernet Transformer")

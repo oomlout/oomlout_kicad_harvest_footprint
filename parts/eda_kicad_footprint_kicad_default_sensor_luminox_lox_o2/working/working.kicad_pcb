@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LuminOX_LOX-O2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf")
     (tags "SST LuminOX O2")

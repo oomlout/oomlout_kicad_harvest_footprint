@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-16_4x4_B2.17x2.32mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf")
     (tags "WLCSP-16 NXP")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.15x3.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSSOP, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100132.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")

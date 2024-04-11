@@ -13574,7 +13574,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 1924 1 FL1925 FLG1925 FL1926 FLG1926 FL1928 FLG1928 FL1930 FLG1930
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

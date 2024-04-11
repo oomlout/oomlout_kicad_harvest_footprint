@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SC-59_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SC-59, hand-soldering varaint, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg")
     (tags "SC-59 hand-soldering")

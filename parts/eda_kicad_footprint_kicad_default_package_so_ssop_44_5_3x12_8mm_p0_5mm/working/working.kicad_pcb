@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-44_5.3x12.8mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "44-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (http://cds.linear.com/docs/en/datasheet/680313fa.pdf)")
     (tags "SSOP 0.5")

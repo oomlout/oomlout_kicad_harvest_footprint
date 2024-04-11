@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFCSP, 16 pin, 4x4mm, 2.1mm sq pad (http://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf)")
     (tags "LFCSP 16 0.65")

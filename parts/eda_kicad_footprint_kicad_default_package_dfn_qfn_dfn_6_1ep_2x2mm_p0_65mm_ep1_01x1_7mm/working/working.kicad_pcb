@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2020-6%20(Type%20C).pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "DFN NoLead")

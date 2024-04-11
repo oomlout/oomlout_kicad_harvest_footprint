@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Speaker_CUI_CMR-1206S-67" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf")
     (tags "speaker CUI")

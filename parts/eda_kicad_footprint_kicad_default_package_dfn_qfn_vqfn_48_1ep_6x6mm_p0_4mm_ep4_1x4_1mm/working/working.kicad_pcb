@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VQFN, 48 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/48L_VQFN_6x6mm_6LX_C04-00494a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")

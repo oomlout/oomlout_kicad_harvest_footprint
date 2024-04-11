@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DHVQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DHVQFN, 20 Pin (JEDEC MO-241/VAC, https://assets.nexperia.com/documents/package-information/SOT764-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "DHVQFN NoLead")

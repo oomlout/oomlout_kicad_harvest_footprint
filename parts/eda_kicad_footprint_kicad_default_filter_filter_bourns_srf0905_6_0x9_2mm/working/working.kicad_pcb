@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_Bourns_SRF0905_6.0x9.2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.bourns.com/docs/Product-Datasheets/SRF0905.pdf")
     (tags "Line Filter")

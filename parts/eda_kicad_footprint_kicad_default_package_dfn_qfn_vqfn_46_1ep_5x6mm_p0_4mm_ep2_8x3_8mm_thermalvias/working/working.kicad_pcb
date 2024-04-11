@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VQFN, 46 Pin (http://www.ti.com/lit/ds/symlink/lp5036.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")

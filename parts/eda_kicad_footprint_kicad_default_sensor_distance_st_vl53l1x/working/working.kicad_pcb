@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_VL53L1x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VL53L1x distance sensor")
     (tags "VL53L1CXV0FY1 VL53L1x")

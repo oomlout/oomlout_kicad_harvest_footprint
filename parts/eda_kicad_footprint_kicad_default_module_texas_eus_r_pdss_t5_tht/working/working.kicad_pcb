@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_EUS_R-PDSS-T5_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments EUS 5 Pin Double Sided Module")
     (tags "module pcb")

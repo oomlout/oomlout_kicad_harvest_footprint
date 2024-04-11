@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_UQFN-6L_1.5x1.7mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf")
     (tags "UQFN DFN 0.5 ST")

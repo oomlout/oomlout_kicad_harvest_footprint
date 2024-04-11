@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_PowerPAK_MLP44-24L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)")
     (tags "powerpak mlp44-24l")

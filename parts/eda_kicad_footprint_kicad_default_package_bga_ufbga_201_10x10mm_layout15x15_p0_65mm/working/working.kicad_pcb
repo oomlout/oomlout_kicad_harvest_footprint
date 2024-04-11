@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-201_10x10mm_Layout15x15_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-201, 10.0x10.0mm, 201 Ball, 15x15 Layout, 0.65mm Pitch, http://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=166")
     (tags "BGA 201 0.65")

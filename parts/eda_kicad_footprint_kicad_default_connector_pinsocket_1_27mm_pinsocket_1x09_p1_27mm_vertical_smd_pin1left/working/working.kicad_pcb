@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_1x09_P1.27mm_Vertical_SMD_Pin1Left" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "surface-mounted straight socket strip, 1x09, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925), script generated")
     (tags "Surface mounted socket strip SMD 1x09 1.27mm single row style1 pin1 left")

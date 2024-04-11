@@ -218,7 +218,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: H1100NL H1101NL H1102NL H1121NL H1183NL H1199NL HX1188NL HX1198NL H1302N
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

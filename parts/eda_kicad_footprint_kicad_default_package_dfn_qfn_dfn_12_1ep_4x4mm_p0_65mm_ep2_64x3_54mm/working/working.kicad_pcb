@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN12, 4x4, 0.65P; CASE 506CE (see ON Semiconductor 506CE.PDF)")
     (tags "DFN 0.65")

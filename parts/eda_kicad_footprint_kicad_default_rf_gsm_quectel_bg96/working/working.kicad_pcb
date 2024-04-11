@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Quectel_BG96" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Quectel BG96 Cellular GSM 2G Module https://www.quectel.com/download/quectel_bg96_hardware_design_v1-4")
     (tags "Quectel BG96 Cellular GSM 2G Module")

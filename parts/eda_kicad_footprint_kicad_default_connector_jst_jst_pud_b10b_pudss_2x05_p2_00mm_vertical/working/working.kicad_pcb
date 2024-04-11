@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_PUD_B10B-PUDSS_2x05_P2.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "JST PUD series connector, B10B-PUDSS (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PUD side entry")

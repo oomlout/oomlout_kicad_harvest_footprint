@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_ACP_CA9-VSMD_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, ACP CA9-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
     (tags "Potentiometer vertical ACP CA9-VSMD")

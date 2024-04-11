@@ -155,7 +155,6 @@ footprint_string:
     diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position
     of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
     diameter 3.0mm z-position of LED center 10.0mm 2 pins
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

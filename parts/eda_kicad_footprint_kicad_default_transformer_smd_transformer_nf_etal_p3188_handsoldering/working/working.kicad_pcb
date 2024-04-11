@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_NF_ETAL_P3188_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "NF-Transformer, ETAL, P3188, SMD, Handsoldering,")
     (tags "NF-Transformer ETAL P3188 SMD Handsoldering ")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-25_2.30x2.48mm_Layout5x5_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-25, ST die ID 460, 2.3x2.48mm, 25 Ball, 5x5 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g071eb.pdf")
     (tags "CSP 25 0.4")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-132_7x7mm_Layout12x12_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-132, 7.0x7.0mm, 132 Ball, 12x12 Layout, 0.5mm Pitch, http://www.st.com/resource/en/datasheet/stm32l152zc.pdf#page=123")
     (tags "BGA 132 0.5")

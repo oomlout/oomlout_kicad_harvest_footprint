@@ -205,7 +205,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Dubble digit super bright yellow 7 segment LED display
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

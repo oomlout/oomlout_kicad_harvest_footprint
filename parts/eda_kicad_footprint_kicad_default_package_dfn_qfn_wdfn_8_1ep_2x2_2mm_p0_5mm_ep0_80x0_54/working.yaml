@@ -132,7 +132,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: WDFN-8 1EP 2.2X2.0 0.5P
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

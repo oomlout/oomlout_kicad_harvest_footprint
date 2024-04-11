@@ -133,7 +133,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: tact sw push PVA2 DPDT
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

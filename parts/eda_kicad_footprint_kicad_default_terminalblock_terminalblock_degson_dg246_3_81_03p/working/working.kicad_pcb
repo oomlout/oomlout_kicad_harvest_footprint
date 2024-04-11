@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TerminalBlock_Degson_DG246-3.81-03P" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DEGSON ELECTRONICS DG246 terminal block, https://www.degson.com/index.php?a=downloadFile&id=1090277")
     (tags "connector terminal block")

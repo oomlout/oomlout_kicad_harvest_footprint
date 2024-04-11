@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CA56-12CGKWA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf")
     (tags "4 digit 7 segment green LED")

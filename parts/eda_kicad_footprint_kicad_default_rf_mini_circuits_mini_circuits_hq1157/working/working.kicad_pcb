@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_HQ1157" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case HQ1157 (https://www.minicircuits.com/case_style/HQ1157.pdf)")
     (tags "Mini-Circuits HQ1157")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_PowerSSO-24_SlugDown_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST PowerSSO-24 1EP 7.5x10.3mm Pitch 0.8mm [JEDEC MO-271] (http://www.st.com/resource/en/datasheet/tda7266p.pdf, http://freedatasheets.com/downloads/Technical%20Note%20Powersso24%20TN0054.pdf)")
     (tags "ST PowerSSO-24 1EP 7.5x10.3mm Pitch 0.8mm")

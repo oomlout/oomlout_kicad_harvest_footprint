@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EPSON_CE-USON-10_USON-10_3.2x2.5mm_P0.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "EPSON 2.5x3.7mm, https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf")
     (tags "RTC")

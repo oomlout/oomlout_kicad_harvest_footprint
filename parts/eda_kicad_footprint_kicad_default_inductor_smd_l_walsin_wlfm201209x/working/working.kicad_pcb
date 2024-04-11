@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Walsin_WLFM201209x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Walsin, WLFM201209x, 2.0x1.25x0.9mm, http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf")
     (tags "Inductor ferrite multilayer power")

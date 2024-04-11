@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TQFN, 24 Pin (http://pdfserv.maxim-ic.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "TQFN NoLead")

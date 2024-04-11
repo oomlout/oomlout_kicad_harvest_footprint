@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SDR1806" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.bourns.com/docs/Product-Datasheets/SDR1806.pdf")
     (tags "Bourns SDR1806")

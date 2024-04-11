@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SO-4_4.4x4.3mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
     (tags "SO SOIC 2.54")

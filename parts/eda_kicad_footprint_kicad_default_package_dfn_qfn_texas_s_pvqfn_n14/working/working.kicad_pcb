@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_S-PVQFN-N14" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf")
     (tags "Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad")

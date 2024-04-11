@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SON, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "SON NoLead")

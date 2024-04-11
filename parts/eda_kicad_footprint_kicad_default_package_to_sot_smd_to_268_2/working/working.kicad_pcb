@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-268-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-268/D3PAK SMD package, http://www.icbank.com/icbank_data/semi_package/to268aa_dim.pdf")
     (tags "D3PAK TO-268 D3PAK-3 TO-268-3")

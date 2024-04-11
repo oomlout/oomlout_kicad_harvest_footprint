@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TI_SO-PowerPAD-8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)")
     (tags "SSOP 0.50 exposed pad")

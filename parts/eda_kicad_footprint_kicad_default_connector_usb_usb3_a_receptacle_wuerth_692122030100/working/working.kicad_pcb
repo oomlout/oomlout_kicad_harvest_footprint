@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB3_A_Receptacle_Wuerth_692122030100" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB 3.0, type A, right angle (https://www.we-online.com/katalog/datasheet/692122030100.pdf)")
     (tags "USB 3.0 type A right angle Würth")

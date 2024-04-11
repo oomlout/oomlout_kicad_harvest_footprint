@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Fujitsu_FTR-F1C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf")
     (tags "relay dpdt fujitsu tht")

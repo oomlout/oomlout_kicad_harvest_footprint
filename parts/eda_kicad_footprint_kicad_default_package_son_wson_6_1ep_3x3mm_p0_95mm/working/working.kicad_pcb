@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-6-1EP_3x3mm_P0.95mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WSON6 3*3 MM, 0.95 PITCH; http://www.ti.com/lit/ds/symlink/lmr62421.pdf")
     (tags "WSON6 0.95")

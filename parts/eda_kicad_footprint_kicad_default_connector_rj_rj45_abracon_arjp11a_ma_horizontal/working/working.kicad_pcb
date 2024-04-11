@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Abracon_ARJP11A-MA_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Shielded RJ45 ethernet connector with transformer and POE, https://abracon.com/Magnetics/lan/ARJP11A.PDF")
     (tags "ethernet 8p8c transformer poe rj45")

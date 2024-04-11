@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=36.32mm, , diameter=50.8mm, Vishay, IHB-6, http://www.vishay.com/docs/34015/ihb.pdf")
     (tags "Inductor Radial series Radial pin pitch 36.32mm  diameter 50.8mm Vishay IHB-6")

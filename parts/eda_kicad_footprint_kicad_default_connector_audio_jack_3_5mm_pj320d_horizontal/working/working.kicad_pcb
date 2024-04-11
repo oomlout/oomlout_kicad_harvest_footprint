@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_PJ320D_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)")
     (tags "3.5mm jack mic microphone phones headphones 4pins audio plug")

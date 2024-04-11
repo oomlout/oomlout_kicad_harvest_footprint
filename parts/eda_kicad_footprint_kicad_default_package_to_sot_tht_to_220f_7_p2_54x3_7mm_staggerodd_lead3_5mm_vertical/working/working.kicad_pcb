@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220F-7_P2.54x3.7mm_StaggerOdd_Lead3.5mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220F-7, Vertical, RM 1.27mm, staggered type-1")
     (tags "TO-220F-7 Vertical RM 1.27mm staggered type-1")

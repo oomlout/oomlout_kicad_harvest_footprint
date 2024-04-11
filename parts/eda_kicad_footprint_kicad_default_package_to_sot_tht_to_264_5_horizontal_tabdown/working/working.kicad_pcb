@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-264-5_Horizontal_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF")
     (tags "TO-264-5 Horizontal RM 3.81mm")

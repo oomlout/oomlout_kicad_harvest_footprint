@@ -3465,7 +3465,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 484 0.8 CLG484 CL484 CLG485 CL485
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

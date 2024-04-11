@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMS_OLGA-8_2x3.1mm_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AMS  OLGA, 8 Pin (https://ams.com/documents/20143/36005/AS7341_DS000504_3-00.pdf/#page=63)")
     (tags "AMS OLGA NoLead")

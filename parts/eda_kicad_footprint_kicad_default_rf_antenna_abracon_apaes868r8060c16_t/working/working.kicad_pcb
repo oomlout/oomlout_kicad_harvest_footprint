@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Abracon_APAES868R8060C16-T" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi")
     (tags "APAES patch antenna")

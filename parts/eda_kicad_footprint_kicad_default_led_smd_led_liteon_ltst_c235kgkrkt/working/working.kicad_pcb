@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_LiteOn_LTST-C235KGKRKT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "downfacing reverse mount led, https://optoelectronics.liteon.com/upload/download/DS22-2009-0219/LTST-C235KGKRKT.pdf")
     (tags "LED reverse down facing")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Shunt_Isabellenhuette_BVR4026" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4-Wire Shunt, SMD 4026, https://www.isabellenhuette.de/fileadmin/Daten/Praezisionswiderstaende/Datenblaetter/BVR.PDF")
     (tags "kelvin-connection")

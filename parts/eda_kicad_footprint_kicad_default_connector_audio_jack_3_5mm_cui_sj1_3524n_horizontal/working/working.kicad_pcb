@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_CUI_SJ1-3524N_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf")
     (tags "TRS audio jack stereo horizontal")

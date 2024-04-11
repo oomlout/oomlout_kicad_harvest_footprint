@@ -385,7 +385,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MSTBV_01x09_GF_5.00mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

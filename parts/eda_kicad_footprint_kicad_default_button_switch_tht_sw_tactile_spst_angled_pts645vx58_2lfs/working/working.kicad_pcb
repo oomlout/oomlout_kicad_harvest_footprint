@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Tactile_SPST_Angled_PTS645Vx58-2LFS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "tactile switch SPST right angle, PTS645VL58-2 LFS")
     (tags "tactile switch SPST angled PTS645VL58-2 LFS C&K Button")

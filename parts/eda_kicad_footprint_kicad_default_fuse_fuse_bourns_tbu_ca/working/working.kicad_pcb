@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Bourns_TBU-CA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns TBU-CA Fuse, 2 Pin (https://www.bourns.com/data/global/pdfs/TBU-CA.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Bourns Fuse NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-16_2.39x2.39mm_Layout4x4_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, YZF, YZF0016, 2.39x2.39mm, 16 Ball, 4x4 Layout, 0.5mm Pitch, https://www.ti.com/lit/ds/symlink/dac80508.pdf")
     (tags "BGA 16 0.5")

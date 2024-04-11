@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN44 8.9x5, 0.4P; CASE 506BU-01 (see ON Semiconductor 506BU.PDF)")
     (tags "DFN 0.4")

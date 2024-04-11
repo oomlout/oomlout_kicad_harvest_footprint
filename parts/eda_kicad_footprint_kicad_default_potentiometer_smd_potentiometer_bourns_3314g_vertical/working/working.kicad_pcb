@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Bourns_3314G_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, top-adjust, Bourns 3314G, http://www.bourns.com/docs/Product-Datasheets/3314.pdf")
     (tags "Potentiometer vertical Bourns 3314G")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_PLCC-2_3.4x3.0mm_KA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LED PLCC-2 SMD package, orientation marker at cathode, https://dammedia.osram.info/media/resource/hires/osram-dam-6035009/SFH%204253_EN.pdf")
     (tags "LED PLCC-2 SMD TOPLED")

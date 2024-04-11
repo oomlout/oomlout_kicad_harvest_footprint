@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_6.35mm_Neutrik_NSJ8HC_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Stacking Jacks, Mono dual jack, full nose, https://www.neutrik.com/en/product/nsj8hc")
     (tags "neutrik jack stacking")

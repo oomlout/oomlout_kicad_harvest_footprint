@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_Kobitone_254-EMB84Q-RO" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf")
     (tags "MagneticBuzzer Kobitone 254-EMB84Q-RO")

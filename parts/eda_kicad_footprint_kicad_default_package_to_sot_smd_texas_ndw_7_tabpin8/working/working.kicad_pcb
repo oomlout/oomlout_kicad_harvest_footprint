@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_NDW-7_TabPin8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "NDW0007A SMD package, http://www.ti.com/lit/ml/mmsf024/mmsf024.pdf")
     (tags "NDW NDW")

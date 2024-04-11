@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Resonator_SMD_Murata_CSTCR_4.5x2x1.15mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Piezoelectric Ceramic Resonator, 4.5mm x 2mm x 1.15mm, https://www.murata.com/products/productdata/8801051639838/SPEC-CSTCR4M00G53-R0.pdf?1517839209000")
     (tags "Crystal Oscillator")

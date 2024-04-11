@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LQFN, 48 Pin (https://www.nxp.com/docs/en/package-information/98ASA00694D.pdf)")
     (tags "NXP LQFN NoLead")

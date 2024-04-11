@@ -106,7 +106,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED Avago PLCC-6 ASMT-YTB7-0AA02
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

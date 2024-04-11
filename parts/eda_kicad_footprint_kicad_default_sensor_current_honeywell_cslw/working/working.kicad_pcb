@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Honeywell_CSLW" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf")
     (tags "Miniature Wired Open-Loop Current Sensor")

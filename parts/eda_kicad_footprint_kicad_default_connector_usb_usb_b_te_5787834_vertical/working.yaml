@@ -131,7 +131,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: USB_B USB B vertical female connector
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

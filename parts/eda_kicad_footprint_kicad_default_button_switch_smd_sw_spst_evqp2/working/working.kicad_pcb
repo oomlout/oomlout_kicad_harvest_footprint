@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_EVQP2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C374.pdf")
     (tags "SMD SMT SPST EVQP2")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Onion_Omega2S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf")
     (tags "onion omega module")

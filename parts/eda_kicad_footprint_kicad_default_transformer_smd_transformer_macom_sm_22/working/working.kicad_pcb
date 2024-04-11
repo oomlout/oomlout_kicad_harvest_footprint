@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_MACOM_SM-22" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://cdn.macom.com/datasheets/ETC1-1-13.pdf")
     (tags "RF Transformer")

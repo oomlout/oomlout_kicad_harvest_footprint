@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SIPAK-1EP_Horizontal_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SIPAK, Horizontal, RM 2.286mm")
     (tags "SIPAK Horizontal RM 2.286mm")

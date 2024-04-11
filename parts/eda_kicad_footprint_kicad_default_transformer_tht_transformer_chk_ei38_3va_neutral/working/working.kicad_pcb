@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_CHK_EI38-3VA_Neutral" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Trafo, Printtrafo, CHK, EI38, 3VA, neutral, http://www.eratransformers.com/product-detail/20")
     (tags "Trafo Printtrafo CHK EI42 3VA neutral ")

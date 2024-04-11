@@ -119,7 +119,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Heatsink AAVID TO-263 D2 Pak
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -110,7 +110,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter TRACO TMU3 THT SIP-4 3W
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

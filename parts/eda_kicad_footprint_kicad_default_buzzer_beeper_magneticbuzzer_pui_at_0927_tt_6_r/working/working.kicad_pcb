@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_PUI_AT-0927-TT-6-R" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf")
     (tags "Buzzer Magnetic 9mm AT-0927-TT-6-R")

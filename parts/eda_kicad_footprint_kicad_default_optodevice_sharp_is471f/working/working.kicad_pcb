@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sharp_IS471F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf")
     (tags "Sharp OPIC IS471F")

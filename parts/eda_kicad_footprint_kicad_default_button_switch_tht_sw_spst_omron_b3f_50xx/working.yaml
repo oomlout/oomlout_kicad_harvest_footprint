@@ -111,7 +111,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'tactile omron switch tht B3F-5000 B3F-5050 B3F-5001 B3F-5051  '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

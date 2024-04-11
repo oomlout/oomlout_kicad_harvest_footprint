@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Omron_G6H-2F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Omron G6H-2F relais, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf")
     (tags "Omron G6H-2F relais")

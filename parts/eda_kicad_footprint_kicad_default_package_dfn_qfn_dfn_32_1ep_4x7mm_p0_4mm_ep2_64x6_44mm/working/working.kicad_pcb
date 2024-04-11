@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DKD Package; 32-Lead Plastic DFN (7mm x 4mm) (see Linear Technology DFN_32_05-08-1734.pdf)")
     (tags "DFN 0.4")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Abracon Miniature Ceramic SMD Crystal ABS25 https://abracon.com/Resonators/abs25.pdf, 8.0x3.8mm^2 package")
     (tags "SMD SMT crystal")

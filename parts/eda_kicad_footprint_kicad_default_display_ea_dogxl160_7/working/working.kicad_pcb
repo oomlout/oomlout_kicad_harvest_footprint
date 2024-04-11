@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_DOGXL160-7" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf")
     (tags "EA_DOGXL160-7")

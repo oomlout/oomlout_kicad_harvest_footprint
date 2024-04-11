@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-8_1.5195x1.5195mm_Layout3x3_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, area grid, YZR pad definition, 1.5195x1.5195mm, 8 Ball, 3x3 Layout, 0.5mm Pitch, http://www.ti.com/lit/ml/mxbg270/mxbg270.pdf")
     (tags "BGA 8 0.5")

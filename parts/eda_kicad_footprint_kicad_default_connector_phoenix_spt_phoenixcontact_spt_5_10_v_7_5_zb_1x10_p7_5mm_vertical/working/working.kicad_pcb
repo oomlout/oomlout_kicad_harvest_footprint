@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_SPT_5_10-V-7.5-ZB_1x10_P7.5mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Connector Phoenix Contact, SPT 5/10-V-7.5-ZB Terminal Block, 1719396 (https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1719396), generated with kicad-footprint-generator")
     (tags "Connector Phoenix Contact SPT 5/10-V-7.5-ZB 1719396")

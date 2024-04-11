@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf")
     (tags "barrel jack cui dc power")

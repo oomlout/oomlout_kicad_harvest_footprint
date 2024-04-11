@@ -107,7 +107,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

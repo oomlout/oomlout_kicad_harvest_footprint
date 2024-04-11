@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Wuerth_36103305_30x30mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WE-SHC Shielding Cabinet SMD 30x30mm")
     (tags "Shielding Cabinet")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-156_4.96x4.64mm_Layout13x12_P0.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-156, ST die ID 450, 4.96x4.64mm, 156 Ball, 13x12 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32h747xi.pdf")
     (tags "CSP 156 0.35")

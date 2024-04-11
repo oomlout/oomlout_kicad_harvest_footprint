@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fiducial_1.5mm_Mask4.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Circular Fiducial, 1.5mm bare copper, 4.5mm soldermask opening")
     (tags "fiducial")

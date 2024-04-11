@@ -360,7 +360,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: SMD DIP DIL PDIP SMDIP 2.54mm 25.24mm 993mil
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

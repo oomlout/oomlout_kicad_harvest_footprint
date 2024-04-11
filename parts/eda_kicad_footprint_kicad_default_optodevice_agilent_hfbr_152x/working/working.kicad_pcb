@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AGILENT_HFBR-152x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fiberoptic Transmitter TX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)")
     (tags "Fiberoptic Transmitter")

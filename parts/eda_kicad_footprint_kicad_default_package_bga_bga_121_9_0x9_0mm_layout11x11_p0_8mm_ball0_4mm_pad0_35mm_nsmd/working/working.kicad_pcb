@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "121-ball, 0.8mm BGA (based on http://www.latticesemi.com/view_document?document_id=213)")
     (tags "BGA 0.8mm 9mm 121")

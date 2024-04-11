@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-HSOF-8-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)")
     (tags "mosfet hsof toll")

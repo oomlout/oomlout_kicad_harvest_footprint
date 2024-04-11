@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_X2SON-5_0.8x0.8mm_P0.48mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "X2SON 5 pin 0.8x0.8mm package (Reference Datasheet: https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf#page=39 Reference part: SN74LVC1G17) [StepUp generated footprint]")
     (tags "X2SON DPW0005A")

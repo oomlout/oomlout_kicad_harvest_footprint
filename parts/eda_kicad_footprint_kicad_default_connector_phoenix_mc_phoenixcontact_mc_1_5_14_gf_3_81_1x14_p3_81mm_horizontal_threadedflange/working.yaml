@@ -240,7 +240,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MC_01x14_GF_3.81mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

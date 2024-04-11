@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Shunt_Ohmite_LVK24" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf")
     (tags "4 contacts resistor smd")

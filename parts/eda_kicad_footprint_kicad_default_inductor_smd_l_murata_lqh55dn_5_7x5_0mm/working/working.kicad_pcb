@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Murata_LQH55DN_5.7x5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf")
     (tags "inductor smd")

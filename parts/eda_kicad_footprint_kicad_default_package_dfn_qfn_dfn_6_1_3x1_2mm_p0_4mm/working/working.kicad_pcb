@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-6_1.3x1.2mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "6-Lead Plastic DFN (1.3mm x 1.2mm) ")
     (tags "DFN 0.4")

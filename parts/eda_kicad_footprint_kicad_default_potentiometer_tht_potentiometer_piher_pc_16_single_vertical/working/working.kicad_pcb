@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Piher_PC-16_Single_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf")
     (tags "Potentiometer vertical Piher PC-16 Single")

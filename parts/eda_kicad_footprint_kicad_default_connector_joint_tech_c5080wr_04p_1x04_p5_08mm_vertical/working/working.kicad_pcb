@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Joint-Tech_C5080WR-04P_1x04_P5.08mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "C5080 SERIES 90° Wafer, (https://datasheet.lcsc.com/lcsc/1912261836_HR-Joint-Tech-Elec-C5080WR-04P_C477015.pdf)")
     (tags "connector side-entry ATA PATA IDE 5.25 inch floppy drive power")

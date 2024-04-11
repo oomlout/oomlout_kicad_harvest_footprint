@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Symbol_ESD-Logo_CopperTop" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,")
     (tags "ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,")

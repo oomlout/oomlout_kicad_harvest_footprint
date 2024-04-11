@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CMWX1ZZABZ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://wireless.murata.com/RFM/data/type_abz.pdf")
     (tags "iot lora sigfox")

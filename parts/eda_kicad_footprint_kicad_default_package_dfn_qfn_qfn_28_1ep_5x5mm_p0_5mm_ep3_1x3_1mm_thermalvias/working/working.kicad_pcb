@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-28-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/TMC2202_TMC2208_TMC2224_datasheet_rev1.14.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")

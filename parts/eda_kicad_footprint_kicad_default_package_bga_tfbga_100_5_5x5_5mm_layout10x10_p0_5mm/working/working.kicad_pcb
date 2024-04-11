@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TFBGA-100_5.5x5.5mm_Layout10x10_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFBGA-100, NSMD, 5.5x5.5mm, 100 Ball, 10x10 Layout, 0.5mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
     (tags "BGA 100 0.5 100-ball FBGA")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, hand-soldering, 5.0x3.2mm^2 package")
     (tags "SMD SMT crystal oscillator hand-soldering")

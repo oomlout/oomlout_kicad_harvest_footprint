@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_MS5525DSO-DBxxxyS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Pressure Sensor, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English")
     (tags "Pressure DualBarbed")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Symbol_HighVoltage_Triangle_6x6mm_Copper" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "High voltage symbol, in triangle, 6x6mm, copper layer")
     (tags "warning graphic")

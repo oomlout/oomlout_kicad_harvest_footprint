@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NXP_HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.2x3.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HTSSOP, 28 Pin (https://www.nxp.com/docs/en/package-information/SOT1172-3.pdf)")
     (tags "HTSSOP SO")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Disc_D11.0mm_W5.0mm_P5.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=11*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 11mm width 5.0mm Capacitor")

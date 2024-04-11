@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Pulse_W3000" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Pulse Electronics W3000 tri-band antenna for GPS (1.575Ghz), 868Mhz and 2.4Ghz ISM bands, https://productfinder.pulseeng.com/products/datasheets/W3000.pdf")
     (tags "Antenna GPS 868Mhz ISM 1.575Ghz")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Coilcraft_LPS4414" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Inductor Coilcraft LPS4414, https://www.coilcraft.com/getmedia/fa8805ca-b278-4819-915a-b5cf632f0239/lps4414.pdf")
     (tags "L Coilcraft LPS4414")

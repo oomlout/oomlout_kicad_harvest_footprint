@@ -132,9 +132,13 @@ def harvest_footprint_kiutils(file_footprint):
                 footprint_copy.__dict__[key] = str(footprint_copy.__dict__[key])
         
         part_details["footprint_string"] = footprint_copy.__dict__
-
+        if "tedit" in part_details["footprint_string"]:
+                del part_details["footprint_string"]["tedit"]
+                
         #dump part_details to yaml file to working.yaml
         with open(f"{directory}/working.yaml", "w") as file:
+            #remove tedit
+            
             yaml.dump(part_details, file)
 
         pass

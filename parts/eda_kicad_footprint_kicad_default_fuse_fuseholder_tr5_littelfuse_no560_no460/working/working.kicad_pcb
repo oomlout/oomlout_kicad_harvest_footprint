@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_TR5_Littelfuse_No560_No460" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fuse, Fuseholder, TR5, Littelfuse/Wickmann, No. 460, No560, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_holders/littelfuse_fuse_holder_559_560_datasheet.pdf.pdf")
     (tags "Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560 ")

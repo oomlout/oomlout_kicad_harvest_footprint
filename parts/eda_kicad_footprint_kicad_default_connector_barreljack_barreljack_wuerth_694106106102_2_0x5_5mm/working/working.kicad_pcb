@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_Wuerth_694106106102_2.0x5.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Wuerth Elektronik 694106106102 Barrel Jack, 2.0x5.5mm, https://www.we-online.com/components/products/datasheet/694106106102.pdf")
     (tags "barrel jack Wuerth Elektronik 694106106102")

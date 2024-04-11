@@ -119,7 +119,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DCDC-Converter TRACO THB10 THT 2"x1" 10W
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

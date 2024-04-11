@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Panasonic_JW2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Panasonic Relay DPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok")
     (tags "Panasonic Relay DPDT")

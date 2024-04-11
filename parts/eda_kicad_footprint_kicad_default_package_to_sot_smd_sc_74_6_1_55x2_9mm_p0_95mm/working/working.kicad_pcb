@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SC-74-6_1.55x2.9mm_P0.95mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SC-74, 6 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=39), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SC-74 SO")

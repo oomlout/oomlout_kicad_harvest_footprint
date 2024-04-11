@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_speakON_Neutrik_NL4MDXX-V-3_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), vertical PCB mount, replaces NL4MD-V-1, https://www.neutrik.com/en/product/nl4mdxx-v-3")
     (tags "neutrik speakon")

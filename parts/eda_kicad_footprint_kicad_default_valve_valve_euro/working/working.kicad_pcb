@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Valve_EURO" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Valve Euro")
     (tags "Valve Euro")

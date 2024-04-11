@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Lumex_SML-LX0404SIUPGUSB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf")
     (tags "LED RGB")

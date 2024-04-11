@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DRB0008A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf")
     (tags "DRB0008A")

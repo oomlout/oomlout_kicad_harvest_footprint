@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Bourns_PTA1543_Single_Slide" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns single-gang slide potentiometer, 15.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf")
     (tags "Bourns single-gang slide potentiometer 15.0mm")

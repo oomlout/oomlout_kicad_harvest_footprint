@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Axial_Power_L25.0mm_W9.0mm_P10.16mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Resistor, Axial_Power series, Axial, Vertical, pin pitch=10.16mm, 7W, length*width*height=25*9*9mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf")
     (tags "Resistor Axial_Power series Axial Vertical pin pitch 10.16mm 7W length 25mm width 9mm height 9mm")

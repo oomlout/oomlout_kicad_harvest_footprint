@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LEM_LV25-P" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf")
     (tags "LEM Hall Effect Voltage transducer")

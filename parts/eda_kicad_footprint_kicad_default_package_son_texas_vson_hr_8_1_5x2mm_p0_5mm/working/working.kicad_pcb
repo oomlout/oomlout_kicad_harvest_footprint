@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_VSON-HR-8_1.5x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  VSON-HR, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62823.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas VSON-HR NoLead")

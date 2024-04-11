@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DIP-64_W25.4mm_Socket" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket")
     (tags "THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket")

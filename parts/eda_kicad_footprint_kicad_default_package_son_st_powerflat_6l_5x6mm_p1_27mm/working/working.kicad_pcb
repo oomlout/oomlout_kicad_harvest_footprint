@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_PowerFLAT-6L_5x6mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Thermally-enhanced 5x6mm 6-pin package, https://www.st.com/resource/en/datasheet/stl40dn3llh5.pdf")
     (tags "PowerFLAT5x6")

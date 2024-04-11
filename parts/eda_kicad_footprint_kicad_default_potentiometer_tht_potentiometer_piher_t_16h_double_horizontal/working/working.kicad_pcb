@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Piher_T-16H_Double_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Piher T-16H Double, http://www.piher-nacesa.com/pdf/22-T16v03.pdf")
     (tags "Potentiometer horizontal Piher T-16H Double")

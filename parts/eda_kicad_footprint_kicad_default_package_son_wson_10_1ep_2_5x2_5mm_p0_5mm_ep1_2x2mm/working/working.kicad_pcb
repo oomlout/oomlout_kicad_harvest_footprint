@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WSON, 10 Pin (http://www.ti.com/lit/gpn/tps63030#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WSON NoLead")

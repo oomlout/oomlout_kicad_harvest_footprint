@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_eDIPTFT57-XXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf")
     (tags "TFT-graphic display 640x480 16 bit colour")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=20.32*12.7mm^2, Vishay, IHA-201, http://www.vishay.com/docs/34014/iha.pdf")
     (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20.32mm diameter 12.7mm Vishay IHA-201")

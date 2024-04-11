@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UDFN-9_1.0x3.8mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "9-pin UDFN package, 1.0x3.8mm, (Ref: https://katalog.we-online.de/pbs/datasheet/824014881.pdf)")
     (tags "UDFN SMD")

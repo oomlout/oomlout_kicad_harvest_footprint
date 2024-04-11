@@ -736,7 +736,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block 4Ucon ItemNo. 10705 vertical pitch 3.5mm size 50x8.3mm^2
     drill 1.3mm pad 2.6mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

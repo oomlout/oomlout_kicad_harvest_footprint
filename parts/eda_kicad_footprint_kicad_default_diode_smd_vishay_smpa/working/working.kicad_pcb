@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Vishay_SMPA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf")
     (tags "Diode SMPA (DO-221BC)")

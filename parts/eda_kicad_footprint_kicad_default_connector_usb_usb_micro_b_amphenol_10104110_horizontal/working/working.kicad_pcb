@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Micro-B_Amphenol_10104110_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf")
     (tags "USB Micro B horizontal")

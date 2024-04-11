@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_Socket_DPDT_Finder_96.12" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DPDT relay socket, 15A max 10A per contact, 2kV AC Isolation, https://gfinder.findernet.com/public/attachments/56/DE/S56DE.pdf")
     (tags "finder relay socket 96.12 56.32")

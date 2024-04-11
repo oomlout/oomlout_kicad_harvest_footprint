@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 56 Pin top tented version (manually modified). For information see: http://www.cypress.com/file/138911/download")
     (tags "QFN DFN_QFN")

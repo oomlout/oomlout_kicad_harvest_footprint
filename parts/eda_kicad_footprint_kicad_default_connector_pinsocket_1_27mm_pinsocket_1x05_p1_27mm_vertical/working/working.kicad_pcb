@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_1x05_P1.27mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Through hole straight socket strip, 1x05, 1.27mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x05 1.27mm single row")

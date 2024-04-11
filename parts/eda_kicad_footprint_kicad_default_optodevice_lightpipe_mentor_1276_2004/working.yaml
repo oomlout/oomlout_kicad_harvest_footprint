@@ -221,7 +221,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: planar light pipe 4 way 3mm PLCC-2 PLCC-4
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

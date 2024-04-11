@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "microSD_HC_Wuerth_693072010801" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://katalog.we-online.de/em/datasheet/693072010801.pdf")
     (tags "Micro SD Wuerth Wurth Würth")

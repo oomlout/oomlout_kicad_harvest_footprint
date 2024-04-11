@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LEM_LTSR-NP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LEM current transducer LEM_LTSR-NP 5V supply voltage series https://www.lem.com/sites/default/files/products_datasheets/ltsr_6-np.pdf")
     (tags "Current transducer")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-126-2_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-126-2, Vertical, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-2 Vertical RM 5.08mm")

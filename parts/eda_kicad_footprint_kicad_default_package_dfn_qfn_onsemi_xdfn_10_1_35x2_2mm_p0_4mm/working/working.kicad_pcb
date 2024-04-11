@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_XDFN-10_1.35x2.2mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10-Lead Plastic XDFN (1.35mm x 2.2mm) (see https://www.onsemi.com/pdf/datasheet/emi8132-d.pdf)")
     (tags "OnSemi XDFN-10 0.4")

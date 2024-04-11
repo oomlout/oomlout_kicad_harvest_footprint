@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MCV_1,5_7-G-5.08_1x07_P5.08mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/7-G-5.08; number of pins: 07; pin pitch: 5.08mm; Vertical || order number: 1836341 8A 320V")
     (tags "phoenix_contact connector MCV_01x07_G_5.08mm")

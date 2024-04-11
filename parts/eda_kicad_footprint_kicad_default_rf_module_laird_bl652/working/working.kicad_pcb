@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Laird_BL652" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bluetooth v4.2 + NFC module")
     (tags "Bluetooth BLE NFC")

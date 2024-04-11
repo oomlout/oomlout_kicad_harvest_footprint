@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN22 6*5*0.9 MM, 0.5 P; CASE 506AF\\xe2\\x88\\x9201 (see ON Semiconductor 506AF.PDF)")
     (tags "DFN 0.5")

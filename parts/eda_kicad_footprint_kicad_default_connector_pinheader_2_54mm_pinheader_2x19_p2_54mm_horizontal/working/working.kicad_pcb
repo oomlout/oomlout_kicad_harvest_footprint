@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinHeader_2x19_P2.54mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Through hole angled pin header, 2x19, 2.54mm pitch, 6mm pin length, double rows")
     (tags "Through hole angled pin header THT 2x19 2.54mm double row")

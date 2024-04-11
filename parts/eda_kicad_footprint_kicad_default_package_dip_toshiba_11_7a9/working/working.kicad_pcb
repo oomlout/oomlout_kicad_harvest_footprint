@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Toshiba_11-7A9" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Toshiba 11-7A9 package, like 6-lead dip package with missing pin 5, row spacing 7.62 mm (300 mils), https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)")
     (tags "Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil")

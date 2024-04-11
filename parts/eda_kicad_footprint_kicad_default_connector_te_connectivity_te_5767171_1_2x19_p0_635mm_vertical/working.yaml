@@ -393,7 +393,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: mictor38 receptacle board-to-board
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

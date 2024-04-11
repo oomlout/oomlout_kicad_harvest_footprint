@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Myrra_EF20_7408x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf")
     (tags "transformer flyback SMPS")

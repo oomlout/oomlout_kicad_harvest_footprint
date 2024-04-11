@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diodes_UDFN2020-6_Type-F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) ")
     (tags "U-DFN2020-6 (Type F)")

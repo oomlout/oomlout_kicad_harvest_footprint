@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BNC_TEConnectivity_1478204_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html")
     (tags "BNC female PCB mount 4 pin straight chassis connector ")

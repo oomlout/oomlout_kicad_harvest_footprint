@@ -102,7 +102,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CMS SOT
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

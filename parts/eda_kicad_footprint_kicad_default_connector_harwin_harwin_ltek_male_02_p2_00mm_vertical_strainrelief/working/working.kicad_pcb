@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Harwin LTek Connector, 2 pins, single row male, vertical entry, strain relief clip")
     (tags "connector harwin ltek M80")

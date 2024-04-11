@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PowerIntegrations_eSOP-12B" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "eSOP-12B SMT Flat Package with Heatsink Tab, see https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf")
     (tags "Power Integrations K Package")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonModeChoke_TDK_ACM7060" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACM7060 SMT Common Mode Filter, https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_power_acm7060_en.pdf")
     (tags "SMT Common Mode Line Filter")

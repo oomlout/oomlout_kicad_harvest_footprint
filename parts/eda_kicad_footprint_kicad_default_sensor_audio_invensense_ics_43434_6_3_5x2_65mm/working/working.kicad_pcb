@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "InvenSense_ICS-43434-6_3.5x2.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TDK InvenSense MEMS I2S Microphone: https://invensense.tdk.com/products/ics-43434/")
     (tags "microphone MEMS I2S ICS-43434 TDK InvenSense")

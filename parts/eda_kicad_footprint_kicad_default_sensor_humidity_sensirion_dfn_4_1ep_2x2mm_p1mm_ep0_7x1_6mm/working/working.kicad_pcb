@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN, 4 Pin (https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf)")
     (tags "Sensirion DFN NoLead")

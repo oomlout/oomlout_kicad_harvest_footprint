@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_CK605" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf)")
     (tags "Mini-Circuits CK605")

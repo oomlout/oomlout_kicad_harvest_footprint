@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Bourns_3299X_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Bourns 3299X, https://www.bourns.com/pdfs/3299.pdf")
     (tags "Potentiometer horizontal Bourns 3299X")

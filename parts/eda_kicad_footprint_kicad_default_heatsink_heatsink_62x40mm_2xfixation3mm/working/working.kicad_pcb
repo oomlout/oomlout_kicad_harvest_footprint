@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_62x40mm_2xFixation3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, 62 x 40mm, 2x 3mm Drills,")
     (tags "heatsink")

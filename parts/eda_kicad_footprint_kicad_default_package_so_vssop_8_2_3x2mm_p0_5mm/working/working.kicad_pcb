@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VSSOP-8_2.3x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VSSOP-8 2.3x2mm Pitch 0.5mm")
     (tags "VSSOP-8 2.3x2mm Pitch 0.5mm")

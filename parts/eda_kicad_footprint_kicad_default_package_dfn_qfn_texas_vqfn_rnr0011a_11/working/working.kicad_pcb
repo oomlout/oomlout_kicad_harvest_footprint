@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_VQFN-RNR0011A-11" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RNR0011A, VQFN-11 (https://www.ti.com/lit/ds/symlink/tps61089.pdf#Page=27)")
     (tags "TI RNR0011A")

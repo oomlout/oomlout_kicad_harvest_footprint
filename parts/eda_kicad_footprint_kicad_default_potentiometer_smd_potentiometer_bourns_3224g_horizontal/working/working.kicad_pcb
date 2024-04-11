@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Bourns_3224G_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Bourns 3224G, https://www.bourns.com/docs/Product-Datasheets/3224.pdf")
     (tags "Potentiometer horizontal Bourns 3224G")

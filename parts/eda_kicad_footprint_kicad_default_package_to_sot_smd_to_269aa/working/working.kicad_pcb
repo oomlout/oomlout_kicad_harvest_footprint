@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-269AA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD package TO-269AA (e.g. diode bridge), see http://www.vishay.com/docs/88854/padlayouts.pdf")
     (tags "TO-269AA MBS diode bridge")

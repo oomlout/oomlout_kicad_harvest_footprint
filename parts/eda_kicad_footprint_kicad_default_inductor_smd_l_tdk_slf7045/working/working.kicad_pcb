@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TDK_SLF7045" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, TDK, SLF7045, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7045_en.pdf)")
     (tags "Inductor TDK_SLF7045")

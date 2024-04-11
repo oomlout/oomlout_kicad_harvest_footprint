@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Bourns_MF-RG800" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PTC Resettable Fuse, Ihold = 8.0A, Itrip=13.6A, http://www.bourns.com/docs/Product-Datasheets/mfrg.pdf")
     (tags "ptc resettable fuse polyfuse THT")

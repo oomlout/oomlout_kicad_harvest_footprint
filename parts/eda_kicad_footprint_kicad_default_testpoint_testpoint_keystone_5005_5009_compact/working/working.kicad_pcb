@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Keystone_5005-5009_Compact" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314")
     (tags "Through Hole Mount Test Points")

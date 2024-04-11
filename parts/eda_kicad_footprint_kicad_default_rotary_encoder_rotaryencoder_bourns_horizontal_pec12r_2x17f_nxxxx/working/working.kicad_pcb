@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Nxxxx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns rotary encoder, PEC12R, without switch, horizontal shaft, 17mm shaft length, https://www.bourns.com/docs/product-datasheets/pec12r.pdf")
     (tags "rotary encoder")

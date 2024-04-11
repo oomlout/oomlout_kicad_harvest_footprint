@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JAE_LY20-14P-DLT1_2x07_P2.00mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Molex LY 20 series connector, LY20-14P-DLT1, 7 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ038187.pdf), generated with kicad-footprint-generator")
     (tags "connector JAE  top entry")

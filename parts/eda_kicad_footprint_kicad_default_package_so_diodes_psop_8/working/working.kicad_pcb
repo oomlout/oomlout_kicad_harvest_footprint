@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diodes_PSOP-8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)")
     (tags "SSOP 0.50 exposed pad")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Avago_PLCC6_3x2.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://docs.broadcom.com/docs/AV02-3793EN")
     (tags "LED Avago PLCC-6 ASMT-YTB7-0AA02")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Knowles_LGA-6_4.72x3.76mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Knowles MEMS Analog Microphone, Omnidirectional, SMD, Differential/Single-Ended Output, -40dB, Bottom Port, https://www.knowles.com/docs/default-source/default-document-library/spm0687lr5h-1_winfrey_datasheet.pdf")
     (tags "SPM0687LR5H MEMS Microphone LGA")

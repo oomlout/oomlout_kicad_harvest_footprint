@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB3_A_Molex_48406-0001_Horizontal_Stacked" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB 3.0, type A, right angle, stacked (https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/484/48406/484060001_sd.pdf)")
     (tags "USB 3.0 type A right angle stacked dual")

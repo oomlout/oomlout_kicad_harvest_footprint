@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_HZ1198" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)")
     (tags "Mini-Circuits HZ1198")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm")
     (tags "test point wire loop bead")

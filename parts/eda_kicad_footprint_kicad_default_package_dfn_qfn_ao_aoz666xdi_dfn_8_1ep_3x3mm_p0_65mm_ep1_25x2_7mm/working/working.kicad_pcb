@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AO_AOZ666xDI_DFN-8-1EP_3x3mm_P0.65mm_EP1.25x2.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AO AOZ666xDI DFN, 8 Pin (https://aosmd.com/res/data_sheets/AOZ6663DI-01.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "AO DFN NoLead")

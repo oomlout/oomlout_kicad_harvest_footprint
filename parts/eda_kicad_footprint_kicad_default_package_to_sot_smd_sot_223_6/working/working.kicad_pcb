@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-223-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf")
     (tags "CMS SOT")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_S-PX2QFN-14" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  QFN, 14 Pin (http://www.ti.com/lit/ds/symlink/tlv9004.pdf#page=64), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas QFN NoLead")

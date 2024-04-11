@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_MPD_BH-18650-PC2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)")
     (tags "18650 Battery Holder")

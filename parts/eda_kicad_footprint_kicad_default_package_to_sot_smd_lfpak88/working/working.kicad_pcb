@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFPAK88" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFPAK88 PowerPAK 8 x 8L BWL Single SOT-1235 (https://assets.nexperia.com/documents/package-information/SOT1235.pdf)")
     (tags "PowerPAK 8x8L Nexperia Vishay")

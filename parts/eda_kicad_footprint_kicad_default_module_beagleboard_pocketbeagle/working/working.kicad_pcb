@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BeagleBoard_PocketBeagle" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors")
     (tags "PocketBeagle")

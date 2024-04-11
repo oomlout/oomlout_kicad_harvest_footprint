@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_MOF0009A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, QFM MOF0009A, 6x8x2mm (http://www.ti.com/lit/ml/mpsi063a/mpsi063a.pdf)")
     (tags "ti qfm mof0009a")

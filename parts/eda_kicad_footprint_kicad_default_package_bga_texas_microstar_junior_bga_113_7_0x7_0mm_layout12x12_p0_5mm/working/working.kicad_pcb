@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, BGA Microstar Junior, NSMD, 7x7mm, 113 Ball, 12x12 Layout, 0.5mm Pitch, http://www.ti.com/lit/ml/mpbg674/mpbg674.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf")
     (tags "BGA 113 0.5")

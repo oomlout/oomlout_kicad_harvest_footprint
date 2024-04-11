@@ -296,7 +296,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ESP WROOM-02 espressif esp8266ex
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -121,7 +121,6 @@ footprint_string:
   solderPasteRatio: None
   tags: L_Toroid Vertical series Radial pin pitch 20.10mm  length 54mm width 23.8mm
     Bourns 5700
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Allegro_QSOP-24_3.9x8.7mm_P0.635mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Allegro Microsystems 24-Lead Plastic Shrink Small Outline Narrow Body Body [QSOP] (http://www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en)")
     (tags "Allegro QSOP 0.635")

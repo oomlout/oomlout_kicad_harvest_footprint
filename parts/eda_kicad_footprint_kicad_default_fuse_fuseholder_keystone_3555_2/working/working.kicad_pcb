@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Keystone_3555-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Maxi APX ATX Automotive Blade Fuse Clip Holder https://www.keyelco.com/userAssets/file/M65p40.pdf")
     (tags "Maxi APX ATX Automotive Blade Fuse Clip Holder")

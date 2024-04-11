@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Creative Commons symbol, CC0, with words, silkscreen layer, 10mm")
     (tags "public domain license graphic")

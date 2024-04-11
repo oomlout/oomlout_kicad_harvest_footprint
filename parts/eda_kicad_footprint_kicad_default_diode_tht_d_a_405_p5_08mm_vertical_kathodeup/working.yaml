@@ -82,7 +82,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter
     2.7mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

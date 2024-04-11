@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_Panasonic_ALFG_FormA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf")
     (tags "Panasonic Relay SPST")

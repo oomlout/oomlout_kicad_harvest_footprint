@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_Omron-G5Q-1A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf")
     (tags "Relay SPST-NO Omron Serie G5Q")

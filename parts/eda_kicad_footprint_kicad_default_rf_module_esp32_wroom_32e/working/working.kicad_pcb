@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ESP32-WROOM-32E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "2.4 GHz Wi­-Fi and Bluetooth 5 (LE) module: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf")
     (tags "Bluetooth WiFi Wi-Fi ESP32 WROOM Xtensa LX6")

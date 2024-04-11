@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_TE_PCN-1xxD3MHZ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1461491%7FG2%7Fpdf%7FEnglish%7FENG_CD_1461491_G2.pdf%7F3-1461491-0")
     (tags "SPST relay slim")

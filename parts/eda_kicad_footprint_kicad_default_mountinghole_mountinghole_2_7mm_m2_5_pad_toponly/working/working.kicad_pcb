@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_2.7mm_M2.5_Pad_TopOnly" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mounting Hole 2.7mm, M2.5")
     (tags "mounting hole 2.7mm m2.5")

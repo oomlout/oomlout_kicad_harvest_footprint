@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HDMI_Micro-D_Molex_46765-0x01" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HDMI, Micro, Type D, SMD, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)")
     (tags "hdmi micro type d right angle smd")

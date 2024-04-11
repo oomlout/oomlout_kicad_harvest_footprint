@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_VCT-28_3.5x3.5mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "OnSemi VCT NoLead")

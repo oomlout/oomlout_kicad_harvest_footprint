@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MountingHole_6.4mm_M6_ISO14580_Pad_TopOnly" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mounting Hole 6.4mm, M6, ISO14580")
     (tags "mounting hole 6.4mm m6 iso14580")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ROHM_SOT-457_ClockwisePinNumbering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ROHM SOT-457 SC-74, 6 Pin (https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/imh3at110-e.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "ROHM SC-74 SO")

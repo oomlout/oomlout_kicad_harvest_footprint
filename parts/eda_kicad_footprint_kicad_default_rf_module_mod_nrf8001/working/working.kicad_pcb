@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MOD-nRF8001" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BLE module, https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/")
     (tags "BLE module")

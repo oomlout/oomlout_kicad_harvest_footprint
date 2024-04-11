@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=30*8mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf")
     (tags "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 30mm diameter 8mm Fastron 77A")

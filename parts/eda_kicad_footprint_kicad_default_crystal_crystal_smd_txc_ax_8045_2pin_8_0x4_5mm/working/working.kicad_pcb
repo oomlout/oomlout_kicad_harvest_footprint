@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.txccrystal.com/images/pdf/ax-automotive.pdf")
     (tags "SMD SMT crystal")

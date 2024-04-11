@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CYBLE-21Pin-10x10mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Cypress EZ-BLE PRoC Module (Bluetooth Smart) 21 Pin Module")
     (tags "Cypress BT Bluetooth")

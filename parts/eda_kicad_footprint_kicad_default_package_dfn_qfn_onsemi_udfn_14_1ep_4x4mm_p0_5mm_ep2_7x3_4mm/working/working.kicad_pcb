@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OnSemi_UDFN-14-1EP_4x4mm_P0.5mm_EP2.7x3.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "OnSemi  UDFN, 14 Pin (https://www.onsemi.com/pub/Collateral/506CM.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "OnSemi UDFN NoLead")

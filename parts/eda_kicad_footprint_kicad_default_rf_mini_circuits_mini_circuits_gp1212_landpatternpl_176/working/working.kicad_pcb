@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_GP1212_LandPatternPL-176" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)")
     (tags "mini-circuits PL-176")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_CD636_LandPatternPL-035" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case CD636 (https://ww2.minicircuits.com/case_style/CD636.pdf) following land pattern PL-035, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl035.pdf)")
     (tags "mini-circuits pl-035 CD636")

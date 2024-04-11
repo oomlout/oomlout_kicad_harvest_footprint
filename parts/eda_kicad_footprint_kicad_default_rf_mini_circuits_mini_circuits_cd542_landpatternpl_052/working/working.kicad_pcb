@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_CD542_LandPatternPL-052" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case CD542 (https://ww2.minicircuits.com/case_style/CD542.pdf) using land-pattern PL-052, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl052.pdf)")
     (tags "MiniCircuits PL-052 CD542")

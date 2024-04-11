@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_speakON-6.35mm_Neutrik_NLJ2MDXX-V_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, replaces NLJ2MD-V, https://www.neutrik.com/en/product/nlj2mdxx-v")
     (tags "neutrik speakon combo")

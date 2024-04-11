@@ -210,7 +210,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector JST EH side entry
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

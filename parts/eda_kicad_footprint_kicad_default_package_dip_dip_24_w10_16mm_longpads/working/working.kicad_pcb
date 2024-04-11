@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DIP-24_W10.16mm_LongPads" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads")

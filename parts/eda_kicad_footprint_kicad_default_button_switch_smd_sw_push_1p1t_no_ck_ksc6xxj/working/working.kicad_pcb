@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1P1T_NO_CK_KSC6xxJ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "CK components KSC6 tactile switch https://www.ckswitches.com/media/1972/ksc6.pdf")
     (tags "tactile switch ksc6")

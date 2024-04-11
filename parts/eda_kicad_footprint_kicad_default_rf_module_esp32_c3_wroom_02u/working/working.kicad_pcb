@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ESP32-C3-WROOM-02U" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RF Module, ESP32-C3 WROOM-02 , Wi-Fi and Bluetooth, BLE, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf")
     (tags "ESP32-C3 WROOM-02 espressif")

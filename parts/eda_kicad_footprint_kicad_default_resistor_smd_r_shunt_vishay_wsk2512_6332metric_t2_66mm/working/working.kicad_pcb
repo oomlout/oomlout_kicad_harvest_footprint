@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.66mm, 0.5 to 0.99 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)")
     (tags "resistor shunt WSK2512")

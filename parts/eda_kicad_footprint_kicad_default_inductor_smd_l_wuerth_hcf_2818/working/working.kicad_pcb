@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_HCF-2818" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "7443640330, http://katalog.we-online.de/pbs/datasheet/7443640330.pdf")
     (tags "inductor shielded wuerth hcf")

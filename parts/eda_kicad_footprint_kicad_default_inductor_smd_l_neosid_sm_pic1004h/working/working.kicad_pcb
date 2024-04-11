@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_SM-PIC1004H" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf")
     (tags "Neosid Inductor SM-PIC1004H Fixed inductor SMD")

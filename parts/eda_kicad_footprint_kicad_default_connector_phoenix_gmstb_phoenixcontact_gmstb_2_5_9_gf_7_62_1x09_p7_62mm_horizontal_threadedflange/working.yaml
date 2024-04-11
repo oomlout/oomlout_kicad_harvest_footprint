@@ -294,7 +294,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector GMSTB_01x09_GF_7.62mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

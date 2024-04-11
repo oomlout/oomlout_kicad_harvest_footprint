@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Pololu_Breakout-16_15.2x20.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\\")
     (tags "Pololu Breakout")

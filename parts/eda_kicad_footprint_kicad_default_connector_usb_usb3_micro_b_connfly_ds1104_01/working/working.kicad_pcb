@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB3_Micro-B_Connfly_DS1104-01" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)")
     (tags "USB 3.0 Micro B SMD right angle")

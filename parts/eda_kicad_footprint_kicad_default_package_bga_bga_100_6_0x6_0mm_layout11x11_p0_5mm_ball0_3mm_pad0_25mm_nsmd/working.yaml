@@ -767,7 +767,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera BGA-100 M100 MBGA
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

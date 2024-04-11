@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-PLCC4_5x5mm_CW" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "5.0mm x 5.0mm PLCC4 LED")
     (tags "LED Cree PLCC-4 5050")

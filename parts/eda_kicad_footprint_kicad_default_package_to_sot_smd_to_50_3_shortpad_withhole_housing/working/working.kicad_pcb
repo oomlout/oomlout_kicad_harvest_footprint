@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-50-3_ShortPad-WithHole_Housing" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-50-3 Macro T Package Style M236")
     (tags "TO-50-3 Macro T Package Style M236")

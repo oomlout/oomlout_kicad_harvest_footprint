@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_GMSTBA_2,5_12-G-7,62_1x12_P7.62mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: GMSTBA_2,5/12-G-7,62; number of pins: 12; pin pitch: 7.62mm; Angled || order number: 1766330 12A 630V")
     (tags "phoenix_contact connector GMSTBA_01x12_G_7.62mm")

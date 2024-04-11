@@ -135,7 +135,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: '-0.1'
   tags: UQFN DFN 0.5 ST
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND")
     (tags "THT")

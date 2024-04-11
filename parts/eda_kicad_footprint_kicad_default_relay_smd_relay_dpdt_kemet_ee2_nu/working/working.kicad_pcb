@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Kemet_EE2_NU" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
     (tags "Kemet EC2 signal relay DPDT double coil latching surface mount SMD")

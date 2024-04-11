@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Panasonic CR-1025/VSK battery")
     (tags "battery CR-1025 coin cell vertical")

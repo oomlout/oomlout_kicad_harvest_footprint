@@ -255,7 +255,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

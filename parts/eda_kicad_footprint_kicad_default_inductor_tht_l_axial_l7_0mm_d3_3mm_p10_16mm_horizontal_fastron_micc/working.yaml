@@ -96,7 +96,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 7mm diameter
     3.3mm Fastron MICC
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

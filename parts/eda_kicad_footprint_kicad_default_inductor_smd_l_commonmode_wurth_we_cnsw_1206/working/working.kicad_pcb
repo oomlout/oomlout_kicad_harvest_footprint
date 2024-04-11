@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_Wurth_WE-CNSW-1206" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WE-CNSW SMT Common Mode Line Filter, https://www.we-online.com/components/products/datasheet/744232090.pdf")
     (tags "common mode choke 1206 cnsw")

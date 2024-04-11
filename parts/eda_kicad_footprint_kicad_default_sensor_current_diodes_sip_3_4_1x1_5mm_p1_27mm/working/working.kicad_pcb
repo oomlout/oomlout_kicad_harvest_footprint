@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diodes_SIP-3_4.1x1.5mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diodes SIP-3 Bulk Pack, 1.27mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Bulk-Pack.pdf)")
     (tags "Diodes SIP-3 Bulk Pack")

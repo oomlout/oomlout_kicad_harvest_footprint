@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HSOP-54-1EP_7.5x17.9mm_P0.65mm_EP4.6x4.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HSOP, 54 Pin (https://www.nxp.com/docs/en/package-information/98ASA10506D.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "HSOP SO")

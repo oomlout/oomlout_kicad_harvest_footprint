@@ -115,7 +115,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Potentiometer horizontal Bourns 3339W
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

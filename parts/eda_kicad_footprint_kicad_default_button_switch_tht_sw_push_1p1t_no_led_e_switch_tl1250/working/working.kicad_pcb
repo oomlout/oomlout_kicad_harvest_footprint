@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_Push_1P1T_NO_LED_E-Switch_TL1250" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf")
     (tags "led push switch right angle")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal MicroCrystal CM9V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package")
     (tags "SMD SMT crystal")

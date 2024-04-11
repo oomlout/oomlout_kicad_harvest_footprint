@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fairchild_LSOP-8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead, 300\\\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)")
     (tags "LSOP 2.54mm 300mil")

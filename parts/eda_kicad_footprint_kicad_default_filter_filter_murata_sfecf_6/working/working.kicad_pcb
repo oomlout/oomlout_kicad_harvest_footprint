@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Filter_Murata_SFECF-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf")
     (tags "10.7MHz smd ceramic")

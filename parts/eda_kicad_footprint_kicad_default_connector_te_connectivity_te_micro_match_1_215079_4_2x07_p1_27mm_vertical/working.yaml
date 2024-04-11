@@ -237,7 +237,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector TE-Connectivity Micro-MaTch Vertical 1-215079-4 8-215079-14
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

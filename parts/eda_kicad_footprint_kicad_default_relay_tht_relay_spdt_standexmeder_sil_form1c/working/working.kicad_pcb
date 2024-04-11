@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_StandexMeder_SIL_Form1C" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Standex-Meder SIL-relais, Form 1C, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf")
     (tags "Standex Meder SIL reed relais")

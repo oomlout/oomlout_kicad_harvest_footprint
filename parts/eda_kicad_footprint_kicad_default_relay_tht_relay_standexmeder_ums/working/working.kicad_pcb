@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_StandexMeder_UMS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf")
     (tags "Standex Meder SIL reed relais")

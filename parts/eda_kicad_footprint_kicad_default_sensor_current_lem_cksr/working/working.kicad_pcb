@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LEM_CKSR" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LEM CKSR 6/15/25/50/75-NP Current Transducer, https://www.lem.com/sites/default/files/products_datasheets/cksr_75-np.pdf")
     (tags "current transducer LEM")

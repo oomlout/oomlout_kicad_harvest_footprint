@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOIC-10_3.9x4.9mm_P1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO SOIC-10 NB")

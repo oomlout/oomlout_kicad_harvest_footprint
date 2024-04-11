@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_XP_POWER-IHxxxxD_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XP_POWER  IHxxxxD, DIP, (https://www.xppower.com/pdfs/SF_IH.pdf), generated with kicad-footprint-generator")
     (tags "XP_POWER  IHxxxxD DIP DCDC-Converter")

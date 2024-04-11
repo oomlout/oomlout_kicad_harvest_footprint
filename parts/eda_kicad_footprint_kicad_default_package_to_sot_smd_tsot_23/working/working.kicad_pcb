@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOT-23" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf")
     (tags "TSOT-23")

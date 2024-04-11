@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Bourns_3339P_Vertical_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, Bourns 3339P, hand-soldering, http://www.bourns.com/docs/Product-Datasheets/3339.pdf")
     (tags "Potentiometer vertical Bourns 3339P hand-soldering")

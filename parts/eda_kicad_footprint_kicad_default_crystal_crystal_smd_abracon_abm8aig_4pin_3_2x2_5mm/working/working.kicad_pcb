@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")

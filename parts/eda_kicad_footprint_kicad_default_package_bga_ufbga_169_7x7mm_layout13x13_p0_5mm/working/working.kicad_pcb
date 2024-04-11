@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-169_7x7mm_Layout13x13_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-169, 7.0x7.0mm, 169 Ball, 13x13 Layout, 0.5mm Pitch, http://www.st.com/resource/en/datasheet/stm32f429ng.pdf#page=218")
     (tags "BGA 169 0.5")

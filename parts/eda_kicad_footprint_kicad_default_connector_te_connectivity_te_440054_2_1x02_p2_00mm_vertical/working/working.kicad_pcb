@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TE_440054-2_1x02_P2.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TE Connectivity, HDI, Wire-to-Board, Fully Shrouded, Vertical Header: https://www.te.com/usa-en/product-440054-2.datasheet.pdf")
     (tags "connector header hdr horizontal vertical shrouded fully-shrounded 440054-2 2-440054-2 4-440054-2 6-440054-2 2-440054-6 4-440054-6 6-440054-6")

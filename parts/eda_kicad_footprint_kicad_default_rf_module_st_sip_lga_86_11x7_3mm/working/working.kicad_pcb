@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST-SiP-LGA-86-11x7.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "STM32WB5MMG  Module, LGA86L 11x7.3")
     (tags "bluetooth bluetooth5 bluetooth5.0 802.15.4 zigbee thread module stm32 rf")

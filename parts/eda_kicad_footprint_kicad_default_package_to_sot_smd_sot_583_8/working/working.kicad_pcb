@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-583-8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.ti.com/lit/ds/symlink/tps62933.pdf")
     (tags "SOT-583-8")

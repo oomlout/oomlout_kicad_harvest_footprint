@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Zetex_SM8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Zetex,  SMD, 8 pin package (http://datasheet.octopart.com/ZDT6758TA-Zetex-datasheet-68057.pdf)")
     (tags "Zetex SM8")

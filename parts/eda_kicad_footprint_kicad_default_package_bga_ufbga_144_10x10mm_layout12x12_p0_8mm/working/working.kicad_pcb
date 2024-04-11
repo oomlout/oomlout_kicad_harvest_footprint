@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-144_10x10mm_Layout12x12_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-144, 10.0x10.0mm, 144 Ball, 12x12 Layout, 0.8mm Pitch, http://www.st.com/resource/en/datasheet/stm32f446ze.pdf#page=189")
     (tags "BGA 144 0.8")

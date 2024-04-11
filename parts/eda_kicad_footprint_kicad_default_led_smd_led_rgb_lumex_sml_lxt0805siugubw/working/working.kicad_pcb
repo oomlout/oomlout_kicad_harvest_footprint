@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_RGB_Lumex_SML-LXT0805SIUGUBW" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.mouser.de/datasheet/2/244/SML-LXT0805SIUGUBW-1776540.pdf")
     (tags "RGB LED 0805")

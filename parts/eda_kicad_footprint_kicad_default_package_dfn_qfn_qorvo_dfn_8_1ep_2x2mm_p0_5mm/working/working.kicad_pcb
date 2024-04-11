@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Qorvo_DFN-8-1EP_2x2mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896")
     (tags "DFN 0.5 Qorvo 2x2mm")

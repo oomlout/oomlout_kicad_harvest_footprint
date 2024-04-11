@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_DIP_SPSTx10_Slide_Omron_A6S-1010x_W8.9mm_P2.54mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD 10x-dip-switch SPST Omron_A6S-1010x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)")
     (tags "SMD DIP Switch SPST Slide 8.9mm 350mil")

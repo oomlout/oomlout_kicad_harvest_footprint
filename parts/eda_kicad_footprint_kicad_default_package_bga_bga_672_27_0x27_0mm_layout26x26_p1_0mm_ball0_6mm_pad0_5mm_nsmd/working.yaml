@@ -4804,7 +4804,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Altera BGA-672 F672 FBGA
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

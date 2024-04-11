@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_TracoPower_TCK-141" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Choke, SMD, 4.0x4.0mm 2.1mm height, https://www.tracopower.com/products/tck141.pdf")
     (tags "Choke SMD")

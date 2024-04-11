@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Analog_TO-46-4_ThermalShield" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-46-4 with Valox case, based on https://www.analog.com/media/en/technical-documentation/data-sheets/199399fc.pdf")
     (tags "TO-46-4 LM399")

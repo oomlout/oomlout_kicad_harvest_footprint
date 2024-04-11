@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_UFDFPN-12-1EP_3x3mm_P0.5mm_EP1.4x2.55mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST  UFDFPN, 12 Pin (https://www.st.com/resource/en/datasheet/st25dv04k.pdf#page=152), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "ST UFDFPN NoLead")

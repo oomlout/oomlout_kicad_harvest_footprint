@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Cyntec_MUN12AD03-SH" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf")
     (tags "Power Module uPOL MUN12AD03")

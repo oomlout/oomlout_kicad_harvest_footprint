@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Oval_W5.2mm_H3.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LED_Oval, Oval,  Oval size 5.2x3.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-5603QBC-D(Ver.12B).pdf")
     (tags "LED_Oval Oval  Oval size 5.2x3.8mm^2 2 pins")

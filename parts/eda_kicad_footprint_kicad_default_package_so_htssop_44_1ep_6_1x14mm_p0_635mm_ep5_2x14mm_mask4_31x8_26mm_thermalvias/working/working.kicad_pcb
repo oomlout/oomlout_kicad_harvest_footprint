@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HTSSOP-44-1EP_6.1x14mm_P0.635mm_EP5.2x14mm_Mask4.31x8.26mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HTSSOP, 44 Pin (http://www.ti.com/lit/pdf/pptd165), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "HTSSOP SO TI-DDW0044B")

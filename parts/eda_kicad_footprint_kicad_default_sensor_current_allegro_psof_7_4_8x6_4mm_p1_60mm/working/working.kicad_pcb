@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Allegro_PSOF-7_4.8x6.4mm_P1.60mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Allegro Microsystems PSOF-7, 4.8x6.4mm Body, 1.60mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx)")
     (tags "Allegro PSOF-7")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-383F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-pin SOT-383F, http://www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf")
     (tags "SOT-383F")

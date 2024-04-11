@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_CK605_LandPatternPL-012" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf) following land pattern PL-012, including GND vias (https://ww2.minicircuits.com/pcb/98-pl012.pdf)")
     (tags "Mini-Circuits PL-012")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USON-20_2x4mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USON-20 2x4mm Pitch 0.4mm http://www.ti.com/lit/ds/symlink/txb0108.pdf")
     (tags "USON-20 2x4mm Pitch 0.4mm")

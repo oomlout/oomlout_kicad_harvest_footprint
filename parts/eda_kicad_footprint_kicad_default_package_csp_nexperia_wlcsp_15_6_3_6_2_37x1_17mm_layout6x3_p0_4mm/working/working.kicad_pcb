@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Nexperia_WLCSP-15_6-3-6_2.37x1.17mm_Layout6x3_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Nexperia wafer level chip-size package; 15 bumps (6-3-6), 2.37x1.17mm, 15 Ball, 6x3 Layout, 0.4mm Pitch, https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf")
     (tags "CSP 15 0.4")

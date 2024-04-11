@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Balun_Johanson_5400BL15B050E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf")
     (tags "balun RF")

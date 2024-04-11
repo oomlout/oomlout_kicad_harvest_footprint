@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MAN71A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php")
     (tags "One digit 7 segment red LED with right dot")

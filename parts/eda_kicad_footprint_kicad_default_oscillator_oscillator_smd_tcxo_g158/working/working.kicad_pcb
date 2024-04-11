@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_TCXO_G158" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TCXO")
     (tags "TCXO")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "EA_eDIPTFT70-ATC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFT-graphical display 800x480 16-bit colours with capacitive touch panel http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf")
     (tags "TFT-graphical display 800x480 16-bit colours with capacitive touch panel")

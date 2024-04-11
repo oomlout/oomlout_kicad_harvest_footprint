@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Microphone_Lundahl_LL1587" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1587.pdf")
     (tags "AUDIO TRAFO LUNDAHL")

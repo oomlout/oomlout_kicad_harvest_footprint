@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Astrocast_AST50147-00" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "L-band satellite communication module, https://docs.astrocast.com/dl/0532-DOC-M2M-ASTRO-Astronode_S-Datasheet.pdf")
     (tags "RF module Astrocast radio Astronode")

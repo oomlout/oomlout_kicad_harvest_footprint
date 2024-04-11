@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-1123" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
     (tags "SOT-1123 transistor")

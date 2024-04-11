@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_2P2T_10x6mm_TE_IMxxG" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf")
     (tags "TE IM-Series Relay DPDT Form C")

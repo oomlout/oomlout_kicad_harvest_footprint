@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_DPDT_Omron_G6K-2P-Y" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Omron G6K-2P-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
     (tags "Omron G6K-2P-Y relay")

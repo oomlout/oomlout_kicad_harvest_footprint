@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_WE-PD-Typ-M-Typ-S_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, Handsoldering, https://katalog.we-online.com/pbs/datasheet/744778005.pdf")
     (tags "Choke Shielded Power Inductor WE-PD TypM TypS Wuerth")

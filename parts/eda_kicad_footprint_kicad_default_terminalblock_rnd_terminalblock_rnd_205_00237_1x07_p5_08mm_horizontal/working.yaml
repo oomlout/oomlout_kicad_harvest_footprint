@@ -480,7 +480,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block RND 205-00237 pitch 5.08mm size 35.6x8.45mm^2 drill 1.1mm
     pad 2.1mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

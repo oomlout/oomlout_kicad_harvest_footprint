@@ -284,7 +284,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block Phoenix MPT-0,5-12-2.54 pitch 2.54mm size 30.9x6.2mm^2
     drill 1.1mm pad 2.2mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOP-I-28_11.8x8mm_P0.55mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)")
     (tags "TSOP I 28 pins")

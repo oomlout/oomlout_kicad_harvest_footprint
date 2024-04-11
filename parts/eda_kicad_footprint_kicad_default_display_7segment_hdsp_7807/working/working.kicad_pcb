@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HDSP-7807" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "+-1 overflow 7 segment green, https://docs.broadcom.com/docs/AV02-2553EN")
     (tags "+-1 overflow 7 segment green")

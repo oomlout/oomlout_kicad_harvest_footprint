@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "HVQFN NoLead")

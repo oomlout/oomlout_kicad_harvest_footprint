@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Harting_har-flexicon_14110713001xxx_1x07-MP_P2.54mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Harting har-flexicon series connector, 14110713001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator")
     (tags "connector Harting har-flexicon vertical")

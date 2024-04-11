@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Analog_KS-4" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf")
     (tags "Analog Devices KS-4 (like EIAJ SC-82)")

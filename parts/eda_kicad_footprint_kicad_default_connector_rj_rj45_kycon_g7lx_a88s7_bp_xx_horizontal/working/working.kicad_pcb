@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10/100Base-T RJ45 ethernet magnetic transformer connector horizontal with green/yellow LEDs http://www.kycon.com/Pub_Eng_Draw/G7LX-A88S7-BP-GY.pdf")
     (tags "RJ45 ethernet magnetic")

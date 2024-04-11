@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_D3.0mm_FlatTop" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_CHK_EI54-12VA_2xSec" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,http://www.eratransformers.com/product-detail/19")
     (tags "Trafo Printtrafo CHK EI54 12VA 2x Sec ")

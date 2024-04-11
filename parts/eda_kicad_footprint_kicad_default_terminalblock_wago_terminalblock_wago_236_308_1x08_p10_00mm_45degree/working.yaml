@@ -871,7 +871,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block WAGO 236-308 45Degree pitch 10mm size 82.3x14mm^2 drill
     1.15mm pad 3mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

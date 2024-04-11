@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OSHW-Logo2_7.3x6mm_Copper" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Open Source Hardware Symbol")
     (tags "Logo Symbol OSHW")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SD-SIM_microSD-microSIM_Molex_104168-1620" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "microSD and microSIM connector, https://www.molex.com/pdm_docs/sd/1041681620_sd.pdf")
     (tags "Combo Connector microSD and microSIM")

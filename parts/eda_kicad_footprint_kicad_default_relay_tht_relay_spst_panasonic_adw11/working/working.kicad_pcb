@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_Panasonic_ADW11" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Panasonic power relay, SPST, latching, 10x24mm, 18.8mm height, https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/270")
     (tags "Panasonic Relay SPST")

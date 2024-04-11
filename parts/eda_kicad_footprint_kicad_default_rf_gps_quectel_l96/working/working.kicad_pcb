@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Quectel_L96" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Quectel L96 GPS GLONASS Galileo BeiDou Module, internal chip antenna, https://static6.arrow.com/aropdfconversion/50213b4bc5cb920911b62909a5ca765b1c5ab3d1/quectel_l96_hardware_design_v1.2.pdf")
     (tags "Quectel GPS GNSS")

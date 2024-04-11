@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-14-1EP_3x4mm_P0.5mm_EP1.7x3.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DE Package; 14-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_14_05-08-1708.pdf)")
     (tags "DFN 0.5")

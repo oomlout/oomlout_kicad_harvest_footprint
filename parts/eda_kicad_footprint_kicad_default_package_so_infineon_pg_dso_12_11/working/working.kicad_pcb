@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-DSO-12-11" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-11/)")
     (tags "PG-DSO")

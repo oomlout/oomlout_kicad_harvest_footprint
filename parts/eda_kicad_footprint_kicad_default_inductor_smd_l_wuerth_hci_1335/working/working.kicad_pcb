@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_HCI-1335" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Wuerth Elektronik, Wuerth_HCI-1335, 12.8mmx12.8mm")
     (tags "inductor Wuerth hci smd")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Elec_10x14.3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf")
     (tags "capacitor electrolytic")

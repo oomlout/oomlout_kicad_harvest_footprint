@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "MagneticBuzzer_ProSignal_ABT-410-RC" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,")
     (tags "Pro Signal ABT-410-RC ")

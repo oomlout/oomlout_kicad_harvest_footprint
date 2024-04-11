@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_QFN-41_10x16mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 41 Pin (http://www.ti.com/lit/ml/mpqf506/mpqf506.pdf)")
     (tags "QFN DFN_QFN")

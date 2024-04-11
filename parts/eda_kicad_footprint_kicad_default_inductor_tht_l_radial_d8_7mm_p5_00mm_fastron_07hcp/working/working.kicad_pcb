@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Radial_D8.7mm_P5.00mm_Fastron_07HCP" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=8.7mm, Fastron, 07HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_07HCP.pdf")
     (tags "Inductor Radial series Radial pin pitch 5.00mm  diameter 8.7mm Fastron 07HCP")

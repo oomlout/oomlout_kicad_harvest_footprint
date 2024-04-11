@@ -150,7 +150,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MC_01x02_GF_3.5mm_MH
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

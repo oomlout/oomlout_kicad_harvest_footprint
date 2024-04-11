@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMDIP-40_W25.24mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "40-lead surface-mounted (SMD) DIP package, row spacing 25.24 mm (993 mils)")
     (tags "SMD DIP DIL PDIP SMDIP 2.54mm 25.24mm 993mil")

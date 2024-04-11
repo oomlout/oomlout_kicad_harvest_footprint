@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Wurth_WE-AGDT-EP7" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WE-AGDT Auxiliary Gate Drive Transformer EP7, https://www.we-online.com/components/products/datasheet/750319177.pdf")
     (tags "auxiliary gate drive transformer")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_YY161_LandPatternPL-049" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf) using land-pattern PL-049, including GND-connections and vias (https://ww2.minicircuits.com/pcb/98-pl049.pdf)")
     (tags "mini-circuits pl-049")

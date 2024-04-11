@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2")
     (tags "neutrik jack m")

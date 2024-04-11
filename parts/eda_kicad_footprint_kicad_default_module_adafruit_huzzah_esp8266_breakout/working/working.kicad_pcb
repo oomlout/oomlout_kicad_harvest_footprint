@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Adafruit_HUZZAH_ESP8266_breakout" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471")
     (tags "ESP8266 WiFi microcontroller")

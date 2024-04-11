@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RFDigital_RFD77101" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RFDigital RFD77101 Simblee")
     (tags "RFDigital RFD77101 Simblee")

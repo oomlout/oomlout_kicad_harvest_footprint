@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SD_Kyocera_145638009211859+" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)")
     (tags "sd card smt")

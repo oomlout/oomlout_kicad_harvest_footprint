@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Laird_Technologies_BMI-S-201-F_13.66x12.70mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Laird Technologies BMI-S-201-F Shielding Cabinet Two Piece SMD 13.66x12.70mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)")
     (tags "Shielding Cabinet")

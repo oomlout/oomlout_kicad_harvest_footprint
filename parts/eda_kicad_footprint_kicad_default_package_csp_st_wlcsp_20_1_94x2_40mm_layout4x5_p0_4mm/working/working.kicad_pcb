@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-20_1.94x2.40mm_Layout4x5_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-20, ST die ID 456, 1.94x2.4mm, 20 Ball, 4x5 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g051f8.pdf#page=102")
     (tags "CSP 20 0.4")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UQFN-16_1.8x2.6mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/ts3a5017.pdf#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "UQFN NoLead")

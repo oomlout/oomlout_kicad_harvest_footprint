@@ -121,7 +121,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: pulse pa2004nl pa0264nl
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

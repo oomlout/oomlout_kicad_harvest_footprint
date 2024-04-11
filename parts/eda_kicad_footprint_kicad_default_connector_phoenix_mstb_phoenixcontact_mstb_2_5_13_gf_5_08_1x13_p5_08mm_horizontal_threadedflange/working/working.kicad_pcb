@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MSTB_2,5_13-GF-5,08_1x13_P5.08mm_Horizontal_ThreadedFlange" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MSTB_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776618 12A")
     (tags "phoenix_contact connector MSTB_01x13_GF_5.08mm")

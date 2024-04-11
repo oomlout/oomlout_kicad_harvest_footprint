@@ -74,7 +74,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_DIN0411 series Axial Vertical pin pitch 5.08mm 1W length 9.9mm
     diameter 3.6mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -8172,7 +8172,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 1156 1 FF1156 FFG1156 FFV1156
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

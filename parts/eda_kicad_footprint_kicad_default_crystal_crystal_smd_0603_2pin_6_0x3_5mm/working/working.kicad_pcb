@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_0603-2Pin_6.0x3.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package")
     (tags "SMD SMT crystal")

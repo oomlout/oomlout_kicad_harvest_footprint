@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Diode_Bridge_Vishay_KBPM" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)")
     (tags "Vishay KBM rectifier diode bridge")

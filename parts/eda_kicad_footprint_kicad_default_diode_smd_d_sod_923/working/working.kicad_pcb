@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SOD-923" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4")
     (tags "Diode SOD923")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_CONNFLY_DS1095-WNR0" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.connfly.com/userfiles/image/UpLoadFile/File/2013/5/6/DS1095.pdf")
     (tags "USB-A receptacle horizontal through-hole")

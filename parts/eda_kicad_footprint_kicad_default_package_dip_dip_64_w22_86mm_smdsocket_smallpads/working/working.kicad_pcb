@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DIP-64_W22.86mm_SMDSocket_SmallPads" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), SMDSocket, SmallPads")
     (tags "THT DIP DIL PDIP 2.54mm 22.86mm 900mil SMDSocket SmallPads")

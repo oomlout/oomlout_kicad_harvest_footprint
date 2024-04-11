@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-132_12x18mm_Layout11x17_P1.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-132 11x17 12x18mm 1.0pitch")
     (tags "BGA-132")

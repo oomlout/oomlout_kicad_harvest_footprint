@@ -75,7 +75,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 36.32mm  diameter 50.8mm Vishay IHB-6
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

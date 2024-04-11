@@ -602,7 +602,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

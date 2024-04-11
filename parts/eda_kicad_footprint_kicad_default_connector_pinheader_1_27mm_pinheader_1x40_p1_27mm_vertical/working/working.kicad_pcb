@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinHeader_1x40_P1.27mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Through hole straight pin header, 1x40, 1.27mm pitch, single row")
     (tags "Through hole pin header THT 1x40 1.27mm single row")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_UFQFPN-20_3x3mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)")
     (tags "UFQFPN 0.5")

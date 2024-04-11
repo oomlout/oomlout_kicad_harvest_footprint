@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-52_3.09x3.15mm_P0.4mm_Stagger" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-52, ST die ID 467, 3.09x3.15mm, 52 Ball, X-staggered 13x8 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g0b1ne.pdf#page=136")
     (tags "CSP 52 0.4")

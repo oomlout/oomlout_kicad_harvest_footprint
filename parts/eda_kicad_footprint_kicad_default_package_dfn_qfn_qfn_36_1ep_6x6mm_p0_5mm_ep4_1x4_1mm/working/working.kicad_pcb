@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 36 Pin (www.st.com/resource/en/datasheet/stm32f101t6.pdf#page=72), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")

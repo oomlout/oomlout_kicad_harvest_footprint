@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Analog_LGA-16_3.25x3mm_P0.5mm_LayoutBorder3x5y" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL363.pdf#page=44)")
     (tags "LGA NoLead CC-16-4")

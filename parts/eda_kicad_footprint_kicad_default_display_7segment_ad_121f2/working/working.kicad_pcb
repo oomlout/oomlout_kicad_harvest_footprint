@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AD-121F2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Single Digit 7-segment RGB LED Display, 1-inch digit height, common anode, http://usasyck.com/products/AD-121F2_cat_e.pdf")
     (tags "RGB LED digit")

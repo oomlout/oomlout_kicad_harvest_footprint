@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Bosch_LGA-14_3x2.5mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA-14 Bosch https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf")
     (tags "lga land grid array")

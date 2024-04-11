@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff")
     (tags "Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm")

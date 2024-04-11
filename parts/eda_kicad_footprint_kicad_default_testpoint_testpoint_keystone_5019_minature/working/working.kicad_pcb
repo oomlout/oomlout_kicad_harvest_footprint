@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Keystone_5019_Minature" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357")
     (tags "Test Point")

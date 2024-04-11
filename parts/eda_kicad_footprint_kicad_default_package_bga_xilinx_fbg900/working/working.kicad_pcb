@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Xilinx_FBG900" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Kintex-7 BGA, NSMD pad definition Appendix A, 31x31mm, 900 Ball, 30x30 Layout, 1mm Pitch, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=289")
     (tags "BGA 900 1 FB900 FBG900 FBV900")

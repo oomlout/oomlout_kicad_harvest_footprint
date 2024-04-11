@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-25_Die444" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-25, 2.423x2.325mm, 25 Ball, 5x5 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/stm32f031k6.pdf#page=93")
     (tags "CSP 25 0.4")

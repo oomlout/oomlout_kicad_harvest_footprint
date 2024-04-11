@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-416" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf")
     (tags "SOT-416")

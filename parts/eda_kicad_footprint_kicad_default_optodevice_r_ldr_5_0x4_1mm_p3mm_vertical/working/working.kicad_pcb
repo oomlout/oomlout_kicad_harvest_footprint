@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_LDR_5.0x4.1mm_P3mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Resistor, LDR 5x4.1mm, see http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf")
     (tags "Resistor LDR5x4.1mm")

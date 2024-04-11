@@ -86,7 +86,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 5.00mm  length 7.5mm width 4.6mm Neosid
     SD75
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

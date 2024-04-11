@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "molex_EDGELOCK_6-CKT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf")
     (tags "Connector PCBEdge molex EDGELOCK")

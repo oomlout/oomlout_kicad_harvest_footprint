@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "R_MicroMELF_MMU-0102" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf")
     (tags "MicroMELF Resistor")

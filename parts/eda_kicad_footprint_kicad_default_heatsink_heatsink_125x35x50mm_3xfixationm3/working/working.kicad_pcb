@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_125x35x50mm_3xFixationM3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, 125x35x50mm, 3 fixation holes 3.2mm")
     (tags "heatsink")

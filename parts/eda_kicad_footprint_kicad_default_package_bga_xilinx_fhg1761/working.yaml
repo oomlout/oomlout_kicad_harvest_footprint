@@ -12410,7 +12410,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 1760 1 FH1761 FHG1761
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

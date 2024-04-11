@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMDIP-32_W15.24mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "32-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)")
     (tags "SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil")

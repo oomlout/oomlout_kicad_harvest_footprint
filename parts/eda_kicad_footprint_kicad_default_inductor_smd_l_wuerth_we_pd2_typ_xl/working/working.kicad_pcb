@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Wuerth_WE-PD2-Typ-XL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Power Inductor, Wuerth Elektronik, WE-PD2, SMT, Typ XL, https://katalog.we-online.com/pbs/datasheet/744776012.pdf")
     (tags "Choke Power Inductor WE-PD2 TypXL Wuerth")

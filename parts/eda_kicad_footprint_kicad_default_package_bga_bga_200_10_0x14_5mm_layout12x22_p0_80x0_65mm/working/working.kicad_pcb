@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-200, 10.0x14.5mm, 200 Ball, 12x22 Layout, 0.8x0.65mm Pitch, http://www.issi.com/WW/pdf/43-46LQ32256A-AL.pdf")
     (tags "BGA 200 0.8x0.65")

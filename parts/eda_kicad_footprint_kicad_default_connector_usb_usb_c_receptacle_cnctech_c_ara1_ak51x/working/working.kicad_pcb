@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_C_Receptacle_CNCTech_C-ARA1-AK51X" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "USB Type-C 3.0 Receptacle, 24-pin, right angle (source: https://www.cnctech.us/pdfs/C-ARA1-AK512.pdf)")
     (tags "USB C Type-C Receptacle Hybrid CNCTech C-ARA1-AK51X")

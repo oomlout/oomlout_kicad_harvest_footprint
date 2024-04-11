@@ -402,7 +402,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector Molex PicoBlade side entry
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

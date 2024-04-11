@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RC1602A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.raystar-optronics.com/down.php?ProID=18")
     (tags "LCD 16x2 Alphanumeric 16pin")

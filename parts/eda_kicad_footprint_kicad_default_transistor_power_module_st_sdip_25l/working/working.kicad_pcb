@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_SDIP-25L" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "25-lead TH, SDIP-25L, https://www.st.com/resource/en/datasheet/stgips20k60.pdf")
     (tags "igbt diode module")

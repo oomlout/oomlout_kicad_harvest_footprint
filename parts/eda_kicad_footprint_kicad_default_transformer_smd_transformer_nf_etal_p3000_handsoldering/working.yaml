@@ -216,7 +216,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'NF-Reansformer ETAL P3000 SMD Handsoldering '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

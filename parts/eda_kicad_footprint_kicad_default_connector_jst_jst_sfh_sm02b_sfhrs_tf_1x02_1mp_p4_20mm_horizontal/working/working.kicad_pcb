@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "JST SFH series connector, SM02B-SFHRS-TF (http://www.jst-mfg.com/product/pdf/eng/eSFH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SFH horizontal")

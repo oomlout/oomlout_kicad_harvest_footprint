@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST_Omron_G5NB" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PCB Power Relay, SPST-NO, 7A (250 VAC), 5A (30 VDC), 20.5x7.2x15.3mm max")
     (tags "Omron G5NB Relay SPST-NO")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_Wuerth_7499111446_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT")
     (tags "ethernet lan connector")

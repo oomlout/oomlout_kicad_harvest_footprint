@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_Finder_36.11" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "FINDER 36.11, SPDT relay, 10A, https://cdn.findernet.com/app/uploads/S36EN.pdf")
     (tags "spdt relay")

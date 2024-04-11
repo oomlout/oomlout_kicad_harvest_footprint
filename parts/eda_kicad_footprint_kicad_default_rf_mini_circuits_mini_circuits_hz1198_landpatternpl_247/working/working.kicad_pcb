@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_HZ1198_LandPatternPL-247" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits cas HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf) following land pattern PL-247, including GND-vias (https://www.minicircuits.com/pcb/98-pl247.pdf)")
     (tags "Mini-Circuits PL-247 HZ1198")

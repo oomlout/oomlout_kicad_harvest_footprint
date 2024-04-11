@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf")
     (tags "LED automotive super flux 7.62mm")

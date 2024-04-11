@@ -1157,7 +1157,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block WAGO 804-312 45Degree pitch 7.5mm size 89x15mm^2 drill
     1.2mm pad 3mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

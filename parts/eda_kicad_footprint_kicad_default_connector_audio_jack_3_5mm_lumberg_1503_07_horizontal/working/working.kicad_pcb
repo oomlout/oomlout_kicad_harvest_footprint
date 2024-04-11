@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Jack_3.5mm_Lumberg_1503_07_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TRS 3.5mm, horizontal, through-hole, height 5mm, width 6.5mm, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf")
     (tags "TRS audio jack horizontal")

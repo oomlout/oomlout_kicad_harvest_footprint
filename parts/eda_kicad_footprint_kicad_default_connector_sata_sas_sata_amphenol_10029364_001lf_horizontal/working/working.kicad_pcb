@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SATA_Amphenol_10029364-001LF_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf")
     (tags "SATA")

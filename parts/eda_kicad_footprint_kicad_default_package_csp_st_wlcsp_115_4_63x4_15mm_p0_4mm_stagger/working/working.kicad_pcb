@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-115_4.63x4.15mm_P0.4mm_Stagger" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-115, ST die ID 461, 4.63x4.15mm, 115 Ball, X-staggered 21x11 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32l496wg.pdf")
     (tags "CSP 115 0.4")

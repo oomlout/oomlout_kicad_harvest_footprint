@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VSON-8_3.3x3.3mm_P0.65mm_NexFET" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf")
     (tags "VSON 0.65")

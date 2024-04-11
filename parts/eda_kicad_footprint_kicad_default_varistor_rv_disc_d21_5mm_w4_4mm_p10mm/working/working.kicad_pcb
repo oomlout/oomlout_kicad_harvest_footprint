@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RV_Disc_D21.5mm_W4.4mm_P10mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Varistor, diameter 21.5mm, width 4.4mm, pitch 10mm")
     (tags "varistor SIOV")

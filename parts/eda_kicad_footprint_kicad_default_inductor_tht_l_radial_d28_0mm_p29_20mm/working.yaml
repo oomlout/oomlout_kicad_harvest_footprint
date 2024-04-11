@@ -63,7 +63,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Inductor Radial series Radial pin pitch 29.20mm  diameter 28mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

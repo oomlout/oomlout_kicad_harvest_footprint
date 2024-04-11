@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Laird_Technologies_BMI-S-208-F_39.60x39.60mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Laird Technologies BMI-S-208-F Shielding Cabinet Two Piece SMD 39.60x39.60mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)")
     (tags "Shielding Cabinet")

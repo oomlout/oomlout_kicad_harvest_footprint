@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_DF13-09P-1.25DS_1x09_P1.25mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hirose DF13 through hole, DF13-09P-1.25DS, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator")
     (tags "connector Hirose DF13 horizontal")

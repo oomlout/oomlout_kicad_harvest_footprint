@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-64_9.0x9.0mm_Layout10x10_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "BGA-64, 10x10 raster, 9x9mm package, pitch 0.8mm")
     (tags "BGA-64")

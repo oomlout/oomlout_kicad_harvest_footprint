@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MC_1,5_9-G-5.08_1x09_P5.08mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/9-G-5.08; number of pins: 09; pin pitch: 5.08mm; Angled || order number: 1836257 8A 320V")
     (tags "phoenix_contact connector MC_01x09_G_5.08mm")

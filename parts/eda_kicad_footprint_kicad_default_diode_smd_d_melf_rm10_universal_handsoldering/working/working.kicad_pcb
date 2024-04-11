@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_MELF-RM10_Universal_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,")
     (tags "Diode Universal MELF RM10 Handsoldering SMD Thruhole ")

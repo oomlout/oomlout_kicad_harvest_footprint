@@ -103,7 +103,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'BNC female PCB mount 4 pin straight chassis connector '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

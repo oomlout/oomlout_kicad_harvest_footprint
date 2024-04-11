@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Avago_APDS-9960" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Digital Proximity, Ambient Light, RGB and Gesture Sensor (https://docs.broadcom.com/doc/AV02-4191EN)")
     (tags "DFN Sensor optical IR")

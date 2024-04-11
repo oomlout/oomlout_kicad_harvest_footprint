@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DTF13-12Px" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.te.com/usa-en/product-DTF13-12PA-G003.html")
     (tags "DEUTSCH DT header 12 pin ")

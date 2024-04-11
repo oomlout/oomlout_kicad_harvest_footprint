@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SMA_Amphenol_901-144_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.amphenolrf.com/downloads/dl/file/id/7023/product/3103/901_144_customer_drawing.pdf")
     (tags "SMA THT Female Jack Vertical")

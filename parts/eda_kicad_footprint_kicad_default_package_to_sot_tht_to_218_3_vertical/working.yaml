@@ -126,7 +126,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TO-218-3 Vertical RM 5.475mm SOT-93
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Molex_Mini-Fit_Jr_5566-02A2_2x01_P4.20mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-02A2, example for new mpn: 39-28-902x, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039289068_sd.pdf), generated with kicad-footprint-generator")
     (tags "connector Molex Mini-Fit_Jr side entryplastic_peg")

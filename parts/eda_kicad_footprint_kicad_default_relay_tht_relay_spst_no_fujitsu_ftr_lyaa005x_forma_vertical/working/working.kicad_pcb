@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay, SPST-NO Form A, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf")
     (tags "relay SPST-NO form A vertical")

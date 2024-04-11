@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_D3.0mm_IRGrey" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "IR-LED, diameter 3.0mm, 2 pins, color: grey")
     (tags "IR infrared LED diameter 3.0mm 2 pins grey")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-63_Die427" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-63, 3.228x4.164mm, 63 Ball, 7x9 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/stm32l151cc.pdf#page=125")
     (tags "CSP 63 0.4")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Siemens_SFH900" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Siemens SFH900 reflex photo interrupter/coupler/object detector, see https://www.batronix.com/pdf/sfh900.pdf")
     (tags "Siemens SFH900 reflex photo interrupter coupler object detector")

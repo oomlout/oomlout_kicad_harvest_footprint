@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_ACEPACK-2-CIB_PressFIT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf")
     (tags "brifge rectifier igbt diode module")

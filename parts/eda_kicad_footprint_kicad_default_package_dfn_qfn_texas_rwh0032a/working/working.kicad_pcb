@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RWH0032A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)")
     (tags "ti rwh0032a")

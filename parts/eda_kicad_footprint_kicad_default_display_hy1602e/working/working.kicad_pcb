@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HY1602E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf")
     (tags "LCD 16x2 Alphanumeric 16pin")

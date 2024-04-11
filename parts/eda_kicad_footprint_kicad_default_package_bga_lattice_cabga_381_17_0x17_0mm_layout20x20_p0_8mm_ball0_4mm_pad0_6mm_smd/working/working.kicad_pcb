@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Lattice_caBGA-381_17.0x17.0mm_Layout20x20_P0.8mm_Ball0.4mm_Pad0.6mm_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Lattice caBGA-381, ECP5 FPGAs, 17.0x17.0mm, 381 Ball, 20x20 Layout, 0.8mm Pitch, http://www.latticesemi.com/view_document?document_id=213")
     (tags "BGA 381 0.8")

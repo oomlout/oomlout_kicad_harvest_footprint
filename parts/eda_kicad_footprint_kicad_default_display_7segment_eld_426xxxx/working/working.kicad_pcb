@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ELD_426XXXX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf")
     (tags "Double digit 7 segment brilliant yellow green LED")

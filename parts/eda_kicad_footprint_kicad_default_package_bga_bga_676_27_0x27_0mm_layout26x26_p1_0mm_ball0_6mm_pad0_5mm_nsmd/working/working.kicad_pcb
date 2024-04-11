@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XILINX BGA-676, https://www.xilinx.com/support/documentation/package_specs/fg676.pdf")
     (tags "XILINX BGA-676 FG676/FGG676")

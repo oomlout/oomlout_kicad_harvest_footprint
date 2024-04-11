@@ -144,7 +144,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Finder 32.21-x300 Relay SPST
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

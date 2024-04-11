@@ -184,7 +184,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: DFN MLF 0.65
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -123,7 +123,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560 '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

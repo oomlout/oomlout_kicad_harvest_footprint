@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns-SRU1028_10.0x10.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf")
     (tags "Bourns SRU1028 SMD inductor")

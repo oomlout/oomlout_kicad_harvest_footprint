@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-963" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOT 963 6 pins package 1x0.8mm pitch 0.35mm")
     (tags "SOT 963 6 pins package 1x0.8mm pitch 0.35mm")

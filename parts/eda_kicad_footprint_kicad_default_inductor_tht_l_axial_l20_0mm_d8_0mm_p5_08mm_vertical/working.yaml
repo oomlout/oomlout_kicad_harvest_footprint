@@ -71,7 +71,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Inductor Axial series Axial Vertical pin pitch 5.08mm  length 20mm diameter
     8mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

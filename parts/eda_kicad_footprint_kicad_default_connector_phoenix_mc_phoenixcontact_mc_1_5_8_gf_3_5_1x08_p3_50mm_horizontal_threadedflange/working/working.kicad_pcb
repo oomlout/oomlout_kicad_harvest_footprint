@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Generic Phoenix Contact connector footprint for: MC_1,5/8-GF-3.5; number of pins: 08; pin pitch: 3.50mm; Angled; threaded flange || order number: 1843855 8A 160V")
     (tags "phoenix_contact connector MC_01x08_GF_3.5mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Rohm_RPR-0720" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Rohm DFN, 6 Pin (https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/photosensor/rpr-0720-e.pdf)")
     (tags "proximity sensor rohm")

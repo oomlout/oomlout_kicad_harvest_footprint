@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_MECF-20-01-L-DV-WT_2x20_P1.27mm_Polarized_Socket_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Highspeed card edge connector for 1.6mm PCB's with 20 contacts (polarized)")
     (tags "conn samtec card-edge high-speed")

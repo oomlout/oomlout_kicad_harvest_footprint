@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-18-3_Lens" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-18-3_Lens, Lens")
     (tags "TO-18-3_Lens Lens")

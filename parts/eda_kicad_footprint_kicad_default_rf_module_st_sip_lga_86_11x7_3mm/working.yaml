@@ -690,7 +690,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: bluetooth bluetooth5 bluetooth5.0 802.15.4 zigbee thread module stm32 rf
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

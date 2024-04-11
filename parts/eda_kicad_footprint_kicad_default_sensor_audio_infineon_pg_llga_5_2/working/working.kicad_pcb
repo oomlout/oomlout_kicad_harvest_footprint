@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-LLGA-5-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon, IP57, XENSIV, LGA-5, https://www.infineon.com/dgdl/Infineon-IM73A135-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7f2a768a017fadec36b84500")
     (tags "MEMS Microphone LGA Dust Water")

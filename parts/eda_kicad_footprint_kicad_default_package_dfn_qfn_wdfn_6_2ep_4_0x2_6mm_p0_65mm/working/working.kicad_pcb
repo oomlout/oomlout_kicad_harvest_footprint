@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WDFN-6-2EP_4.0x2.6mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WDFN, 6 pin, 4.0x2.6, 0.65P; Two exposed pads, (https://www.onsemi.com/pub/Collateral/511BZ.PDF)")
     (tags "DFN 0.65P dual flag")

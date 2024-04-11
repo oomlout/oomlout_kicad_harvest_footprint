@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_FMC_ASP-134604-01_4x40_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf")
     (tags "FMC LPC VITA ")

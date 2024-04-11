@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_NDQ" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)")
     (tags "ti pfm dap")

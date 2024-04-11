@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CF-Card_3M_N7E50-E516xx-30" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Compact Flash Card connector, normal polarization (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)")
     (tags "connector cf")

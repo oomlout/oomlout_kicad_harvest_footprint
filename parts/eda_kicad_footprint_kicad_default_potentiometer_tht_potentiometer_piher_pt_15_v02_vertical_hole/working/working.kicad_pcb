@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Piher_PT-15-V02_Vertical_Hole" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, shaft hole, Piher PT-15-V02, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf")
     (tags "Potentiometer vertical hole Piher PT-15-V02")

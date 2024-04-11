@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOP-II-54_22.2x10.16mm_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "54-lead TSOP typ II package")
     (tags "TSOPII TSOP2")

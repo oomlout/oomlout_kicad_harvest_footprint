@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_VQFN-HR-12_2x2.5mm_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  VQFN-HR, 12 Pin, http://www.ti.com/lit/ml/mpqf508/mpqf508.pdf")
     (tags "RUX0012A Texas VQFN-HR NoLead")

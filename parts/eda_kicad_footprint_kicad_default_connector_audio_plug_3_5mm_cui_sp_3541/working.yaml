@@ -283,7 +283,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 3.5mm plug TRRS
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

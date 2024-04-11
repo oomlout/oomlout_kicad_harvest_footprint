@@ -197,7 +197,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Micro-USB SMD Typ-B
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

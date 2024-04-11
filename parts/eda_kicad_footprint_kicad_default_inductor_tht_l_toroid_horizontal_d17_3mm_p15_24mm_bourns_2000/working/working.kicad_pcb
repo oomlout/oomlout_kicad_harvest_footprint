@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=15.24mm, , diameter=17.3mm, Bourns, 2000, http://www.bourns.com/docs/Product-Datasheets/2000_series.pdf?sfvrsn=5")
     (tags "L_Toroid Horizontal series Radial pin pitch 15.24mm  diameter 17.3mm Bourns 2000")

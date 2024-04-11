@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_Finder_40.31" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay DPDT Finder 40.31, Pitch 3.5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf")
     (tags "Relay DPDT Finder 40.31 Pitch 3.5mm")

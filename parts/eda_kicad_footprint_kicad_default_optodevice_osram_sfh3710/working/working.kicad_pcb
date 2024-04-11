@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Osram_SFH3710" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Osram SHF3710 NPN phototransistor, SMD Chip LED package, 2.0 x 1.25mm, height 0.85mm, https://look.ams-osram.com/m/14a91a7e00106d22/original/SFH-3710.pdf")
     (tags "phototransistor npn")

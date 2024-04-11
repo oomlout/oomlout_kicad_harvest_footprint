@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Everlight_ITR8307F43" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Everlight ITR8307/F43, see https://everlighteurope.com/index.php?controller=attachment&id_attachment=5385")
     (tags "refective opto couple photo coupler")

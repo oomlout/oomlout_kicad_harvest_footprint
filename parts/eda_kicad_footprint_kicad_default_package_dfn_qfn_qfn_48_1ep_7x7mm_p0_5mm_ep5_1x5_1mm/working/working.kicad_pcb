@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")

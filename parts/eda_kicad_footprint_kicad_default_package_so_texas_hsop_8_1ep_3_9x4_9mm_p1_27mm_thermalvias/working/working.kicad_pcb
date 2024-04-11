@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, thermal vias, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)")
     (tags "HSOP 1.27")

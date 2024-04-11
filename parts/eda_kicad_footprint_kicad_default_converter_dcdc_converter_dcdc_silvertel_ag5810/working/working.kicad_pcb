@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_Silvertel_Ag5810" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf")
     (tags "DCDC-Converter Silvertel Ag5810 single output POE")

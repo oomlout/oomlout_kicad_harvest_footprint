@@ -151,7 +151,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: 'PhoenixContact PTSM0.5 4 2.5mm vertical SMD spring clamp terminal block connector '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

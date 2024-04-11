@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AKM_CQ_7S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AKM Current Sensor, 7 pin, SMD (http://www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)")
     (tags "akm current sensor smd")

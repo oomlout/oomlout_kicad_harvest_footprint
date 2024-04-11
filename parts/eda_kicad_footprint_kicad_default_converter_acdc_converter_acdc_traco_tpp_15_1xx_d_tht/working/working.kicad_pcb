@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_TRACO_TPP-15-1xx-D_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACDC-Converter, 15W, TRACO TPP 15-D, 42 x 28.9 x 21.5mm, https://www.tracopower.com/sites/default/files/products/datasheets/tpp15_d_datasheet.pdf")
     (tags "ACDC-Converter TRACO TPP")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_Omron_G6E" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay SPDT Omron Serie G6E")
     (tags "Relay SPDT Omron Serie G6E 1x um")

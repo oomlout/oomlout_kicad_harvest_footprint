@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-363_SC-70-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SOT-363, SC-70-6")
     (tags "SOT-363 SC-70-6")

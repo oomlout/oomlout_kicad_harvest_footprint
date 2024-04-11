@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-TSFP-3-1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon_PG-TSFP-3-1, https://www.infineon.com/dgdl/TSFP-3-1,-2-Package_Overview.pdf?fileId=db3a30431936bc4b0119539929863d46")
     (tags "TSFP-3")

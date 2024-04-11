@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_R-PUQFN-N10" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF186&fileType=pdf")
     (tags "Texas_R-PUQFN-N10")

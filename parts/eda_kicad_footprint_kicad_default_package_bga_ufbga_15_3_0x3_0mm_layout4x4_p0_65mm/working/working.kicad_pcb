@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-15, 4x4, 3x3mm package, pitch 0.65mm")
     (tags "UFBGA-15")

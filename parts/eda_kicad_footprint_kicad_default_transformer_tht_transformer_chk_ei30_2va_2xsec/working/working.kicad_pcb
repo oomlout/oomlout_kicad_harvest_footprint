@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_CHK_EI30-2VA_2xSec" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,")
     (tags "Trafo Printtrafo CHK EI30 2VA 2x Sec ")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_DSBGA-8_1.43x1.41mm_Layout3x3_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas Instruments, DSBGA, 1.43x1.41mm, 8 bump 3x3 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/lmc555.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)")
     (tags "Texas Instruments DSBGA BGA YZP R-XBGA-N8")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Elec_6.3x5.8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm")
     (tags "capacitor electrolyic nonpolar")

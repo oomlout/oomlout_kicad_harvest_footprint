@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Gauge_10mm_Type4_SilkScreenTop" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Gauge, Massstab, 10mm, SilkScreenTop, Type 4,")
     (tags "Gauge Massstab 10mm SilkScreenTop Type 4")

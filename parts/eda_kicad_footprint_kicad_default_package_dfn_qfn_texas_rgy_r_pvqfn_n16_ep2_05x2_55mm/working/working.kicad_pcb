@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 16 Pin (https://www.ti.com/lit/ds/symlink/ts5v330.pdf#page=28)")
     (tags "QFN NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-64_3.56x3.52mm_Layout8x8_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-64, ST die ID 479, 3.56x3.52mm, 64 Ball, 8x8 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g491re.pdf")
     (tags "CSP 64 0.4")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WEMOS_D1_mini_light" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
     (tags "ESP8266 WiFi microcontroller")

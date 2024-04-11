@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Resonator_Murata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins")
     (tags "THT ceramic resonator filter CSTLSxxxG")

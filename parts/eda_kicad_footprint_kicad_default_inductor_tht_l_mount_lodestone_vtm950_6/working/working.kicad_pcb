@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Mount_Lodestone_VTM950-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, https://www.lodestonepacific.com/wp-content/uploads/2021/05/VTM950-6.pdf")
     (tags "vertical inductor toroid mount")

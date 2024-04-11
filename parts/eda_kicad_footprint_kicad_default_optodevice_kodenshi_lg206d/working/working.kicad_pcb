@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Kodenshi_LG206D" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf")
     (tags "Photointerrupter  infrared LED with photo IC")

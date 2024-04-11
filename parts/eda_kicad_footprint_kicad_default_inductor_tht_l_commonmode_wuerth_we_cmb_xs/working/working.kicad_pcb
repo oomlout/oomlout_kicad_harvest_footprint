@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_Wuerth_WE-CMB-XS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Wuerth, WE-CMB, Bauform XS,")
     (tags "CommonModeChoke Gleichtaktdrossel ")

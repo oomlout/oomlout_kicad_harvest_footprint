@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Coilcraft_Q4434-B_Rhombus-T1311" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,")
     (tags "Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311 ")

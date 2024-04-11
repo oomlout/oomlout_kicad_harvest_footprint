@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_X2QFN-RUE-12_1.4x2mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  X2QFN-RUE, 12 Pin (https://www.ti.com/lit/ml/mpqf214b/mpqf214b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas X2QFN-RUE NoLead")

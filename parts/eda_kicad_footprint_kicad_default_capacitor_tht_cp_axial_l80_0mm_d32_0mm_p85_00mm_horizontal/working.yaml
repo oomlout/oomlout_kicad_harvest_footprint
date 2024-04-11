@@ -141,7 +141,6 @@ footprint_string:
   solderPasteRatio: None
   tags: CP Axial series Axial Horizontal pin pitch 85mm  length 80mm diameter 32.0mm
     Electrolytic Capacitor
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

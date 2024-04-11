@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Sensortech_MiCS_5x7mm_P1.25mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.sgxsensortech.com/content/uploads/2014/07/1084_Datasheet-MiCS-5524-rev-8.pdf")
     (tags "Sensortech MiCS MEMS sensor")

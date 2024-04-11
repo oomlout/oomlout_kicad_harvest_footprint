@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Senseair_S8_Up" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT")
     (tags "co2 gas sensor pwm modbus")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_HC33-U_Horizontal_1EP_style2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf")
     (tags "THT crystal")

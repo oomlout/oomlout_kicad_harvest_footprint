@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Molex FFC/FPC connector, 10 bottom-side contacts, 0.5mm pitch, 1.2mm height, https://www.molex.com/pdm_docs/sd/545481071_sd.pdf")
     (tags "FFC FPC connector")

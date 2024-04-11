@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_TH_Tactile_Omron_B3F-10xx" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "Omron B3F-10xx")

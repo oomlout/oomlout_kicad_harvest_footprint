@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Analog_BGA-77_9.0x15.0mm_Layout7x11_P1.27mm_Ball0.63mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Analog Devices BGA-77, 0.63mm pad, 9x15mm, 77 Ball, 7x11 Layout, 1.27mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081964_B_bga77.pdf")
     (tags "BGA 77 1.27 LTC Dwg 05-08-1964 Rev. B")

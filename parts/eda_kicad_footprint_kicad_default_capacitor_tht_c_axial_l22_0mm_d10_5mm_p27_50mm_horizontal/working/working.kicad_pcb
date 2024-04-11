@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
     (tags "C Axial series Axial Horizontal pin pitch 27.5mm  length 22mm diameter 10.5mm")

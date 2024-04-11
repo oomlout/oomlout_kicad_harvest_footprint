@@ -247,7 +247,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: THT Terminal Block Philmore  pitch 5mm size 15x10.2mm^2 drill 1.2mm pad 2.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

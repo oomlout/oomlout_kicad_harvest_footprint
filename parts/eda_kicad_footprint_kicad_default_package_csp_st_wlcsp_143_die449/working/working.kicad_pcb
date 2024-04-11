@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-143_Die449" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-143, 4.539x5.849mm, 143 Ball, 11x13 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/stm32f746zg.pdf#page=202")
     (tags "CSP 143 0.4")

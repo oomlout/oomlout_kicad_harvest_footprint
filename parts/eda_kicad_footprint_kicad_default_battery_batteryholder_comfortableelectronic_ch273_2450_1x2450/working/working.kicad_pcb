@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_ComfortableElectronic_CH273-2450_1x2450" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148")
     (tags "Comfortable Electronic CR2450")

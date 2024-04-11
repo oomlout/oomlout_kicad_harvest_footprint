@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-10_2x2mm_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "10-Lead Plastic DFN (2mm x 2mm)  0.40mm pitch")
     (tags "DFN 10 0.4mm")

@@ -109,7 +109,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Unshielded Inductor WE-GF 1210 Wuerth
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

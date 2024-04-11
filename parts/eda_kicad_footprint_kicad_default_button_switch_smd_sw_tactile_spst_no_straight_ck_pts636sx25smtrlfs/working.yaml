@@ -104,7 +104,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: switch tactile SPST 1P1T straight NO SMTR C&K
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -6379,7 +6379,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 900 1 RF900
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

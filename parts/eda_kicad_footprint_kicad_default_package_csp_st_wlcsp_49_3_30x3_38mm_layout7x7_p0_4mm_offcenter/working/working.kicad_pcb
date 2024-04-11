@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-49_3.30x3.38mm_Layout7x7_P0.4mm_Offcenter" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST WLCSP-49, off-center ball grid, ST die ID 494, 3.3x3.38mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32wb15cc.pdf#page=119")
     (tags "CSP 49 0.4")

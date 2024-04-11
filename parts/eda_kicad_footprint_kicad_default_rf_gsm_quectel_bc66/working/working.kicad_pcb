@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Quectel_BC66" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GSM NB-IoT module, 15.8x17.7x2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf")
     (tags "GSM NB-IoT Module BC66 M66")

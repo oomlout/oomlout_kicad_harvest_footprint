@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "OCN_OK-01GM030-04_2x15_P0.4mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Board to board connector, 2x15, 0.4mm pitch, http://www.main-soul.com/datasheet/ocn/connector/Spec_Draw_OK-01.pdf")
     (tags "board-to-board")

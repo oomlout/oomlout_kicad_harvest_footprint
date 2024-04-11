@@ -98,7 +98,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED RGB NeoPixel addressable PLCC-4 5050
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

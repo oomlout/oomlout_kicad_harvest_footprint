@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "U.FL_Hirose_U.FL-R-SMT-1_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/")
     (tags "Hirose U.FL Coaxial")

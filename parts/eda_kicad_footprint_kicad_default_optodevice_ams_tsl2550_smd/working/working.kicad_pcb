@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMS_TSL2550_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://ams.com/eng/content/download/250130/975613/142977")
     (tags "TSL2550 ambient light sensor")

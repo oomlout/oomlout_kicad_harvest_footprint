@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_CHK_UI30-4VA_Flat" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Trafo, Flattrafo, CHK, UI30, 4VA,")
     (tags "Trafo Flattrafo CHK UI30 4VA ")

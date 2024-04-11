@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX")
     (tags "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ESP32-S2-MINI-1U" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf")
     (tags "2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm")

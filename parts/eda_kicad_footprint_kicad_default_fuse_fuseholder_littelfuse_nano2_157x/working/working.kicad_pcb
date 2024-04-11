@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuseholder_Littelfuse_Nano2_157x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf")
     (tags "SMD Nano2 holder")

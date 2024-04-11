@@ -199,7 +199,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachsteckeranschluss
     Only Dummy for Space NO Pads
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

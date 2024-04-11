@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "QFN-56-1EP_8x8mm_P0.5mm_EP6.1x6.1mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, 56 Pin (http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")

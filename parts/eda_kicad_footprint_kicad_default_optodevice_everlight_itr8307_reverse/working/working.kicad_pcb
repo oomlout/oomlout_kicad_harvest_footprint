@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Everlight_ITR8307_Reverse" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Everlight ITR8307 with PCB cutout, light-direction downwards, see http://www.everlight.com/file/ProductFile/ITR8307.pdf")
     (tags "refective opto couple photo coupler")

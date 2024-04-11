@@ -1873,7 +1873,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 257 0.5
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

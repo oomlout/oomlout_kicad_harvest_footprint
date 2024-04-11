@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_RGP0020D_VQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas RGP0020D VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/drv8662.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Texas VQFN NoLead")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_Omron_G2RL-1" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Omron Relay, SPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf")
     (tags "Omron Relay SPDT")

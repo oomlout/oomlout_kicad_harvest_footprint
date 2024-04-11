@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-3P-3_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-3P-3, Vertical, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html")
     (tags "TO-3P-3 Vertical RM 5.45mm ")

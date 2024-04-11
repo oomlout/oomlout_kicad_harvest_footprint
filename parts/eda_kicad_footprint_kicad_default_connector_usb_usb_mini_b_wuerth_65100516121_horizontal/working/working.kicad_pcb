@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Mini-B_Wuerth_65100516121_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Mini USB 2.0 Type B SMT Horizontal 5 Contacts (https://katalog.we-online.de/em/datasheet/65100516121.pdf)")
     (tags "Mini USB 2.0 Type B")

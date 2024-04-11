@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_BelFuse_0ZRE0012FF_L8.3mm_W3.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fuse 0ZRE0012FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf")
     (tags "0ZRE BelFuse radial PTC")

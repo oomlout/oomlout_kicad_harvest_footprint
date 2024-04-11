@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-20, 4x5 raster, 1.934x2.434mm package, pitch 0.4mm; see section 36.2.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf")
     (tags "BGA 20 0.4")

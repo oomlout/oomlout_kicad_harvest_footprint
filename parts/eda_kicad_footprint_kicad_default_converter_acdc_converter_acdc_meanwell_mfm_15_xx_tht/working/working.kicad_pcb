@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_MeanWell_MFM-15-xx_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "AC/DC board mount open frame power converter, input 80 ~ 264 VAC, 15W output, https://www.meanwell.com/Upload/PDF/MFM-15/MFM-15-SPEC.PDF")
     (tags "AC/DC power converter")

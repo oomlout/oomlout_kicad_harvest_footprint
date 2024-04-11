@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Nexperia_CFP15_SOT-1289" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf")
     (tags "SOT-1289 CFP15")

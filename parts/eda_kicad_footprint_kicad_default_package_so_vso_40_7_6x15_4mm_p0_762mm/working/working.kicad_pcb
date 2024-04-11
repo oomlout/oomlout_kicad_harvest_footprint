@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VSO-40_7.6x15.4mm_P0.762mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VSO40: plastic very small outline package; 40 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot158-1_po.pdf)")
     (tags "SSOP 0.762")

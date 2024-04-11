@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Altech_AK100_1x17_P5.00mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Altech AK100 serie terminal block (Script generated with StandardBox.py) (https://www.altechcorp.com/PDFS/PCBMETRC.PDF)")
     (tags "Altech AK100 serie connector")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "CP_Radial_D14.0mm_P7.50mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "CP, Radial series, Radial, pin pitch=7.50mm, , diameter=14mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 7.50mm  diameter 14mm Electrolytic Capacitor")

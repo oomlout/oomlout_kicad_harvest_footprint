@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-92S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)")
     (tags "to-92S transistor")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_AAVID_TV5G_TO220_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G")
     (tags "Heatsink TV5G TO-220 Horizontal ")

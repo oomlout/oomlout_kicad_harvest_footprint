@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Runtron_RM-063_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf")
     (tags "Potentiometer Trimmer RM-063")

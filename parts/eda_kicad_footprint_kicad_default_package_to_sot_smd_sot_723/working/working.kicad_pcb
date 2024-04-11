@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-723" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
     (tags "sot 723")

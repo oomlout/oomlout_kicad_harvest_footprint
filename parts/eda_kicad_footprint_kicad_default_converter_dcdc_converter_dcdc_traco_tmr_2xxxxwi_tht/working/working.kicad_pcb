@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_TRACO_TMR-2xxxxWI_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.tracopower.com/products/tmr2wi.pdf")
     (tags "DCDC-Converter TRACO TMRxxxxWI Single/Dual_output")

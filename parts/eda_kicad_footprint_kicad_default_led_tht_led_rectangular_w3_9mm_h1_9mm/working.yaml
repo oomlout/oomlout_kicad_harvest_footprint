@@ -87,7 +87,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED_Rectangular Rectangular  Rectangular size 3.9x1.9mm^2 2 pins
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

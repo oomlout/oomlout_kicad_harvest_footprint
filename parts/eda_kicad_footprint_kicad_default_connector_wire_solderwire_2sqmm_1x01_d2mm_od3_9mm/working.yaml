@@ -59,7 +59,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: connector wire 2sqmm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

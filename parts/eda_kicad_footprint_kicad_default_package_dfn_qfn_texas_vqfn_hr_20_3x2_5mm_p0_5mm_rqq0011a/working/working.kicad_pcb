@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_VQFN-HR-20_3x2.5mm_P0.5mm_RQQ0011A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Texas  VQFN-HR, 11 Pin, https://www.ti.com/lit/ml/mpqf579/mpqf579.pdf")
     (tags "RQQ0011A")

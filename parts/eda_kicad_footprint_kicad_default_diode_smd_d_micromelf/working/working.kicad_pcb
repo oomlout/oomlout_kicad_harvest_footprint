@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_MicroMELF" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf")
     (tags "MicroMELF Diode")

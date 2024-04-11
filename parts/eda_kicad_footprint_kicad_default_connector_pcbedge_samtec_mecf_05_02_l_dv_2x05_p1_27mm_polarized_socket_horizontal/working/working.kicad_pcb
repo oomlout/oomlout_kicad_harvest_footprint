@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_MECF-05-02-L-DV_2x05_P1.27mm_Polarized_Socket_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Highspeed card edge connector for 2.4mm PCB's with 05 contacts (polarized)")
     (tags "conn samtec card-edge high-speed")

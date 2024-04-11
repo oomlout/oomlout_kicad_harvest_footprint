@@ -144,7 +144,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

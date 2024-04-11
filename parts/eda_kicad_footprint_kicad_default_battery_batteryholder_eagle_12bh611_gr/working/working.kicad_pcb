@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BatteryHolder_Eagle_12BH611-GR" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf")
     (tags "9V Battery Holder")

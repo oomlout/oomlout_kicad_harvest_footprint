@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fairchild_DualPower33-6_3x3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)")
     (tags "mosfet")

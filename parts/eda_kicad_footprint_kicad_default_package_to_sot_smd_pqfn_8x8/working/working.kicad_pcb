@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PQFN_8x8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Low Profile 8x8mm PQFN, Dual Cool 88, https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf")
     (tags "pqfn vdfn mosfet")

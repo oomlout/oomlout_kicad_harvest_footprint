@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Honeywell_40PCxxxG1A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.honeywellscportal.com/index.php?ci_id=138832")
     (tags "pressure sensor automotive honeywell")

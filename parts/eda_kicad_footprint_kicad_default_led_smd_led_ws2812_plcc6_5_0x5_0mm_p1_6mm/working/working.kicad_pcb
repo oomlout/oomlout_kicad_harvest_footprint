@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://cdn-shop.adafruit.com/datasheets/WS2812.pdf")
     (tags "LED RGB NeoPixel")

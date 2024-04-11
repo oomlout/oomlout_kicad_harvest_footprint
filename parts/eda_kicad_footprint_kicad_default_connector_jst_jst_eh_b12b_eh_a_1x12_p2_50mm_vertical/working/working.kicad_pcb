@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "JST EH series connector, B12B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST EH side entry")

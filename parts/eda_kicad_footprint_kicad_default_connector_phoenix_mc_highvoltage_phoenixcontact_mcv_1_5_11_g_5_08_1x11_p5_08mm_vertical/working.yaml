@@ -623,7 +623,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: phoenix_contact connector MCV_01x11_G_5.08mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

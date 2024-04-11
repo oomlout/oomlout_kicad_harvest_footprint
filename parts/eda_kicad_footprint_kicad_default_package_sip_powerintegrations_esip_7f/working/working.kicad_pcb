@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PowerIntegrations_eSIP-7F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "eSIP-7F Flat Package with Heatsink Tab https://ac-dc.power.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf")
     (tags "Power Integrations L Package")

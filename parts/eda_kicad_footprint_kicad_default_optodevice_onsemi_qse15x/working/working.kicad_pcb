@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ONSemi_QSE15x" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "3 Lead Plastic Package")
     (tags "ONSemi QSE158 QSE159")

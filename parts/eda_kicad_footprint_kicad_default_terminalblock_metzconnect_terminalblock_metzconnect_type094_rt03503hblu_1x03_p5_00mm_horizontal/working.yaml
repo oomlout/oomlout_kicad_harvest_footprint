@@ -254,7 +254,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type094_RT03503HBLU pitch 5mm size 15x8.3mm^2
     drill 1.3mm pad 2.6mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Microchip_RN4871" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Microchip RN4871 footprint")
     (tags "RN4871 BLE")

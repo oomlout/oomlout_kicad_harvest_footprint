@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ATPAK-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF")
     (tags "ATPAK ")

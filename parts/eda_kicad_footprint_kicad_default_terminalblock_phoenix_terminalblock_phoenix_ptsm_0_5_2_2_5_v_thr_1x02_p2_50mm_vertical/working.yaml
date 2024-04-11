@@ -169,7 +169,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT Terminal Block Phoenix PTSM-0,5-2-2.5-V-THR vertical pitch 2.5mm size
     5.5x5mm^2 drill 1.2mm pad 2mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

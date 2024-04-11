@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_CommonMode_TDK_B82746S6702A040" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8A, 3Phase, Triple Coil, CM Choke, https://www.tdk-electronics.tdk.com/inf/30/ds/b82746s.pdf")
     (tags "common mode filter triple choke")

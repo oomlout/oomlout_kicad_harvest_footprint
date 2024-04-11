@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_ThermalVias" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lm5017.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WSON NoLead")

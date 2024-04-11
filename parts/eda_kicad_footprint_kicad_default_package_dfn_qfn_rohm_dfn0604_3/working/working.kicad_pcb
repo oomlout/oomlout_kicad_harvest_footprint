@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ROHM_DFN0604-3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DFN package size 0604 3 pins")
     (tags "DFN package size 0604 3 pins")

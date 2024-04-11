@@ -96,7 +96,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length
     11.9mm diameter 4.5mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

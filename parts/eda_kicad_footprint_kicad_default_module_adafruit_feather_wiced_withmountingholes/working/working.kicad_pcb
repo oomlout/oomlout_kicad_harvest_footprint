@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Adafruit_Feather_WICED_WithMountingHoles" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi")
     (tags "Adafruit Feather WICED Wifi")

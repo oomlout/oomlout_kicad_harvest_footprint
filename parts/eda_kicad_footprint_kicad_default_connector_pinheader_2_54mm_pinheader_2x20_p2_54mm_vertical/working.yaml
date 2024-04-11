@@ -398,7 +398,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: Through hole pin header THT 2x20 2.54mm double row
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

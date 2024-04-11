@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_SMA-SMB_Universal_Handsoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,")
     (tags "Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering ")

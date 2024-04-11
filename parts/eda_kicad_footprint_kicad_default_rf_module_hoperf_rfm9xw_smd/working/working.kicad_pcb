@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "HOPERF_RFM9XW_SMD" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
     (tags "LoRa Low Power Long Range Transceiver Module")

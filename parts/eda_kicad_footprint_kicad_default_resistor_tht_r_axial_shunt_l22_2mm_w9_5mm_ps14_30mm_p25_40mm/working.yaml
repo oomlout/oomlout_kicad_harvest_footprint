@@ -111,7 +111,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_Shunt series Box pin pitch 25.4mm 5W length 22.2mm width 9.5mm
     height 9.5mm shunt pin pitch 14.30mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

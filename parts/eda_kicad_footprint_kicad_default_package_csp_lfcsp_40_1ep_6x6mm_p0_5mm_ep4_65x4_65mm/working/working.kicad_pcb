@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LFCSP-40-1EP_6x6mm_P0.5mm_EP4.65x4.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LFCSP, 40 Pin (https://www.jedec.org/system/files/docs/MO-220K01.pdf (variation VJJD-5)), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "LFCSP NoLead")

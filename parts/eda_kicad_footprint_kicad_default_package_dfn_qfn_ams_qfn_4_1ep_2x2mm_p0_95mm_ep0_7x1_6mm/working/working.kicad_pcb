@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download/950231/2267959/483138")
     (tags "QFN 0.95")

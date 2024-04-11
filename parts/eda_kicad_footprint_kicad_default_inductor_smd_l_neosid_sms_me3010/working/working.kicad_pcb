@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_SMS-ME3010" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid, Inductor, SMS-ME3010, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3010.pdf")
     (tags "Neosid Inductor SMS-ME3010 Fixed inductor SMD magnetically shielded")

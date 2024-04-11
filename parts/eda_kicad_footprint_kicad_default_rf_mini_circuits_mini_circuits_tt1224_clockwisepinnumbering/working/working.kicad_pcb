@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Mini-Circuits_TT1224_ClockwisePinNumbering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)")
     (tags "Mini-Circuits TT1224")

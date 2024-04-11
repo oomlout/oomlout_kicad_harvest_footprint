@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Transformer_Ethernet_Bourns_PT61017PEL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf")
     (tags "Transformer Ethernet Single Center-Tap")

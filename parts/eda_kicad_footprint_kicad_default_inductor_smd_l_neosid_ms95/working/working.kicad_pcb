@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_Ms95" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95.pdf")
     (tags "NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD")

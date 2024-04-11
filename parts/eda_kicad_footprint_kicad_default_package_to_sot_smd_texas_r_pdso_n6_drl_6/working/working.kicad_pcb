@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Texas_R-PDSO-N6_DRL-6" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "R-PDSO-N6, DRL, similar to JEDEC MO-293B Var UAAD (but not the same) , https://www.ti.com/lit/pdf/mpds159f")
     (tags "SOT R-PDSO-N6 DRL")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_SELF1408" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Self Ferrite 14 - 08")
     (tags "SELF")

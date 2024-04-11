@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-Lead Very Thin Dual Flatpack No-Lead (LZ) - 2x3x0.9 mm Body [VDFN] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "DFN 0.5")

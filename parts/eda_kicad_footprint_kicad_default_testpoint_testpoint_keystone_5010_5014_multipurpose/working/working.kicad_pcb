@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Keystone_5010-5014_Multipurpose" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319")
     (tags "Through Hole Mount Test Points")

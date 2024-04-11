@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)")
     (tags "DFN 0.5")

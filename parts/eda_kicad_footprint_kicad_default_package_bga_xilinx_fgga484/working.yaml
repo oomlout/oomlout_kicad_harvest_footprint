@@ -3466,7 +3466,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 484 1 FGGA484
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

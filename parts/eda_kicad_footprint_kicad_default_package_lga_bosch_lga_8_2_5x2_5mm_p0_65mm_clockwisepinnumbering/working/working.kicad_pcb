@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LGA-8")
     (tags "lga land grid array")

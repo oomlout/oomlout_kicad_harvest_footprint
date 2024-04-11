@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ublox_ZOE_M8" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GPS Ublox ZOE, https://content.u-blox.com/sites/default/files/ZOE-M8_DataSheet_UBX-16008094.pdf")
     (tags "Ublox GPS GNSS")

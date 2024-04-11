@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Knowles_SPH0645LM4H-6_3.5x2.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Knowles MEMS I2S Microphone: https://www.knowles.com/subdepartment/dpt-microphones/subdpt-sisonic-surface-mount-mems")
     (tags "microphone MEMS I2S SPH0645LM4H Knowles")

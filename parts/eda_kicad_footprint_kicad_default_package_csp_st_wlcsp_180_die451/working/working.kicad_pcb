@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_WLCSP-180_Die451" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "WLCSP-180, 5.537x6.095mm, 180 Ball, 13x14 Layout, 0.4mm Pitch, http://www.st.com/resource/en/datasheet/DM00273119.pdf#page=240")
     (tags "CSP 180 0.4")

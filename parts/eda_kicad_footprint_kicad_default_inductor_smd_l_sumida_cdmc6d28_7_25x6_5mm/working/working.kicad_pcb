@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Sumida_CDMC6D28_7.25x6.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)")
     (tags "Inductor Sumida SMD CDMC6D28")

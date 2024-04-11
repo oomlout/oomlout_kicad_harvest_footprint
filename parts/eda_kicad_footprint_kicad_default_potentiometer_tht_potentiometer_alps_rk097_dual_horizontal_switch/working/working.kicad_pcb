@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Alps_RK097_Dual_Horizontal_Switch" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf")
     (tags "Potentiometer horizontal Alps RK097 Dual Switch")

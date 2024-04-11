@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon T30,")
     (tags "Autotransformer Toroid horizontal laying 1 Tap Diameter 9mm Amidon T30 ")

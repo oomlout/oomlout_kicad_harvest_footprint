@@ -91,7 +91,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_Power series Axial Vertical pin pitch 7.62mm 4W length 20mm
     width 6.4mm height 6.4mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

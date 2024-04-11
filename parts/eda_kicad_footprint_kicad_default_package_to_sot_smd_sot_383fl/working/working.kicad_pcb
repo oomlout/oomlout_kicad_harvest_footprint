@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-383FL" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF")
     (tags "SOT-383FL")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PQFP-80_14x20mm_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)")
     (tags "QFP 0.8")

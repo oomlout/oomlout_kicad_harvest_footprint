@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-264-2_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-264-2, Vertical, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf")
     (tags "TO-264-2 Vertical RM 10.9mm")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_DO-27_P5.08mm_Vertical_KathodeUp" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
     (tags "Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm")

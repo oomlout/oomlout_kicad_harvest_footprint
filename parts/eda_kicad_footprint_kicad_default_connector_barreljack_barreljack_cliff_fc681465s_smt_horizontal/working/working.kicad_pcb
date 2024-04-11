@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "BarrelJack_CLIFF_FC681465S_SMT_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf")
     (tags "Power Jack SMT")

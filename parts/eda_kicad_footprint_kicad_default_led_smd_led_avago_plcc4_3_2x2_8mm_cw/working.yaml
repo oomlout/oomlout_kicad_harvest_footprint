@@ -99,7 +99,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LED Avago PLCC-4 3528 ASMB-MTB0-0A3A2
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

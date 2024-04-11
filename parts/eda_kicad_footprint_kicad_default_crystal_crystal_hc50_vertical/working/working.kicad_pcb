@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_HC50_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf")
     (tags "THT crystalHC-50")

@@ -86,7 +86,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Radial_Power series Radial pin pitch 2.70*2.30mm^2 17W length 9mm
     width 10mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

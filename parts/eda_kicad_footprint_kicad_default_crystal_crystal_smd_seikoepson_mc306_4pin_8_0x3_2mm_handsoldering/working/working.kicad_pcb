@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm_HandSoldering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 8.0x3.2mm^2 package")
     (tags "SMD SMT crystal hand-soldering")

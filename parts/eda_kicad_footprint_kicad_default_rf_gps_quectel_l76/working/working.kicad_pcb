@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Quectel_L76" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "GPS module, https://www.quectel.com/wp-content/uploads/2021/03/Quectel_L76L76-L_Hardware_Design_V3.2-1.pdf")
     (tags "Quectel GPS L76 L76-L")

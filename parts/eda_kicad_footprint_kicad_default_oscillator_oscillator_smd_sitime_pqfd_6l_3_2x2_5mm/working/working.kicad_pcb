@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_SiTime_PQFD-6L_3.2x2.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "3.2x2.5mm, 6-pin QFN (https://www.sitime.com/datasheet/SiT9365 page 13)")
     (tags "SMD SMT mems oscillator")

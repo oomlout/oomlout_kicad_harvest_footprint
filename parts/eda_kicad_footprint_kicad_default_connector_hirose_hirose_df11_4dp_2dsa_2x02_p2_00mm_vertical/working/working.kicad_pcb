@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_DF11-4DP-2DSA_2x02_P2.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hirose DF11 through hole, DF11-4DP-2DSA, 2 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator")
     (tags "connector Hirose DF11 vertical")

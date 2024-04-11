@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "DE170-XX-XX" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.display-elektronik.de/filter/DE170-RS-20_75.pdf")
     (tags "3 1/5 digit reflective arrow bat + 7 segment LCD ")

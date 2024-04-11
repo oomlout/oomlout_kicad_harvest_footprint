@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "Bosch LGA NoLead")

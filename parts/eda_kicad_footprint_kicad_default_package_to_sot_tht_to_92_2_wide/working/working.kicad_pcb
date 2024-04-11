@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-92-2_Wide" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-92 2-pin leads in-line, wide, drill 0.75mm")
     (tags "to-92 sc-43 sc-43a sot54 PA33 diode SOD70")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_Cree-XP-G" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf")
     (tags "LED Cree XP-G")

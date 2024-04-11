@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Fuse_Bourns_MF-SM_7.98x5.44mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf")
     (tags "bourns ptc resettable fuse polyfuse MF-SM MF-SMHT")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Pulse_PA4320" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor SMD Pulse PA4320 http://productfinder.pulseeng.com/products/datasheets/P787.pdf")
     (tags "Inductor SMD Pulse PA4320")

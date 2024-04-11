@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ESP32-S3-WROOM-1U" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf")
     (tags "2.4 GHz Wi-Fi and Bluetooth module")

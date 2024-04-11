@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-3PB-3_Horizontal_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-3PB-3, Horizontal, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF")
     (tags "TO-3PB-3 Horizontal RM 5.45mm ")

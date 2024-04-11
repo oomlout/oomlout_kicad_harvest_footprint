@@ -532,7 +532,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: CP Radial series Radial pin pitch 3.80mm  diameter 8mm Electrolytic Capacitor
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

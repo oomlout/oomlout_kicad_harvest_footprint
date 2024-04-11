@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRN8040TA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf")
     (tags "Inductor")

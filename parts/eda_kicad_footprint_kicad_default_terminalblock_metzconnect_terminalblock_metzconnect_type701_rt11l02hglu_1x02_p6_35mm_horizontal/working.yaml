@@ -202,7 +202,6 @@ footprint_string:
   solderPasteRatio: None
   tags: THT terminal block Metz Connect Type701_RT11L02HGLU pitch 6.35mm size 12.7x12.5mm^2
     drill 1.3mm pad 2.5mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

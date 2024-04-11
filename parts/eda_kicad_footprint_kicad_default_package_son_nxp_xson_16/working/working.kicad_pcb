@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "NXP_XSON-16" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf")
     (tags "NXP XSON SOT-1341")

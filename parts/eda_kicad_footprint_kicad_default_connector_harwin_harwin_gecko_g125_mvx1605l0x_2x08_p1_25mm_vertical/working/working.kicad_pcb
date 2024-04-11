@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Harwin Gecko Connector, 16 pins, dual row male, vertical entry, no latches, PN:G125-MVX1605L0X")
     (tags "connector harwin gecko")

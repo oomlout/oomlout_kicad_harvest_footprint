@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Bourns_SRP1050WA" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Bourns, SRP1050WA, 10.1mmx10mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/product-datasheets/SRP1050WA.pdf)")
     (tags "Inductor Bourns_SRP1050WA")

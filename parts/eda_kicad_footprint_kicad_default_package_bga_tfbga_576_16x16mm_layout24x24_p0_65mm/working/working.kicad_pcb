@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TFBGA-576_16x16mm_Layout24x24_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TFBGA-576, NSMD, 16.0x16.0mm, 576 Ball, 24x24 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf")
     (tags "BGA 576 0.65 576-ball FBGA")

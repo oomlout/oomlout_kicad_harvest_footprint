@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TSOP-I-32_18.4x8mm_P0.5mm_Reverse" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TSOP I, 32 pins, 18.4x8mm body (http://www.futurlec.com/Datasheet/Memory/628128.pdf), reverse mount")
     (tags "TSOP I 32 reverse")

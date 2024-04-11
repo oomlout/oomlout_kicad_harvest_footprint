@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Infineon_PG-DSO-20-U03_7.5x12.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Infineon  PG-DSO, 20 Pin (https://www.infineon.com/dgdl/Infineon-2ED1323S12P_2ED1324S12P-DataSheet-v01_01-EN.pdf?fileId=8ac78c8c869190210186e92f0f506d0c), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "Infineon PG-DSO SO")

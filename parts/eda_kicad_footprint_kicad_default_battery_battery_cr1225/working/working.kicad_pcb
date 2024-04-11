@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Battery_CR1225" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "CR1225 battery")
     (tags "battery CR1225 coin cell")

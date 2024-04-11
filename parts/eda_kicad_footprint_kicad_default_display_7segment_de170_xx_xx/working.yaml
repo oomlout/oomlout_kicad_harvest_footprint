@@ -397,7 +397,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: '3 1/5 digit reflective arrow bat + 7 segment LCD '
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

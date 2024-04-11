@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Pin_D1.2mm_L11.3mm_W3.0mm_Flat" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
     (tags "solder Pin_ with flat fork")

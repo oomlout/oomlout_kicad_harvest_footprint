@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_HSEC8-137-X-X-DV_2x37_P0.8mm_Edge" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Highspeed card edge for PCB's with 2x37 contacts")
     (tags "conn samtec card-edge high-speed")

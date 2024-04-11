@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-16_3.9x4.9mm_P0.635mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SSOP16: plastic shrink small outline package; 16 leads; body width 3.9 mm; lead pitch 0.635; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot519-1_po.pdf)")
     (tags "SSOP 0.635")

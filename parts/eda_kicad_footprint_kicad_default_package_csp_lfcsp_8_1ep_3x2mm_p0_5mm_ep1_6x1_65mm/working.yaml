@@ -132,7 +132,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

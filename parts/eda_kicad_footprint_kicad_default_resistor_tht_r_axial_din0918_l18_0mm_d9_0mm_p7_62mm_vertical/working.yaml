@@ -74,7 +74,6 @@ footprint_string:
   solderPasteRatio: None
   tags: Resistor Axial_DIN0918 series Axial Vertical pin pitch 7.62mm 4W length 18mm
     diameter 9mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

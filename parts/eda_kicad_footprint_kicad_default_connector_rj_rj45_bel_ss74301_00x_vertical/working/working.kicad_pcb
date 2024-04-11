@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "RJ45_BEL_SS74301-00x_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-74301-001-ss-74301-002-ss-74301-005.pdf")
     (tags "RJ45 Vertical Shield LED Green Yellow")

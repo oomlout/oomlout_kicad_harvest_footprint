@@ -131,7 +131,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: TO-220-3 Horizontal RM 2.54mm
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

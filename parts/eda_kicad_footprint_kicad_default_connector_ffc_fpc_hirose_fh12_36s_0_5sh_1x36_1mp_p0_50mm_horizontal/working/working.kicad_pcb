@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Hirose_FH12-36S-0.5SH_1x36-1MP_P0.50mm_Horizontal" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Hirose FH12, FFC/FPC connector, FH12-36S-0.5SH, 36 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator")
     (tags "connector Hirose FH12 horizontal")

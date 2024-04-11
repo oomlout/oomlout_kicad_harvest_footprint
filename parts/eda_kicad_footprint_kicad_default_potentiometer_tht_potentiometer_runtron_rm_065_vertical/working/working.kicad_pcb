@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Potentiometer_Runtron_RM-065_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf")
     (tags "Potentiometer Trimmer RM-065")

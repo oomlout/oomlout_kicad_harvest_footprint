@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_SeikoEpson_SG3030CM" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SMD Crystal Oscillator Seiko Epson SG-3030CM package")
     (tags "SMD SMT crystal oscillator")

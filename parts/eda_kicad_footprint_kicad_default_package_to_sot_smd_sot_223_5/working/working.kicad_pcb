@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SOT-223-5" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "module CMS SOT223 5 pins, http://ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf")
     (tags "CMS SOT")

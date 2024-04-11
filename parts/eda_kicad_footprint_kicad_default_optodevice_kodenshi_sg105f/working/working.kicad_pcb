@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Kodenshi_SG105F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "package for Kodenshi SG-105F, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105F.pdf")
     (tags "refective opto couple photo coupler")

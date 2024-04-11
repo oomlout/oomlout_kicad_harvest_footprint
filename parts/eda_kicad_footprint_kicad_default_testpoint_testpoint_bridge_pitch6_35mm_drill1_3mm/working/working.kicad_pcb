@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TestPoint_Bridge_Pitch6.35mm_Drill1.3mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm")
     (tags "test point wire loop")

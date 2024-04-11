@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF19195-6-7-Data-Sheet-40001873D.pdf#page=718), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "VQFN NoLead")

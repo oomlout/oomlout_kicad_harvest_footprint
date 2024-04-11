@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ST LFBGA-354, 16.0x16.0mm, 354 Ball, 19x19 Layout, 0.8mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf")
     (tags "BGA 354 0.8")

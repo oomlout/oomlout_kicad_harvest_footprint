@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_A_Wuerth_61400826021_Horizontal_Stacked" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf")
     (tags "Wuerth stacked USB_A")

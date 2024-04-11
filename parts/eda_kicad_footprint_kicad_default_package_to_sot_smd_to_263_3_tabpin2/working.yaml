@@ -166,7 +166,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

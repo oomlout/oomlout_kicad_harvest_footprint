@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SLA704XM" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SIP SLA704XM (http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)")
     (tags "SIP")

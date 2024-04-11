@@ -998,7 +998,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: ufbga bga small-pitch
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

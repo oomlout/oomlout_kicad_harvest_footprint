@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "D_QFN_3.3x3.3mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)")
     (tags "diode qfn 3.3")

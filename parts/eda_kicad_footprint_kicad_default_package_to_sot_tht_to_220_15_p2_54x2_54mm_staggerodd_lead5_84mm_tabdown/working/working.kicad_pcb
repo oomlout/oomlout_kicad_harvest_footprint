@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220-15, Horizontal, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf")
     (tags "TO-220-15 Horizontal RM 1.27mm staggered type-1")

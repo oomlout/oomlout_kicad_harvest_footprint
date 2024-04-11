@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-262-3_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-262-3, Vertical, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF")
     (tags "TO-262-3 Vertical RM 2.54mm IIPAK I2PAK")

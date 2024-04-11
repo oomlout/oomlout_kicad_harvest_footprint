@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SO-20_12.8x7.5mm_P1.27mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf")
     (tags "S0-20 ")

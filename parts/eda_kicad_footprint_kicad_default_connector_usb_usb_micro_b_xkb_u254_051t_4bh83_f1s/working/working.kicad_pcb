@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "USB_Micro-B_XKB_U254-051T-4BH83-F1S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "XKB Connectivity, USB Micro-B, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2206091745_XKB-Connectivity-U254-051T-4BH83-F1S_C397452.pdf")
     (tags "USB Micro-B Receptacle SMD")

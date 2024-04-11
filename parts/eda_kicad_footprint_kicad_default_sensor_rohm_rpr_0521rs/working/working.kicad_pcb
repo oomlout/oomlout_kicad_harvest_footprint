@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Rohm_RPR-0521RS" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Digital Proximity and Ambient Light Sensor, 2.36 x 3.94 x 1.35mm, LGA-8 (https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-e.pdf)")
     (tags "DFN Sensor optical IR")

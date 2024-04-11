@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heatsink_Stonecold_HS-S01_13.21x6.35mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf")
     (tags "heatsink")

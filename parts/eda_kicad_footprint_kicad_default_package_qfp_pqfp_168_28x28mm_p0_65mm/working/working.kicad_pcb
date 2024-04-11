@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PQFP-168_28x28mm_P0.65mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "PQFP, 168 Pin (https://www.renesas.cn/cn/zh/document/psc/package-drawing-qfp-168pin-prqp0168jb), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "PQFP QFP")

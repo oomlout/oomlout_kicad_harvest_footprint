@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)")
     (tags "conn samtec card-edge socket high-speed")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_ACDC_TRACO_TMG-15_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "ACDC-Converter, TRACO, TMG Series 15 https://www.tracopower.com/products/tmg.pdf")
     (tags "ACDC-Converter TRACO TMG Series 15")

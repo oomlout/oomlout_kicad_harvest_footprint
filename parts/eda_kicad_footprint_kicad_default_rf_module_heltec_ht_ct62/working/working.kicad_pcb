@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Heltec_HT-CT62" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "HT-CT62 LoRa Module")
     (tags "LoRa WiFi Heltec HT-CT62 ESP32C3")

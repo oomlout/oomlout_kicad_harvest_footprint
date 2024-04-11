@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "LED_SK6812_EC15_1.5x1.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "RGB addressable LED, 0.1W, 1.5mm x 1.5mm, 0.65m height, orientation mark at GND, http://ledstrip-china.com/productshow.asp?id=322")
     (tags "LED RGB NeoPixel")

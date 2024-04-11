@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Abracon_ASPI-4030S" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "smd shielded power inductor 4x4x3mm, Abracon ASPI-4030S, https://abracon.com/Magnetics/power/ASPI-4030S.pdf")
     (tags "inductor abracon smd shielded")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Digi_XBee_SMT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "http://www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf http://ftp1.digi.com/support/documentation/90001020_F.pdf")
     (tags "Digi XBee SMT RF")

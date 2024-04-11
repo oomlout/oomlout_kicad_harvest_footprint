@@ -776,7 +776,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: BGA 100 0.5 100-ball FBGA
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

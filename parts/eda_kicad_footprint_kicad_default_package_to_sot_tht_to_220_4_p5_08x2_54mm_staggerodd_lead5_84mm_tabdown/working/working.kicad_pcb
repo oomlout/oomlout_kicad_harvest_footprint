@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-220-4, Horizontal, RM 2.54mm, staggered type-1")
     (tags "TO-220-4 Horizontal RM 2.54mm staggered type-1")

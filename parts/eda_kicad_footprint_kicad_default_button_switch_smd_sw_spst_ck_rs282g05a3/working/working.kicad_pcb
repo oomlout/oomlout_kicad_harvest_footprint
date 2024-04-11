@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SW_SPST_CK_RS282G05A3" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
     (tags "SPST button tactile switch")

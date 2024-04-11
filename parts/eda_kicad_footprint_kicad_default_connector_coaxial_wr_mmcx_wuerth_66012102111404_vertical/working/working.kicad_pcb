@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "WR-MMCX_Wuerth_66012102111404_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Würth WR-MMCX PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/66012102111404.pdf)")
     (tags "Coaxial Connector 50 ohms Female")

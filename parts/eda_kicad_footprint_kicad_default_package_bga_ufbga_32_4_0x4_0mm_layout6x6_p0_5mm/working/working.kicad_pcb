@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "UFBGA-32, 6x6, 4x4mm package, pitch 0.5mm")
     (tags "UFBGA-32")

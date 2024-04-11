@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Axial_L26.0mm_D11.0mm_P30.48mm_Horizontal_Fastron_77A" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=30.48mm, , length*diameter=26*11mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf")
     (tags "Inductor Axial series Axial Horizontal pin pitch 30.48mm  length 26mm diameter 11mm Fastron 77A")

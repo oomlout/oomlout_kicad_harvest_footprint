@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "PinSocket_1x06_P1.00mm_Vertical" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Through hole straight socket strip, 1x06, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated")
     (tags "Through hole socket strip THT 1x06 1.00mm single row")

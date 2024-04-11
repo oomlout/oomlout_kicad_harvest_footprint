@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Everlight_ITR9608-F" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)")
     (tags "Photointerrupter infrared LED")

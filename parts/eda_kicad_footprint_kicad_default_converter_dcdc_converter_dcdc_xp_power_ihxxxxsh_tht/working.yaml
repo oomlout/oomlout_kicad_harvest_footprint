@@ -122,7 +122,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: XP_POWER  IHxxxxSH SIP DCDC-Converter
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SIM28ML" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf")
     (tags "SIM28ML GPS")

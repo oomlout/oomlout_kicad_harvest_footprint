@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-277B" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf")
     (tags "TO-277B")

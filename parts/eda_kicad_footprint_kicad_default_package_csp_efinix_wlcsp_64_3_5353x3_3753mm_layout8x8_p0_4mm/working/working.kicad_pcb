@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Efinix_WLCSP-64_3.5353x3.3753mm_Layout8x8_P0.4mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Efinix WLCSP, NSMD pad definition Page 60, 3.5353x3.3753mm, 64 Ball, 8x8 Layout, 0.4mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf")
     (tags "CSP 64 0.4 64-ball WLCSP")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Abracon_PRO-OB-440" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Abracon OnBoard SMD antenna 2400-2500Mhz, https://abracon.com/datasheets/PRO-OB-440.pdf")
     (tags "2400 PRO-OB-440 Antenna")

@@ -140,7 +140,6 @@ footprint_string:
   solderPasteMargin: None
   solderPasteRatio: None
   tags: PhotoDiode plastic DIL RM5.08
-  tedit: 66151a7f
   thermalGap: None
   thermalWidth: None
   tstamp: None

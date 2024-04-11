@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "L_Toroid, Horizontal series, Radial, pin pitch=19.80mm, , diameter=22.4mm, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf")
     (tags "L_Toroid Horizontal series Radial pin pitch 19.80mm  diameter 22.4mm Vishay TJ4")

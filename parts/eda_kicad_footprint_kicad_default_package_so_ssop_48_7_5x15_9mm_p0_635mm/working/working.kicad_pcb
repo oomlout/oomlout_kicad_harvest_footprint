@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "SSOP-48_7.5x15.9mm_P0.635mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)")
     (tags "SSOP 0.635")

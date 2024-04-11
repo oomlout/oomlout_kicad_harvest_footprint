@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Miniature Crystal Clock Oscillator EuroQuartz XO91 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf, 7.0x5.0mm^2 package")
     (tags "SMD SMT crystal oscillator")

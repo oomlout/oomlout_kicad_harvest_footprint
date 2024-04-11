@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "TO-92Mini-2" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)")
     (tags "to-92Mini transistor ")

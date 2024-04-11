@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Relay_SPDT_Schrack-RP-II-1-FormC_RM3.5mm" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rp810012-b.pdf")
     (tags "Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Relay")

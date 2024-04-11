@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "L_Neosid_SM-PIC0512H" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "Neosid, Inductor, PIC0512H, Power Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0512H.pdf")
     (tags "Neosid Inductor PIC0512H Power Inductor Fixed inductor SMD")

@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "Converter_DCDC_muRata_MEJ1SxxxxSC_THT" (version 20240108) (generator pcbnew) (layer "F.Cu")
-    (tedit 66151a7f)
+    (tedit 6617adae)
     (at 0 0)
     (descr "muRata MEJ1SxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, single output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf")
     (tags "muRata MEJ1S DCDC-Converter")
