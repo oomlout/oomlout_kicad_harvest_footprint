@@ -194,7 +194,7 @@ def harvest_footprint_pcb_image(footprint, overwrite):
     folder_full = folder_full.replace("//", "/")    
     folder_full = folder_full.replace("/", "\\")
     
-    test_file = f"{folder_full}image.svg"
+    test_file = f"{folder_full}image.sveg"
 
     file_pcb = f"{folder_full}/working/working.kicad_pcb"
     #replace // with /
